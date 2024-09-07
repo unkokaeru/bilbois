@@ -3,8 +3,8 @@
 > [!todo] Work in progress!!
 
 ```button
-name Build Quartz
+name Sync Quartz
 type command
-action Python Scripter: Run build_quartz.py
+action Python Scripter: Run sync_quartz.py
 color default
 ```
