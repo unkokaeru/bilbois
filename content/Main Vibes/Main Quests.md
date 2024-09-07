@@ -2,17 +2,39 @@
 
 *Stuff I want do and need to do :)*
 
-**Related**: [[Side Quests]] and [[../Main Vibes/Grinding]].
+**Related**: [[Side Quests]] and [[Grinding]].
 
 ---
 ## Personal
 
-- [ ] Finish my Obsidian setup.
+- [ ] Work on my Obsidian vault - one note a day?
 - [ ] Finish all of my programming projects.
-- [ ] Update Blankslate, borrowing features from ANPPT (such as storing version data in `__init__.py` files, checkboxes for `README.md` features, as well as fixing how my logger works so that I don't create a new logger for every module, instead using inherited logging etc.). Also implement the ability to formalise a project from just a source folder. Maybe so that you can run `blankslate --release` and it either formalises and releases, or just releases based on what's existing (so that it's the same workflow no matter how far through the project you are, and can also validate and update projects alongside Blankslate's own evolution). Look into cookiecutter, too.
-- [ ] De-Google [Part 1](https://www.youtube.com/watch?v=YnSv8ylLfPw) and [Part 2](https://www.youtube.com/watch?v=GsjHMzGl-VY).
-- [ ] Edit my unkokaeru repo on GitHub so that tamago.tech's homepage shows all of its sub-repos.
-- [ ] How do I use my Lunalite light meter?
+	- [ ] **AbrahamMD.**
+	- [ ] ASCII Photo (PNG to ASCII art).
+	- [ ] **Blankslate + Extension Pack.**
+		- [ ] Borrow features from ANPPT: versioning, `README.md` feature checkboxes, logging.
+		- [ ] Implement project upgrading (source directory -> project).
+		- [ ] Implement project validation and auto-upgrading.
+		- [ ] Migrate to Cookiecutter, if it's good.
+		- [ ] Implement auto-test generation based on the NumPy-style docstrings, maybe using `doctest`?
+	- [ ] Chess Mini Me.
+	- [ ] Dailies.
+	- [ ] Error Correction.
+	- [ ] *JSON Comparison.*
+	- [ ] *Markdown Merger.*
+	- [ ] Minesweeper.
+	- [ ] *Morning Briefing Generation.*
+	- [ ] *PGN to JSON Converter.*
+	- [ ] QR Gen (QR Art Generation).
+	- [ ] Rate List.
+	- [ ] The Journey Planner.
+- [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
+- [ ] De-Google.
+	- [ ] **Migrate authentication apps to a single place.**
+	- [ ] Self-host photos.
+	- [ ] Self-host password manager.
+	- [ ] **Self-host cloud storage.**
+- [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 
 ---
 ## Academic
