@@ -2,7 +2,7 @@
 
 *Just stuff I want to do at some point, but don't need to do right now :)*
 
-**Related**: [[Main Quests]] and [[Grinding]].
+**Related**: [[../Main Vibes/Main Quests]] and [[../Main Vibes/Grinding]].
 
 ---
 ## Programming

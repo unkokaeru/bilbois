@@ -2,12 +2,11 @@
 
 *Stuff I want do and need to do :)*
 
-**Related**: [[Side Quests]] and [[Grinding]].
+**Related**: [[Side Quests]] and [[../Main Vibes/Grinding]].
 
 ---
 ## Personal
 
-- [ ] Set up Quartz to work with the new 'default' vault in a visually appealing way, matching my current aesthetic. Make it auto build?
 - [ ] Finish my Obsidian setup.
 - [ ] Finish all of my programming projects.
 - [ ] Update Blankslate, borrowing features from ANPPT (such as storing version data in `__init__.py` files, checkboxes for `README.md` features, as well as fixing how my logger works so that I don't create a new logger for every module, instead using inherited logging etc.). Also implement the ability to formalise a project from just a source folder. Maybe so that you can run `blankslate --release` and it either formalises and releases, or just releases based on what's existing (so that it's the same workflow no matter how far through the project you are, and can also validate and update projects alongside Blankslate's own evolution). Look into cookiecutter, too.
