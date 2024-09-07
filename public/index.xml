@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>bilbois</title>
+      <link>https://bilbois.me</link>
+      <description>Last 10 notes on bilbois</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://bilbois.me/</link>
+    <guid>https://bilbois.me/</guid>
+    <description>indextodo Work in progress!! name Build Quartz type command action Python Scripter: Run build_quartz.py color default.</description>
+    <pubDate>Sat, 07 Sep 2024 14:32:27 GMT</pubDate>
+  </item><item>
+    <title>Side Quests</title>
+    <link>https://bilbois.me/Unorganised/Side-Quests</link>
+    <guid>https://bilbois.me/Unorganised/Side-Quests</guid>
+    <description>questlog Just stuff I want to do at some point, but don’t need to do right now :) Related: Main Quests and Grinding. Programming Create a mood tracker app utilising notifications to track mood.</description>
+    <pubDate>Fri, 06 Sep 2024 19:51:05 GMT</pubDate>
+  </item><item>
+    <title>Grinding</title>
+    <link>https://bilbois.me/Unorganised/Grinding</link>
+    <guid>https://bilbois.me/Unorganised/Grinding</guid>
+    <description>questlog Stuff that I need to do, but don’t really want to :) Related: Main Quests and Side Quests. Chores Vacuum. Washing.</description>
+    <pubDate>Fri, 06 Sep 2024 19:50:44 GMT</pubDate>
+  </item><item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Unorganised/Main-Quests</link>
+    <guid>https://bilbois.me/Unorganised/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Set up Quartz to work with the new ‘default’ vault in a visually appealing way, matching my current aesthetic.</description>
+    <pubDate>Fri, 06 Sep 2024 19:50:29 GMT</pubDate>
+  </item><item>
+    <title>Random Thoughts</title>
+    <link>https://bilbois.me/Unorganised/Random-Thoughts</link>
+    <guid>https://bilbois.me/Unorganised/Random-Thoughts</guid>
+    <description>random If someone else aligns with your values, then you’ll inherently respect them. By extension, if someone wants your respect, then they should align with your values.</description>
+    <pubDate>Tue, 03 Sep 2024 16:39:24 GMT</pubDate>
+  </item><item>
+    <title>Photography</title>
+    <link>https://bilbois.me/Organised/Photography/Photography</link>
+    <guid>https://bilbois.me/Organised/Photography/Photography</guid>
+    <description>photographyindextodo Film photography, exposure, framing, my photos, etc.?.</description>
+    <pubDate>Tue, 13 Aug 2024 15:58:49 GMT</pubDate>
+  </item><item>
+    <title>Programming</title>
+    <link>https://bilbois.me/Organised/Programming/Programming</link>
+    <guid>https://bilbois.me/Organised/Programming/Programming</guid>
+    <description>programmingindextodo Portfolio?.</description>
+    <pubDate>Tue, 13 Aug 2024 15:58:36 GMT</pubDate>
+  </item><item>
+    <title>Pedagogy</title>
+    <link>https://bilbois.me/Organised/Pedagogy/Pedagogy</link>
+    <guid>https://bilbois.me/Organised/Pedagogy/Pedagogy</guid>
+    <description>A new journaling system. Commonplacing. Traveller’s Notebook. How we learn. Develop and integrate a single system, adding to and refining it. pedagogyindextodo Pedagogy: The Art and Science of Learning Introduction In the realm of education, the distinction between studying and learning is paramount.</description>
+    <pubDate>Tue, 13 Aug 2024 15:40:33 GMT</pubDate>
+  </item><item>
+    <title>Unorganised</title>
+    <link>https://bilbois.me/Unorganised/Unorganised</link>
+    <guid>https://bilbois.me/Unorganised/Unorganised</guid>
+    <description>index id: 5d01fe4a-0505-4c8d-b4cb-fb3fb4cc5031 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder ...</description>
+    <pubDate>Tue, 13 Aug 2024 15:27:43 GMT</pubDate>
+  </item><item>
+    <title>Sudokus</title>
+    <link>https://bilbois.me/Auto-Generated/Attachments/Sudokus/Sudokus</link>
+    <guid>https://bilbois.me/Auto-Generated/Attachments/Sudokus/Sudokus</guid>
+    <description>sudokuindex id: 9af4a5b2-4579-4487-b216-2b5e2c3c65a4 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 style: list includeTypes: ...</description>
+    <pubDate>Tue, 13 Aug 2024 15:27:20 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
