@@ -6,17 +6,53 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Work on my Obsidian vault - one note a day? Finish all of my programming projects.</description>
-    <pubDate>Sat, 07 Sep 2024 23:02:05 GMT</pubDate>
+    <title>My CV</title>
+    <link>https://bilbois.me/Unorganised/My-CV</link>
+    <guid>https://bilbois.me/Unorganised/My-CV</guid>
+    <description>William Fayers Enthusiastic and motivated undergraduate student based in Lincoln, England Second Year Student Strong Communication Skills Passionate about Customer Service ...</description>
+    <pubDate>Tue, 10 Sep 2024 01:26:02 GMT</pubDate>
+  </item><item>
+    <title>CV Chat (WIP)</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/CV-Chat-(WIP)</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/CV-Chat-(WIP)</guid>
+    <description>user: Read my Brother CV and Mother CV. They’re older and more experienced than me, I’m still an undergraduate student without any formal work experience beyond being a self-employed tutor for the past few years alongside my studies.</description>
+    <pubDate>Tue, 10 Sep 2024 01:08:57 GMT</pubDate>
   </item><item>
     <title>Side Quests</title>
     <link>https://bilbois.me/Main-Vibes/Side-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Side-Quests</guid>
     <description>questlog Just stuff I want to do at some point, but don’t need to do right now :) Related: Main Quests and Grinding. Programming Create a programming portfolio on tamago.tech within the unkokaeru repo.</description>
-    <pubDate>Sat, 07 Sep 2024 19:06:30 GMT</pubDate>
+    <pubDate>Tue, 10 Sep 2024 00:39:01 GMT</pubDate>
+  </item><item>
+    <title>Brother CV</title>
+    <link>https://bilbois.me/Unorganised/Brother-CV</link>
+    <guid>https://bilbois.me/Unorganised/Brother-CV</guid>
+    <description>cv Alexander Fayers Security-focused software engineer based in England Security Cleared Experienced Software Developer First Class Cyber Security Degree Open to relocation ...</description>
+    <pubDate>Tue, 10 Sep 2024 00:21:00 GMT</pubDate>
+  </item><item>
+    <title>Mother CV</title>
+    <link>https://bilbois.me/Unorganised/Mother-CV</link>
+    <guid>https://bilbois.me/Unorganised/Mother-CV</guid>
+    <description>Victoria Fayers Address: censored Phone: censored Email: censored I have been fortunate enough to gather a wealth of experience working in an educational setting, as well as a challenging ...</description>
+    <pubDate>Tue, 10 Sep 2024 00:20:28 GMT</pubDate>
+  </item><item>
+    <title>Goals for Nineteen</title>
+    <link>https://bilbois.me/Main-Vibes/Goals-for-Nineteen</link>
+    <guid>https://bilbois.me/Main-Vibes/Goals-for-Nineteen</guid>
+    <description>todo TODO Convert this brain dump into some actual goals: Chess, Japanese, Retail Job, Tutoring Job, complete all ongoing programming projects, read a full book, establish a consistent ...</description>
+    <pubDate>Tue, 10 Sep 2024 00:06:34 GMT</pubDate>
+  </item><item>
+    <title>Cookie Cutter Chat</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Cookie-Cutter-Chat</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Cookie-Cutter-Chat</guid>
+    <description>user: Can you walk me through how and why I’d use cookiecutter in Python? ai: Certainly! Cookiecutter is a command-line utility that creates projects from cookiecutters (project ...</description>
+    <pubDate>Mon, 09 Sep 2024 23:07:41 GMT</pubDate>
+  </item><item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Change the Quartz logo to myeye.ico. Work on my Obsidian vault - one note a day? Finish all of my programming projects.</description>
+    <pubDate>Sat, 07 Sep 2024 23:07:29 GMT</pubDate>
   </item><item>
     <title>Main Vibes</title>
     <link>https://bilbois.me/Main-Vibes/Main-Vibes</link>
@@ -29,42 +65,6 @@
     <guid>https://bilbois.me/</guid>
     <description>indextodo Work in progress!! .</description>
     <pubDate>Sat, 07 Sep 2024 16:08:06 GMT</pubDate>
-  </item><item>
-    <title>Grinding</title>
-    <link>https://bilbois.me/Main-Vibes/Grinding</link>
-    <guid>https://bilbois.me/Main-Vibes/Grinding</guid>
-    <description>questlog Stuff that I need to do, but don’t really want to :) Related: Main Quests and Side Quests. Chores Vacuum. Washing.</description>
-    <pubDate>Fri, 06 Sep 2024 19:50:44 GMT</pubDate>
-  </item><item>
-    <title>Random Thoughts</title>
-    <link>https://bilbois.me/Main-Vibes/Random-Thoughts</link>
-    <guid>https://bilbois.me/Main-Vibes/Random-Thoughts</guid>
-    <description>random If someone else aligns with your values, then you’ll inherently respect them. By extension, if someone wants your respect, then they should align with your values.</description>
-    <pubDate>Tue, 03 Sep 2024 16:39:24 GMT</pubDate>
-  </item><item>
-    <title>Photography</title>
-    <link>https://bilbois.me/Organised/Photography/Photography</link>
-    <guid>https://bilbois.me/Organised/Photography/Photography</guid>
-    <description>photographyindextodo Film photography, exposure, framing, my photos, etc.?.</description>
-    <pubDate>Tue, 13 Aug 2024 15:58:49 GMT</pubDate>
-  </item><item>
-    <title>Programming</title>
-    <link>https://bilbois.me/Organised/Programming/Programming</link>
-    <guid>https://bilbois.me/Organised/Programming/Programming</guid>
-    <description>programmingindextodo Portfolio?.</description>
-    <pubDate>Tue, 13 Aug 2024 15:58:36 GMT</pubDate>
-  </item><item>
-    <title>Pedagogy</title>
-    <link>https://bilbois.me/Organised/Pedagogy/Pedagogy</link>
-    <guid>https://bilbois.me/Organised/Pedagogy/Pedagogy</guid>
-    <description>A new journaling system. Commonplacing. Traveller’s Notebook. How we learn. Develop and integrate a single system, adding to and refining it. pedagogyindextodo Pedagogy: The Art and Science of Learning Introduction In the realm of education, the distinction between studying and learning is paramount.</description>
-    <pubDate>Tue, 13 Aug 2024 15:40:33 GMT</pubDate>
-  </item><item>
-    <title>Unorganised</title>
-    <link>https://bilbois.me/Unorganised/Unorganised</link>
-    <guid>https://bilbois.me/Unorganised/Unorganised</guid>
-    <description>index id: 5d01fe4a-0505-4c8d-b4cb-fb3fb4cc5031 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder ...</description>
-    <pubDate>Tue, 13 Aug 2024 15:27:43 GMT</pubDate>
   </item>
     </channel>
   </rss>

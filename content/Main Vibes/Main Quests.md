@@ -7,6 +7,7 @@
 ---
 ## Personal
 
+- [ ] Change the Quartz logo to `myeye.ico`.
 - [ ] Work on my Obsidian vault - one note a day?
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
@@ -17,6 +18,7 @@
 		- [ ] Implement project validation and auto-upgrading.
 		- [ ] Migrate to Cookiecutter, if it's good.
 		- [ ] Implement auto-test generation based on the NumPy-style docstrings, maybe using `doctest`?
+		- [ ] Add the colour picker extension to the extension pack.
 	- [ ] Chess Mini Me.
 	- [ ] Dailies.
 	- [ ] Error Correction.

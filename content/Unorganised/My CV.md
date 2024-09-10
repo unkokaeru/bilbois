@@ -1,0 +1,99 @@
+# William Fayers
+
+*Enthusiastic and motivated undergraduate student based in Lincoln, England*  
+
+- `Second Year Student`
+- `Strong Communication Skills`
+- `Passionate about Customer Service`
+- `Open to Part-Time Opportunities`
+
+### 07578 127943 / [Email](mailto:william@fayers.com) / [Website](https://bilbois.me/) / [LinkedIn](https://www.linkedin.com/in/william-fayers/)
+
+---
+
+## Objective
+
+Enthusiastic and motivated undergraduate student seeking a part-time retail position to gain hands-on experience in customer service and teamwork. Eager to apply strong communication skills and a passion for helping others to create a positive shopping experience.
+
+---
+
+## Education
+
+[University of Lincoln](https://www.lincoln.ac.uk/) - Lincoln, England *(2023 - present)*
+
+**BSc (Hons) Mathematics**  
+*Expected Graduation: 2026*
+- Second Year Student
+
+---
+### **A-Levels**
+
+| Subject                    | Grade |
+| -------------------------- | ----- |
+| Extended Project (Level 3) | `A`   |
+| Mathematics                | `A`   |
+| Further Mathematics        | `B`   |
+| Chemistry                  | `C`   |
+| Physics                    | `C`   |
+
+> [Abbeygate Sixth Form College](https://abbeygatesfc.ac.uk) - Bury St Edmunds, England *(2021 - 2023)*
+
+---
+### **GCSEs**
+
+| Subject              | Grade |
+| -------------------- | ----- |
+| Free-Standing Mathematics Qualification | `A`   |
+| Astronomy            | `7`   |
+| English Language     | `8`   |
+| Biology              | `8`   |
+| History              | `8`   |
+| German               | `8`   |
+| French               | `8`   |
+| English Literature   | `8`   |
+| Computer Science     | `8`   |
+| Chemistry            | `7`   |
+| Physics              | `7`   |
+| Mathematics          | `7`   |
+
+> [County High School](https://www.countyhigh.uk) - Bury St Edmunds, England _(2018 - 2021)_
+
+---
+
+## Experience
+
+**Self-Employed Tutor** *(2020 - Present)*  
+- Provided tutoring in Mathematics, Chemistry, and Physics to students of various ages, enhancing their understanding and performance in these subjects.
+- Developed strong customer service skills by effectively communicating with students and parents, addressing concerns, and adapting teaching methods to meet individual needs.
+- Fostered a supportive learning environment, motivating students to engage with the material and achieve their academic goals.
+
+**Volunteer, Air Cadets** *(2017 - 2020)*  
+- Engaged in various community service projects, developing teamwork and leadership skills while working with peers to achieve common goals.
+- Assisted in organising events and activities, enhancing organisational and communication abilities.
+
+---
+
+## Skills
+
+- Strong communication and interpersonal skills
+- Teamwork and collaboration
+- Problem-solving and conflict resolution
+- Cash handling and customer service
+- Time management and organizational skills
+- Empathy and understanding of customer needs
+
+---
+
+## Achievements
+
+- Awarded the [Arkwright Engineering Scholarship](https://www.arkwright.org.uk/) for demonstrating exceptional potential in engineering and technology.
+
+---
+
+## Interests
+
+- **Chess**: Strategic thinking and problem-solving.
+- **Programming**: Passion for coding and software development.
+- **Languages**: Learning Japanese, French, and German.
+- **Creative Arts**: Crochet and painting for artistic expression.
+- **Fitness**: Committed to regular gym workouts and outdoor activities.
