@@ -79,7 +79,7 @@ Enthusiastic and motivated undergraduate student seeking a part-time retail posi
 - Teamwork and collaboration
 - Problem-solving and conflict resolution
 - Cash handling and customer service
-- Time management and organizational skills
+- Time management and organisational skills
 - Empathy and understanding of customer needs
 
 ---
