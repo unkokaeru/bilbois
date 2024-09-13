@@ -1,19 +1,13 @@
 # William Fayers
 
-*Enthusiastic and motivated undergraduate student based in Lincoln, England*  
+*Motivated undergraduate seeking part-time retail position to gain customer service experience. Ready to apply strong communication skills and passion for helping others to enhance the shopping experience.*
 
 - `Second Year Student`
 - `Strong Communication Skills`
 - `Passionate about Customer Service`
 - `Open to Part-Time Opportunities`
 
-### 07578 127943 / [Email](mailto:william@fayers.com) / [Website](https://bilbois.me/) / [LinkedIn](https://www.linkedin.com/in/william-fayers/)
-
----
-
-## Objective
-
-Enthusiastic and motivated undergraduate student seeking a part-time retail position to gain hands-on experience in customer service and teamwork. Eager to apply strong communication skills and a passion for helping others to create a positive shopping experience.
+### 07578 127943 / wills@fayers.com
 
 ---
 

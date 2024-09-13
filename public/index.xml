@@ -6,11 +6,17 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>DVSA Theory Test Results Review (Maicey)</title>
+    <link>https://bilbois.me/Unorganised/DVSA-Theory-Test-Results-Review-(Maicey)</link>
+    <guid>https://bilbois.me/Unorganised/DVSA-Theory-Test-Results-Review-(Maicey)</guid>
+    <description>Multiple Choice Breakdown 1. Road and Traffic Signs (6 marks needed) Understanding road signs is crucial for safe driving. This includes recognizing regulatory signs, warning signs, and information signs.</description>
+    <pubDate>Fri, 13 Sep 2024 02:16:41 GMT</pubDate>
+  </item><item>
     <title>My CV</title>
     <link>https://bilbois.me/Unorganised/My-CV</link>
     <guid>https://bilbois.me/Unorganised/My-CV</guid>
-    <description>William Fayers Enthusiastic and motivated undergraduate student based in Lincoln, England Second Year Student Strong Communication Skills Passionate about Customer Service ...</description>
-    <pubDate>Thu, 12 Sep 2024 16:27:47 GMT</pubDate>
+    <description>William Fayers Motivated undergraduate seeking part-time retail position to gain customer service experience. Ready to apply strong communication skills and passion for helping others to enhance the shopping experience.</description>
+    <pubDate>Thu, 12 Sep 2024 16:34:45 GMT</pubDate>
   </item><item>
     <title>CV Chat (WIP)</title>
     <link>https://bilbois.me/Auto-Generated/AI-Chats/CV-Chat-(WIP)</link>
@@ -59,12 +65,6 @@
     <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
     <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true Note The code block below is a button I use to sync and build my vault notes with Quartz.</description>
     <pubDate>Sat, 07 Sep 2024 16:17:03 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://bilbois.me/</link>
-    <guid>https://bilbois.me/</guid>
-    <description>indextodo Work in progress!! .</description>
-    <pubDate>Sat, 07 Sep 2024 16:08:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
