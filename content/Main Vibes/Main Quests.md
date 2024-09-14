@@ -46,7 +46,6 @@
 ---
 ## Work
 
-- [ ] Write a CV, then apply to places like Tesco?
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 - [ ] Complete and extend AbrahamMD to generate content for GCSE and A-Level. Maybe even turn it into a website.
 - [ ] Schedule content for the Tutoring With Will social media.
