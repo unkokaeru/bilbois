@@ -9,8 +9,20 @@
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Change the Quartz logo to myeye.ico. Work on my Obsidian vault - one note a day? Finish all of my programming projects.</description>
-    <pubDate>Sat, 14 Sep 2024 14:24:22 GMT</pubDate>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. ASCII Photo (PNG to ASCII art).</description>
+    <pubDate>Sun, 15 Sep 2024 17:42:41 GMT</pubDate>
+  </item><item>
+    <title>Future addition to the README</title>
+    <link>https://bilbois.me/Unorganised/Future-addition-to-the-README</link>
+    <guid>https://bilbois.me/Unorganised/Future-addition-to-the-README</guid>
+    <description>Before starting, you’ll need a GitHub account and Poetry account. For Poetry, you should go to your account settings and click on “Add API token” within the “API tokens” section where you can then name and add a token.</description>
+    <pubDate>Sun, 15 Sep 2024 17:42:27 GMT</pubDate>
+  </item><item>
+    <title>Angular Commit Format Cheat Sheet</title>
+    <link>https://bilbois.me/Unorganised/Angular-Commit-Format-Cheat-Sheet</link>
+    <guid>https://bilbois.me/Unorganised/Angular-Commit-Format-Cheat-Sheet</guid>
+    <description> Commit Message Format This specification is inspired by and supersedes the [AngularJS commit message format][commit-message-format]. We have very precise rules over how our Git commit messages must be formatted.</description>
+    <pubDate>Sat, 14 Sep 2024 19:47:51 GMT</pubDate>
   </item><item>
     <title>DVSA Theory Test Results Review (Maicey)</title>
     <link>https://bilbois.me/Unorganised/DVSA-Theory-Test-Results-Review-(Maicey)</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Main-Vibes/Goals-for-Nineteen</guid>
     <description>todo TODO Convert this brain dump into some actual goals: Chess, Japanese, Retail Job, Tutoring Job, complete all ongoing programming projects, read a full book, establish a consistent ...</description>
     <pubDate>Tue, 10 Sep 2024 00:06:34 GMT</pubDate>
-  </item><item>
-    <title>Cookie Cutter Chat</title>
-    <link>https://bilbois.me/Auto-Generated/AI-Chats/Cookie-Cutter-Chat</link>
-    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Cookie-Cutter-Chat</guid>
-    <description>user: Can you walk me through how and why I’d use cookiecutter in Python? ai: Certainly! Cookiecutter is a command-line utility that creates projects from cookiecutters (project ...</description>
-    <pubDate>Mon, 09 Sep 2024 23:07:41 GMT</pubDate>
-  </item><item>
-    <title>Main Vibes</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Vibes</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
-    <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true Note The code block below is a button I use to sync and build my vault notes with Quartz.</description>
-    <pubDate>Sat, 07 Sep 2024 16:17:03 GMT</pubDate>
   </item>
     </channel>
   </rss>

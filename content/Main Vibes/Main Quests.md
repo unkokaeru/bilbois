@@ -7,16 +7,13 @@
 ---
 ## Personal
 
-- [ ] Change the Quartz logo to `myeye.ico`.
-- [ ] Work on my Obsidian vault - one note a day?
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
 	- [ ] ASCII Photo (PNG to ASCII art).
 	- [ ] **Blankslate + Extension Pack.**
-		- [ ] Borrow features from ANPPT: versioning, `README.md` feature checkboxes, logging.
-		- [ ] Implement project upgrading (source directory -> project).
-		- [ ] Implement project validation and auto-upgrading.
-		- [ ] Migrate to Cookiecutter, if it's good.
+		- [ ] ![[../Unorganised/Future addition to the README|Future addition to the README]]
+		- [ ] Add an optionally generated GUI that's included `if "{{ cookiecutter.gui_required }}" == "y"  # type: ignore[comparison-overlap]` (like the command line interface - also decide to how to deal both a cli and gui on the same project, e.g. mutually exclusive or an optional flag with default to gui if present, otherwise cli).
+		- [ ] [Implement project validation and auto-upgrading](https://cruft.github.io/cruft/).
 		- [ ] Implement auto-test generation based on the NumPy-style docstrings, maybe using `doctest`?
 		- [ ] Add the colour picker extension to the extension pack.
 	- [ ] Chess Mini Me.
@@ -29,7 +26,6 @@
 	- [ ] *PGN to JSON Converter.*
 	- [ ] QR Gen (QR Art Generation).
 	- [ ] Rate List.
-	- [ ] The Journey Planner.
 - [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
 - [ ] De-Google.
 	- [ ] **Migrate authentication apps to a single place.**
@@ -37,6 +33,7 @@
 	- [ ] Self-host password manager.
 	- [ ] **Self-host cloud storage.**
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
+	- [ ] Go through my GitHub Issues.
 
 ---
 ## Academic
