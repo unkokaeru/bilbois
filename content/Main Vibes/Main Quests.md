@@ -12,10 +12,11 @@
 	- [ ] ASCII Photo (PNG to ASCII art).
 	- [ ] **Blankslate + Extension Pack.**
 		- [ ] ![[../Unorganised/Future addition to the README|Future addition to the README]]
-		- [ ] Add an optionally generated GUI that's included `if "{{ cookiecutter.gui_required }}" == "y"  # type: ignore[comparison-overlap]` (like the command line interface - also decide to how to deal both a cli and gui on the same project, e.g. mutually exclusive or an optional flag with default to gui if present, otherwise cli).
 		- [ ] [Implement project validation and auto-upgrading](https://cruft.github.io/cruft/).
+		- [ ] Re-create my extension pack as `"unkokaeru.untitledpythonproject-extension-pack"`, with the colour picker extension and clear documentation for future me to update it.
 		- [ ] Implement auto-test generation based on the NumPy-style docstrings, maybe using `doctest`?
-		- [ ] Add the colour picker extension to the extension pack.
+		- [ ] Write the `pre_prompt.py` hook.
+		- [ ] Add an optionally generated GUI that's included `if "{{ cookiecutter.gui_required }}" == "y"  # type: ignore[comparison-overlap]` (like the command line interface - also decide to how to deal both a cli and gui on the same project, e.g. mutually exclusive or an optional flag with default to gui if present, otherwise cli).
 	- [ ] Chess Mini Me.
 	- [ ] Dailies.
 	- [ ] Error Correction.
@@ -43,6 +44,10 @@
 ---
 ## Work
 
+- [ ] Sign up to Indeed.
+- [ ] Look into bike renting and working for Deliveroo, Uber Eats, Just Eat, etc.
+- [ ] Implement [[../Unorganised/CV Feedback]].
+- [ ] **Get ready to tutor again on Tuesday!**
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 - [ ] Complete and extend AbrahamMD to generate content for GCSE and A-Level. Maybe even turn it into a website.
 - [ ] Schedule content for the Tutoring With Will social media.
