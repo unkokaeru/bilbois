@@ -6,17 +6,53 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>My CV</title>
+    <link>https://bilbois.me/Unorganised/My-CV</link>
+    <guid>https://bilbois.me/Unorganised/My-CV</guid>
+    <description>William Fayers A motivated undergraduate student looking to enrich the customer service with strong communication skills and a dedication to helping others ...</description>
+    <pubDate>Tue, 24 Sep 2024 15:53:17 GMT</pubDate>
+  </item><item>
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Cookiecutter Obsidian vault? Finish all of my programming projects.</description>
-    <pubDate>Mon, 23 Sep 2024 14:09:38 GMT</pubDate>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Bloons TD 6??? Hehehehehe Cookiecutter Obsidian vault? Finish all of my programming projects.</description>
+    <pubDate>Tue, 24 Sep 2024 15:35:23 GMT</pubDate>
+  </item><item>
+    <title>My CV (re-written)</title>
+    <link>https://bilbois.me/Unorganised/My-CV-(re-written)</link>
+    <guid>https://bilbois.me/Unorganised/My-CV-(re-written)</guid>
+    <description>William Fayers Motivated undergraduate looking to enrich customer experience by communicating well and a bound dedication to serving others. Second-Year Student Open to Part-Time Opportunities 07578 127943 / william@fayers.com Experience Freelance Tutor (2020 - Date) Mathematics, Chemistry, and Physics tutoring to students of different age groups, at their comfort and pace, thereby improving comprehension and grades.</description>
+    <pubDate>Mon, 23 Sep 2024 21:05:55 GMT</pubDate>
+  </item><item>
+    <title>My CV (draft one)</title>
+    <link>https://bilbois.me/Unorganised/My-CV-(draft-one)</link>
+    <guid>https://bilbois.me/Unorganised/My-CV-(draft-one)</guid>
+    <description>William Fayers Motivated undergraduate ready to apply strong communication skills and a passion for helping others to enhance the customer experience.</description>
+    <pubDate>Mon, 23 Sep 2024 20:42:45 GMT</pubDate>
   </item><item>
     <title>rando first day algebraic structures notes</title>
     <link>https://bilbois.me/Unorganised/rando-first-day-algebraic-structures-notes</link>
     <guid>https://bilbois.me/Unorganised/rando-first-day-algebraic-structures-notes</guid>
-    <description></description>
-    <pubDate>Mon, 23 Sep 2024 14:06:28 GMT</pubDate>
+    <description>An algebraic structure is something with a set, operation, and identities or axioms. They help us understand what different mathematical objects have in common and allow us to understand things more abstractly.</description>
+    <pubDate>Mon, 23 Sep 2024 19:34:58 GMT</pubDate>
+  </item><item>
+    <title>Chat-2024_09_23-16_30_07</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</guid>
+    <description>user: Extend rando first day algebraic structures notes with a short section on the last ten slides of the slideshow pdf linked at the end of the note, where the slides talk about Direct ...</description>
+    <pubDate>Mon, 23 Sep 2024 15:30:07 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bilbois.me/</link>
+    <guid>https://bilbois.me/</guid>
+    <description>indextodo Work in progress!! this is a test.</description>
+    <pubDate>Mon, 23 Sep 2024 15:12:32 GMT</pubDate>
+  </item><item>
+    <title>Chat-2024_09_23-15_29_22</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-15_29_22</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-15_29_22</guid>
+    <description>user: wills@DESKTOP-8IAH9RJ MINGW64 ~/Documents/GitHub/thisisanothertestproject $ cookiecutter C:/Users/wills/Documents/GitHub/untitledpythonproject/ [1/9] What ...</description>
+    <pubDate>Mon, 23 Sep 2024 14:29:22 GMT</pubDate>
   </item><item>
     <title>rando first day coding theory notes</title>
     <link>https://bilbois.me/Unorganised/rando-first-day-coding-theory-notes</link>
@@ -24,47 +60,11 @@
     <description>todomathmth2002lecturenotes QUOTE If you state some information, you must either rigorously prove the claim or reference where someone else does so. - Yuri What is Coding Theory? Basically just the study of encoding and decoding information, where the process between is a transformation, such as the transformation between languages or to encode files, e.g.</description>
     <pubDate>Mon, 23 Sep 2024 09:50:15 GMT</pubDate>
   </item><item>
-    <title>CV Feedback</title>
-    <link>https://bilbois.me/Unorganised/CV-Feedback</link>
-    <guid>https://bilbois.me/Unorganised/CV-Feedback</guid>
-    <description>They’re not gonna read most of it - they don’t care, and just need to hire someone. They’ll read the start para, and maybe headers of your experience. Actual content if they’re intrigued.</description>
-    <pubDate>Sat, 21 Sep 2024 20:09:45 GMT</pubDate>
-  </item><item>
     <title>Future addition to the README</title>
     <link>https://bilbois.me/Unorganised/Future-addition-to-the-README</link>
     <guid>https://bilbois.me/Unorganised/Future-addition-to-the-README</guid>
     <description>Before starting, you’ll need a GitHub account and Poetry account. For Poetry, you should go to your account settings and click on “Add API token” within the “API tokens” section where you can then name and add a token.</description>
     <pubDate>Sun, 15 Sep 2024 17:42:27 GMT</pubDate>
-  </item><item>
-    <title>Angular Commit Format Cheat Sheet</title>
-    <link>https://bilbois.me/Unorganised/Angular-Commit-Format-Cheat-Sheet</link>
-    <guid>https://bilbois.me/Unorganised/Angular-Commit-Format-Cheat-Sheet</guid>
-    <description> Commit Message Format This specification is inspired by and supersedes the [AngularJS commit message format][commit-message-format]. We have very precise rules over how our Git commit messages must be formatted.</description>
-    <pubDate>Sat, 14 Sep 2024 19:47:51 GMT</pubDate>
-  </item><item>
-    <title>DVSA Theory Test Results Review (Maicey)</title>
-    <link>https://bilbois.me/Unorganised/DVSA-Theory-Test-Results-Review-(Maicey)</link>
-    <guid>https://bilbois.me/Unorganised/DVSA-Theory-Test-Results-Review-(Maicey)</guid>
-    <description>Multiple Choice Breakdown 1. Road and Traffic Signs (6 marks needed) Understanding road signs is crucial for safe driving. This includes recognizing regulatory signs, warning signs, and information signs.</description>
-    <pubDate>Fri, 13 Sep 2024 02:16:41 GMT</pubDate>
-  </item><item>
-    <title>My CV</title>
-    <link>https://bilbois.me/Unorganised/My-CV</link>
-    <guid>https://bilbois.me/Unorganised/My-CV</guid>
-    <description>William Fayers Motivated undergraduate seeking part-time retail position to gain customer service experience. Ready to apply strong communication skills and passion for helping others to enhance the shopping experience.</description>
-    <pubDate>Thu, 12 Sep 2024 16:34:45 GMT</pubDate>
-  </item><item>
-    <title>CV Chat (WIP)</title>
-    <link>https://bilbois.me/Auto-Generated/AI-Chats/CV-Chat-(WIP)</link>
-    <guid>https://bilbois.me/Auto-Generated/AI-Chats/CV-Chat-(WIP)</guid>
-    <description>user: Read my Brother CV and Mother CV. They’re older and more experienced than me, I’m still an undergraduate student without any formal work experience beyond being a self-employed tutor for the past few years alongside my studies.</description>
-    <pubDate>Tue, 10 Sep 2024 01:08:57 GMT</pubDate>
-  </item><item>
-    <title>Side Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Side-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Side-Quests</guid>
-    <description>questlog Just stuff I want to do at some point, but don’t need to do right now :) Related: Main Quests and Grinding. Programming Create a programming portfolio on tamago.tech within the unkokaeru repo.</description>
-    <pubDate>Tue, 10 Sep 2024 00:39:01 GMT</pubDate>
   </item>
     </channel>
   </rss>
