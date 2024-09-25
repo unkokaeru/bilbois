@@ -7,7 +7,6 @@
 ---
 ## Personal
 
-- [ ] Bloons TD 6??? Hehehehehe
 - [ ] Cookiecutter Obsidian vault?
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
