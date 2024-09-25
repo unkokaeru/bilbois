@@ -11,6 +11,8 @@
 - [ ] Cookiecutter Obsidian vault?
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
+		- [ ] Extend to generate GCSE and A-Level content.
+		- [ ] Convert to a website?
 	- [ ] ASCII Photo (PNG to ASCII art).
 	- [ ] **Blankslate + Extension Pack.**
 		- [ ] **Edit the GitHub repo to have cookiecutter functionality!!!!**
@@ -21,6 +23,9 @@
 		- [ ] Implement auto-test generation based on the NumPy-style docstrings, maybe using `doctest`?
 		- [ ] Add an optionally generated GUI that's included `if "{{ cookiecutter.gui_required }}" == "y"  # type: ignore[comparison-overlap]` (like the command line interface - also decide to how to deal both a cli and gui on the same project, e.g. mutually exclusive or an optional flag with default to gui if present, otherwise cli).
 	- [ ] Chess Mini Me.
+	- [ ] Random Challenges.
+		- [ ] [[Convenience Store Challenge]].
+		- [ ] [[Video Length Conversion Challenge]].
 	- [ ] Dailies.
 	- [ ] Error Correction.
 	- [ ] *JSON Comparison.*
@@ -36,33 +41,38 @@
 	- [ ] Self-host photos.
 	- [ ] Self-host password manager.
 	- [ ] **Self-host cloud storage.**
+	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 	- [ ] Go through my GitHub Issues.
 
 ---
 ## Academic
 
-- [ ] Catch up on Differential Equations.
-- [ ] Prep for Lagrangian and Hamiltonian Mechanics.
-- [ ] Go over [[rando first day coding theory notes]].
+- [ ] Pack my tablet and/or touchscreen pen!!
 - [ ] Go over C++ and figure out how to make it work within VS Code (on Windows 10).
-- [ ] Go over [[rando first day algebraic structures notes]].
+- [ ] Go over first week notes...
+	- [ ] [[../Unorganised/Random Notes - Coding Theory|Random Notes - Coding Theory]],
+	- [ ] [[../Unorganised/Random Notes - Algebraic Structures|Random Notes - Algebraic Structures]],
+	- [ ] [[../Unorganised/Random Notes - Differential Equations|Random Notes - Differential Equations]],
+	- [ ] [[../Unorganised/Random Notes - Lagrangian and Hamiltonian Mechanics|Random Notes - Lagrangian and Hamiltonian Mechanics]].
 
 ---
 ## Work
 
-- [ ] Look into bike renting and working for [Deliveroo](https://rider.deliveroo.co.uk/hub/applicant), Uber Eats, Just Eat, etc.
-- [ ] Re-vamp by LinkedIn page.
-- [ ] Look into the [Lincoln Award Employer Project scheme](http://xy2p6.mjt.lu/lnk/AUcAAFAPGDEAAAA0uUgAAE4I5fMAAAAAebUAAk7ZABf-zgBm8QYic6RECDWxQnSfUPSCGP2BlAAXeqI/3/RcKhnn68s5onZeFzsoG3NA/aHR0cHM6Ly9hcHAub25saW5lc3VydmV5cy5qaXNjLmFjLnVrL3MvbGluY29sbi9saW5jb2xuLWF3YXJkLWVtcGxveWVyLXByb2plY3QtYXBwbGljYXRpb24tMjAyNC0yNS1zZW1lc3Rlci1h) and, if it's good, apply before Thursday 26th September. Answer the `Tell us about yourself: your interests, your work experience, possible career ideas and why you are interested in taking part in one of our projects (max. 200 words)` question.
-- [ ] Look into [student ambassadorship](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) and, if it's good, [apply](https://forms.office.com/e/3DgQj1aNND)before Monday 7th October.
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
-- [ ] Leverage Anki's algorithm in some way to aid my students.
-- [ ] Complete and extend AbrahamMD to generate content for GCSE and A-Level. Maybe even turn it into a website.
+- [ ] Look at placements!
+- [ ] Apply to...
+	- [ ] [saved jobs](https://myjobs.indeed.com/saved),
+	- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]],
+	- [ ] [Deliveroo](https://rider.deliveroo.co.uk/hub/applicant),
+	- [ ] Uber Eats,
+	- [ ] Just Eat.
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
 	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.
 	- [ ] [YouTube](https://www.youtube.com/@tutoringwithwill): Lessons on topics - book a lecture room?
+	- [ ] "Handwritten pace to prevent being overwhelmed."
 
 ---
 

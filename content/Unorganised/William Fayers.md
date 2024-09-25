@@ -1,5 +1,3 @@
-# William Fayers
-
 *Dedicated and flexible undergraduate student seeking part-time work to support my studies.*
 
 - `Second-Year Student`
@@ -54,12 +52,12 @@
 - Strong communication and interpersonal skills.
 - Proven teamwork and collaboration.
 - Problem-solving and conflict resolution.
-- Cash handling and customer service.
+- Praised in word of mouth referrals for excellent customer service.
 - Demonstrated time management and self-motivation supporting academic progress.
 
 
 ## Interests
 
 - **Chess**: Arena FIDE Master (1623 ELO) regularly competing to practise strategic thinking.
-- **Programming**: Passion for coding and software development.
+- **Programming**: Enthusiasm for coding and software development.
 - **Languages**: Learning Japanese (casual), French (B1), and German (B1).
