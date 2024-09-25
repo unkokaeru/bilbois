@@ -47,7 +47,6 @@
 ---
 ## Academic
 
-- [ ] Pack my tablet and/or touchscreen pen!!
 - [ ] Go over C++ and figure out how to make it work within VS Code (on Windows 10).
 - [ ] Go over first week notes...
 	- [ ] [[../Unorganised/Random Notes - Coding Theory|Random Notes - Coding Theory]],
@@ -59,13 +58,7 @@
 ## Work
 
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
-- [ ] Look at placements!
-- [ ] Apply to...
-	- [ ] [saved jobs](https://myjobs.indeed.com/saved),
-	- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]],
-	- [ ] [Deliveroo](https://rider.deliveroo.co.uk/hub/applicant),
-	- [ ] Uber Eats,
-	- [ ] Just Eat.
+- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]].
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
