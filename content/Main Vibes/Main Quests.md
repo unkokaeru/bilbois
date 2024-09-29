@@ -7,20 +7,12 @@
 ---
 ## Personal
 
-- [ ] Cookiecutter Obsidian vault?
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
+		- [ ] Use classes for everything and 4o-mini for content generation.
 		- [ ] Extend to generate GCSE and A-Level content.
 		- [ ] Convert to a website?
 	- [ ] ASCII Photo (PNG to ASCII art).
-	- [ ] **Blankslate + Extension Pack.**
-		- [ ] **Edit the GitHub repo to have cookiecutter functionality!!!!**
-		- [ ] **Fix: [[Chat-2024_09_23-15_29_22]]**
-		- [ ] **ALSO FIX MY EMAIL `massiveleg` WHO????**
-		- [ ] [Implement project validation and auto-upgrading](https://cruft.github.io/cruft/).
-		- [ ] Re-create my extension pack as `"unkokaeru.untitledpythonproject-extension-pack"`, with the colour picker extension and clear documentation for future me to update it.
-		- [ ] Implement auto-test generation based on the NumPy-style docstrings, maybe using `doctest`?
-		- [ ] Add an optionally generated GUI that's included `if "{{ cookiecutter.gui_required }}" == "y"  # type: ignore[comparison-overlap]` (like the command line interface - also decide to how to deal both a cli and gui on the same project, e.g. mutually exclusive or an optional flag with default to gui if present, otherwise cli).
 	- [ ] Chess Mini Me.
 	- [ ] Random Challenges.
 		- [ ] [[Convenience Store Challenge]].
@@ -34,15 +26,16 @@
 	- [ ] *PGN to JSON Converter.*
 	- [ ] QR Gen (QR Art Generation).
 	- [ ] Rate List.
+	- [ ] Untitledobsidianproject.
 - [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
 - [ ] De-Google.
-	- [ ] **Migrate authentication apps to a single place.**
+	- [ ] *Migrate authentication apps to a single place.*
+	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
 	- [ ] Self-host photos.
 	- [ ] Self-host password manager.
-	- [ ] **Self-host cloud storage.**
-	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
+	- [ ] Self-host cloud storage.
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
-	- [ ] Go through my GitHub Issues.
+- [ ] Go through my GitHub Issues.
 
 ---
 ## Academic
@@ -52,13 +45,15 @@
 	- [ ] [[../Unorganised/Random Notes - Coding Theory|Random Notes - Coding Theory]],
 	- [ ] [[../Unorganised/Random Notes - Algebraic Structures|Random Notes - Algebraic Structures]],
 	- [ ] [[../Unorganised/Random Notes - Differential Equations|Random Notes - Differential Equations]],
-	- [ ] [[../Unorganised/Random Notes - Lagrangian and Hamiltonian Mechanics|Random Notes - Lagrangian and Hamiltonian Mechanics]].
+	- [ ] [[../Unorganised/Random Notes - Lagrangian and Hamiltonian Mechanics|Random Notes - Lagrangian and Hamiltonian Mechanics]]. Add physical notes into these, too.
+- [ ] Revise first year, especially the Algebra module.
 
 ---
 ## Work
 
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 - [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]].
+- [ ] Look into placements on [CareerLinc](https://careers.lincoln.ac.uk/student/jobs.html), [GradCracker](https://www.gradcracker.com/search/), and [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement).
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.

@@ -1,0 +1,1 @@
+Given a finite set $A$ with $q$ elements, the Cartesian product is the set of all ordered pairs that can be formed by taking one element from each of the sets involved in the product.

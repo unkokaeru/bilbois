@@ -3,6 +3,8 @@
 > [!QUOTE]
 > If you state some information, you must either rigorously prove the claim or reference where someone else does so. - Yuri
 
+[[MTH2002 Coding Theory - Practical 1]]
+
 ## What is Coding Theory?
 *Basically just the study of encoding and decoding information, where the process between is a transformation, such as the transformation between languages or to encode files, e.g. `.mp3` files.*
 
@@ -100,3 +102,22 @@ Hence, if the parity does not line up across the digits, then we have detected a
 This code also does not correct any errors, as we don't know where the error occurred, only simply that one did occur. This is fixed with [[Hamming codes]], where you implement an additional parity digit which counts the parity of the entire matrix. The video linked at the beginning of this section explains this very well: watch it! The are numerous other ways of fixing this flaw, both more efficient and less efficient.
 
 Many error correction algorithms simply extend this logic, like with Reed-Solomon instead checking the behaviour of a polynomial generated from the co-efficients of the data matrix.
+
+### ISBN Example
+
+...
+
+## Hamming Distance
+
+Computes the number of positions across two words where their symbols are different, e.g. $010010$ and $011000$ has $d(w_{1},w_{2})=2$ as two symbols are different in the same positions, given that $A=\set{0,1}$ ($q=2$) and $n=6$.
+
+Thus, it's a useful measure of how many errors might have occurred in transmission, and can be used as a measurement to minimise error. This is known as the **nearest neighbour decoding strategy**.
+
+### Hamming's Original code
+
+$C$ is the subset of $\mathbb{F}_{2}^{7}$ consisting of all elements ($c_{1},c_{2},\ldots,c_{7}$) satisfying $c_{5}=c_{1}+c_{2}+c_{4}$, $c_{6}=c_{1}+c_{3}+c_{4}$, and $c_{7}=c_{2}+c_{3}+c_{4}$. Thus the first four digits are known as the **source word** and the last three as **parity bits**.
+
+Given a codeword $w$, we could receive codeword $u$ with some possible errors. Usually, it can correct odd errors, but if there are an even number of errors that it isn't always corrected.
+
+**NEXT TIME**:
+Distance theorem, chances of detection/correction, parameters of codes, main problem.
