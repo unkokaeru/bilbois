@@ -7,6 +7,7 @@
 ---
 ## Personal
 
+- [ ] **MAKE VS CODE FOR C++**.
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
 		- [ ] Use classes for everything and 4o-mini for content generation.
@@ -26,7 +27,7 @@
 	- [ ] *PGN to JSON Converter.*
 	- [ ] QR Gen (QR Art Generation).
 	- [ ] Rate List.
-	- [ ] Untitledobsidianproject.
+	- [ ] **Untitledobsidianproject**.
 - [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
