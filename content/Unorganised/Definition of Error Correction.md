@@ -1,0 +1,1 @@
+We say that $C$ **corrects $k$ errors** if, whenever up to $k$ errors occur in the transmission of any codeword (and these errors are detected), then we can reconstruct the correct codeword sent by using the other symbols sent correctly and the definition of the code $C$.

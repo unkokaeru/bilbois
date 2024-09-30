@@ -10,7 +10,43 @@
     <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</link>
     <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</guid>
     <description>Recap Transclude of Definition-of-an-Alphabet-in-Coding-Theory Transclude of Definition-of-a-Code-in-Coding-Theory Transclude of Definition-of-Hamming-Distance ...</description>
-    <pubDate>Mon, 30 Sep 2024 08:48:16 GMT</pubDate>
+    <pubDate>Mon, 30 Sep 2024 09:47:48 GMT</pubDate>
+  </item><item>
+    <title>Definition of Nearest Neighbour Decoding</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Nearest-Neighbour-Decoding</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Nearest-Neighbour-Decoding</guid>
+    <description>Given a code C\subset A^{n} over an alphabet A and a word w\in A^{n}, a (valid) codeword c\in C is called a nearest neighbour codeword to w if d(c,w)=\text{min}\set{d(w,x):x\in C} ...</description>
+    <pubDate>Mon, 30 Sep 2024 09:39:41 GMT</pubDate>
+  </item><item>
+    <title>Definition of a Solid Sphere</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-a-Solid-Sphere</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-a-Solid-Sphere</guid>
+    <description>Given a metric space X with distance function d and a positive real number \epsilon\in \mathbb{R}_{\gt0}, the solid sphere (or ball) or radius \epsilon and center p\in X is the set ...</description>
+    <pubDate>Mon, 30 Sep 2024 09:16:11 GMT</pubDate>
+  </item><item>
+    <title>Definition of Distance Theorem</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Distance-Theorem</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Distance-Theorem</guid>
+    <description>Let C be a code with minimal distance d_{\text{min}}(C). Then the following statements hold: If t\in \mathbb{N} and d_{\text{min}}(C)\ge t+1, then C detects t errors.</description>
+    <pubDate>Mon, 30 Sep 2024 09:12:33 GMT</pubDate>
+  </item><item>
+    <title>Definition of Error Correction</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Error-Correction</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Error-Correction</guid>
+    <description>We say that C corrects k errors if, whenever up to k errors occur in the transmission of any codeword (and these errors are detected), then we can reconstruct the correct codeword sent ...</description>
+    <pubDate>Mon, 30 Sep 2024 09:06:53 GMT</pubDate>
+  </item><item>
+    <title>Definition of Error Detection</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Error-Detection</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Error-Detection</guid>
+    <description>We say that a code C detects t errors if, whenever up to t errors occur in the transmission of any codeword, then we receive an invalid codeword (that is, we know from C that the transmission ...</description>
+    <pubDate>Mon, 30 Sep 2024 09:06:30 GMT</pubDate>
+  </item><item>
+    <title>Definition of Minimum Code Distance</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Minimum-Code-Distance</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Minimum-Code-Distance</guid>
+    <description>Let C be a code and d its Hamming distance function. The (minimum) distance of C, denoted by d_{\text{min}}(C), is the smallest Hamming distance possible achieved by two (distinct) codewords of C.</description>
+    <pubDate>Mon, 30 Sep 2024 09:03:29 GMT</pubDate>
   </item><item>
     <title>Definition of Metric Spaces and Distance Functions</title>
     <link>https://bilbois.me/Unorganised/Definition-of-Metric-Spaces-and-Distance-Functions</link>
@@ -29,42 +65,6 @@
     <guid>https://bilbois.me/Unorganised/Definition-of-an-Alphabet-in-Coding-Theory</guid>
     <description>A q-ary alphabet is just a finite set A=\set{a_{1},a_{2},\ldots,a_{i}} with q elements, which are called symbols or letters.</description>
     <pubDate>Mon, 30 Sep 2024 08:09:16 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Code in Coding Theory</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Code-in-Coding-Theory</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Code-in-Coding-Theory</guid>
-    <description>Given n \in N, a finite sequence x_{1},x_{2},\ldots,x_{i} with every x_{i} belonging to the alphabet A is called a word (or vector or message) of length n over A ...</description>
-    <pubDate>Mon, 30 Sep 2024 08:08:45 GMT</pubDate>
-  </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Mon, 30 Sep 2024 07:53:25 GMT</pubDate>
-  </item><item>
-    <title>Main Vibes</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Vibes</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
-    <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true Here’s my CV in docx, too (until I make this a proper section): William Fayers.docx.</description>
-    <pubDate>Mon, 30 Sep 2024 07:24:52 GMT</pubDate>
-  </item><item>
-    <title>MTH2002 Coding Theory - Practical 1</title>
-    <link>https://bilbois.me/Unorganised/MTH2002-Coding-Theory---Practical-1</link>
-    <guid>https://bilbois.me/Unorganised/MTH2002-Coding-Theory---Practical-1</guid>
-    <description>mathmth2002practical Problem P1 Prove that there are an unlimited number of codes. Part A We can recall the definition of a code as follows… Transclude of Definition-of-a-Code-in-Coding-Theory Part B Given a natural number q\in N, we can define the following alphabet… A_{q} = \set{0,1,\ldots,q-1}\equiv \mathbb{Z}/q\mathbb{Z},\text{or }\mathbb{F}_{q}\text{ if }q\text{ is a prime number.} Since there are infinitely many natural numbers, there are infinitely many distinct sets A_{q} that could be a potential alphabet for a code.</description>
-    <pubDate>Fri, 27 Sep 2024 23:45:32 GMT</pubDate>
-  </item><item>
-    <title>Random Notes - Coding Theory 1</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-1</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-1</guid>
-    <description>todomathmth2002lecturenotes QUOTE If you state some information, you must either rigorously prove the claim or reference where someone else does so. - Yuri MTH2002 Coding Theory - Practical 1 What is Coding Theory? Basically just the study of encoding and decoding information, where the process between is a transformation, such as the transformation between languages or to encode files, e.g.</description>
-    <pubDate>Fri, 27 Sep 2024 12:55:12 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Cartesian Product in Coding Theory</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Cartesian-Product-in-Coding-Theory</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Cartesian-Product-in-Coding-Theory</guid>
-    <description>Given a finite set A with q elements, the Cartesian product is the set of all ordered pairs that can be formed by taking one element from each of the sets involved in the product. ...</description>
-    <pubDate>Fri, 27 Sep 2024 12:43:25 GMT</pubDate>
   </item>
     </channel>
   </rss>

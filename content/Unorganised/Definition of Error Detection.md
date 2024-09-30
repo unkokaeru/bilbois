@@ -1,0 +1,1 @@
+We say that a code $C$ **detects $t$ errors** if, whenever up to $t$ errors occur in the transmission of any codeword, then we receive an invalid codeword (that is, we know from $C$ that the transmission was faulty).
