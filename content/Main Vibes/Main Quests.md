@@ -54,6 +54,7 @@
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 - [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]].
 - [ ] Look into placements on [CareerLinc](https://careers.lincoln.ac.uk/student/jobs.html), [GradCracker](https://www.gradcracker.com/search/), and [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement).
+- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers)!
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
