@@ -40,7 +40,6 @@
 ---
 ## Academic
 
-- [ ] **Make sure I'm free for the [[Employer Project]]**.
 - [ ] Organise C++ lab repo and implement cool workflows etc. (auto build logbook??)
 - [ ] Go over first week notes...
 	- [ ] [[../Unorganised/Random Notes - Coding Theory 1|Random Notes - Coding Theory 1]],
@@ -57,8 +56,6 @@
 
 ### Unscheduled
 
-- [ ] **Complete my [EE chat interview]([https://chat.sapia.ai/eu/jobs/FNejPeeg](https://chat.sapia.ai/eu/jobs/FNejPeeg))** (no time limit but should take 20-25 mins, 5 behavioural interview style questions).
-- [ ] **Respond to The Catch-Up Academy about my availability for a phone interview** (their availability is Monday-Friday, 08:00-17:30).
 - [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]].
 - [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
