@@ -6,11 +6,47 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Random Notes - Coding Theory 2</title>
+    <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</link>
+    <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</guid>
+    <description>Recap Transclude of Definition-of-an-Alphabet-in-Coding-Theory Transclude of Definition-of-a-Code-in-Coding-Theory Transclude of Definition-of-Hamming-Distance ...</description>
+    <pubDate>Mon, 30 Sep 2024 08:48:16 GMT</pubDate>
+  </item><item>
+    <title>Definition of Metric Spaces and Distance Functions</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Metric-Spaces-and-Distance-Functions</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Metric-Spaces-and-Distance-Functions</guid>
+    <description>Let S be a set. We say that S forms a metric space if there exists a function d:S\times S\to \mathbb{R}_{\ge0}, called a metric or distance function, which satisfies the following axioms: Non-Negativity: Given x,y\in S, d(x,y)=0\iff x=y, i.e.</description>
+    <pubDate>Mon, 30 Sep 2024 08:23:20 GMT</pubDate>
+  </item><item>
+    <title>Definition of Hamming Distance</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Hamming-Distance</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Hamming-Distance</guid>
+    <description>Given a q-ary alphabet A=\set{a_{1},a_{2},\ldots,a_{i}}, the Hamming distance d(w_{1}, w_{2}) between two words w_{1}, w_{2} \in A^{n} is the total number of positions in which ...</description>
+    <pubDate>Mon, 30 Sep 2024 08:14:34 GMT</pubDate>
+  </item><item>
+    <title>Definition of an Alphabet in Coding Theory</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-an-Alphabet-in-Coding-Theory</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-an-Alphabet-in-Coding-Theory</guid>
+    <description>A q-ary alphabet is just a finite set A=\set{a_{1},a_{2},\ldots,a_{i}} with q elements, which are called symbols or letters.</description>
+    <pubDate>Mon, 30 Sep 2024 08:09:16 GMT</pubDate>
+  </item><item>
+    <title>Definition of a Code in Coding Theory</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-a-Code-in-Coding-Theory</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-a-Code-in-Coding-Theory</guid>
+    <description>Given n \in N, a finite sequence x_{1},x_{2},\ldots,x_{i} with every x_{i} belonging to the alphabet A is called a word (or vector or message) of length n over A ...</description>
+    <pubDate>Mon, 30 Sep 2024 08:08:45 GMT</pubDate>
+  </item><item>
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
     <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Sun, 29 Sep 2024 22:39:05 GMT</pubDate>
+    <pubDate>Mon, 30 Sep 2024 07:53:25 GMT</pubDate>
+  </item><item>
+    <title>Main Vibes</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Vibes</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
+    <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true Here’s my CV in docx, too (until I make this a proper section): William Fayers.docx.</description>
+    <pubDate>Mon, 30 Sep 2024 07:24:52 GMT</pubDate>
   </item><item>
     <title>MTH2002 Coding Theory - Practical 1</title>
     <link>https://bilbois.me/Unorganised/MTH2002-Coding-Theory---Practical-1</link>
@@ -18,9 +54,9 @@
     <description>mathmth2002practical Problem P1 Prove that there are an unlimited number of codes. Part A We can recall the definition of a code as follows… Transclude of Definition-of-a-Code-in-Coding-Theory Part B Given a natural number q\in N, we can define the following alphabet… A_{q} = \set{0,1,\ldots,q-1}\equiv \mathbb{Z}/q\mathbb{Z},\text{or }\mathbb{F}_{q}\text{ if }q\text{ is a prime number.} Since there are infinitely many natural numbers, there are infinitely many distinct sets A_{q} that could be a potential alphabet for a code.</description>
     <pubDate>Fri, 27 Sep 2024 23:45:32 GMT</pubDate>
   </item><item>
-    <title>Random Notes - Coding Theory</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory</guid>
+    <title>Random Notes - Coding Theory 1</title>
+    <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-1</link>
+    <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-1</guid>
     <description>todomathmth2002lecturenotes QUOTE If you state some information, you must either rigorously prove the claim or reference where someone else does so. - Yuri MTH2002 Coding Theory - Practical 1 What is Coding Theory? Basically just the study of encoding and decoding information, where the process between is a transformation, such as the transformation between languages or to encode files, e.g.</description>
     <pubDate>Fri, 27 Sep 2024 12:55:12 GMT</pubDate>
   </item><item>
@@ -29,42 +65,6 @@
     <guid>https://bilbois.me/Unorganised/Definition-of-a-Cartesian-Product-in-Coding-Theory</guid>
     <description>Given a finite set A with q elements, the Cartesian product is the set of all ordered pairs that can be formed by taking one element from each of the sets involved in the product. ...</description>
     <pubDate>Fri, 27 Sep 2024 12:43:25 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Code in Coding Theory</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Code-in-Coding-Theory</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Code-in-Coding-Theory</guid>
-    <description>Given an alphabet A with q symbols, a q-ary code (over A) of length n is a subset C\subset A^{n}. That is, C is some set of words length n taken from an alphabet A consisting of q symbols.</description>
-    <pubDate>Fri, 27 Sep 2024 12:32:22 GMT</pubDate>
-  </item><item>
-    <title>Random Notes - Differential Equations</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Differential-Equations</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Differential-Equations</guid>
-    <description>What is a Differential Equation? An equation containing the derivatives of one or more unknown functions (or dependent variables), with respect to one more independent variables, ...</description>
-    <pubDate>Thu, 26 Sep 2024 15:29:19 GMT</pubDate>
-  </item><item>
-    <title>Video Length Conversion Challenge</title>
-    <link>https://bilbois.me/Unorganised/Video-Length-Conversion-Challenge</link>
-    <guid>https://bilbois.me/Unorganised/Video-Length-Conversion-Challenge</guid>
-    <description> Video Length in SecondsYou are given the length of a video in minutes. The format is mm:ss (ex: &quot;02:54&quot;).Create a function that takes the video length and return it in seconds.</description>
-    <pubDate>Wed, 25 Sep 2024 13:58:50 GMT</pubDate>
-  </item><item>
-    <title>Convenience Store Challenge</title>
-    <link>https://bilbois.me/Unorganised/Convenience-Store-Challenge</link>
-    <guid>https://bilbois.me/Unorganised/Convenience-Store-Challenge</guid>
-    <description>...</description>
-    <pubDate>Wed, 25 Sep 2024 13:58:04 GMT</pubDate>
-  </item><item>
-    <title>Chat-2024_09_23-16_30_07</title>
-    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</link>
-    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</guid>
-    <description>user: Extend Random Notes - Algebraic Structures with a short section on the last ten slides of the slideshow pdf linked at the end of the note, where the slides talk about Direct Products ...</description>
-    <pubDate>Wed, 25 Sep 2024 13:24:28 GMT</pubDate>
-  </item><item>
-    <title>Random Notes - Lagrangian and Hamiltonian Mechanics</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Lagrangian-and-Hamiltonian-Mechanics</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Lagrangian-and-Hamiltonian-Mechanics</guid>
-    <description>Landau &amp; Lifshitz, Mechanics, pages 1-3 and 96. Kibble &amp; Berkshire, Classical Mechanics, 5th edition, page 231. The module is mostly just heavy mathematics applied to mechanics.</description>
-    <pubDate>Wed, 25 Sep 2024 09:49:01 GMT</pubDate>
   </item>
     </channel>
   </rss>

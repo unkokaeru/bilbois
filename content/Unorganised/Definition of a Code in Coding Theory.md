@@ -1,2 +1,1 @@
-Given an alphabet $A$ with $q$ symbols, a $q-ary$ code (over $A$) of length $n$ is a subset $C\subset A^{n}$. That is, $C$ is some set of words length $n$ taken from an alphabet $A$ consisting of $q$ symbols. A (valid) codeword is an element of $C$.
-
+Given $n \in N$, a finite sequence $x_{1},x_{2},\ldots,x_{i}$ with every $x_{i}$ belonging to the alphabet $A$ is called a **word** (or **vector** or **message**) of length $n$ over $A$. Such a word can also be viewed as an element $(x_{1},x_{2},\ldots,x_{i})\in A^{n}$. A **$q$-ary code** (over $A$) of length $n$ is just a subset $C\subset A^{n}$. A (valid) **codeword** is an element of $C$.

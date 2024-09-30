@@ -23,6 +23,8 @@ showFolderNotes: true
 disableCollapseIcon: true
 ```
 
+Here's my CV in docx, too (until I make this a proper section): [[William Fayers.docx]].
+
 ---
 
 > [!Note]

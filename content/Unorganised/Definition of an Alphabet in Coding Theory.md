@@ -1,0 +1,1 @@
+A **$q$-ary alphabet** is just a finite set $A=\set{a_{1},a_{2},\ldots,a_{i}}$ with $q$ elements, which are called **symbols** or **letters**.

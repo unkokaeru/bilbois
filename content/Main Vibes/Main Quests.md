@@ -40,9 +40,9 @@
 ---
 ## Academic
 
-- [ ] Go over C++ and figure out how to make it work within VS Code (on Windows 10).
 - [ ] Go over first week notes...
-	- [ ] [[../Unorganised/Random Notes - Coding Theory|Random Notes - Coding Theory]],
+	- [ ] [[../Unorganised/Random Notes - Coding Theory 1|Random Notes - Coding Theory 1]],
+	- [ ] [[Random Notes - Coding Theory 2]],
 	- [ ] [[../Unorganised/Random Notes - Algebraic Structures|Random Notes - Algebraic Structures]],
 	- [ ] [[../Unorganised/Random Notes - Differential Equations|Random Notes - Differential Equations]],
 	- [ ] [[../Unorganised/Random Notes - Lagrangian and Hamiltonian Mechanics|Random Notes - Lagrangian and Hamiltonian Mechanics]]. Add physical notes into these, too.
