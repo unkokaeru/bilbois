@@ -9,62 +9,62 @@
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal MAKE VS CODE FOR C++. Finish all of my programming projects. AbrahamMD.</description>
-    <pubDate>Mon, 30 Sep 2024 13:36:45 GMT</pubDate>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
+    <pubDate>Mon, 30 Sep 2024 16:35:39 GMT</pubDate>
+  </item><item>
+    <title>Algebraic Structures - Practical 1</title>
+    <link>https://bilbois.me/Unorganised/Algebraic-Structures---Practical-1</link>
+    <guid>https://bilbois.me/Unorganised/Algebraic-Structures---Practical-1</guid>
+    <description> Question 1.1 Set: \set{1} with multiplication, Closure: 1\cdot1=1\in \set{1}. Associativity: 1\cdot1=1=1\cdot1. Identity Element: 1. Inverse Element: 1 is its own inverse.</description>
+    <pubDate>Mon, 30 Sep 2024 15:47:30 GMT</pubDate>
+  </item><item>
+    <title>Random Notes - Algebraic Structures 2</title>
+    <link>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-2</link>
+    <guid>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-2</guid>
+    <description>Recap Transclude of Definition-of-a-Group We can always assume that additive integers and multiplicative integers are a group, and hence are associative, too ...</description>
+    <pubDate>Mon, 30 Sep 2024 14:46:09 GMT</pubDate>
+  </item><item>
+    <title>Definition of Identity Uniqueness</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Identity-Uniqueness</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Identity-Uniqueness</guid>
+    <description>Assume that G together with * is a group. Then, G has exactly one identity element.</description>
+    <pubDate>Mon, 30 Sep 2024 14:37:48 GMT</pubDate>
+  </item><item>
+    <title>Side Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Side-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Side-Quests</guid>
+    <description>questlog Just stuff I want to do at some point, but don’t need to do right now :) Related: Main Quests and Grinding. Programming Create a programming portfolio on tamago.tech within the unkokaeru repo.</description>
+    <pubDate>Mon, 30 Sep 2024 14:08:32 GMT</pubDate>
+  </item><item>
+    <title>Chat-2024_09_23-16_30_07</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</guid>
+    <description>user: Extend Random Notes - Algebraic Structures 1 with a short section on the last ten slides of the slideshow pdf linked at the end of the note, where the slides talk about Direct Products ...</description>
+    <pubDate>Mon, 30 Sep 2024 14:05:05 GMT</pubDate>
+  </item><item>
+    <title>Definition of a Group</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-a-Group</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-a-Group</guid>
+    <description>A group is a set G together with an operation * such that all of four of the following axioms hold: Closure: If x,y\in G, then x*y is also in G. Associativity: If x,y\in G, then x*(y*z)=(x*y)*z.</description>
+    <pubDate>Mon, 30 Sep 2024 14:04:48 GMT</pubDate>
+  </item><item>
+    <title>Random Notes - Algebraic Structures 1</title>
+    <link>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-1</link>
+    <guid>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-1</guid>
+    <description>An algebraic structure is something with a set, operation, and identities or axioms. They help us understand what different mathematical objects have in common and allow us to understand things more abstractly.</description>
+    <pubDate>Mon, 30 Sep 2024 14:04:36 GMT</pubDate>
+  </item><item>
+    <title>Employer Project</title>
+    <link>https://bilbois.me/Unorganised/Employer-Project</link>
+    <guid>https://bilbois.me/Unorganised/Employer-Project</guid>
+    <description>Details Employer/client: Lonestar Analytics Project task: Conduct a competitor analysis &amp; recommendations for enhancing Lonestar’s online presence ...</description>
+    <pubDate>Mon, 30 Sep 2024 14:03:53 GMT</pubDate>
   </item><item>
     <title>Random Notes - Coding Theory 2</title>
     <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</link>
     <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</guid>
     <description>Recap Transclude of Definition-of-an-Alphabet-in-Coding-Theory Transclude of Definition-of-a-Code-in-Coding-Theory Transclude of Definition-of-Hamming-Distance ...</description>
     <pubDate>Mon, 30 Sep 2024 09:47:48 GMT</pubDate>
-  </item><item>
-    <title>Definition of Nearest Neighbour Decoding</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Nearest-Neighbour-Decoding</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Nearest-Neighbour-Decoding</guid>
-    <description>Given a code C\subset A^{n} over an alphabet A and a word w\in A^{n}, a (valid) codeword c\in C is called a nearest neighbour codeword to w if d(c,w)=\text{min}\set{d(w,x):x\in C} ...</description>
-    <pubDate>Mon, 30 Sep 2024 09:39:41 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Solid Sphere</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Solid-Sphere</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Solid-Sphere</guid>
-    <description>Given a metric space X with distance function d and a positive real number \epsilon\in \mathbb{R}_{\gt0}, the solid sphere (or ball) or radius \epsilon and center p\in X is the set ...</description>
-    <pubDate>Mon, 30 Sep 2024 09:16:11 GMT</pubDate>
-  </item><item>
-    <title>Definition of Distance Theorem</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Distance-Theorem</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Distance-Theorem</guid>
-    <description>Let C be a code with minimal distance d_{\text{min}}(C). Then the following statements hold: If t\in \mathbb{N} and d_{\text{min}}(C)\ge t+1, then C detects t errors.</description>
-    <pubDate>Mon, 30 Sep 2024 09:12:33 GMT</pubDate>
-  </item><item>
-    <title>Definition of Error Correction</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Error-Correction</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Error-Correction</guid>
-    <description>We say that C corrects k errors if, whenever up to k errors occur in the transmission of any codeword (and these errors are detected), then we can reconstruct the correct codeword sent ...</description>
-    <pubDate>Mon, 30 Sep 2024 09:06:53 GMT</pubDate>
-  </item><item>
-    <title>Definition of Error Detection</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Error-Detection</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Error-Detection</guid>
-    <description>We say that a code C detects t errors if, whenever up to t errors occur in the transmission of any codeword, then we receive an invalid codeword (that is, we know from C that the transmission ...</description>
-    <pubDate>Mon, 30 Sep 2024 09:06:30 GMT</pubDate>
-  </item><item>
-    <title>Definition of Minimum Code Distance</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Minimum-Code-Distance</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Minimum-Code-Distance</guid>
-    <description>Let C be a code and d its Hamming distance function. The (minimum) distance of C, denoted by d_{\text{min}}(C), is the smallest Hamming distance possible achieved by two (distinct) codewords of C.</description>
-    <pubDate>Mon, 30 Sep 2024 09:03:29 GMT</pubDate>
-  </item><item>
-    <title>Definition of Metric Spaces and Distance Functions</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Metric-Spaces-and-Distance-Functions</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Metric-Spaces-and-Distance-Functions</guid>
-    <description>Let S be a set. We say that S forms a metric space if there exists a function d:S\times S\to \mathbb{R}_{\ge0}, called a metric or distance function, which satisfies the following axioms: Non-Negativity: Given x,y\in S, d(x,y)=0\iff x=y, i.e.</description>
-    <pubDate>Mon, 30 Sep 2024 08:23:20 GMT</pubDate>
-  </item><item>
-    <title>Definition of Hamming Distance</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Hamming-Distance</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Hamming-Distance</guid>
-    <description>Given a q-ary alphabet A=\set{a_{1},a_{2},\ldots,a_{i}}, the Hamming distance d(w_{1}, w_{2}) between two words w_{1}, w_{2} \in A^{n} is the total number of positions in which ...</description>
-    <pubDate>Mon, 30 Sep 2024 08:14:34 GMT</pubDate>
   </item>
     </channel>
   </rss>

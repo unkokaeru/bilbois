@@ -7,7 +7,6 @@
 ---
 ## Personal
 
-- [ ] **MAKE VS CODE FOR C++**.
 - [ ] Finish all of my programming projects.
 	- [ ] **AbrahamMD.**
 		- [ ] Use classes for everything and 4o-mini for content generation.
@@ -41,21 +40,34 @@
 ---
 ## Academic
 
+- [ ] **Make sure I'm free for the [[Employer Project]]**.
+- [ ] Organise C++ lab repo and implement cool workflows etc. (auto build logbook??)
 - [ ] Go over first week notes...
 	- [ ] [[../Unorganised/Random Notes - Coding Theory 1|Random Notes - Coding Theory 1]],
 	- [ ] [[Random Notes - Coding Theory 2]],
-	- [ ] [[../Unorganised/Random Notes - Algebraic Structures|Random Notes - Algebraic Structures]],
+	- [ ] [[../Unorganised/Random Notes - Algebraic Structures 1|Random Notes - Algebraic Structures 1]],
+	- [ ] [[Random Notes - Algebraic Structures 2]],
 	- [ ] [[../Unorganised/Random Notes - Differential Equations|Random Notes - Differential Equations]],
 	- [ ] [[../Unorganised/Random Notes - Lagrangian and Hamiltonian Mechanics|Random Notes - Lagrangian and Hamiltonian Mechanics]]. Add physical notes into these, too.
-- [ ] Revise first year, especially the Algebra module.
+	- [ ] incl. practical sessions and their solutions.
+- [ ] Revise first year, especially the Algebra module (re-create these notes).
 
 ---
 ## Work
 
-- [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
+### Unscheduled
+
+- [ ] **Complete my [EE chat interview]([https://chat.sapia.ai/eu/jobs/FNejPeeg](https://chat.sapia.ai/eu/jobs/FNejPeeg))** (no time limit but should take 20-25 mins, 5 behavioural interview style questions).
+- [ ] **Respond to The Catch-Up Academy about my availability for a phone interview** (their availability is Monday-Friday, 08:00-17:30).
 - [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]].
-- [ ] Look into placements on [CareerLinc](https://careers.lincoln.ac.uk/student/jobs.html), [GradCracker](https://www.gradcracker.com/search/), and [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement).
-- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers)!
+- [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
+- [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
+
+### Scheduled
+
+- Thursday!
+	- [ ] Look into placements on [CareerLinc](https://careers.lincoln.ac.uk/student/jobs.html), [GradCracker](https://www.gradcracker.com/search/), and [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement).
+	- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers)!
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.

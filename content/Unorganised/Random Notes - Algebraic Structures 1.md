@@ -5,12 +5,7 @@ An **algebraic structure** is something with a **set**, **operation**, and **ide
 
 ## Groups
 
-> [!NOTE] Definition
-> A **group** is a set $G$ together with an operation $*$ such that all of four of the following axioms hold:
-> 1. **Closure**: If $x,y\in G$, then $x*y$ is also in $G$.
-> 2. **Associativity**: If $x,y\in G$, then $x*(y*z)=(x*y)*z$.
-> 3. **Existence of an Identity Element**: We can find an element $e\in G$ satisfying $e*x=x*e=x$, for all $x\in G$ .
-> 4. **Existence of inverse elements**: If $x\in G$, we can find $y\in G$ such that $x*y=y*x=e$.
+![[Definition of a Group]]
 
 If a set withholds these four axioms, then that set is the type of algebraic structure called a **group**. Some of these groups follow an additional axiom which makes it an [[abelian group]] (commutativity, i.e. the order of operations does not affect the result). Often it is easy to disprove that a set is a group with a counter-example, but proving a set is a group is involves a rigorous proof of each axiom.
 

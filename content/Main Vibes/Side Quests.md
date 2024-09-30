@@ -10,7 +10,7 @@
 - [ ] Create a programming portfolio on `tamago.tech` within the `unkokaeru` repo.
 	- [ ] [Heroku](https://www.heroku.com) Python hosting?
 - [ ] [New domain](https://www.namecheap.com/domains/registration/results/?domain=williamfayers)?
-- [ ] Develop dynamic holiday planner, mainly to dynamically predict cost.
+- [ ] **Develop dynamic holiday planner, mainly to dynamically predict cost.**
 - [ ] Make a neural network from scratch, to learn about it all.
 - [ ] Create a mood tracker app utilising notifications to track mood.
 - [ ] Create a bouncing ball physics simulation.
@@ -24,7 +24,6 @@
 
 - [ ] Invincible (Prime TV).
 - [ ] Shogun (Disney+).
-- [ ] One Piece (Crunchyroll).
 
 ---
 ## Social Planning
