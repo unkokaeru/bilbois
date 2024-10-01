@@ -1,6 +1,6 @@
 #math #mth2002 #practical
 
-![[../Auto-Generated/Attachments/MTH2002 Coding Theory - Practical 1.pdf]]
+![[../../../Auto-Generated/Attachments/MTH2002 Coding Theory - Practical 1.pdf]]
 
 ---
 ## Problem P1
@@ -11,7 +11,7 @@
 
 We can recall the definition of a code as follows...
 
-![[Definition of a Code in Coding Theory]]
+![[../Definitions/Definition of a Code in Coding Theory]]
 
 ### Part B
 
@@ -27,7 +27,7 @@ Since there are infinitely many natural numbers, there are infinitely many disti
 
 We can recall the definition of a Cartesian product as follows...
 
-![[Definition of a Cartesian Product in Coding Theory]]
+![[../Definitions/Definition of a Cartesian Product in Coding Theory]]
 
 Based on this, we can determine the number of elements of the Cartesian product $A_{n}$ as $q\times q\times\ldots\times q=q^{n}$, where $q$ is the number of elements in the set $A$ and $n$ is the number of sets in the Cartesian product. This is because for each of the $n$ positions in the ordered pair, there are $q$ choices, leading to the aforementioned total.
 
@@ -35,7 +35,7 @@ Based on this, we can determine the number of elements of the Cartesian product 
 
 Again recalling the definition of a code...
 
-![[Definition of a Code in Coding Theory]]
+![[../Definitions/Definition of a Code in Coding Theory]]
 
 We can explain that for any value of $x\in N$, we can always define at least one code that has at least $x$ elements (codewords), as we can always define an alphabet $A$ with any number $q$ symbols as previously proven.
 

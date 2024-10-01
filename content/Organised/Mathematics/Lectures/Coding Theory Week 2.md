@@ -1,16 +1,16 @@
 ## Recap
 
-![[Definition of an Alphabet in Coding Theory]]
+![[../Definitions/Definition of an Alphabet in Coding Theory]]
 
-![[Definition of a Code in Coding Theory]]
+![[../Definitions/Definition of a Code in Coding Theory]]
 
-![[Definition of Hamming Distance]]
+![[../Definitions/Definition of Hamming Distance]]
 
 ## Does Hamming distance have geometry?
 
 ### How do we define something having geometry?
 
-![[Definition of Metric Spaces and Distance Functions]]
+![[../Definitions/Definition of Metric Spaces and Distance Functions]]
 
 #### Examples
 
@@ -36,7 +36,7 @@ This is very hard to visualise, though.
 
 ### Is Hamming distance a metric?
 
-Let $A$ be a $q$-ary alphabet. Then the Hamming distance on the set $A^{n}$ of words of length $n$ over $A$ is a metric. This can be proven using skills from the Proof module last year, defining necessary variables and then directly proving each axiom in the [[Definition of Metric Spaces and Distance Functions]]. From this proof, we can also correlate that words over an alphabet build metric spaces, as do codes.
+Let $A$ be a $q$-ary alphabet. Then the Hamming distance on the set $A^{n}$ of words of length $n$ over $A$ is a metric. This can be proven using skills from the Proof module last year, defining necessary variables and then directly proving each axiom in the [[../Definitions/Definition of Metric Spaces and Distance Functions]]. From this proof, we can also correlate that words over an alphabet build metric spaces, as do codes.
 
 ### Why is this useful?
 
@@ -46,23 +46,23 @@ The Hamming distance on an alphabet and a code from it represents the shortest p
 
 Given that it's a metric space, we can also draw these spaces as (metric) **graphs**, like we did in the Algebra module, e.g. $\mathbb{F}_{2}^{3}$ is a cube where each edge represent a Hamming distance of $1$ and each vertex is a possible codeword. The minimum distance along these graphs (shortest path) is the Hamming distance, again.
 
-![[Definition of Minimum Code Distance]]
+![[../Definitions/Definition of Minimum Code Distance]]
 
 ### Can this relate to error detection and correction?
 
-![[Definition of Error Detection]]
+![[../Definitions/Definition of Error Detection]]
 
-![[Definition of Error Correction]]
+![[../Definitions/Definition of Error Correction]]
 
 The main theorem that relates these ideas with geometry, is the **Distance Theorem**:
 
-![[Definition of Distance Theorem]]
+![[../Definitions/Definition of Distance Theorem]]
 
 #### How do we prove the Distance Theorem?
 
 To prove this theorem, we need to define a solid sphere:
 
-![[Definition of a Solid Sphere]]
+![[../Definitions/Definition of a Solid Sphere]]
 
 Then, you can prove the first half of the theorem by proving $t\lt d_{\text{min}}(C)$ (as the theorem then follows from this), where $t$ represents the number of detected errors. The proof then assumes this, and proves (given that $d_{\text{min}}(C)$ is the smallest possible distance between **valid** codewords of $C$) that a received word $w$ is in the solid sphere of radius $t$ is less than $d_{\text{min}}(C)$ by construction.
 
@@ -77,7 +77,7 @@ Then, we can prove this half of the theorem by proving that, if $d_{\text{min}}(
 
 The strategy is so useful, it's named:
 
-![[Definition of Nearest Neighbour Decoding]]
+![[../Definitions/Definition of Nearest Neighbour Decoding]]
 
 ### Does this theorem tell us anything else?
 

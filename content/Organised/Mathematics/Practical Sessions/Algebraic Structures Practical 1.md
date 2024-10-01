@@ -1,4 +1,4 @@
-![[../Auto-Generated/Attachments/Algebraic Structures - Practical 1.pdf]]
+![[../../../Auto-Generated/Attachments/Algebraic Structures - Practical 1.pdf]]
 
 ## Question 1.1
 

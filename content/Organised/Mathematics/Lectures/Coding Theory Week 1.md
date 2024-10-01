@@ -3,7 +3,7 @@
 > [!QUOTE]
 > If you state some information, you must either rigorously prove the claim or reference where someone else does so. - Yuri
 
-[[MTH2002 Coding Theory - Practical 1]]
+[[../Practical Sessions/Coding Theory Practical 1]]
 
 ## What is Coding Theory?
 *Basically just the study of encoding and decoding information, where the process between is a transformation, such as the transformation between languages or to encode files, e.g. `.mp3` files.*

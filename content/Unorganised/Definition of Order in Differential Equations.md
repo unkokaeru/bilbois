@@ -1,0 +1,3 @@
+The order of a differential equation is the highest derivative in the equation. For example...
+
+$y^{\prime\prime}=y^{\prime}-6y$ is a second order differential equation.

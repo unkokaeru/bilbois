@@ -5,7 +5,7 @@ An **algebraic structure** is something with a **set**, **operation**, and **ide
 
 ## Groups
 
-![[Definition of a Group]]
+![[../Definitions/Definition of a Group]]
 
 If a set withholds these four axioms, then that set is the type of algebraic structure called a **group**. Some of these groups follow an additional axiom which makes it an [[abelian group]] (commutativity, i.e. the order of operations does not affect the result). Often it is easy to disprove that a set is a group with a counter-example, but proving a set is a group is involves a rigorous proof of each axiom.
 
@@ -16,4 +16,4 @@ Note that groups aren't all this clearly algebraic, there are also a lot of geom
 
 [[Chat-2024_09_23-16_30_07]]
 
-![[../Auto-Generated/Attachments/Slides.pdf]]
+![[../../../Auto-Generated/Attachments/Slides.pdf]]

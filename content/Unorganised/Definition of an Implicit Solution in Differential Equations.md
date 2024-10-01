@@ -1,0 +1,1 @@
+If there exists one function $\phi$ that satisfies the differential equation and some other relation $G(x,y)=0$ on an interval $I$, then $G(x,y)$ is an implicit solution.

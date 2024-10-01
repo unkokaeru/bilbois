@@ -15,8 +15,8 @@
 	- [ ] ASCII Photo (PNG to ASCII art).
 	- [ ] Chess Mini Me.
 	- [ ] Random Challenges.
-		- [ ] [[Convenience Store Challenge]].
-		- [ ] [[Video Length Conversion Challenge]].
+		- [ ] [[../Organised/Programming/Challenges/Convenience Store Challenge]].
+		- [ ] [[../Organised/Programming/Challenges/Video Length Conversion Challenge]].
 	- [ ] Dailies.
 	- [ ] Error Correction.
 	- [ ] *JSON Comparison.*
@@ -27,6 +27,7 @@
 	- [ ] QR Gen (QR Art Generation).
 	- [ ] Rate List.
 	- [ ] **Untitledobsidianproject**.
+		- [ ] Integrate Quartz, too - use pure GitHub pages (domain and hosting).
 - [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
@@ -42,12 +43,13 @@
 
 - [ ] Organise C++ lab repo and implement cool workflows etc. (auto build logbook??)
 - [ ] Go over first week notes...
-	- [ ] [[../Unorganised/Random Notes - Coding Theory 1|Random Notes - Coding Theory 1]],
-	- [ ] [[Random Notes - Coding Theory 2]],
-	- [ ] [[../Unorganised/Random Notes - Algebraic Structures 1|Random Notes - Algebraic Structures 1]],
-	- [ ] [[Random Notes - Algebraic Structures 2]],
-	- [ ] [[../Unorganised/Random Notes - Differential Equations|Random Notes - Differential Equations]],
-	- [ ] [[../Unorganised/Random Notes - Lagrangian and Hamiltonian Mechanics|Random Notes - Lagrangian and Hamiltonian Mechanics]]. Add physical notes into these, too.
+	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]],
+	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]],
+	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]],
+	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]],
+	- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]],
+	- [ ] [[Differential Equations Week 2]],
+	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too.
 	- [ ] incl. practical sessions and their solutions.
 - [ ] Revise first year, especially the Algebra module (re-create these notes).
 
@@ -56,7 +58,7 @@
 
 ### Unscheduled
 
-- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[application supporting statements]].
+- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[../Organised/Applications/application supporting statements]].
 - [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 
@@ -64,7 +66,7 @@
 
 - Thursday!
 	- [ ] Look into placements on [CareerLinc](https://careers.lincoln.ac.uk/student/jobs.html), [GradCracker](https://www.gradcracker.com/search/), and [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement).
-	- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers)!
+	- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md)!
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.

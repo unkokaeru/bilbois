@@ -6,65 +6,65 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Differential Equations Week 2</title>
+    <link>https://bilbois.me/Unorganised/Differential-Equations-Week-2</link>
+    <guid>https://bilbois.me/Unorganised/Differential-Equations-Week-2</guid>
+    <description>Lecture 1.pdf Lecture 2.pdf Differential Equations Practical 2 Recap Transclude of Definition-of-a-Differential-Equation Transclude of Definition-of-Order-in-Differential-Equations ...</description>
+    <pubDate>Tue, 01 Oct 2024 08:45:00 GMT</pubDate>
+  </item><item>
+    <title>Definition of an Initial Value Problem</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-an-Initial-Value-Problem</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-an-Initial-Value-Problem</guid>
+    <description>An initial value problem specifies an initial condition that the solution to the ordinary differential equation must satisfy, such as… “Solve the ordinary differential equation ...</description>
+    <pubDate>Tue, 01 Oct 2024 08:39:50 GMT</pubDate>
+  </item><item>
+    <title>Definition of an Implicit Solution in Differential Equations</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-an-Implicit-Solution-in-Differential-Equations</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-an-Implicit-Solution-in-Differential-Equations</guid>
+    <description>If there exists one function \phi that satisfies the differential equation and some other relation G(x,y)=0 on an interval I, then G(x,y) is an implicit solution. ...</description>
+    <pubDate>Tue, 01 Oct 2024 08:17:20 GMT</pubDate>
+  </item><item>
+    <title>Definition of an Explicit Solution in Differential Equations</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-an-Explicit-Solution-in-Differential-Equations</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-an-Explicit-Solution-in-Differential-Equations</guid>
+    <description>An explicit solution is a solution for which the dependent variable is expressed in terms of only the independent variable, e..g y=xe^{x},\text{ from the differential equation ...</description>
+    <pubDate>Tue, 01 Oct 2024 08:16:36 GMT</pubDate>
+  </item><item>
+    <title>Challenges</title>
+    <link>https://bilbois.me/Organised/Programming/Challenges/Challenges</link>
+    <guid>https://bilbois.me/Organised/Programming/Challenges/Challenges</guid>
+    <description>id: b79b5e8b-3124-45f6-a8bf-6c37f0d608a2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Tue, 01 Oct 2024 08:13:30 GMT</pubDate>
+  </item><item>
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
     <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Mon, 30 Sep 2024 20:07:29 GMT</pubDate>
+    <pubDate>Tue, 01 Oct 2024 08:13:24 GMT</pubDate>
   </item><item>
-    <title>Algebraic Structures - Practical 1</title>
-    <link>https://bilbois.me/Unorganised/Algebraic-Structures---Practical-1</link>
-    <guid>https://bilbois.me/Unorganised/Algebraic-Structures---Practical-1</guid>
-    <description> Question 1.1 Set: \set{1} with multiplication, Closure: 1\cdot1=1\in \set{1}. Associativity: 1\cdot1=1=1\cdot1. Identity Element: 1. Inverse Element: 1 is its own inverse.</description>
-    <pubDate>Mon, 30 Sep 2024 15:47:30 GMT</pubDate>
+    <title>Applications</title>
+    <link>https://bilbois.me/Organised/Applications/Applications</link>
+    <guid>https://bilbois.me/Organised/Applications/Applications</guid>
+    <description>id: 07d9ff00-51a9-42de-89ff-b62fa0dbe8bf folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Tue, 01 Oct 2024 08:13:02 GMT</pubDate>
   </item><item>
-    <title>Random Notes - Algebraic Structures 2</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-2</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-2</guid>
-    <description>Recap Transclude of Definition-of-a-Group We can always assume that additive integers and multiplicative integers are a group, and hence are associative, too ...</description>
-    <pubDate>Mon, 30 Sep 2024 14:46:09 GMT</pubDate>
+    <title>Definition of a Linear Ordinary Differential Equation</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-a-Linear-Ordinary-Differential-Equation</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-a-Linear-Ordinary-Differential-Equation</guid>
+    <description>Any nth ordinary differential equation (ODE) can be written as F(x,y,y^{prime},\ldots,y^{(n)})=0. The ODE is linear if it can be written in the form… a_{n}(x) \frac{d^{n}y}{dx^{n}}+\ldots+a_{1}(x) \frac{dy}{dx}+a_{0}(x)y=g(x).</description>
+    <pubDate>Tue, 01 Oct 2024 08:08:57 GMT</pubDate>
   </item><item>
-    <title>Definition of Identity Uniqueness</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Identity-Uniqueness</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Identity-Uniqueness</guid>
-    <description>Assume that G together with * is a group. Then, G has exactly one identity element.</description>
-    <pubDate>Mon, 30 Sep 2024 14:37:48 GMT</pubDate>
+    <title>Definition of a Partial Differential Equation</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-a-Partial-Differential-Equation</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-a-Partial-Differential-Equation</guid>
+    <description>If a function depends on more than one variable, e.g. u=u(x,t), then we have a partial differential equation, e.g. \frac{\partial u}{\partial t}=\frac{\partial u^{2}}{\partial t^{2}}.</description>
+    <pubDate>Tue, 01 Oct 2024 08:06:46 GMT</pubDate>
   </item><item>
-    <title>Side Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Side-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Side-Quests</guid>
-    <description>questlog Just stuff I want to do at some point, but don’t need to do right now :) Related: Main Quests and Grinding. Programming Create a programming portfolio on tamago.tech within the unkokaeru repo.</description>
-    <pubDate>Mon, 30 Sep 2024 14:08:32 GMT</pubDate>
-  </item><item>
-    <title>Chat-2024_09_23-16_30_07</title>
-    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</link>
-    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_09_23-16_30_07</guid>
-    <description>user: Extend Random Notes - Algebraic Structures 1 with a short section on the last ten slides of the slideshow pdf linked at the end of the note, where the slides talk about Direct Products ...</description>
-    <pubDate>Mon, 30 Sep 2024 14:05:05 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Group</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Group</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Group</guid>
-    <description>A group is a set G together with an operation * such that all of four of the following axioms hold: Closure: If x,y\in G, then x*y is also in G. Associativity: If x,y\in G, then x*(y*z)=(x*y)*z.</description>
-    <pubDate>Mon, 30 Sep 2024 14:04:48 GMT</pubDate>
-  </item><item>
-    <title>Random Notes - Algebraic Structures 1</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-1</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Algebraic-Structures-1</guid>
-    <description>An algebraic structure is something with a set, operation, and identities or axioms. They help us understand what different mathematical objects have in common and allow us to understand things more abstractly.</description>
-    <pubDate>Mon, 30 Sep 2024 14:04:36 GMT</pubDate>
-  </item><item>
-    <title>Employer Project</title>
-    <link>https://bilbois.me/Unorganised/Employer-Project</link>
-    <guid>https://bilbois.me/Unorganised/Employer-Project</guid>
-    <description>Details Employer/client: Lonestar Analytics Project task: Conduct a competitor analysis &amp; recommendations for enhancing Lonestar’s online presence ...</description>
-    <pubDate>Mon, 30 Sep 2024 14:03:53 GMT</pubDate>
-  </item><item>
-    <title>Random Notes - Coding Theory 2</title>
-    <link>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</link>
-    <guid>https://bilbois.me/Unorganised/Random-Notes---Coding-Theory-2</guid>
-    <description>Recap Transclude of Definition-of-an-Alphabet-in-Coding-Theory Transclude of Definition-of-a-Code-in-Coding-Theory Transclude of Definition-of-Hamming-Distance ...</description>
-    <pubDate>Mon, 30 Sep 2024 09:47:48 GMT</pubDate>
+    <title>Definition of Order in Differential Equations</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Order-in-Differential-Equations</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Order-in-Differential-Equations</guid>
+    <description>The order of a differential equation is the highest derivative in the equation. For example… y^{\prime\prime}=y^{\prime}-6y is a second order differential equation.</description>
+    <pubDate>Tue, 01 Oct 2024 08:05:10 GMT</pubDate>
   </item>
     </channel>
   </rss>

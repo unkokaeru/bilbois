@@ -1,6 +1,6 @@
 ## Recap
 
-![[Definition of a Group]]
+![[../Definitions/Definition of a Group]]
 
 We can always assume that additive integers and multiplicative integers are a group, and hence are associative, too.
 
@@ -16,10 +16,10 @@ If we define an operation $*$ on $\mathbb{R}^{*}=\mathbb{R}\set{0}$ by $x*y=|x|y
 
 The issue here is that this doesn't define a group, and in fact leads to contradictions such as $-1=1$. Hence, we define a theorem...
 
-![[Definition of Identity Uniqueness]]
+![[../Definitions/Definition of Identity Uniqueness]]
 
 This can be proven by assuming the negative, that $G$ has two identity elements. Following this, we create a proof by contradiction which then leads to the two identity elements being equal to each other.
 
 The inverse is more logical, where the inverse of an inverse is the original.
 
-[[Algebraic Structures - Practical 1]]
+[[../Practical Sessions/Algebraic Structures Practical 1]]

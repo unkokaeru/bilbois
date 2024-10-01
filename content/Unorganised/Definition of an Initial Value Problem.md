@@ -1,0 +1,3 @@
+An initial value problem specifies an **initial condition** that the solution to the ordinary differential equation must satisfy, such as...
+
+"Solve the ordinary differential equation $\frac{dy}{dx}=f(x,y)$ subject to the initial condition$y(x=x_{0})=y_{0}$."
