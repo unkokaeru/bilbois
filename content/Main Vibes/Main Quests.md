@@ -29,6 +29,8 @@
 	- [ ] **Untitledobsidianproject**.
 		- [ ] Integrate Quartz, too - use pure GitHub pages (domain and hosting).
 - [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
+	- [ ] Buttons -> `button: does blah blah`.
+	- [ ] Render folder note overview as markdown list.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
 	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).

@@ -72,3 +72,22 @@ We can handle these in two ways (plus just leaving them as a family of solutions
 >[!EXAMPLE]
 >Considering the ordinary differential equation $\frac{dy}{dx}=y$ with general solution $y=ce^{x}$, we can impose the initial condition $y(x=1)=-2$ such that: $y(x=1)=ce^{x=1}=-2:c=-2e^{-1}$, which gives us the particular solution $y=-2e^{x-1}$.
 
+Naturally, if our differential equation is a higher order, let's say an order $n$, then we'd need to integrate it $n$ times to find a solution, hence need to impose $n$ conditions to solve for $n$ constants of integration.
+
+## How can we tell that a solutions is unique, or even exists?
+
+In other words, how can we check that any of a differential equation's solutions pass through $(x_{0},y_{0})$ and does only one solution curve pass through this point?
+
+Sometimes, no, but there's a theorem which help  us discover this quicker:
+
+![[Definition of the Theorem of Unique Solution Existence in Differential Equations]]
+
+Basically, if $f(x,y)$ and $\frac{\partial x}{\partial y}$ are continuous in some region containing the origin, then there will be a unique solution - this is easy to check for, as we just look for discontinuities first.
+
+>[!EXAMPLE]
+>We can show that $y=\tan(x+c)$ is a one-parameter family of solutions to the ordinary differential equation $y^{\prime}=1+y^{2}$ by substitution and then showing that $\sec^{2}(x)=1+\tan^{2}(x)$.
+>Then, we can verify if there exists a unique solution for the initial condition $y(0)=0$ by using the aforementioned theorem - so, if there are no discontinuities in the curve around the origin, then there is a unique solution, and vice versa. In this case, the particular solution is $y=\tan(x)$, which passes through the origin and is valid in the interval $(- \frac{\pi}{2}, \frac{\pi}{2})$ and hence has a unique solution.
+>Finally, we can conclude that the solution is not valid in the region $(-2,2)$ because it contradicts the aforementioned interval of validity (constrained by the asymptotes at $\pm \frac{\pi}{2}$).
+
+
+

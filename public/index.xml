@@ -10,7 +10,19 @@
     <link>https://bilbois.me/Unorganised/Differential-Equations-Week-2</link>
     <guid>https://bilbois.me/Unorganised/Differential-Equations-Week-2</guid>
     <description>Lecture 1.pdf Lecture 2.pdf Differential Equations Practical 2 Recap Transclude of Definition-of-a-Differential-Equation Transclude of Definition-of-Order-in-Differential-Equations ...</description>
-    <pubDate>Tue, 01 Oct 2024 08:45:00 GMT</pubDate>
+    <pubDate>Tue, 01 Oct 2024 09:32:20 GMT</pubDate>
+  </item><item>
+    <title>Definition of the Theorem of Unique Solution Existence in Differential Equations</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</guid>
+    <description>Let R be a rectangular region in the xy-plane defined by a\le x\le b and c\le y\le d that contains point (x_{0},y_{0}). If f(x,y) and \frac{\partial f}{\partial y} are continuous on R, then there exists… … some interval I_{0}:(x_{0}-h,x_{0}+h),h\gt0, contained in [a,b], … a unique function y(x) defined on I_{0}, that is a solution of the initial value problem (IVP): \frac{dy}{dx}=f(x,y),y(x=x_{0})=y_{0}.</description>
+    <pubDate>Tue, 01 Oct 2024 09:21:53 GMT</pubDate>
+  </item><item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
+    <pubDate>Tue, 01 Oct 2024 08:50:32 GMT</pubDate>
   </item><item>
     <title>Definition of an Initial Value Problem</title>
     <link>https://bilbois.me/Unorganised/Definition-of-an-Initial-Value-Problem</link>
@@ -36,12 +48,6 @@
     <description>id: b79b5e8b-3124-45f6-a8bf-6c37f0d608a2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
     <pubDate>Tue, 01 Oct 2024 08:13:30 GMT</pubDate>
   </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Tue, 01 Oct 2024 08:13:24 GMT</pubDate>
-  </item><item>
     <title>Applications</title>
     <link>https://bilbois.me/Organised/Applications/Applications</link>
     <guid>https://bilbois.me/Organised/Applications/Applications</guid>
@@ -59,12 +65,6 @@
     <guid>https://bilbois.me/Unorganised/Definition-of-a-Partial-Differential-Equation</guid>
     <description>If a function depends on more than one variable, e.g. u=u(x,t), then we have a partial differential equation, e.g. \frac{\partial u}{\partial t}=\frac{\partial u^{2}}{\partial t^{2}}.</description>
     <pubDate>Tue, 01 Oct 2024 08:06:46 GMT</pubDate>
-  </item><item>
-    <title>Definition of Order in Differential Equations</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Order-in-Differential-Equations</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Order-in-Differential-Equations</guid>
-    <description>The order of a differential equation is the highest derivative in the equation. For example… y^{\prime\prime}=y^{\prime}-6y is a second order differential equation.</description>
-    <pubDate>Tue, 01 Oct 2024 08:05:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
