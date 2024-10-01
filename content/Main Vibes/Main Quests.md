@@ -15,8 +15,8 @@
 	- [ ] ASCII Photo (PNG to ASCII art).
 	- [ ] Chess Mini Me.
 	- [ ] Random Challenges.
-		- [ ] [[../Organised/Programming/Challenges/Convenience Store Challenge]].
-		- [ ] [[../Organised/Programming/Challenges/Video Length Conversion Challenge]].
+		- [ ] [[Convenience Store Challenge]].
+		- [ ] [[Video Length Conversion Challenge]].
 	- [ ] Dailies.
 	- [ ] Error Correction.
 	- [ ] *JSON Comparison.*
@@ -28,17 +28,21 @@
 	- [ ] Rate List.
 	- [ ] **Untitledobsidianproject**.
 		- [ ] Integrate Quartz, too - use pure GitHub pages (domain and hosting).
-- [ ] Modify my Quartz workflow to convert appropriate code blocks to static markdown when building HTML.
-	- [ ] Buttons -> `button: does blah blah`.
-	- [ ] Render folder note overview as markdown list.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
 	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
 	- [ ] Self-host photos.
 	- [ ] Self-host password manager.
 	- [ ] Self-host cloud storage.
+- [ ] Quartz To-Do...
+	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
+	- [ ] [[Convert buttons to markdown on render]].
+	- [ ] [[Convert folder overview to markdown on render]].
+	- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
+	- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 - [ ] Go through my GitHub Issues.
+- [ ] Complete my application for a credit card by submitting identification docmuents.
 
 ---
 ## Academic
@@ -60,8 +64,9 @@
 
 ### Unscheduled
 
-- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday 7th October, after answering the [[../Organised/Applications/application supporting statements]].
+- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday, after answering the [[application supporting statements]].
 - [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
+- [ ] Create a summary with questions for my Tuesday 1800 student.
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 
 ### Scheduled

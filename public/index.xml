@@ -6,6 +6,30 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
+    <pubDate>Tue, 01 Oct 2024 20:08:15 GMT</pubDate>
+  </item><item>
+    <title>Convenience Store Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/Challenges/Convenience-Store-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/Challenges/Convenience-Store-Challenge</guid>
+    <description>...</description>
+    <pubDate>Tue, 01 Oct 2024 20:06:20 GMT</pubDate>
+  </item><item>
+    <title>Convert buttons to markdown on render</title>
+    <link>https://bilbois.me/Unorganised/Convert-buttons-to-markdown-on-render</link>
+    <guid>https://bilbois.me/Unorganised/Convert-buttons-to-markdown-on-render</guid>
+    <description>...</description>
+    <pubDate>Tue, 01 Oct 2024 20:06:00 GMT</pubDate>
+  </item><item>
+    <title>Convert folder overview to markdown on render</title>
+    <link>https://bilbois.me/Unorganised/Convert-folder-overview-to-markdown-on-render</link>
+    <guid>https://bilbois.me/Unorganised/Convert-folder-overview-to-markdown-on-render</guid>
+    <description>...</description>
+    <pubDate>Tue, 01 Oct 2024 20:05:21 GMT</pubDate>
+  </item><item>
     <title>Differential Equations Week 2</title>
     <link>https://bilbois.me/Unorganised/Differential-Equations-Week-2</link>
     <guid>https://bilbois.me/Unorganised/Differential-Equations-Week-2</guid>
@@ -17,12 +41,6 @@
     <guid>https://bilbois.me/Unorganised/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</guid>
     <description>Let R be a rectangular region in the xy-plane defined by a\le x\le b and c\le y\le d that contains point (x_{0},y_{0}). If f(x,y) and \frac{\partial f}{\partial y} are continuous on R, then there exists… … some interval I_{0}:(x_{0}-h,x_{0}+h),h\gt0, contained in [a,b], … a unique function y(x) defined on I_{0}, that is a solution of the initial value problem (IVP): \frac{dy}{dx}=f(x,y),y(x=x_{0})=y_{0}.</description>
     <pubDate>Tue, 01 Oct 2024 09:21:53 GMT</pubDate>
-  </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Tue, 01 Oct 2024 08:50:32 GMT</pubDate>
   </item><item>
     <title>Definition of an Initial Value Problem</title>
     <link>https://bilbois.me/Unorganised/Definition-of-an-Initial-Value-Problem</link>
@@ -47,24 +65,6 @@
     <guid>https://bilbois.me/Organised/Programming/Challenges/Challenges</guid>
     <description>id: b79b5e8b-3124-45f6-a8bf-6c37f0d608a2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
     <pubDate>Tue, 01 Oct 2024 08:13:30 GMT</pubDate>
-  </item><item>
-    <title>Applications</title>
-    <link>https://bilbois.me/Organised/Applications/Applications</link>
-    <guid>https://bilbois.me/Organised/Applications/Applications</guid>
-    <description>id: 07d9ff00-51a9-42de-89ff-b62fa0dbe8bf folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Tue, 01 Oct 2024 08:13:02 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Linear Ordinary Differential Equation</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Linear-Ordinary-Differential-Equation</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Linear-Ordinary-Differential-Equation</guid>
-    <description>Any nth ordinary differential equation (ODE) can be written as F(x,y,y^{prime},\ldots,y^{(n)})=0. The ODE is linear if it can be written in the form… a_{n}(x) \frac{d^{n}y}{dx^{n}}+\ldots+a_{1}(x) \frac{dy}{dx}+a_{0}(x)y=g(x).</description>
-    <pubDate>Tue, 01 Oct 2024 08:08:57 GMT</pubDate>
-  </item><item>
-    <title>Definition of a Partial Differential Equation</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-a-Partial-Differential-Equation</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-a-Partial-Differential-Equation</guid>
-    <description>If a function depends on more than one variable, e.g. u=u(x,t), then we have a partial differential equation, e.g. \frac{\partial u}{\partial t}=\frac{\partial u^{2}}{\partial t^{2}}.</description>
-    <pubDate>Tue, 01 Oct 2024 08:06:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
