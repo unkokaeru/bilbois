@@ -10,7 +10,37 @@
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
     <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Tue, 01 Oct 2024 20:08:15 GMT</pubDate>
+    <pubDate>Wed, 02 Oct 2024 23:18:53 GMT</pubDate>
+  </item><item>
+    <title>C++ Lab stuff</title>
+    <link>https://bilbois.me/Unorganised/C++-Lab-stuff</link>
+    <guid>https://bilbois.me/Unorganised/C++-Lab-stuff</guid>
+    <description>GitHub repository: github.com/unkokaeru/lincoln-logbook/ Implement Workflows/Actions to auto-build the logbook based on the below criteria. Maybe I&#039;ll actually create a pip project to convert the code to markdown and run that in the action, just to make the code neater and more of a project? Cover: University of Lincoln, Scientific Computing Logbook (Semester A), MTH2008.</description>
+    <pubDate>Wed, 02 Oct 2024 23:13:26 GMT</pubDate>
+  </item><item>
+    <title>Academic Deadlines (2024-25)</title>
+    <link>https://bilbois.me/Unorganised/Academic-Deadlines-(2024-25)</link>
+    <guid>https://bilbois.me/Unorganised/Academic-Deadlines-(2024-25)</guid>
+    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
+    <pubDate>Wed, 02 Oct 2024 15:17:12 GMT</pubDate>
+  </item><item>
+    <title>Differential Equations Week 2</title>
+    <link>https://bilbois.me/Organised/Mathematics/Lectures/Differential-Equations-Week-2</link>
+    <guid>https://bilbois.me/Organised/Mathematics/Lectures/Differential-Equations-Week-2</guid>
+    <description>Lecture 1.pdf Lecture 2.pdf Differential Equations Practical 2 Recap Definition-of-a-Differential-Equation Definition-of-Order-in-Differential-Equations Definition-of-a-Partial-Differential-Equation ...</description>
+    <pubDate>Wed, 02 Oct 2024 14:47:45 GMT</pubDate>
+  </item><item>
+    <title>Differential Equations Practical 2</title>
+    <link>https://bilbois.me/Organised/Mathematics/Practical-Sessions/Differential-Equations-Practical-2</link>
+    <guid>https://bilbois.me/Organised/Mathematics/Practical-Sessions/Differential-Equations-Practical-2</guid>
+    <description> Problem 1 ….</description>
+    <pubDate>Wed, 02 Oct 2024 14:47:45 GMT</pubDate>
+  </item><item>
+    <title>Count True Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/Challenges/Count-True-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/Challenges/Count-True-Challenge</guid>
+    <description> How Much is True?Create a function which returns the number of true values there are in an array. Examples&lt;br&gt;countTrue([true, false, false, true, false]) ➞ 2&lt;br&gt;&lt;br&gt;countTrue([false, false, false, false]) ➞ 0&lt;br&gt;&lt;br&gt;countTrue([]) ➞ 0&lt;br&gt; Notes- Return 0 if given an empty array.</description>
+    <pubDate>Wed, 02 Oct 2024 14:40:53 GMT</pubDate>
   </item><item>
     <title>Convenience Store Challenge</title>
     <link>https://bilbois.me/Organised/Programming/Challenges/Convenience-Store-Challenge</link>
@@ -30,41 +60,11 @@
     <description>...</description>
     <pubDate>Tue, 01 Oct 2024 20:05:21 GMT</pubDate>
   </item><item>
-    <title>Differential Equations Week 2</title>
-    <link>https://bilbois.me/Unorganised/Differential-Equations-Week-2</link>
-    <guid>https://bilbois.me/Unorganised/Differential-Equations-Week-2</guid>
-    <description>Lecture 1.pdf Lecture 2.pdf Differential Equations Practical 2 Recap Transclude of Definition-of-a-Differential-Equation Transclude of Definition-of-Order-in-Differential-Equations ...</description>
-    <pubDate>Tue, 01 Oct 2024 09:32:20 GMT</pubDate>
-  </item><item>
     <title>Definition of the Theorem of Unique Solution Existence in Differential Equations</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</guid>
+    <link>https://bilbois.me/Organised/Mathematics/Definitions/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</link>
+    <guid>https://bilbois.me/Organised/Mathematics/Definitions/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</guid>
     <description>Let R be a rectangular region in the xy-plane defined by a\le x\le b and c\le y\le d that contains point (x_{0},y_{0}). If f(x,y) and \frac{\partial f}{\partial y} are continuous on R, then there exists… … some interval I_{0}:(x_{0}-h,x_{0}+h),h\gt0, contained in [a,b], … a unique function y(x) defined on I_{0}, that is a solution of the initial value problem (IVP): \frac{dy}{dx}=f(x,y),y(x=x_{0})=y_{0}.</description>
     <pubDate>Tue, 01 Oct 2024 09:21:53 GMT</pubDate>
-  </item><item>
-    <title>Definition of an Initial Value Problem</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-an-Initial-Value-Problem</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-an-Initial-Value-Problem</guid>
-    <description>An initial value problem specifies an initial condition that the solution to the ordinary differential equation must satisfy, such as… “Solve the ordinary differential equation ...</description>
-    <pubDate>Tue, 01 Oct 2024 08:39:50 GMT</pubDate>
-  </item><item>
-    <title>Definition of an Implicit Solution in Differential Equations</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-an-Implicit-Solution-in-Differential-Equations</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-an-Implicit-Solution-in-Differential-Equations</guid>
-    <description>If there exists one function \phi that satisfies the differential equation and some other relation G(x,y)=0 on an interval I, then G(x,y) is an implicit solution. ...</description>
-    <pubDate>Tue, 01 Oct 2024 08:17:20 GMT</pubDate>
-  </item><item>
-    <title>Definition of an Explicit Solution in Differential Equations</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-an-Explicit-Solution-in-Differential-Equations</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-an-Explicit-Solution-in-Differential-Equations</guid>
-    <description>An explicit solution is a solution for which the dependent variable is expressed in terms of only the independent variable, e..g y=xe^{x},\text{ from the differential equation ...</description>
-    <pubDate>Tue, 01 Oct 2024 08:16:36 GMT</pubDate>
-  </item><item>
-    <title>Challenges</title>
-    <link>https://bilbois.me/Organised/Programming/Challenges/Challenges</link>
-    <guid>https://bilbois.me/Organised/Programming/Challenges/Challenges</guid>
-    <description>id: b79b5e8b-3124-45f6-a8bf-6c37f0d608a2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Tue, 01 Oct 2024 08:13:30 GMT</pubDate>
   </item>
     </channel>
   </rss>

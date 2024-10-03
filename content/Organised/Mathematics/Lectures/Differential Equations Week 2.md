@@ -1,17 +1,17 @@
 [[../Auto-Generated/Attachments/Lecture 1.pdf]]
-[[../Auto-Generated/Attachments/Lecture 2.pdf]]
+[[../../../Auto-Generated/Attachments/Lecture 2.pdf]]
 
-[[Differential Equations Practical 2]]
+[[../Practical Sessions/Differential Equations Practical 2]]
 
 ## Recap
 
-![[Definition of a Differential Equation]]
+![[../Definitions/Definition of a Differential Equation]]
 
-![[Definition of Order in Differential Equations]]
+![[../Definitions/Definition of Order in Differential Equations]]
 
-![[Definition of a Partial Differential Equation]]
+![[../Definitions/Definition of a Partial Differential Equation]]
 
-![[Definition of a Linear Ordinary Differential Equation]]
+![[../Definitions/Definition of a Linear Ordinary Differential Equation]]
 
 You can also verify solutions to these equations by substituting the solution into the original equation and testing if the left-hand side (LHS) is equal to the right-hand side (RHS) over a given interval ($(-\infty,\infty)$ if not given).
 
@@ -21,9 +21,9 @@ When we're thinking about intervals of validity, then we need to study solution 
 
 There are two types:
 
-![[Definition of an Explicit Solution in Differential Equations]]
+![[../Definitions/Definition of an Explicit Solution in Differential Equations]]
 
-![[Definition of an Implicit Solution in Differential Equations]]
+![[../Definitions/Definition of an Implicit Solution in Differential Equations]]
 
 The latter of which is usually more common.
 

@@ -12,42 +12,43 @@
 		- [ ] Use classes for everything and 4o-mini for content generation.
 		- [ ] Extend to generate GCSE and A-Level content.
 		- [ ] Convert to a website?
-	- [ ] ASCII Photo (PNG to ASCII art).
+	- [ ] *Morning Briefing Generation.*
+		- [ ] Make it actually useful: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
+	- [ ] *PGN to JSON Converter.*
+	- [ ] Quartz Digital Garden.
+		- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
+		- [ ] [[Convert buttons to markdown on render]].
+		- [ ] [[Convert folder overview to markdown on render]].
+		- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
+		- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
+	- [ ] **Untitledobsidianproject**.
+		- [ ] Integrate Quartz, too - use pure GitHub pages (domain and hosting).
+	- [ ] Error Correction.
+	- [ ] QR Gen (QR Art Generation + Chrome extension?).
+	- [ ] Rate List.
 	- [ ] Chess Mini Me.
+	- [ ] Dailies.
+	- [ ] ==*Markdown Merger.*== - can be used to simplify my logbook generation.
+	- [ ] *JSON Comparison.*
+	- [ ] Minesweeper.
 	- [ ] Random Challenges.
 		- [ ] [[Convenience Store Challenge]].
 		- [ ] [[Video Length Conversion Challenge]].
-	- [ ] Dailies.
-	- [ ] Error Correction.
-	- [ ] *JSON Comparison.*
-	- [ ] *Markdown Merger.*
-	- [ ] Minesweeper.
-	- [ ] *Morning Briefing Generation.*
-	- [ ] *PGN to JSON Converter.*
-	- [ ] QR Gen (QR Art Generation).
-	- [ ] Rate List.
-	- [ ] **Untitledobsidianproject**.
-		- [ ] Integrate Quartz, too - use pure GitHub pages (domain and hosting).
+		- [ ] [[Count True Challenge]].
+	- [ ] ASCII Photo (PNG to ASCII art).
+- [ ] Print off my [[student ID barcode.png]] and stick it to the bottom of bottle - see if it works to get into the library.
+- [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
 	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
 	- [ ] Self-host photos.
 	- [ ] Self-host password manager.
 	- [ ] Self-host cloud storage.
-- [ ] Quartz To-Do...
-	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
-	- [ ] [[Convert buttons to markdown on render]].
-	- [ ] [[Convert folder overview to markdown on render]].
-	- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
-	- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
-- [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
-- [ ] Go through my GitHub Issues.
-- [ ] Complete my application for a credit card by submitting identification docmuents.
 
 ---
 ## Academic
 
-- [ ] Organise C++ lab repo and implement cool workflows etc. (auto build logbook??)
+- [ ] Organise [[C++ Lab stuff]].
 - [ ] Go over first week notes...
 	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]],
 	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]],
@@ -55,9 +56,10 @@
 	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]],
 	- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]],
 	- [ ] [[Differential Equations Week 2]],
-	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too.
+	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too. Catch up with week 2.
 	- [ ] incl. practical sessions and their solutions.
 - [ ] Revise first year, especially the Algebra module (re-create these notes).
+- [ ] Look into [[Academic Deadlines (2024-25)]] - maybe make a "BSc Mathematics" folder or similar.
 
 ---
 ## Work
