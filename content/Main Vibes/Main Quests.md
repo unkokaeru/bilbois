@@ -37,6 +37,7 @@
 		- [ ] [[Count True Challenge]].
 	- [ ] ASCII Photo (PNG to ASCII art).
 - [ ] Print off my [[student ID barcode.png]] and stick it to the bottom of bottle - see if it works to get into the library.
+- [ ] Look at [Alex's CV](https://docs.google.com/document/d/1e-mcCKi0KnYLssIf7lfRtlmL3Z_LYAgY/edit).
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
@@ -55,7 +56,7 @@
 	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]],
 	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]],
 	- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]],
-	- [ ] [[Differential Equations Week 2]],
+	- [ ] [[Differential Equations Week 2]], catch up with week 2,
 	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too. Catch up with week 2.
 	- [ ] incl. practical sessions and their solutions.
 - [ ] Revise first year, especially the Algebra module (re-create these notes).
@@ -70,6 +71,7 @@
 - [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
 - [ ] Create a summary with questions for my Tuesday 1800 student.
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
+- [ ] Update CV with Thailand and Oxford stuff.
 
 ### Scheduled
 
