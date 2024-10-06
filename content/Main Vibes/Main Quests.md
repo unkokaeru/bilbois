@@ -36,8 +36,7 @@
 		- [ ] [[Video Length Conversion Challenge]].
 		- [ ] [[Count True Challenge]].
 	- [ ] ASCII Photo (PNG to ASCII art).
-- [ ] Print off my [[student ID barcode.png]] and stick it to the bottom of bottle - see if it works to get into the library.
-- [ ] Look at [Alex's CV](https://docs.google.com/document/d/1e-mcCKi0KnYLssIf7lfRtlmL3Z_LYAgY/edit).
+- [ ] **Look at [Alex's CV](https://docs.google.com/document/d/1e-mcCKi0KnYLssIf7lfRtlmL3Z_LYAgY/edit).**
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
@@ -68,17 +67,14 @@
 
 ### Unscheduled
 
-- [ ] Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday, after answering the [[application supporting statements]].
+- [ ] **Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday, after answering the [[application supporting statements]].**
 - [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
-- [ ] Create a summary with questions for my Tuesday 1800 student.
+- [ ] **Create a summary with questions for my Tuesday 1800 student.**
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
-- [ ] Update CV with Thailand and Oxford stuff.
+- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff.
 
 ### Scheduled
 
-- Thursday!
-	- [ ] Look into placements on [CareerLinc](https://careers.lincoln.ac.uk/student/jobs.html), [GradCracker](https://www.gradcracker.com/search/), and [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement).
-	- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md)!
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
