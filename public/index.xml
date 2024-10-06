@@ -6,17 +6,41 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>C++ Lab stuff</title>
+    <link>https://bilbois.me/Unorganised/C++-Lab-stuff</link>
+    <guid>https://bilbois.me/Unorganised/C++-Lab-stuff</guid>
+    <description>GitHub repository: github.com/unkokaeru/lincoln-logbook/. Think about using pandoc to render the markdown the html, too, then hosting that on GitHub pages.</description>
+    <pubDate>Sun, 06 Oct 2024 01:11:37 GMT</pubDate>
+  </item><item>
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
     <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Thu, 03 Oct 2024 15:35:29 GMT</pubDate>
+    <pubDate>Fri, 04 Oct 2024 13:46:47 GMT</pubDate>
   </item><item>
-    <title>C++ Lab stuff</title>
-    <link>https://bilbois.me/Unorganised/C++-Lab-stuff</link>
-    <guid>https://bilbois.me/Unorganised/C++-Lab-stuff</guid>
-    <description>GitHub repository: github.com/unkokaeru/lincoln-logbook/ Implement Workflows/Actions to auto-build the logbook based on the below criteria. Maybe I&#039;ll actually create a pip project to convert the code to markdown and run that in the action, just to make the code neater and more of a project? Cover: University of Lincoln, Scientific Computing Logbook (Semester A), MTH2008.</description>
-    <pubDate>Wed, 02 Oct 2024 23:13:26 GMT</pubDate>
+    <title>Coding Theory Practical 2</title>
+    <link>https://bilbois.me/Unorganised/Coding-Theory-Practical-2</link>
+    <guid>https://bilbois.me/Unorganised/Coding-Theory-Practical-2</guid>
+    <description>...</description>
+    <pubDate>Fri, 04 Oct 2024 13:45:57 GMT</pubDate>
+  </item><item>
+    <title>Coding Theory Week 2</title>
+    <link>https://bilbois.me/Organised/Mathematics/Lectures/Coding-Theory-Week-2</link>
+    <guid>https://bilbois.me/Organised/Mathematics/Lectures/Coding-Theory-Week-2</guid>
+    <description>Notes Recap Definition-of-an-Alphabet-in-Coding-Theory Definition-of-a-Code-in-Coding-Theory Definition-of-Hamming-Distance Does Hamming distance have geometry? ...</description>
+    <pubDate>Fri, 04 Oct 2024 13:43:16 GMT</pubDate>
+  </item><item>
+    <title>Definition of the Main Problem of Coding Theory</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-the-Main-Problem-of-Coding-Theory</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-the-Main-Problem-of-Coding-Theory</guid>
+    <description>Given a q-ary alphabet, a length n, and a desired minimal distance d, design an (n,M,d)_{q}-code for which its total number of codewords M is as large as possible, denoted by M_{q}(n,d). ...</description>
+    <pubDate>Fri, 04 Oct 2024 12:50:29 GMT</pubDate>
+  </item><item>
+    <title>Definition of Parameters of a Code</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-Parameters-of-a-Code</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-Parameters-of-a-Code</guid>
+    <description>Let n, M, d, and q be natural numbers. A code C called an (n,M,d)_{q}-code when… the underlying alphabet used for C has q symbols, each codeword in C has length n, C itself has M codewords in total, i.e.</description>
+    <pubDate>Fri, 04 Oct 2024 12:34:34 GMT</pubDate>
   </item><item>
     <title>Academic Deadlines (2024-25)</title>
     <link>https://bilbois.me/Unorganised/Academic-Deadlines-(2024-25)</link>
@@ -41,30 +65,6 @@
     <guid>https://bilbois.me/Organised/Programming/Challenges/Count-True-Challenge</guid>
     <description> How Much is True?Create a function which returns the number of true values there are in an array. Examples&lt;br&gt;countTrue([true, false, false, true, false]) ➞ 2&lt;br&gt;&lt;br&gt;countTrue([false, false, false, false]) ➞ 0&lt;br&gt;&lt;br&gt;countTrue([]) ➞ 0&lt;br&gt; Notes- Return 0 if given an empty array.</description>
     <pubDate>Wed, 02 Oct 2024 14:40:53 GMT</pubDate>
-  </item><item>
-    <title>Convenience Store Challenge</title>
-    <link>https://bilbois.me/Organised/Programming/Challenges/Convenience-Store-Challenge</link>
-    <guid>https://bilbois.me/Organised/Programming/Challenges/Convenience-Store-Challenge</guid>
-    <description>...</description>
-    <pubDate>Tue, 01 Oct 2024 20:06:20 GMT</pubDate>
-  </item><item>
-    <title>Convert buttons to markdown on render</title>
-    <link>https://bilbois.me/Unorganised/Convert-buttons-to-markdown-on-render</link>
-    <guid>https://bilbois.me/Unorganised/Convert-buttons-to-markdown-on-render</guid>
-    <description>...</description>
-    <pubDate>Tue, 01 Oct 2024 20:06:00 GMT</pubDate>
-  </item><item>
-    <title>Convert folder overview to markdown on render</title>
-    <link>https://bilbois.me/Unorganised/Convert-folder-overview-to-markdown-on-render</link>
-    <guid>https://bilbois.me/Unorganised/Convert-folder-overview-to-markdown-on-render</guid>
-    <description>...</description>
-    <pubDate>Tue, 01 Oct 2024 20:05:21 GMT</pubDate>
-  </item><item>
-    <title>Definition of the Theorem of Unique Solution Existence in Differential Equations</title>
-    <link>https://bilbois.me/Organised/Mathematics/Definitions/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</link>
-    <guid>https://bilbois.me/Organised/Mathematics/Definitions/Definition-of-the-Theorem-of-Unique-Solution-Existence-in-Differential-Equations</guid>
-    <description>Let R be a rectangular region in the xy-plane defined by a\le x\le b and c\le y\le d that contains point (x_{0},y_{0}). If f(x,y) and \frac{\partial f}{\partial y} are continuous on R, then there exists… … some interval I_{0}:(x_{0}-h,x_{0}+h),h\gt0, contained in [a,b], … a unique function y(x) defined on I_{0}, that is a solution of the initial value problem (IVP): \frac{dy}{dx}=f(x,y),y(x=x_{0})=y_{0}.</description>
-    <pubDate>Tue, 01 Oct 2024 09:21:53 GMT</pubDate>
   </item>
     </channel>
   </rss>

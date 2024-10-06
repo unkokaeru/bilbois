@@ -1,0 +1,1 @@
+Given a $q$-ary alphabet, a length $n$, and a desired minimal distance $d$, design an $(n,M,d)_{q}$-code for which its total number of codewords $M$ is as large as possible, denoted by $M_{q}(n,d)$.

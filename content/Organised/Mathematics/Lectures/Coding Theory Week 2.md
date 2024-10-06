@@ -1,3 +1,5 @@
+# Notes
+
 ## Recap
 
 ![[../Definitions/Definition of an Alphabet in Coding Theory]]
@@ -88,3 +90,81 @@ For example, a code $C=\set{0000,1111,2222}$ (a repetition code of length $4$ ov
 A repetition code of length $5$ over an alphabet length $2$ can then detect $4$ errors and correct $2$ errors.
 
 This can be logically worked out, by thinking about how the code could work, but these formulae are very useful for more complex codes. Sometimes, more errors can be detected and correct, but in general this is not the case (and can be generally proven: the distance theorem is optimal).
+
+## What is decoding?
+
+In this module, we're focusing on the correct transmission of data, hence for the purposes of this module, decoding is simply getting the correct codeword from the transmission, i.e. correcting any errors from transmission. Thus, incorrect decoding happens if undetected transmission errors occur.
+
+### Is there any notation regarding incorrect decoding?
+
+Given a code $C\subseteq A^{n}$ and a word $w\in A^{n}$, denote by
+- $P_\text{corr.dec.}(w)$ - the probability of correctly decoding $w$,
+- $P_\text{incorr.dec.}(w)$ - the probability of incorrectly decoding $w$,
+- $P_\text{undetect}$ - the probability of not detecting errors when $w$ is transmitted.
+
+These can sometimes be hard to calculate, but our goals is naturally to minimise $P_\text{incorr.dec.}(w)$.
+
+### What is the chance of incorrect decoding?
+
+For $A=\mathbb{F}_{2},n=5,C=\set{00000,11111}$, with transmission in a symmetric channel with symbol error probability $p=0.004$.
+
+Say $c\in C$ is sent and $w\in \mathbb{F}_{2}^{5}$ is received. Out of the five symbols of $w$, the following can happen:
+1. none are wrong, which can happen in $\binom{5}{0}$ ways, each with chance $p^{0}(1-p)^{5}$
+	- Simplified, this is just one way with chance $(1-p)^{5}$.
+2. one is wrong, which can happen in $\binom{5}{1}$ ways, each with chance $p^{1}(1-p)^{4}$.
+	- Simplified, this is five ways with chance of $p(1-p)^{4}$.
+3. two are wrong, which can happen in $\binom{5}{2}$ ways, each with chance $p^{2}(1-p)^{3}$.
+	- Simplified, this is ten ways with chance of $p^{2}(1-p)^{3}$.
+4. three are wrong, which can happen in $\binom{5}{3}$ ways, each with chance $p^{3}(1-p)^{2}$.
+	- Simplified, this is ten ways with chance of $p^{3}(1-p)^{2}$.
+5. four are wrong, which can happen in $\binom{5}{4}$ ways, each with chance $p^{4}(1-p)^{1}$.
+	- Simplified, this is five ways with chance of $p^{4}(1-p)$.
+6. all are wrong, which can happen in $\binom{5}{5}$ ways, each with chance $p^{5}(1-p)^{0}$.
+	- Simplified, this is one way with chance of $p^{5}$.
+
+But, looking at the **Distance Theorem** and $C$, we know that $C$ corrects up to $\lfloor\frac{5-1}{2}\rfloor=2$ errors. Thus, in the first three cases we can decode $w$, which combined have a probability of...
+$$
+p=0.004\iff(1-p)^{4}+5p(1-p)^{4}+10p^{2}(1-p)^{3}\approx0.999999364
+$$
+Which thus leads to a very low chance of incorrectly decoding ($1-0.999999364=0.000000636$).
+
+This neatly demonstrates all the previously mentioned points.
+
+## What are parameters of a code?
+
+![[Definition of Parameters of a Code]]
+
+>[!EXAMPLE]
+>$C_{3}=\set{00000,01101,10110,11011}$ is a $(5,4,3)_{2}$-code, i.e. the codewords have length $5$, $4$ codewords in total, with a minimum Hamming distance of $3$ where are $2$ possible symbols to use.
+
+A more generalised answer for **repetition codes**, given that a code $C$ is formed from a $q$-ary alphabet $A$ by considering messages of length $m$ and repeating each of these $m$ symbols $k$ times to their left, would result with $C$ being a $(m\cdot k,q^{m},k)_{q}$-code.
+
+For example, talking $A=\mathbb{F}_{3}=\set{0,1,2}$, where original messages are length $2$ and we repeat symbols twice, so $k=2$. Thus, there are $9$ possible initial messages:
+$$
+\begin{align*}
+&\set{00,01,10,11,02,20,22,21,12}\\
+&\to C=\set{0000,0011,1100,1111,0022,2200,2222,2211,1122}\subset \mathbb{F}^{4}_{3}
+\end{align*}
+$$
+This is a $(4,9,2)_{3}$-code, or $(2\cdot2,3^{2},2)_{3}$-code.
+
+## What makes an efficient code?
+
+A 'good' $(n,M,d)_{q}$-code should...
+1. have a large $d$ to detect and correct many errors,
+2. have relatively small $n$ to speed up transmission
+3. have relatively large $M$ to permit a wide variety of messages.
+
+These last two points conflict, however, leading to the **Main Problem of Coding Theory**: 
+
+![[Definition of the Main Problem of Coding Theory]]
+
+Some examples of $M_{q}(n,d)$ are as follows....
+- $d=1:M_{q}(n,1)=q^{n}$. This can be proven using different definitions and then using the squeeze theorem.
+- $d=n:M_{q}(n,n)=q$. This is similarly proven as before.
+
+---
+
+# Practical
+
+[[Coding Theory Practical 2]]

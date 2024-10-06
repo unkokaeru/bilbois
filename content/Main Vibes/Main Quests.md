@@ -57,7 +57,8 @@
 	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]],
 	- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]],
 	- [ ] [[Differential Equations Week 2]], catch up with week 2,
-	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too. Catch up with week 2.
+	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too.
+	- [ ] [[Lagrangian and Hamiltonian Mechanics Week 2]], catch up with week 2.
 	- [ ] incl. practical sessions and their solutions.
 - [ ] Revise first year, especially the Algebra module (re-create these notes).
 - [ ] Look into [[Academic Deadlines (2024-25)]] - maybe make a "BSc Mathematics" folder or similar.
