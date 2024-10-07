@@ -12,7 +12,7 @@
 		- [ ] Use classes for everything and 4o-mini for content generation.
 		- [ ] Extend to generate GCSE and A-Level content.
 		- [ ] Convert to a website?
-	- [ ] *Morning Briefing Generation.*
+	- [ ] Morning Briefing Generation.
 		- [ ] Make it actually useful: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
 	- [ ] *PGN to JSON Converter.*
 	- [ ] Quartz Digital Garden.
@@ -21,14 +21,12 @@
 		- [ ] [[Convert folder overview to markdown on render]].
 		- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
 		- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
-	- [ ] **Untitledobsidianproject**.
-		- [ ] Integrate Quartz, too - use pure GitHub pages (domain and hosting).
 	- [ ] Error Correction.
 	- [ ] QR Gen (QR Art Generation + Chrome extension?).
 	- [ ] Rate List.
 	- [ ] Chess Mini Me.
 	- [ ] Dailies.
-	- [ ] ==*Markdown Merger.*== - can be used to simplify my logbook generation.
+	- [ ] *Markdown Merger.*
 	- [ ] *JSON Comparison.*
 	- [ ] Minesweeper.
 	- [ ] Random Challenges.
@@ -48,10 +46,10 @@
 ---
 ## Academic
 
-- [ ] Organise [[C++ Lab stuff]].
 - [ ] Go over first week notes...
 	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]],
 	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]],
+	- [ ] [[Coding Theory Week 3]], catch up [[Coding Theory Week 3 Lecture 1]],
 	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]],
 	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]],
 	- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]],
@@ -59,6 +57,7 @@
 	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too.
 	- [ ] [[Lagrangian and Hamiltonian Mechanics Week 2]], catch up with week 2.
 	- [ ] incl. practical sessions and their solutions.
+	- [ ] Complete second week of scientific computing work.
 - [ ] Revise first year, especially the Algebra module (re-create these notes).
 - [ ] Look into [[Academic Deadlines (2024-25)]] - maybe make a "BSc Mathematics" folder or similar.
 
@@ -67,11 +66,9 @@
 
 ### Unscheduled
 
-- [ ] **Apply to be a [student ambassador](https://www.lincoln.ac.uk/media/responsive2017/Student,Ambassador,JD,,Responsibilities,2024,.pdf) (with [this link](https://forms.office.com/e/3DgQj1aNND)) before Monday, after answering the [[application supporting statements]].**
-- [ ] Complete document upload for Just Eat, Deliveroo, and Uber Eats (in my emails).
-- [ ] **Create a summary with questions for my Tuesday 1800 student.**
-- [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
+- [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
 - [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff.
+- [ ] Apply for placements (years in industry)!
 
 ### Scheduled
 

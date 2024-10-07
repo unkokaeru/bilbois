@@ -10,13 +10,31 @@
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
     <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Finish all of my programming projects. AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Sun, 06 Oct 2024 01:35:51 GMT</pubDate>
+    <pubDate>Mon, 07 Oct 2024 15:30:05 GMT</pubDate>
   </item><item>
-    <title>C++ Lab stuff</title>
-    <link>https://bilbois.me/Unorganised/C++-Lab-stuff</link>
-    <guid>https://bilbois.me/Unorganised/C++-Lab-stuff</guid>
-    <description>GitHub repository: github.com/unkokaeru/lincoln-logbook/. Think about using pandoc to render the markdown the html, too, then hosting that on GitHub pages.</description>
-    <pubDate>Sun, 06 Oct 2024 01:11:37 GMT</pubDate>
+    <title>Coding Theory Week 3</title>
+    <link>https://bilbois.me/Unorganised/Coding-Theory-Week-3</link>
+    <guid>https://bilbois.me/Unorganised/Coding-Theory-Week-3</guid>
+    <description>Recap Definition-of-a-Solid-Sphere Definition-of-Distance-Theorem Transclude of Definition-of-Parameters-of-a-Code Transclude of Definition-of-the-Main-Problem-of-Coding-Theory ...</description>
+    <pubDate>Mon, 07 Oct 2024 09:06:00 GMT</pubDate>
+  </item><item>
+    <title>Definition of the Volume of a Solid Hamming Distance Sphere</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-the-Volume-of-a-Solid-Hamming-Distance-Sphere</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-the-Volume-of-a-Solid-Hamming-Distance-Sphere</guid>
+    <description>Let A be a q-ary alphabet and let n\in \mathbb{N}. Consider the space of words A^{n} of length n as a metric space with the Hamming distance. Then, given any word w\in A^{n} and integer radius \epsilon\in \mathbb{N}, the solid sphere S_\epsilon(w) has volume \text{vol}(S_{\epsilon}(w))=|S_{\epsilon}(w)| given by the formula… \begin{align*} |S_{\epsilon}(w)|&amp;=\binom{n}{0}+\binom{n}{1}(q-1)+\binom{n}{2}(q-1)^{2}+\ldots+\binom{n}{\epsilon}(q-1)^{\epsilon}\\ &amp;= \sum\limits_{i=0}^{\epsilon}\binom{n}{i}(q-1)^{i} \end{align*}.</description>
+    <pubDate>Mon, 07 Oct 2024 08:23:08 GMT</pubDate>
+  </item><item>
+    <title>Definition of the Main Problem of Coding Theory</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-the-Main-Problem-of-Coding-Theory</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-the-Main-Problem-of-Coding-Theory</guid>
+    <description>Given a q-ary alphabet, a length n, and a desired minimal distance d, design an (n,M,d)_{q}-code for which its total number of codewords M is as large as possible, denoted by M_{q}(n,d). ...</description>
+    <pubDate>Mon, 07 Oct 2024 08:11:55 GMT</pubDate>
+  </item><item>
+    <title>Chat-2024_10_06-16_47_05</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_10_06-16_47_05</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_10_06-16_47_05</guid>
+    <description>user: My reflection.md should answer these questions: What did you learn in the lab tasks this week? (incl. explanation) How well did I learn it? How does my solution compare with the official solution? How can I extend the concepts used in the tasks to form a new project? Can you write it for me, based on the following braindump/rough ideas? ai: Of course! Please provide your braindump or rough ideas, and I’ll help you craft a reflection.md based on that information.</description>
+    <pubDate>Sun, 06 Oct 2024 15:47:05 GMT</pubDate>
   </item><item>
     <title>Coding Theory Practical 2</title>
     <link>https://bilbois.me/Unorganised/Coding-Theory-Practical-2</link>
@@ -29,12 +47,6 @@
     <guid>https://bilbois.me/Organised/Mathematics/Lectures/Coding-Theory-Week-2</guid>
     <description>Notes Recap Definition-of-an-Alphabet-in-Coding-Theory Definition-of-a-Code-in-Coding-Theory Definition-of-Hamming-Distance Does Hamming distance have geometry? ...</description>
     <pubDate>Fri, 04 Oct 2024 13:43:16 GMT</pubDate>
-  </item><item>
-    <title>Definition of the Main Problem of Coding Theory</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-the-Main-Problem-of-Coding-Theory</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-the-Main-Problem-of-Coding-Theory</guid>
-    <description>Given a q-ary alphabet, a length n, and a desired minimal distance d, design an (n,M,d)_{q}-code for which its total number of codewords M is as large as possible, denoted by M_{q}(n,d). ...</description>
-    <pubDate>Fri, 04 Oct 2024 12:50:29 GMT</pubDate>
   </item><item>
     <title>Definition of Parameters of a Code</title>
     <link>https://bilbois.me/Unorganised/Definition-of-Parameters-of-a-Code</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Organised/Mathematics/Lectures/Differential-Equations-Week-2</guid>
     <description>Lecture 1.pdf Lecture 2.pdf Differential Equations Practical 2 Recap Definition-of-a-Differential-Equation Definition-of-Order-in-Differential-Equations Definition-of-a-Partial-Differential-Equation ...</description>
     <pubDate>Wed, 02 Oct 2024 14:47:45 GMT</pubDate>
-  </item><item>
-    <title>Differential Equations Practical 2</title>
-    <link>https://bilbois.me/Organised/Mathematics/Practical-Sessions/Differential-Equations-Practical-2</link>
-    <guid>https://bilbois.me/Organised/Mathematics/Practical-Sessions/Differential-Equations-Practical-2</guid>
-    <description> Problem 1 ….</description>
-    <pubDate>Wed, 02 Oct 2024 14:47:45 GMT</pubDate>
-  </item><item>
-    <title>Count True Challenge</title>
-    <link>https://bilbois.me/Organised/Programming/Challenges/Count-True-Challenge</link>
-    <guid>https://bilbois.me/Organised/Programming/Challenges/Count-True-Challenge</guid>
-    <description> How Much is True?Create a function which returns the number of true values there are in an array. Examples&lt;br&gt;countTrue([true, false, false, true, false]) ➞ 2&lt;br&gt;&lt;br&gt;countTrue([false, false, false, false]) ➞ 0&lt;br&gt;&lt;br&gt;countTrue([]) ➞ 0&lt;br&gt; Notes- Return 0 if given an empty array.</description>
-    <pubDate>Wed, 02 Oct 2024 14:40:53 GMT</pubDate>
   </item>
     </channel>
   </rss>
