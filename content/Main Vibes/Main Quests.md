@@ -13,36 +13,37 @@
 
 ### Programming
 
-- [ ] **AbrahamMD.**
+- [ ] **Abraham Markdown**.
 	- [ ] Use classes for everything and 4o-mini for content generation.
 	- [ ] Extend to generate GCSE and A-Level content.
 	- [ ] Convert to a website?
-- [ ] Morning Briefing Generation.
-	- [ ] Make it actually useful: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
-- [ ] *PGN to JSON Converter.*
+- [ ] Tamago Time.
+	- [ ] Generate morning briefings: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
+- [ ] Quick and Artful Response Code Generator.
+	- [ ] Implement basic QR code generation.
+	- [ ] Extend to create patterns from images by manipulating the underlying mathematics.
+	- [ ] Port to a Chrome extension.
+- [ ] A Normal Rating System.
+	- [ ] Implement an algorithm to help the user rate a list of items from 1-10 just with direct comparisons, ensuring the output follows a normal distribution.
+- [ ] Chess Doppelganger.
+	- [ ] Implement a simple chess engine.
+	- [ ] Extend with a simple chess AI.
+	- [ ] Implement the ability for the AI to learn how to mimic how the user plays.
+- [ ] Random Challenges.
+	- [ ] [[Convenience Store Challenge]].
+	- [ ] [[Video Length Conversion Challenge]].
+	- [ ] [[Count True Challenge]].
+
+### Other Stuff
+
 - [ ] Quartz Digital Garden.
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
 	- [ ] [[Convert folder overview to markdown on render]].
 	- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
 	- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
-- [ ] Error Correction.
-- [ ] QR Gen (QR Art Generation + Chrome extension?).
-- [ ] Rate List.
-- [ ] Chess Mini Me.
-- [ ] Dailies.
-- [ ] *Markdown Merger.*
-- [ ] *JSON Comparison.*
-- [ ] Minesweeper.
-- [ ] Random Challenges.
-	- [ ] [[Convenience Store Challenge]].
-	- [ ] [[Video Length Conversion Challenge]].
-	- [ ] [[Count True Challenge]].
-- [ ] ASCII Photo (PNG to ASCII art).
-
-### Other Stuff
-
-- [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
+	- [ ] AFTER: Upgrade my USB to automatically setup Obsidian/Quartz.
+- [ ] Upgrade my USB to automatically setup Arc and VS Code.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
 	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
@@ -55,8 +56,6 @@
 
 ### Unscheduled
 
-- [ ] ==Complete [skills assessment](https://careers.lincoln.ac.uk/student/svc/skills.html#/start-test) for the **Explore Skills** part of my Employer Project and then reflect on the results for my **Explore Reflection** part. **BEFORE MONDAY 14TH**==.
-- [ ] **Complete the [[Coding Theory Coursework]] before Monday 14th**!
 - [ ] Create index pages for course and years one and two, including [[../Unorganised/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
 - [ ] Backfill Year 1 module notes.
 - [ ] Formalise/complete Coding Theory notes: [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]], [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]], [[Coding Theory Week 3]].
@@ -66,7 +65,8 @@
 
 ### Scheduled
 
-- [ ] Hand in Scientific Computing coursework (when the hand-in point is added).
+- [ ] FRIDAY 11TH: Complete [skills assessment](https://careers.lincoln.ac.uk/student/svc/skills.html#/start-test) for the **Explore Skills** part of my Employer Project and then reflect on the results for my **Explore Reflection** part.
+- [ ] WHEN POSSIBLE: Hand in Scientific Computing coursework.
 
 ---
 ## Work
@@ -74,12 +74,11 @@
 ### Unscheduled
 
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
-- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff.
-- [ ] Apply for placements (years in industry)!
 
 ### Scheduled
 
-- [ ] Schedule content for the Tutoring With Will social media.
+- [ ] FRIDAY 11TH: [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!
+- [ ] SATURDAY 12TH: Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
 	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.

@@ -6,29 +6,41 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Coding Theory Coursework</title>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Homie Moments Look at Alex’s CV. Programming Abraham Markdown. Use classes for everything and 4o-mini for content generation.</description>
+    <pubDate>Wed, 09 Oct 2024 16:06:27 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bilbois.me/</link>
+    <guid>https://bilbois.me/</guid>
+    <description>indextodo Work in progress!! Here are my Main Vibes :).</description>
+    <pubDate>Wed, 09 Oct 2024 14:11:29 GMT</pubDate>
+  </item><item>
+    <title>Main Vibes</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Vibes</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
+    <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true Here’s my CV in .docx, too (until I make this a proper section): William Fayers.docx.</description>
+    <pubDate>Wed, 09 Oct 2024 14:11:06 GMT</pubDate>
+  </item><item>
+    <title>**🖊 MTH2002** Coding Theory Coursework</title>
     <link>https://bilbois.me/Unorganised/Coding-Theory-Coursework</link>
     <guid>https://bilbois.me/Unorganised/Coding-Theory-Coursework</guid>
-    <description>Problem CW1 (25 total marks) Consider the code C\subset \mathbb{F}_{5}^{3} consisting of the following codewords… c_{1}=243,\quad c_{2}=321,\quad c_{3}=102 ...</description>
-    <pubDate>Wed, 09 Oct 2024 11:20:18 GMT</pubDate>
+    <description>Alternative forms: Coding Theory Coursework.pdf and Coding Theory Coursework.docx. \newpage Problem CW1 (25 total marks) Consider the code C\subset \mathbb{F}_{5}^{3} consisting of the following codewords… c_{1}=243,\quad c_{2}=321,\quad c_{3}=102.</description>
+    <pubDate>Wed, 09 Oct 2024 14:09:26 GMT</pubDate>
+  </item><item>
+    <title>Coding Theory Coursework Problem CW3A.excalidraw</title>
+    <link>https://bilbois.me/Auto-Generated/Attachments/Coding-Theory-Coursework-Problem-CW3A.excalidraw</link>
+    <guid>https://bilbois.me/Auto-Generated/Attachments/Coding-Theory-Coursework-Problem-CW3A.excalidraw</guid>
+    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
+    <pubDate>Wed, 09 Oct 2024 12:32:32 GMT</pubDate>
   </item><item>
     <title>Definition of a Perfect Code in Coding Theory</title>
     <link>https://bilbois.me/Unorganised/Definition-of-a-Perfect-Code-in-Coding-Theory</link>
     <guid>https://bilbois.me/Unorganised/Definition-of-a-Perfect-Code-in-Coding-Theory</guid>
     <description>An (n,M,d)_{q}-code over the alphabet A is perfect if the following holds: M=\frac{q^{n}}{\text{vol}(S_{\epsilon(d)}(c))}:\epsilon(d)=\left\lfloor\frac{d-1}{2}\right\rfloor,\text{for ...</description>
     <pubDate>Wed, 09 Oct 2024 10:45:05 GMT</pubDate>
-  </item><item>
-    <title>Coding Theory Coursework Problem CW3A.excalidraw</title>
-    <link>https://bilbois.me/Auto-Generated/Attachments/Coding-Theory-Coursework-Problem-CW3A.excalidraw</link>
-    <guid>https://bilbois.me/Auto-Generated/Attachments/Coding-Theory-Coursework-Problem-CW3A.excalidraw</guid>
-    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
-    <pubDate>Wed, 09 Oct 2024 10:09:07 GMT</pubDate>
-  </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Homie Moments Look at Alex’s CV. Programming AbrahamMD. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Wed, 09 Oct 2024 08:17:33 GMT</pubDate>
   </item><item>
     <title>Lagrangian and Hamiltonian Mechanics Week 1</title>
     <link>https://bilbois.me/Organised/Mathematics/Lectures/Lagrangian-and-Hamiltonian-Mechanics-Week-1</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Unorganised/Tutorial-one</guid>
     <description>Lagrangian and Hamiltonian Mechanics Tutorial 1.pdf Algebraic Structures Tutorial 1.pdf Coding Theory Tutorial 1.pdf Differential Equations Tutorial 1.pdf ...</description>
     <pubDate>Tue, 08 Oct 2024 10:45:41 GMT</pubDate>
-  </item><item>
-    <title>Differential Equations Week 3</title>
-    <link>https://bilbois.me/Unorganised/Differential-Equations-Week-3</link>
-    <guid>https://bilbois.me/Unorganised/Differential-Equations-Week-3</guid>
-    <description>Differential Equations - Week 3 Lecture 2.pdf Differential Equations - Practical 3.pdf .</description>
-    <pubDate>Tue, 08 Oct 2024 08:04:40 GMT</pubDate>
-  </item><item>
-    <title>Definition of the Volume of a Solid Hamming Distance Sphere</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-the-Volume-of-a-Solid-Hamming-Distance-Sphere</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-the-Volume-of-a-Solid-Hamming-Distance-Sphere</guid>
-    <description>Let A be a q-ary alphabet and let n\in \mathbb{N}. Consider the space of words A^{n} of length n as a metric space with the Hamming distance. Then, given any word w\in A^{n} and integer radius \epsilon\in \mathbb{N}, the solid sphere S_\epsilon(w) has volume \text{vol}(S_{\epsilon}(w))=|S_{\epsilon}(w)| given by the formula… \begin{align*} |S_{\epsilon}(w)|&amp;=\binom{n}{0}+\binom{n}{1}(q-1)+\binom{n}{2}(q-1)^{2}+\ldots+\binom{n}{\epsilon}(q-1)^{\epsilon}\\ &amp;= \sum\limits_{i=0}^{\epsilon}\binom{n}{i}(q-1)^{i} \end{align*}.</description>
-    <pubDate>Mon, 07 Oct 2024 08:23:08 GMT</pubDate>
   </item>
     </channel>
   </rss>

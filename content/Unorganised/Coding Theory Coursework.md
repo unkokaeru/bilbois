@@ -1,4 +1,14 @@
-## Problem CW1 (*25 total marks*)
+---
+title: "**🖊 MTH2002** Coding Theory Coursework"
+author: School of Engineering and Physical Sciences, University of Lincoln
+date: Tuesday, 8th October 2024
+geometry: margin=1in
+---
+
+Alternative forms: [[Coding Theory Coursework.pdf]] and [[Coding Theory Coursework.docx]].
+
+\newpage
+### Problem CW1 (*25 total marks*)
 
 Consider the code $C\subset \mathbb{F}_{5}^{3}$ consisting of the following codewords....
 
@@ -6,7 +16,7 @@ $$
 c_{1}=243,\quad c_{2}=321,\quad c_{3}=102.
 $$
 
-### Part A (*10 marks*)
+#### Part A (*10 marks*)
 
 First, we can calculate the Hamming distance between each codeword, as follows:
 
@@ -25,7 +35,7 @@ Given that $C$ has a **minimal distance** $\boxed{d_\text{min}(C)=3}$,
 1. $d_{\text{min}}(C)\ge t+1$, where $t\in \mathbb{N}$, then $C$ **detects $t$ errors**; hence $3\ge t+1\implies t=\lfloor3-1\rfloor\implies\boxed{t=2}$.
 2. $d_{\text{min}}(C)\ge 2k+1$, where $k\in \mathbb{N}$, then $C$ **corrects $k$ errors**; hence $3\ge 2k+1\implies k=\lfloor\frac{3-1}{2}\rfloor\implies \boxed{k=1}$.
 
-### Part B (*15 marks*)
+#### Part B (*15 marks*)
 
 To find all the words in $\mathbb{F}_{5}^{3}$ which follow the two constraints:
 
@@ -35,20 +45,21 @@ To find all the words in $\mathbb{F}_{5}^{3}$ which follow the two constraints:
 We can first list all the words which meet the first constraint:
 
 $$
-\set{000,001,002,003,004,005,010,011,012,013,014,015,020,021,\ldots,055}:25\text{ total}
+\{000,001,002,003,004,005,010,011,012,013,014,015,020,021,\ldots,055\}:25\text{ total}
 $$
 
 And then **filter them** by the second constraint:
 
 $$
-\boxed{\set{010,014,015,030,034,035,050,054,055}}:9\text{ total}
+\boxed{\{010,014,015,030,034,035,050,054,055\}}:9\text{ total}
 $$
 
 ---
 
-## Problem CW2 (*10 marks*)
 
-Consider the code $C=\set{0000,1111,0101,1010}\subset \mathbb{F}_{2}^{4}$ in a symmetric channel with symbol error probability $p=0.05$ Suppose the codeword $0000$ is sent and is received with exactly one erroneous symbol.
+### Problem CW2 (*10 marks*)
+
+Consider the code $C=\{0000,1111,0101,1010\}\subset \mathbb{F}_{2}^{4}$ in a symmetric channel with symbol error probability $p=0.05$ Suppose the codeword $0000$ is sent and is received with exactly one erroneous symbol.
 
 We can find the **probability** of this occurring by determining the ways that it can happen, $\binom{4}{1}=4$, and then multiplying this by the probability of each symbol being as we want: one symbol being erroneous, $p$, and three symbols being correct, $(1-p)^{3}$...
 
@@ -65,32 +76,33 @@ $$
 
 ---
 
-## Problem CW3 (*35 total marks*)
+
+### Problem CW3 (*35 total marks*)
 
 The following code is built to encode certain special moves of a prominent videogame as a combination of inputs from a controller...
 
 $$
-C=\set{\downarrow\searrow\rightarrow p,\rightarrow\downarrow\rightarrow p,\downarrow\swarrow\leftarrow k, p\rightarrow kp}
+C=\{\downarrow\searrow\rightarrow p,\rightarrow\downarrow\rightarrow p,\downarrow\swarrow\leftarrow k, p\rightarrow kp\}
 $$
 
-### Part A (*5 marks*)
+#### Part A (*5 marks*)
 
 We can **draw a graph** where the elements of $C$ are represented by vertices which are only connected by an edge if (and only if) their Hamming distance is exactly one:
 
-![[../Auto-Generated/Attachments/Coding Theory Coursework Problem CW3A.excalidraw]]
+![[../Auto-Generated/Attachments/Pasted image 20241009133244.png]]
 
 With this graph, we can count how many edges there are and hence how many elements have a Hamming distance of exactly one. However, there are **no pairs of elements with a Hamming distance of exactly one**, the minimum is two between $\downarrow\searrow\rightarrow p$ and $\rightarrow\downarrow\rightarrow p$.
 
-### Part B (*10 marks*)
+#### Part B (*10 marks*)
 
 The **four parameters** of $C$ are:
 
 - $\boxed{n=4}$,
 - $\boxed{M=4}$,
 - $\boxed{d=2}$,
-- $\boxed{q=7}\because A=\set{\leftarrow,\swarrow,\downarrow,\searrow,\rightarrow,k,p}$.
+- $\boxed{q=7}\because A=\{\leftarrow,\swarrow,\downarrow,\searrow,\rightarrow,k,p\}$.
 
-### Part C (*10 marks*)
+#### Part C (*10 marks*)
 
 To determine how many errors $C$ can detect and correct we can use the [[../Organised/Mathematics/Definitions/Definition of Distance Theorem|Definition of Distance Theorem]]:
 
@@ -99,7 +111,7 @@ Given that $C$ has a **minimal distance** $d_\text{min}(C)=2$ (found in the prev
 1. $d_{\text{min}}(C)\ge t+1$, where $t\in \mathbb{N}$, then $C$ **detects $t$ errors**; hence $2\ge t+1\implies t=\lfloor2-1\rfloor\implies \boxed{t=1}$.
 2. $d_{\text{min}}(C)\ge 2k+1$, where $k\in \mathbb{N}$, then $C$ **corrects $k$ errors**; hence $2\ge 2k+1\implies k=\lfloor\frac{2-1}{2}\rfloor\implies\boxed{k=0}$.
 
-### Part D (*10 marks*)
+#### Part D (*10 marks*)
 
 Given a space of words of length four, over the alphabet used to build $C$, we can calculate the **volume of a solid sphere of radius $2$ and centre $\downarrow\searrow\rightarrow p$**, i.e. $S_{2}(\downarrow\searrow\rightarrow p)$, by using the [[Definition of the Volume of a Solid Hamming Distance Sphere]]:
 
@@ -118,7 +130,8 @@ Practically, this represents the number of words with Hamming distance 2 from th
 
 ---
 
-## Problem CW4 (*30 total marks*)
+
+### Problem CW4 (*30 total marks*)
 
 The following table lists all codewords of the original code proposed by R. Hamming:
 
@@ -130,7 +143,7 @@ C=\{&0000000, 0001111, 0010011, 0011100, 0100101, 0101010, 0110110,\ldots\\
 \end{align*}
 $$
 
-### Part A (*15 marks*)
+#### Part A (*15 marks*)
 
 We can prove that **Hamming's original code is perfect** by using the [[Definition of a Perfect Code in Coding Theory]]:
 
@@ -153,7 +166,7 @@ $$
 \end{align*}
 $$
 
-### Part B (*15 marks*)
+#### Part B (*15 marks*)
 
 Suppose that some codeword of Hamming's original code was sent, but the word $w=0000110$ was received.
 
