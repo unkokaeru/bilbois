@@ -7,34 +7,41 @@
 ---
 ## Personal
 
-- [ ] Finish all of my programming projects.
-	- [ ] **AbrahamMD.**
-		- [ ] Use classes for everything and 4o-mini for content generation.
-		- [ ] Extend to generate GCSE and A-Level content.
-		- [ ] Convert to a website?
-	- [ ] Morning Briefing Generation.
-		- [ ] Make it actually useful: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
-	- [ ] *PGN to JSON Converter.*
-	- [ ] Quartz Digital Garden.
-		- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
-		- [ ] [[Convert buttons to markdown on render]].
-		- [ ] [[Convert folder overview to markdown on render]].
-		- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
-		- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
-	- [ ] Error Correction.
-	- [ ] QR Gen (QR Art Generation + Chrome extension?).
-	- [ ] Rate List.
-	- [ ] Chess Mini Me.
-	- [ ] Dailies.
-	- [ ] *Markdown Merger.*
-	- [ ] *JSON Comparison.*
-	- [ ] Minesweeper.
-	- [ ] Random Challenges.
-		- [ ] [[Convenience Store Challenge]].
-		- [ ] [[Video Length Conversion Challenge]].
-		- [ ] [[Count True Challenge]].
-	- [ ] ASCII Photo (PNG to ASCII art).
-- [ ] **Look at [Alex's CV](https://docs.google.com/document/d/1e-mcCKi0KnYLssIf7lfRtlmL3Z_LYAgY/edit).**
+### Homie Moments
+
+- [ ] **Look at [Alex's CV](https://docs.google.com/document/d/1e-mcCKi0KnYLssIf7lfRtlmL3Z_LYAgY/edit)**.
+
+### Programming
+
+- [ ] **AbrahamMD.**
+	- [ ] Use classes for everything and 4o-mini for content generation.
+	- [ ] Extend to generate GCSE and A-Level content.
+	- [ ] Convert to a website?
+- [ ] Morning Briefing Generation.
+	- [ ] Make it actually useful: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
+- [ ] *PGN to JSON Converter.*
+- [ ] Quartz Digital Garden.
+	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
+	- [ ] [[Convert buttons to markdown on render]].
+	- [ ] [[Convert folder overview to markdown on render]].
+	- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
+	- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
+- [ ] Error Correction.
+- [ ] QR Gen (QR Art Generation + Chrome extension?).
+- [ ] Rate List.
+- [ ] Chess Mini Me.
+- [ ] Dailies.
+- [ ] *Markdown Merger.*
+- [ ] *JSON Comparison.*
+- [ ] Minesweeper.
+- [ ] Random Challenges.
+	- [ ] [[Convenience Store Challenge]].
+	- [ ] [[Video Length Conversion Challenge]].
+	- [ ] [[Count True Challenge]].
+- [ ] ASCII Photo (PNG to ASCII art).
+
+### Other Stuff
+
 - [ ] Upgrade my USB to automatically setup Arc, Obsidian/Quartz, and VS Code.
 - [ ] De-Google.
 	- [ ] *Migrate authentication apps to a single place.*
@@ -48,19 +55,16 @@
 
 - [ ] ==Complete [skills assessment](https://careers.lincoln.ac.uk/student/svc/skills.html#/start-test) for the **Explore Skills** part of my Employer Project and then reflect on the results for my **Explore Reflection** part. **BEFORE MONDAY 14TH**==.
 - [ ] Hand in Scientific Computing coursework.
-- [ ] Go over first week notes...
-	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]],
-	- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]],
-	- [ ] [[Coding Theory Week 3]], catch up on [[../Auto-Generated/Attachments/Coding Theory Week 3 Lecture 1.pdf|Coding Theory Week 3 Lecture 1]],
-	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]],
-	- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]],
-	- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]],
-	- [ ] [[Differential Equations Week 2]], catch up with week 2,
-	- [ ] [[Differential Equations Week 3]],
-	- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too,
-	- [ ] [[Lagrangian and Hamiltonian Mechanics Week 2]], catch up with week 2.
-	- [ ] incl. practical sessions and their solutions,
-	- [ ] [[Tutorial one]].
+- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]].
+- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]].
+- [ ] [[Coding Theory Week 3]], catch up on [[../Auto-Generated/Attachments/Coding Theory Week 3 Lecture 1.pdf|Coding Theory Week 3 Lecture 1]].
+- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]].
+- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]].
+- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]].
+- [ ] [[Differential Equations Week 2]], catch up with week 2.
+- [ ] [[Differential Equations Week 3]].
+- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too.
+- [ ] [[Lagrangian and Hamiltonian Mechanics Week 2]], catch up with week 2.
 - [ ] Revise first year, especially the Algebra module (re-create these notes).
 - [ ] Look into [[Academic Deadlines (2024-25)]] - maybe make a "BSc Mathematics" folder or similar.
 
@@ -69,7 +73,7 @@
 
 ### Unscheduled
 
-- [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
+- [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 - [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff.
 - [ ] Apply for placements (years in industry)!
 
