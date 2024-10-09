@@ -3,6 +3,8 @@ Kibble & Berkshire, Classical Mechanics, 5th edition, page 231.
 
 *The module is mostly just heavy mathematics applied to mechanics.*
 
+**==Physical notes in book, too.==**
+
 ---
 
 ### Recap of Derivatives

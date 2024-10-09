@@ -53,20 +53,20 @@
 ---
 ## Academic
 
+### Unscheduled
+
 - [ ] ==Complete [skills assessment](https://careers.lincoln.ac.uk/student/svc/skills.html#/start-test) for the **Explore Skills** part of my Employer Project and then reflect on the results for my **Explore Reflection** part. **BEFORE MONDAY 14TH**==.
-- [ ] Hand in Scientific Computing coursework.
-- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]].
-- [ ] [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]].
-- [ ] [[Coding Theory Week 3]], catch up on [[../Auto-Generated/Attachments/Coding Theory Week 3 Lecture 1.pdf|Coding Theory Week 3 Lecture 1]].
-- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]].
-- [ ] [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]].
-- [ ] [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]].
-- [ ] [[Differential Equations Week 2]], catch up with week 2.
-- [ ] [[Differential Equations Week 3]].
-- [ ] [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]]. Add physical notes into these, too.
-- [ ] [[Lagrangian and Hamiltonian Mechanics Week 2]], catch up with week 2.
-- [ ] Revise first year, especially the Algebra module (re-create these notes).
-- [ ] Look into [[Academic Deadlines (2024-25)]] - maybe make a "BSc Mathematics" folder or similar.
+- [ ] **Complete the [[Coding Theory Coursework]] before Monday 14th**!
+- [ ] Create index pages for course and years one and two, including [[../Unorganised/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
+- [ ] Backfill Year 1 module notes.
+- [ ] Formalise/complete Coding Theory notes: [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]], [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]], [[Coding Theory Week 3]].
+- [ ] Formalise/complete Algebraic Structures notes:[[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]], [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]].
+- [ ] Formalise/complete [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]], [[Differential Equations Week 2]], [[Differential Equations Week 3]].
+- [ ] Formalise/complete [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]].
+
+### Scheduled
+
+- [ ] Hand in Scientific Computing coursework (when the hand-in point is added).
 
 ---
 ## Work

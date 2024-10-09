@@ -1,3 +1,5 @@
+[[../Auto-Generated/Attachments/Coding Theory Week 3 Lecture 1.pdf|Coding Theory Week 3 Lecture 1]]
+
 ## Recap
 
 ![[../Organised/Mathematics/Definitions/Definition of a Solid Sphere|Definition of a Solid Sphere]]
