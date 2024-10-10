@@ -45,13 +45,13 @@ To find all the words in $\mathbb{F}_{5}^{3}$ which follow the two constraints:
 We can first list all the words which meet the first constraint:
 
 $$
-\{000,001,002,003,004,005,010,011,012,013,014,015,020,021,\ldots,055\}:25\text{ total}
+\{000,001,002,003,004,010,011,012,013,014,020,021,\ldots,044\}:16\text{ total}
 $$
 
 And then **filter them** by the second constraint:
 
 $$
-\boxed{\{010,014,015,030,034,035,050,054,055\}}:9\text{ total}
+\boxed{\{010,014,030,034\}}:4\text{ total}
 $$
 
 ---

@@ -6,6 +6,12 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>**🖊 MTH2002** Coding Theory Coursework</title>
+    <link>https://bilbois.me/Unorganised/Coding-Theory-Coursework</link>
+    <guid>https://bilbois.me/Unorganised/Coding-Theory-Coursework</guid>
+    <description>Alternative forms: Coding Theory Coursework.pdf and Coding Theory Coursework.docx. \newpage Problem CW1 (25 total marks) Consider the code C\subset \mathbb{F}_{5}^{3} consisting of the following codewords… c_{1}=243,\quad c_{2}=321,\quad c_{3}=102.</description>
+    <pubDate>Thu, 10 Oct 2024 15:08:32 GMT</pubDate>
+  </item><item>
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
@@ -23,12 +29,6 @@
     <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
     <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true Here’s my CV in .docx, too (until I make this a proper section): William Fayers.docx.</description>
     <pubDate>Wed, 09 Oct 2024 14:11:06 GMT</pubDate>
-  </item><item>
-    <title>**🖊 MTH2002** Coding Theory Coursework</title>
-    <link>https://bilbois.me/Unorganised/Coding-Theory-Coursework</link>
-    <guid>https://bilbois.me/Unorganised/Coding-Theory-Coursework</guid>
-    <description>Alternative forms: Coding Theory Coursework.pdf and Coding Theory Coursework.docx. \newpage Problem CW1 (25 total marks) Consider the code C\subset \mathbb{F}_{5}^{3} consisting of the following codewords… c_{1}=243,\quad c_{2}=321,\quad c_{3}=102.</description>
-    <pubDate>Wed, 09 Oct 2024 14:09:26 GMT</pubDate>
   </item><item>
     <title>Coding Theory Coursework Problem CW3A.excalidraw</title>
     <link>https://bilbois.me/Auto-Generated/Attachments/Coding-Theory-Coursework-Problem-CW3A.excalidraw</link>
