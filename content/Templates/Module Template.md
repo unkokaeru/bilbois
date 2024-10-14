@@ -1,31 +1,67 @@
-```button
-name Populate template
-type command
-action Python Scripter: Run something.py
-color default
+```meta-bind-button
+label: Populate Template
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: destructive
+actions:
+  - type: command
+    command: python-scripter:run-something.py
+  - type: replaceSelf
+    replacement: "#university #mathematics #module"
+
 ```
-**{{ module_coordinator_email }}** (*{{ module_coordinator_name }}*)
+
+>[!WARNING] Disclaimer
+>This was all automatically generated and so has a high chance of containing incorrect or badly formatted information. Please edit this note or even re-generate it until it fits your standard.
+
+Module co-ordinator: **{{ module.info.coordinator.name }}** (*{{ module.info.coordinator.email }}*).
 
 ---
 ## Course Components
 
-{{ module_components }}
+### Coursework
 
-Current percentage, rounded up: 0%
+- **Weight:** {{ module.info.components.coursework.weight * 100 }}%
+- **Assignments:**
+  {% for assignment in module.info.components.coursework.assignments %}  - {{ assignment }}{% endfor %}
+
+### Portfolio
+
+- **Weight:** {{ module.info.components.portfolio.weight * 100 }}%
+- **Tests:**
+  {% for test in module.info.components.portfolio.tests %}  - {{ test }}{% endfor %}
 
 ---
 ## Learning Outcomes
 
-{{ module_learning_outcomes }}
+{% for outcome in module.info.outcomes %}- [ ] **LO**{{ loop.index }}{{ outcome }}{% endfor %}
 
 ---
 ## Revision
 
-[[{{ module_name_long }} Cheat Sheets]]
-[[{{ module_name_long }} Practice Tests]]
-[[{{ module_name_long }} Flashcards]]
+[[{{ module.info.name.long }} Cheat Sheets]]
+[[{{ module.info.name.long }} Practice Tests]]
+[[{{ module.info.name.long }} Flashcards]]
 
 ---
 ## Notes
 
-{{ module_notes }}
+### Priming (*before lecture*)
+
+{% for lecture_number, lecture_content in module.lectures.items() %}- [[{{ module.info.name.long }} Pre-Lecture {{ lecture_number }}]]: {% for topic in lecture_content.topics %}{{ topic }}, {% endfor %}.{% endfor %}
+
+---
+### Questioning (*during lecture*)
+
+{% for lecture_number, lecture_content in module.lectures.items() %}- [[{{ module.info.name.long }} Lecture {{ lecture_number }}]]: {% for topic in lecture_content.topics %}{{ topic }}, {% endfor %}.{% endfor %}
+
+---
+### Refining (*after lecture*)
+
+{% for topic, subtopics in module.notes.items() %}#### {{ topic }}
+{% for subtopic, notes in subtopics.items() %}##### {{ subtopic }}
+{% for note_name, note in notes.items() %}- [[{{ note_name }}]]: {{ note.summary }}
+{% endfor %}{% endfor %}{% endfor %}

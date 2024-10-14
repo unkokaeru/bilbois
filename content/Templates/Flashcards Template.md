@@ -1,24 +1,25 @@
+```meta-bind-button
+label: Populate Template
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: destructive
+actions:
+  - type: command
+    command: python-scripter:run-something.py
+  - type: replaceSelf
+    replacement: "#university #mathematics #flashcards #todo"
 
-**Front**: Front text.
+```
 
-**Back**: Back text.
+>[!WARNING] Disclaimer
+>This was all automatically generated and so has a high chance of containing incorrect or badly formatted information. Please edit this note or even re-generate it until it fits your standard.
+
+{% for front, back in flashcards.items() %}**Front**: {{ front }}
+
+**Back**: {{ back }}
 
 ---
-
-**Front**: Front text.
-
-**Back**: Back text.
-
----
-
-**Front**: Front text.
-
-**Back**: Back text.
-
----
-
-**Front**: Front text.
-
-**Back**: Back text.
-
----
+{% endfor %}

@@ -1,39 +1,46 @@
-```button
-name Populate template
-type command
-action Python Scripter: Run something.py
-color default
+```meta-bind-button
+label: Populate Template
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: destructive
+actions:
+  - type: command
+    command: python-scripter:run-something.py
+  - type: replaceSelf
+    replacement: "#university #mathematics #topic #todo"
+
 ```
-## {{ topic_title }}
-*{{ topic_overview }}*
 
-Related to:
-{{ topic_relations }}
+>[!WARNING] Disclaimer
+>This was all automatically generated and so has a high chance of containing incorrect or badly formatted information. Please edit this note or even re-generate it until it fits your standard.
 
----
-### Key Concepts
+## Big Picture Overview
 
-{{ topic_concepts }}
+```meta-bind-button
+label: Create a new Excalidraw canvas
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: command
+    command: obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab
+  - type: replaceSelf
+    replacement: ""
 
----
-### Detailed Explanation
-*Including examples, applications, and any applicable history.*
+```
 
-{{ topic_explanation }}
+## Topic-level Questions
+*A selection of curated questions to test topics brought together from the entire topic*.
 
----
-#### Common Mistakes and Tips
+...
 
-{{ topic_mistakes }}
+## Sub-Topics
 
-{{ topic_tips }}
-
----
-#### Practice Problems
-
-{{ topic_problems }}
-
----
-### Further Reading
-
-{{ topic_reading }}
+{% for subtopic_name, subtopic_content in subtopics.items() %}- [[{{ subtopic_name }}]].
+{% endfor %}

@@ -37,6 +37,7 @@
 ### Other Stuff
 
 - [ ] Quartz Digital Garden.
+	- [ ] Fix buttons in my vault (migrate to MetaBind).
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
 	- [ ] [[Convert folder overview to markdown on render]].
@@ -54,31 +55,20 @@
 ---
 ## Academic
 
-### Unscheduled
-
-- [ ] Create index pages for course and years one and two, including [[../Unorganised/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
+- [ ] Create index pages for course and years one and two, including [[../University of Lincoln/Bachelor of Science with Honours in Mathematics/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
 - [ ] Backfill Year 1 module notes.
 - [ ] Formalise/complete Coding Theory notes: [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]], [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]], [[Coding Theory Week 3]].
 - [ ] Formalise/complete Algebraic Structures notes:[[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]], [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]].
 - [ ] Formalise/complete [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]], [[Differential Equations Week 2]], [[Differential Equations Week 3]].
 - [ ] Formalise/complete [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]].
-
-### Scheduled
-
-- [ ] FRIDAY 11TH: Complete [skills assessment](https://careers.lincoln.ac.uk/student/svc/skills.html#/start-test) for the **Explore Skills** part of my Employer Project and then reflect on the results for my **Explore Reflection** part.
 - [ ] WHEN POSSIBLE: Hand in Scientific Computing coursework.
 
 ---
 ## Work
 
-### Unscheduled
-
+- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
-
-### Scheduled
-
-- [ ] FRIDAY 11TH: [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!
-- [ ] SATURDAY 12TH: Schedule content for the Tutoring With Will social media.
+- [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
 	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.

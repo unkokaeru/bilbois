@@ -5,10 +5,10 @@ All work is due at **3pm** on its due date, with each full day afterwards taking
 **MTH2008, Scientific Computing**: ~~Week 1~~ -> Week 8, feedback on Week 11.
 *Released on Monday, 23rd September 2024*.
 
-**MTH2004, Differential Equations**: ~~Weeks 3~~, 4, 5, 6, 10, 11, 12, instant feedback.
+**MTH2004, Differential Equations**: ~~Weeks 3~~, ~~4~~, 5, 6, 10, 11, 12, instant feedback.
 *Weekly Assignments on Blackboard*.
 
-**MTH2002, Coding Theory**: ~~Week 3~~ -> 4, feedback on Week 7.
+**MTH2002, Coding Theory**: ~~Week 3~~ -> ~~4~~, feedback on Week 7.
 *Released on Monday, 7th October 2024*.
 
 **MTH2007, Lagrangian/Hamiltonian Mechanics**: Week 4 -> 5, feedback on Week 8.
