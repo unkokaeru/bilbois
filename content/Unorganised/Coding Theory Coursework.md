@@ -1,13 +1,5 @@
----
-title: "**🖊 MTH2002** Coding Theory Coursework"
-author: School of Engineering and Physical Sciences, University of Lincoln
-date: Tuesday, 8th October 2024
-geometry: margin=1in
----
-
 Alternative forms: [[Coding Theory Coursework.pdf]] and [[Coding Theory Coursework.docx]].
 
-\newpage
 ### Problem CW1 (*25 total marks*)
 
 Consider the code $C\subset \mathbb{F}_{5}^{3}$ consisting of the following codewords....
@@ -56,7 +48,6 @@ $$
 
 ---
 
-
 ### Problem CW2 (*10 marks*)
 
 Consider the code $C=\{0000,1111,0101,1010\}\subset \mathbb{F}_{2}^{4}$ in a symmetric channel with symbol error probability $p=0.05$ Suppose the codeword $0000$ is sent and is received with exactly one erroneous symbol.
@@ -75,7 +66,6 @@ P(\text{one erroneous symbol}) &= 4\cdot p\cdot(1-p)^{3}\\
 $$
 
 ---
-
 
 ### Problem CW3 (*35 total marks*)
 
@@ -129,7 +119,6 @@ $$
 Practically, this represents the number of words with Hamming distance 2 from the word $\downarrow\searrow\rightarrow p$.
 
 ---
-
 
 ### Problem CW4 (*30 total marks*)
 

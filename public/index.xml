@@ -6,6 +6,12 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Coding Theory Coursework</title>
+    <link>https://bilbois.me/Unorganised/Coding-Theory-Coursework</link>
+    <guid>https://bilbois.me/Unorganised/Coding-Theory-Coursework</guid>
+    <description>Alternative forms: Coding Theory Coursework.pdf and Coding Theory Coursework.docx. Problem CW1 (25 total marks) Consider the code C\subset \mathbb{F}_{5}^{3} consisting of the following codewords… c_{1}=243,\quad c_{2}=321,\quad c_{3}=102.</description>
+    <pubDate>Mon, 14 Oct 2024 08:41:24 GMT</pubDate>
+  </item><item>
     <title>Main Vibes</title>
     <link>https://bilbois.me/Main-Vibes/Main-Vibes</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
@@ -59,12 +65,6 @@
     <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/Lagrangian-and-Hamiltonian-Mechanics</guid>
     <description>id: f2c7e681-3efa-42d6-92ea-c3269f9941d4 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
     <pubDate>Fri, 11 Oct 2024 12:23:14 GMT</pubDate>
-  </item><item>
-    <title>Differential Equations</title>
-    <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Differential-Equations/Differential-Equations</link>
-    <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Differential-Equations/Differential-Equations</guid>
-    <description>id: d59a5504-2a77-4b38-804f-20d2f5c7dff2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Fri, 11 Oct 2024 12:23:12 GMT</pubDate>
   </item>
     </channel>
   </rss>
