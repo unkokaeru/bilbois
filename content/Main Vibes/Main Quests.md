@@ -55,17 +55,21 @@
 ---
 ## Academic
 
+- [ ] Correct dates in my Scientific Computing Logbook, fix other minor mistakes.
+	- [ ] Extend auto-generation to separate the coursework.
+- [ ] Complete the week 2 reflection for my Scientific Computing Logbook.
+- [ ] Complete the week 3 reflection for my Scientific Computing Logbook.
 - [ ] Create index pages for course and years one and two, including [[../University of Lincoln/Bachelor of Science with Honours in Mathematics/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
 - [ ] Backfill Year 1 module notes.
 - [ ] Formalise/complete Coding Theory notes: [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]], [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]], [[Coding Theory Week 3]].
 - [ ] Formalise/complete Algebraic Structures notes:[[../Organised/Mathematics/Lectures/Algebraic Structures Week 1|Algebraic Structures Week 1]], [[../Organised/Mathematics/Lectures/Algebraic Structures Week 2|Algebraic Structures Week 2]].
 - [ ] Formalise/complete [[../Organised/Mathematics/Lectures/Differential Equations Week 1|Differential Equations Week 1]], [[Differential Equations Week 2]], [[Differential Equations Week 3]].
 - [ ] Formalise/complete [[../Organised/Mathematics/Lectures/Lagrangian and Hamiltonian Mechanics Week 1|Lagrangian and Hamiltonian Mechanics Week 1]].
-- [ ] WHEN POSSIBLE: Hand in Scientific Computing coursework.
 
 ---
 ## Work
 
+- [ ] ***Finish downloading AQA A-Level Mathematics Cambridge textbook***.
 - [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!
 - [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
 - [ ] Schedule content for the Tutoring With Will social media.
