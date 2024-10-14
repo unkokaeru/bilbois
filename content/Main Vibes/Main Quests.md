@@ -14,6 +14,7 @@
 ### Programming
 
 - [ ] **Abraham Markdown**.
+	- [ ] Refine [[Abraham Data Dictionaries]].
 	- [ ] Use classes for everything and 4o-mini for content generation.
 	- [ ] Extend to generate GCSE and A-Level content.
 	- [ ] Convert to a website?
@@ -37,7 +38,6 @@
 ### Other Stuff
 
 - [ ] Quartz Digital Garden.
-	- [ ] Fix buttons in my vault (migrate to MetaBind).
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
 	- [ ] [[Convert folder overview to markdown on render]].
@@ -77,16 +77,30 @@
 
 ---
 
-```button
-name Open VS Code
-type command
-action Python Scripter: Run open_vscode.py
-color default
+```meta-bind-button
+label: Open VS Code
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: command
+    command: python-scripter:run-open_vscode.py
+
 ```
 
-```button
-name Open Arc Browser
-type command
-action Python Scripter: Run open_arc.py
-color default
+```meta-bind-button
+label: Open Arc Browser
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: command
+    command: python-scripter:run-open_arc.py
+
 ```

@@ -6,6 +6,18 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Abraham Data Dictionaries</title>
+    <link>https://bilbois.me/Unorganised/Abraham-Data-Dictionaries</link>
+    <guid>https://bilbois.me/Unorganised/Abraham-Data-Dictionaries</guid>
+    <description>FLOWS Overall program flow: Read input information → Create data → Render module page → User can navigate pages and manually render each page Overall note rendering flow (probably): ...</description>
+    <pubDate>Mon, 14 Oct 2024 08:44:25 GMT</pubDate>
+  </item><item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Homie Moments Look at Alex’s CV. Programming Abraham Markdown. Refine Abraham Data Dictionaries.</description>
+    <pubDate>Mon, 14 Oct 2024 08:44:05 GMT</pubDate>
+  </item><item>
     <title>Coding Theory Coursework</title>
     <link>https://bilbois.me/Unorganised/Coding-Theory-Coursework</link>
     <guid>https://bilbois.me/Unorganised/Coding-Theory-Coursework</guid>
@@ -23,12 +35,6 @@
     <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
     <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
     <pubDate>Mon, 14 Oct 2024 08:11:44 GMT</pubDate>
-  </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Homie Moments Look at Alex’s CV. Programming Abraham Markdown. Use classes for everything and 4o-mini for content generation.</description>
-    <pubDate>Mon, 14 Oct 2024 07:07:28 GMT</pubDate>
   </item><item>
     <title>Bachelor of Science with Honours in Mathematics</title>
     <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Bachelor-of-Science-with-Honours-in-Mathematics</link>
@@ -59,12 +65,6 @@
     <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Scientific-Computing/Scientific-Computing</guid>
     <description>id: 49352484-da67-458f-97d5-c380fe703de7 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
     <pubDate>Fri, 11 Oct 2024 12:23:18 GMT</pubDate>
-  </item><item>
-    <title>Lagrangian and Hamiltonian Mechanics</title>
-    <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/Lagrangian-and-Hamiltonian-Mechanics</link>
-    <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/Lagrangian-and-Hamiltonian-Mechanics</guid>
-    <description>id: f2c7e681-3efa-42d6-92ea-c3269f9941d4 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Fri, 11 Oct 2024 12:23:14 GMT</pubDate>
   </item>
     </channel>
   </rss>
