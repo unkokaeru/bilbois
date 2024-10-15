@@ -5,6 +5,15 @@
 **Related**: [[Side Quests]] and [[Grinding]].
 
 ---
+
+Today, I plan to work on the following quests (on top of my organised schedule)...
+
+- Look at Alex's CV: 30 minutes
+- Abraham Markdown: 1 hour
+- Tamago Time: 1 hour
+- Week 2 Reflection: 30 minutes
+
+---
 ## Personal
 
 ### Homie Moments
@@ -69,9 +78,8 @@
 ---
 ## Work
 
-- [ ] ***Finish downloading AQA A-Level Mathematics Cambridge textbook***.
-- [ ] [Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!
-- [ ] Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?
+- [ ] **[Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!**
+- [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
