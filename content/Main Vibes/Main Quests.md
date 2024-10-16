@@ -12,6 +12,7 @@ Today, I plan to work on the following quests (on top of my organised schedule).
 - Abraham Markdown: 1 hour
 - Tamago Time: 1 hour
 - Week 2 Reflection: 30 minutes
+- A Normal Rating System: 1 hour
 
 ---
 ## Personal

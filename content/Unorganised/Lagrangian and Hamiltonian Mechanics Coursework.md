@@ -2,6 +2,10 @@
 
 A point particle of **mass $m$** is suspended **horizontally** on two springs of **rest length $l$** between two solid walls, a **distance of $2l$ apart**. The **spring constant** of the left spring is $k$ and the right spring is $99k$.
 
+This model is depicted below:
+
+![[../Auto-Generated/Attachments/Lagrangian and Hamiltonian Mechanics Coursework 2024-10-16 10.35.09.excalidraw]]
+
 ### Part A (*4 marks*)
 
 We can **find the degrees of freedom** of the particle by definition:
@@ -10,7 +14,7 @@ $$
 \text{d.f.}=kN-p
 $$
 
-where $k$ is the number of dimensions, $N$ the number of particles, and $p$ the number of holonomic constraints. In this model, there is one particle ($N=1$) moving horizontally ($k=1$) without any holonomic constraints ($p=1$). Hence,
+where $k$ is the number of dimensions, $N$ the number of particles, and $p$ the number of holonomic constraints. In this model, there is one particle ($N=1$) moving horizontally ($k=1$) without any holonomic constraints ($p=1$); since the only attachments to the particle are springs, which can be theoretically stretched infinitely and thus aren't holonomic constraints. Hence,
 
 $$
 \text{d.f.}=1\cdot1-0=\boxed{1}
@@ -65,7 +69,7 @@ $$
 
 ### Part D (*12 marks*)
 
-**Repeating the previous steps** for the case that both spring constant are equal to $50k$, we find that the degrees of freedom are $\text{d.f.}=1\cdot1-0=\boxed{1}$, and the Lagrangian is...
+**Repeating the previous steps** for the case that both spring constant are equal to $50k$, we find that the degrees of freedom are still $\text{d.f.}=1\cdot1-0=\boxed{1}$ (as there are no new attachments to the particle apart from the springs that can extend infinitely, hence do not count as holonomic contraints, and the dimensions/number of particles are the same), and the Lagrangian is...
 
 $$
 \begin{align*}
@@ -99,18 +103,16 @@ Physically, this makes sense, as if the springs are equally strong then the syst
 There is a **Lagrangian in the following form**, where $m,M,a_{1},a_{2},g$ are constants and $x_{1},x_{2}$ are two generalised coordinates...
 
 $$
-\begin{align*}
-L &= \frac{1}{2}\cdot (m+M)\cdot a_{1}^{2}\cdot \dot{x}_{1}^{2}\\
-&+ \frac{1}{2}\cdot M\cdot a_{2}^{2}\cdot \dot{x}_{2}^{2}\\
-&+ M\cdot a_{1}\cdot a_{2}\cdot \dot{x}_{1}\cdot \dot{x}_{2}\cdot \cos(x_{1}-x_{2})\\
-&+ (m+M)\cdot g\cdot a_{1}\cdot \cos(x_{1})\\
-&+ M\cdot g\cdot a_{2}\cdot \cos(x_{2})
-\end{align*}
+L = \frac{1}{2}(m+M)a_{1}^{2}\dot{x}_{1}^{2} + \frac{1}{2}Ma_{2}^{2}\dot{x}_{2}^{2} + Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\cos(x_{1}-x_{2}) + (m+M)ga_{1}\cos(x_{1}) + Mga_{2}\cos(x_{2})
 $$
+
+My interpretation of this Lagrangian is a double pendulum illustrated below:
+
+![[../Auto-Generated/Attachments/Lagrangian and Hamiltonian Mechanics Coursework 2024-10-16 10.44.02.excalidraw]]
 
 ### Part A (*30 marks*)
 
-This Lagrangian is dependent on two generalised coordinates, so should have **two Euler-Lagrange equations** defined by the equations:
+This Lagrangian is dependent on two generalised coordinates (this makes sense, as there are two particles moving in two dimensions with two holonomic constraints - the two massless rigid rods attached to the particles -, since the Lagrangian describes a double pendulum, hence $\text{d.f.}=2\cdot2-2=2$), so should have **two Euler-Lagrange equations** defined by the equations:
 
 $$
 \frac{d}{dt}\left(\frac{\partial L}{\partial \dot{x}_1}\right) - \frac{\partial L}{\partial x_1} = 0\quad \text{and}\quad \frac{d}{dt}\left(\frac{\partial L}{\partial \dot{x}_2}\right) - \frac{\partial L}{\partial x_2} = 0
@@ -145,21 +147,22 @@ $$
 \begin{align*}
 0&=(m+M)a_{1}^{2}\ddot{x}_{1}+ Ma_{1}a_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})-Ma_{1}a_{2}\dot{x}_{2}(\dot{x}_{1}-\dot{x}_{2})\sin(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+(m+M)ga_{1}\sin(x_{1})\\
 &=(m+M)a_{1}^{2}\ddot{x}_{1}+ Ma_{1}a_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})-Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+(m+M)ga_{1}\sin(x_{1})\\
-&=(m+M)a_{1}^{2}\ddot{x}_{1}+Ma_{1}a_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)ga_{1}\sin(x_{1})
+&=(m+M)a_{1}^{2}\ddot{x}_{1}+Ma_{1}a_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)ga_{1}\sin(x_{1})\\
+&= a_{1}((m+M)a_{1}\ddot{x}_{1}+Ma_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)g\sin(x_{1}))
 \end{align*}
 $$
 
 Resulting in the **first Euler-Lagrange equation**:
 
 $$
-\boxed{(m+M)a_{1}^{2}\ddot{x}_{1}+Ma_{1}a_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)ga_{1}\sin(x_{1})=0}
+\boxed{a_{1}((m+M)a_{1}\ddot{x}_{1}+Ma_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)g\sin(x_{1}))=0}
 $$
 
 Repeating the same steps for the second Euler-Lagrange equation: First, the required derivatives...
 $$
 \begin{align*}
 &\frac{\partial L}{\partial \dot{x}_{2}} = Ma_{2}^{2}\dot{x}_{2}+Ma_{1}a_{2}\dot{x}_{1}\cos(x_{1}-x_{2})\\
-&\frac{\partial L}{\partial x_{2}} = -Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})-Mga_{2}\sin(x_{2})
+&\frac{\partial L}{\partial x_{2}} = -(-1)Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})-Mga_{2}\sin(x_{2})
 \end{align*}
 $$
 
@@ -176,20 +179,20 @@ Then, substituting these values into the original definition:
 
 $$
 \begin{align*}
-0&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}(\dot{x}_{1}-\dot{x}_{2})\sin(x_{1}-x_{2}))+Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+Mga_{2}\sin(x_{2})\\
-&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}(\dot{x}_{1}-\dot{x}_{2})\sin(x_{1}-x_{2})+a_{1}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+g\sin(x_{2}))\\
-&= Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}^{2}\sin(x_{1}-x_{2})+a_{1}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+a_{1}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+g\sin(x_{2}))\\
-&= Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}^{2}\sin(x_{1}-x_{2})+2a_{1}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+g\sin(x_{2}))\\
-&= Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})+(2a_{1}\dot{x}_{1}\dot{x}_{2}-a_{1}\dot{x}_{1}^{2})\sin(x_{1}-x_{2})+g\sin(x_{2}))\\
-&= Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})+a_{1}\dot{x}_{1}(2\dot{x}_{2}-\dot{x}_{1})\sin(x_{1}-x_{2})+g\sin(x_{2}))
+0&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}(\dot{x}_{1}-\dot{x}_{2})\sin(x_{1}-x_{2}))-Ma_{1}a_{2}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+Mga_{2}\sin(x_{2})\\
+&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}(\dot{x}_{1}-\dot{x}_{2})\sin(x_{1}-x_{2})-a_{1}\dot{x}_{1}\dot{x}_{2}\sin(x_{1}-x_{2})+g\sin(x_{2}))\\
+&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}((\dot{x}_{1}-\dot{x}_{2})+\dot{x}_{2})\sin(x_{1}-x_{2})+g\sin(x_{2}))\\
+&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}^{2}\sin(x_{1}-x_{2})+g\sin(x_{2}))
 \end{align*}
 $$
 
 Hence the **second Euler-Lagrange equation** is...
 
 $$
-\boxed{Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})+a_{1}\dot{x}_{1}(2\dot{x}_{2}-\dot{x}_{1})\sin(x_{1}-x_{2})+g\sin(x_{2}))=0}
+\boxed{Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}^{2}\sin(x_{1}-x_{2})+g\sin(x_{2}))=0}
 $$
+
+*Note: both of these Euler-Lagrange equations could be simplified further by dividing through by $a_{1}$ and $Ma_{2}$ respectively, but as these weren't explicitly non-zero in the question I simply factorised them out instead to avoid division by zero*.
 
 ### Part B (*20 marks*)
 
@@ -197,8 +200,8 @@ We now have two Euler-Lagrange equations:
 
 $$
 \begin{align*}
-0&=(m+M)a_{1}^{2}\ddot{x}_{1}+Ma_{1}a_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{1}a_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)ga_{1}\sin(x_{1}),\\
-0&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})+a_{1}\dot{x}_{1}(2\dot{x}_{2}-\dot{x}_{1})\sin(x_{1}-x_{2})+g\sin(x_{2})).
+0&=a_{1}((m+M)a_{1}\ddot{x}_{1}+Ma_{2}\ddot{x}_{2}\cos(x_{1}-x_{2})+Ma_{2}\dot{x}_{2}^{2}\sin(x_{1}-x_{2})+(m+M)g\sin(x_{1})),\\
+0&=Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}\cos(x_{1}-x_{2})-a_{1}\dot{x}_{1}^{2}\sin(x_{1}-x_{2})+g\sin(x_{2})).
 \end{align*}
 $$
 
@@ -212,17 +215,10 @@ We can then **simplify these results** assuming that $x_{1}$ and $x_{2}$ are sma
 Hence we can approximate the two Euler-Lagrange equations as...
 
 $$
-\begin{align*}
-0&\approx (m+M)a_{1}^{2}\ddot{x}_{1}+Ma_{1}a_{2}\ddot{x}_{2}+Ma_{1}a_{2}\dot{x}_{2}^{2}(x_{1}-x_{2})+(m+M)ga_{1}x_{1},\\
-0&\approx Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}+a_{1}\dot{x}_{1}(2\dot{x}_{2}-\dot{x}_{1})(x_{1}-x_{2})+gx_{2}.
-\end{align*}
-$$
-
-Which can be simplified to...
-
-$$
 \boxed{\begin{align*}
-0&\approx a_{1}((m+M)a_{1}\ddot{x}_{1}+(m+M)gx_{1}+Ma_{2}\ddot{x}_{2}+Ma_{2}\dot{x}_{2}^{2}(x_{1}-x_{2})),\\
-0&\approx Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}+a_{1}\dot{x}_{1}(2\dot{x}_{2}-\dot{x}_{1})(x_{1}-x_{2})+gx_{2}.
+0&\approx a_{1}((m+M)a_{1}\ddot{x}_{1}+Ma_{2}\ddot{x}_{2}+Ma_{2}\dot{x}_{2}^{2}(x_{1}-x_{2})+(m+M)g(x_{1})),\\
+0&\approx Ma_{2}(a_{2}\ddot{x}_{2}+a_{1}\ddot{x}_{1}-a_{1}\dot{x}_{1}^{2}(x_{1}-x_{2})+gx_{2}).
 \end{align*}}
 $$
+
+*Note: we stop here, as the question only asked to simplify, not solve, the coupled second-order nonlinear differential equations*.
