@@ -4,7 +4,7 @@ A point particle of **mass $m$** is suspended **horizontally** on two springs of
 
 This model is depicted below:
 
-![[../Auto-Generated/Attachments/Lagrangian and Hamiltonian Mechanics Coursework 2024-10-16 10.35.09.excalidraw]]
+![[../Auto-Generated/Attachments/Pasted image 20241016121341.png]]
 
 ### Part A (*4 marks*)
 
@@ -108,7 +108,7 @@ $$
 
 My interpretation of this Lagrangian is a double pendulum illustrated below:
 
-![[../Auto-Generated/Attachments/Lagrangian and Hamiltonian Mechanics Coursework 2024-10-16 10.44.02.excalidraw]]
+![[../Auto-Generated/Attachments/Pasted image 20241016121453.png]]
 
 ### Part A (*30 marks*)
 
