@@ -5,37 +5,28 @@
 **Related**: [[Side Quests]] and [[Grinding]].
 
 ---
-
-Today, I plan to work on the following quests (on top of my organised schedule)...
-
-- Look at Alex's CV: 30 minutes
-- Abraham Markdown: 1 hour
-- Tamago Time: 1 hour
-- Week 2 Reflection: 30 minutes
-- A Normal Rating System: 1 hour
-
----
 ## Personal
-
-### Homie Moments
-
-- [ ] **Look at [Alex's CV](https://docs.google.com/document/d/1e-mcCKi0KnYLssIf7lfRtlmL3Z_LYAgY/edit)**.
 
 ### Programming
 
+- [ ] *I wonder if I could make an unofficial API for the university attendance system?*
+- [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
 - [ ] **Abraham Markdown**.
 	- [ ] Refine [[Abraham Data Dictionaries]].
 	- [ ] Use classes for everything and 4o-mini for content generation.
 	- [ ] Extend to generate GCSE and A-Level content.
 	- [ ] Convert to a website?
 - [ ] Tamago Time.
+	- [ ] Look into what APIs exist and what other information sources I could use: summarised Atrioc transcripts, FT summaries, placement site APIs, anilist API for new anime, Lichess/Chess.com API.
 	- [ ] Generate morning briefings: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
 - [ ] Quick and Artful Response Code Generator.
 	- [ ] Implement basic QR code generation.
 	- [ ] Extend to create patterns from images by manipulating the underlying mathematics.
 	- [ ] Port to a Chrome extension.
 - [ ] A Normal Rating System.
+	- [ ] Fix how `file_handling.py` handles file encoding - I think `csv_reader` can't read unicode.
 	- [ ] Implement an algorithm to help the user rate a list of items from 1-10 just with direct comparisons, ensuring the output follows a normal distribution.
+	- [ ] Use the [GraphQL AniList API](https://docs.anilist.co/) to export and import based on username etc.
 - [ ] Chess Doppelganger.
 	- [ ] Implement a simple chess engine.
 	- [ ] Extend with a simple chess AI.
@@ -47,6 +38,7 @@ Today, I plan to work on the following quests (on top of my organised schedule).
 
 ### Other Stuff
 
+- [ ] **Review passwords**!
 - [ ] Quartz Digital Garden.
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
@@ -56,17 +48,21 @@ Today, I plan to work on the following quests (on top of my organised schedule).
 	- [ ] AFTER: Upgrade my USB to automatically setup Obsidian/Quartz.
 - [ ] Upgrade my USB to automatically setup Arc and VS Code.
 - [ ] De-Google.
-	- [ ] *Migrate authentication apps to a single place.*
 	- [ ] [Obtainium](https://github.com/ImranR98/Obtainium).
 	- [ ] Self-host photos.
-	- [ ] Self-host password manager.
 	- [ ] Self-host cloud storage.
 
 ---
 ## Academic
 
-- [ ] Correct dates in my Scientific Computing Logbook, fix other minor mistakes.
-	- [ ] Extend auto-generation to separate the coursework.
+### Enterprise Project
+
+- [ ] Amend the [[Enterprise Project Briefing]] in the [[../Unorganised/Enterprise Project Initial Meeting Notes|Enterprise Project Initial Meeting]].
+
+### Main Modules
+
+- [ ] Extend auto-generation to separate the coursework.
+	- [ ] Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
 - [ ] Complete the week 2 reflection for my Scientific Computing Logbook.
 - [ ] Complete the week 3 reflection for my Scientific Computing Logbook.
 - [ ] Create index pages for course and years one and two, including [[../University of Lincoln/Bachelor of Science with Honours in Mathematics/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
@@ -79,8 +75,13 @@ Today, I plan to work on the following quests (on top of my organised schedule).
 ---
 ## Work
 
-- [ ] **[Review](http://careerset.com/lincoln) and improve my [CV](William%20Fayers.md), incl. adding Thailand and Oxford stuff. Afterwards, apply for placements (years in industry)!**
-- [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
+- [ ] Create a CV GitHub repository.
+	- [ ] Create a file to note down what I plan to include on my CV.
+		- [ ] Visiting Thailand - global mindset and community stuff.
+		- [ ] Oxford Balliol Frontier - teamwork, learned stuff, and exclusive.
+	- [ ] Create CVs for different job roles: part-time retail, finance placement, software development placement, etc.
+	- [ ] Review CVs using [CareerSet](https://careerset.com/upload-CV).
+- [ ] Apply to placements for my year in industry: I have some saved with the earliest deadlines in October.
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.

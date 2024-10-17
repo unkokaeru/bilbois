@@ -6,6 +6,24 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Programming I wonder if I could make an unofficial API for the university attendance system? Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export? Abraham Markdown.</description>
+    <pubDate>Thu, 17 Oct 2024 13:47:31 GMT</pubDate>
+  </item><item>
+    <title>Enterprise Project Briefing</title>
+    <link>https://bilbois.me/Unorganised/Enterprise-Project-Briefing</link>
+    <guid>https://bilbois.me/Unorganised/Enterprise-Project-Briefing</guid>
+    <description> Task We would like you to perform a competitor analysis for us. This will involve looking at how Lone Star Analysis (LSA) presents itself online compared to its competitors, then creating actionable suggestions regarding the online presence of LSA.</description>
+    <pubDate>Thu, 17 Oct 2024 11:55:01 GMT</pubDate>
+  </item><item>
+    <title>Initial Impressions of Lone Star Analysis</title>
+    <link>https://bilbois.me/Unorganised/Initial-Impressions-of-Lone-Star-Analysis</link>
+    <guid>https://bilbois.me/Unorganised/Initial-Impressions-of-Lone-Star-Analysis</guid>
+    <description> Hard to find UK subsidiary, led to confusion as to what the correct website is. Went to About Us for initial ideas, interested in the parent company but found an incorrect link httpss://www.lone-star.com/.</description>
+    <pubDate>Thu, 17 Oct 2024 11:53:53 GMT</pubDate>
+  </item><item>
     <title>Lagrangian and Hamiltonian Mechanics Coursework</title>
     <link>https://bilbois.me/Unorganised/Lagrangian-and-Hamiltonian-Mechanics-Coursework</link>
     <guid>https://bilbois.me/Unorganised/Lagrangian-and-Hamiltonian-Mechanics-Coursework</guid>
@@ -23,12 +41,6 @@
     <guid>https://bilbois.me/Auto-Generated/Attachments/Lagrangian-and-Hamiltonian-Mechanics-Coursework-2024-10-16-10.44.02.excalidraw</guid>
     <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
     <pubDate>Wed, 16 Oct 2024 10:17:13 GMT</pubDate>
-  </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Today, I plan to work on the following quests (on top of my organised schedule)… Look at Alex’s CV: 30 minutes Abraham Markdown: 1 hour Tamago Time: 1 hour Week 2 Reflection: 30 minutes A Normal Rating System: 1 hour Personal Homie Moments Look at Alex’s CV.</description>
-    <pubDate>Wed, 16 Oct 2024 09:19:04 GMT</pubDate>
   </item><item>
     <title>Abraham Data Dictionaries</title>
     <link>https://bilbois.me/Unorganised/Abraham-Data-Dictionaries</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
     <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
     <pubDate>Mon, 14 Oct 2024 08:11:44 GMT</pubDate>
-  </item><item>
-    <title>Bachelor of Science with Honours in Mathematics</title>
-    <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Bachelor-of-Science-with-Honours-in-Mathematics</link>
-    <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Bachelor-of-Science-with-Honours-in-Mathematics</guid>
-    <description>To-Do List Design a module index template. Design note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining. Design a question answer template.</description>
-    <pubDate>Fri, 11 Oct 2024 12:29:16 GMT</pubDate>
-  </item><item>
-    <title>MATLAB</title>
-    <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-1/Computer-Algebra-and-Technical-Computing/MATLAB/MATLAB</link>
-    <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-1/Computer-Algebra-and-Technical-Computing/MATLAB/MATLAB</guid>
-    <description>id: 6474ae6d-3b34-419d-96ea-eab74cfcc540 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Fri, 11 Oct 2024 12:23:36 GMT</pubDate>
   </item>
     </channel>
   </rss>

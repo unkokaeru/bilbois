@@ -1,0 +1,20 @@
+- Hard to find UK subsidiary, led to confusion as to what the correct website is.
+- Went to About Us for initial ideas, interested in the parent company but found an incorrect link `httpss://www.lone-star.com/`.
+- Seems like they're trying to create a brand identity cohesive with its parent company, suggested by their logo, but has mismatched structures and fonts between https://lone-star.uk/ and https://www.lone-star.com/. **Maybe ask if we should ignore their parent company during the initial meeting?**
+- In the About Us it states that "Since 2004, organisations have trusted Lone Star to deliver actionable answers to complex problems in manufacturing, aerospace, defence, energy, logistics, transportation, and more. Lone Star’s current European client roster includes the Norwegian Ministry of Defence (NORMoD) as well as major defence prime contractors and major offshore operators.", but these feels difficult to read - why not just implement a logo carousel of companies worked with on the home page?
+- ==Nine word summary: Provides decision intelligence and engineering solutions using advanced analytics==.
+- *Do the homepage images load correctly*?
+- The entire website is made in a way that I have to get through a wall of boilerplate text in order to get the information I want. It's designed in a modern way, with a hint towards its defence nature, but feels like it was ported from an older version without changing the actual text content.
+- The "Solutions" header is confusing. Clicking other headers brings you to a dedicated page, but "Solutions" just reloads to active page. Other header issues are things like "Technology" bringing you to the "Software" page.
+- Advertised core services:
+	- Predictive & Prescriptive Analysis,
+	- Crew Resource Management,
+	- Leadership Training (links to the same site as Crew Resource Management, this is confusing).
+- Feels like a maze!
+- Social media links go back to the homepage, not their social media. Had to find manually:
+	- Twitter/X: Couldn't find, only https://x.com/lonestar_uk (tactical clothing company). Parent company shows up, though: https://x.com/lonestar?? https://x.com/lonestaranalysi.
+	- Facebook: Again, just parent company https://www.facebook.com/lonestaranalysis/.
+	- YouTube: Again, parent company https://www.youtube.com/channel/UCX--6fOuuDQhwFL7CWQJzyQ.
+	- LinkedIn: https://www.linkedin.com/company/lone-star-analysis-uk.
+- https://lone-star.uk/trunavigator/ has terrible styling - haven't looked at other pages yet.
+- Look into this sitemap: https://lone-star.uk/wp-sitemap.xml.
