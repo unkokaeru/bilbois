@@ -38,7 +38,7 @@
 
 ### Other Stuff
 
-- [ ] **Review passwords**!
+- [ ] **Review [passwords](https://account.proton.me)**!
 - [ ] Quartz Digital Garden.
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
@@ -55,11 +55,13 @@
 ---
 ## Academic
 
-### Enterprise Project
+### Enterprise Project: [[Enterprise Project Briefing]]
+*Expected 4 hours a week*.
 
-- [ ] Amend the [[Enterprise Project Briefing]] in the [[../Unorganised/Enterprise Project Initial Meeting Notes|Enterprise Project Initial Meeting]].
+- [ ] Organise our first meeting.
 
 ### Main Modules
+*Expected 50 hours a week*
 
 - [ ] Extend auto-generation to separate the coursework.
 	- [ ] Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
@@ -74,7 +76,9 @@
 
 ---
 ## Work
+*Expected 6 hours a week*.
 
+- [ ] Finish application to [Home Bargains](https://careershub.homebargains.co.uk/app/user/dashboard).
 - [ ] Create a CV GitHub repository.
 	- [ ] Create a file to note down what I plan to include on my CV.
 		- [ ] Visiting Thailand - global mindset and community stuff.
