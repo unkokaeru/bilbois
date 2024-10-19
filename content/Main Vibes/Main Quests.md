@@ -35,10 +35,11 @@
 	- [ ] [[Convenience Store Challenge]].
 	- [ ] [[Video Length Conversion Challenge]].
 	- [ ] [[Count True Challenge]].
+	- [ ] [[Pig Latin Challenge]].
+	- [ ] [[Ping Pong Challenge]].
 
 ### Other Stuff
 
-- [ ] **Review [passwords](https://account.proton.me)**!
 - [ ] Quartz Digital Garden.
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
@@ -78,19 +79,14 @@
 ## Work
 *Expected 6 hours a week*.
 
-- [ ] Finish application to [Home Bargains](https://careershub.homebargains.co.uk/app/user/dashboard).
-- [ ] Create a CV GitHub repository.
-	- [ ] Create a file to note down what I plan to include on my CV.
-		- [ ] Visiting Thailand - global mindset and community stuff.
-		- [ ] Oxford Balliol Frontier - teamwork, learned stuff, and exclusive.
-	- [ ] Create CVs for different job roles: part-time retail, finance placement, software development placement, etc.
-	- [ ] Review CVs using [CareerSet](https://careerset.com/upload-CV).
-- [ ] Apply to placements for my year in industry: I have some saved with the earliest deadlines in October.
+- [ ] Complete editing and writing my [[CVs]]. (*~3 hours*)
+- [ ] Apply to placements for my year in industry: I have some saved with the earliest deadlines in October. (*~2 hours*)
+- [ ] Make some student diagnosis material as a boilerplate introductory first four sessions, for new students. (*~3 hours*)
 - [ ] Schedule content for the Tutoring With Will social media.
-	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
-	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
-	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.
-	- [ ] [YouTube](https://www.youtube.com/@tutoringwithwill): Lessons on topics - book a lecture room?
+	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc. (*~3 hours*)
+	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc. (*~2 hours*)
+	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising. (*~2 hours*)
+	- [ ] [YouTube](https://www.youtube.com/@tutoringwithwill): Lessons on topics - book a lecture room? (*~5 hours*)
 	- [ ] "Handwritten pace to prevent being overwhelmed."
 
 ---
