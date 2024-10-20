@@ -23,7 +23,7 @@ showFolderNotes: true
 disableCollapseIcon: true
 ```
 
-Here's my CV in `.docx`, too (until I make this a proper section): [[William Fayers.docx]].
+My [[../Organised/Applications/CVs/CVs|CVs]] are with my other [[../Organised/Applications/Applications|Applications]].
 
 ---
 

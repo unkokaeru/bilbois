@@ -1,9 +1,9 @@
 # William Fayers
 
-*Dedicated and flexible undergraduate student seeking part-time work to support my studies.*
+*Dedicated and flexible undergraduate student seeking a placement year to apply my academic knowledge and skills in a practical environment.*
 
 - `Second-Year Student`
-- `Open to Part-Time Opportunities`
+- `Seeking a Year in Industry`
 
 ### 07578 127943 / william@fayers.com
 
@@ -22,6 +22,7 @@
 - Tutored Mathematics, Chemistry, and Physics to GCSE and A-Level students, carefully listening to their needs to foster a supportive learning environment.
 - Effectively communicated with students and parents to address weaker points in the student's education.
 - Managed all marketing and finances, including invoicing, advertising, and cash handling, in addition to delivery of tuition.
+- Modelled financial data to calculate suitable pricing that maintains consistent profit despite occasional cancellations, while also mitigating costs for disadvantaged students.
 
 **Volunteer, Air Cadets** (*Sept 2017 - Feb 2020*)
 - Participated in community service events and projects with other cadets, positively interacting with the community and supporting other volunteers with their responsibilities.    
@@ -46,6 +47,21 @@
 **GCSEs**: Free-Standing Mathematics Qualification (A), English Language (8), six other subjects (8), Mathematics (7), three other subjects (7).
 - Participated in foreign exchange programs to explore new cultures and practise adapting to new situations.
 
+## Projects
+
+- **Morning Briefing Generator**: Collates news sources, emails, notifications, and weather; generates a chess puzzle; converts to a custom speech model for natural delivery.
+  *Technologies used: Python, various APIs.*
+- **Dynamic Logbook**: Simplifies logbook creation for university modules; generates a cover, table of contents, references, and detailed weekly reflections.
+  *Technologies used: Python, Lua, Jinja, LaTeX, Markdown.*
+- **Chess Engine**: Built a chess engine from scratch to create an adaptable chess AI that learns from game history.
+  *Technologies used: Python.*
+- **QR Code Generator**: Developed to learn QR code mechanics; innovated to generate QR codes with patterns matching images.
+  *Technologies used: Python.*
+- **Note and Flashcard Generator**: Generates complete notes, flashcards, and practice questions for any mathematical topic; expanded for tutoring students.
+  *Technologies used: Python, Jinja, LaTeX, Markdown.*
+- **Digital Garden**: A platform to share notes, projects, and thoughts publicly.
+  *Technologies used: HTML, CSS, TypeScript, Hugo, Markdown.*
+
 ## Achievements
 
 - Awarded the [Arkwright Engineering Scholarship](https://www.arkwright.org.uk/) for demonstrating exceptional potential in engineering and technology.
@@ -54,9 +70,11 @@
 
 ## Skills
 
-- Strong communication and interpersonal skills.
-- Proven teamwork and collaboration.
-- Problem-solving and conflict resolution.
+- Experienced with Microsoft Excel for data modelling and financial management.
+- Proficient in Python with experience in Matlab, Maple, Typescript, Javascript, and Lua, currently learning C++.
+- Proven ability to communicate complex information clearly and effectively.
+- Demonstrated success in group projects and high-stress team environments.
+- Ability to identify problems and develop effective solutions.
 - Praised in word of mouth referrals for excellent customer service.
 - Demonstrated time management and self-motivation supporting academic progress.
 

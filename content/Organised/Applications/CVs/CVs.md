@@ -20,10 +20,9 @@ disableCollapseIcon: true
 
 ---
 
-Add Thailand stuff - global mindset and community vibes.
-Add Oxford Balliol Frontier stuff - teamwork, learned stuff, and exclusive.
+Review CVs with [CareerSet](https://careerset.com/upload-CV). Find placement opportunities with...
 
-Review CVs with [CareerSet](https://careerset.com/upload-CV).
+[Gradcracker](https://www.gradcracker.com/search/all-disciplines/engineering-work-placements-internships) | [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement) | [CareerLinc](https://careers.lincoln.ac.uk/student/)
 
 ---
 
@@ -39,7 +38,3 @@ Update CVs for placement years in the following areas:
 	- Risk Analysis
 - Software Engineering
 	- Technology Solutions
-
----
-
-[Gradcracker](https://www.gradcracker.com/search/all-disciplines/engineering-work-placements-internships) | [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement) | [CareerLinc](https://careers.lincoln.ac.uk/student/)

@@ -79,7 +79,7 @@
 ## Work
 *Expected 6 hours a week*.
 
-- [ ] Complete editing and writing my [[CVs]]. (*~3 hours*)
+- [ ] Refine my [[../Organised/Applications/CVs/Part-Time CV|Part-Time CV]] and [[../Organised/Applications/CVs/Placement CV|Placement CV]], including developing a better format (edit the `Pandoc reference.docx`). (*~1 hour*)
 - [ ] Apply to placements for my year in industry: I have some saved with the earliest deadlines in October. (*~2 hours*)
 - [ ] Make some student diagnosis material as a boilerplate introductory first four sessions, for new students. (*~3 hours*)
 - [ ] Schedule content for the Tutoring With Will social media.
