@@ -16,15 +16,16 @@
 
 **Research Team Member, British Sugar Biofuel Plant** (*Feb 2022 - Dec 2022*)
 - Collaborated with students and professionals to identify inefficiencies in biofuel production, developing the ability to work within a team successfully.
-- Applied and developed public speaking skills when presenting findings to staff and actively participating in meetings.
+- Practised public speaking skills when presenting findings to staff and actively participating in meetings.
 
 **Self-Employed Tutor** (*Oct 2020 - present*)
-- Tutored Mathematics, Chemistry, and Physics to GCSE and A-Level students, carefully listening to their needs to foster a supportive learning environment.
-- Effectively communicated with students and parents to address weaker points in the student's education.
+- Tutored Mathematics, Chemistry, and Physics to GCSE and A-Level students, working to understand their needs to foster a supportive learning environment.
+- Effectively communicated with students and parents to focus on growth areas in the student's education.
 - Managed all marketing and finances, including invoicing, advertising, and cash handling, in addition to delivery of tuition.
+- Modelled financial data to calculate suitable pricing that maintains consistent profit despite occasional cancellations, while also mitigating costs for disadvantaged students.
 
 **Volunteer, Air Cadets** (*Sept 2017 - Feb 2020*)
-- Participated in community service events and projects with other cadets, positively interacting with the community and supporting other volunteers with their responsibilities.    
+- Participated in community service events and projects with other cadets, positively interacting with the community and enjoying supporting other volunteers with their responsibilities.    
 - Worked within my squadron to deliver on the tasks given, communicating within the team and using initiative to complete essential tasks proactively.
 
 ## Education
@@ -54,9 +55,10 @@
 
 ## Skills
 
-- Strong communication and interpersonal skills.
-- Proven teamwork and collaboration.
-- Problem-solving and conflict resolution.
+- Experienced with Microsoft Excel for data modelling and financial management.
+- Proven capability to communicate complex information clearly and effectively.
+- Demonstrated success in group projects and high-stress team environments.
+- Ability to identify problems and develop effective solutions.
 - Praised in word of mouth referrals for excellent customer service.
 - Demonstrated time management and self-motivation supporting academic progress.
 

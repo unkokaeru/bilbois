@@ -5,21 +5,24 @@
 **Related**: [[Side Quests]] and [[Grinding]].
 
 ---
-## Monday, 21st October 2024.
+## Tuesday, 22nd October 2024.
 
-1. Take notes on the [presentation slides](../Auto-Generated/Attachments/Lonestar Analytics project introduction.pptx).
-2. Complete the week 2 reflection for my Scientific Computing Logbook.
-3. Complete the week 3 reflection for my Scientific Computing Logbook.
+1. **Apply to placements for my year in industry** (_~2 hours_).
+2. **Complete Algebraic Structures Coursework** (_~3 hours_).
+3. Complete the reflections for my Scientific Computing Logbook.
 4. Extend auto-generation to separate the coursework.
 	- Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
-5. Refine my [[../Organised/Applications/CVs/Part-Time CV|Part-Time CV]] and [[../Organised/Applications/CVs/Placement CV|Placement CV]], including developing a better format (edit the `Pandoc reference.docx`).
+5. Refine Scientific Computing code (incl. comments).
+6. Tidy up my LinkedIn (*~1 hour*).
+7. Algebraic Structures Coursework.
 
 ---
 ## Personal
 
 ### Programming
 
-- [ ] *I wonder if I could make an unofficial API for the university attendance system?*
+- [ ] *I wonder if I could make an unofficial API for the university attendance system*?
+- [ ] Refine main GitHub repos (from [[../Organised/Applications/CVs/Placement CV|Placement CV]]).
 - [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
 - [ ] **Abraham Markdown**.
 	- [ ] Refine [[Abraham Data Dictionaries]].
@@ -50,6 +53,7 @@
 
 ### Other Stuff
 
+- [ ] Can I modify the Obsidian presentation view to generate presentations in a similar style to the university? i.e. section header at the top, progress bar and page number at the bottom, colour scheme, fonts, definition (etc.) callout box style.
 - [ ] Quartz Digital Garden.
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 	- [ ] [[Convert buttons to markdown on render]].
@@ -71,21 +75,19 @@
 
 - [ ] Organise our first meeting.
 - [ ] Update [project log](../Auto-Generated/Attachments/Lincoln Award Employer Projects DEVELOP Experience project log - sem A 2024-25.docx).
-- [ ] **Take notes on the [presentation slides](../Auto-Generated/Attachments/Lonestar Analytics project introduction.pptx).**
 
 ### Main Modules
 *Expected 50 hours a week*
 
 #### Assignments
 
-- [ ] Differential Equations Web Assignment (on Blackboard).
+- [ ] Algebraic Structures Coursework.
 
 #### Other
 
 - [ ] **Extend auto-generation to separate the coursework.**
 	- [ ] Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
-- [ ] Complete the week 2 reflection for my Scientific Computing Logbook.
-- [ ] Complete the week 3 reflection for my Scientific Computing Logbook.
+- [ ] Complete the week reflections for my Scientific Computing Logbook.
 - [ ] Create index pages for course and years one and two, including [[../University of Lincoln/Bachelor of Science with Honours in Mathematics/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
 - [ ] Backfill Year 1 module notes.
 - [ ] Formalise/complete Coding Theory notes: [[../Organised/Mathematics/Lectures/Coding Theory Week 1|Coding Theory Week 1]], [[../Organised/Mathematics/Lectures/Coding Theory Week 2|Coding Theory Week 2]], [[Coding Theory Week 3]].
@@ -97,8 +99,8 @@
 ## Work
 *Expected 6 hours a week*.
 
-- [ ] **Refine my [[../Organised/Applications/CVs/Part-Time CV|Part-Time CV]] and [[../Organised/Applications/CVs/Placement CV|Placement CV]], including developing a better format (edit the `Pandoc reference.docx`). (*~1 hour*)**
 - [ ] **Apply to placements for my year in industry: I have some saved with the earliest deadlines in October. (*~2 hours*)**
+- [ ] Tidy up my LinkedIn (*~1 hour*)
 - [ ] Make some student diagnosis material as a boilerplate introductory first four sessions, for new students. (*~3 hours*)
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc. (*~3 hours*)

@@ -16,16 +16,16 @@
 
 **Research Team Member, British Sugar Biofuel Plant** (*Feb 2022 - Dec 2022*)
 - Collaborated with students and professionals to identify inefficiencies in biofuel production, developing the ability to work within a team successfully.
-- Applied and developed public speaking skills when presenting findings to staff and actively participating in meetings.
+- Practised public speaking skills when presenting findings to staff and actively participating in meetings.
 
 **Self-Employed Tutor** (*Oct 2020 - present*)
-- Tutored Mathematics, Chemistry, and Physics to GCSE and A-Level students, carefully listening to their needs to foster a supportive learning environment.
-- Effectively communicated with students and parents to address weaker points in the student's education.
+- Tutored Mathematics, Chemistry, and Physics to GCSE and A-Level students, working to understand their needs to foster a supportive learning environment.
+- Effectively communicated with students and parents to focus on growth areas in the student's education.
 - Managed all marketing and finances, including invoicing, advertising, and cash handling, in addition to delivery of tuition.
 - Modelled financial data to calculate suitable pricing that maintains consistent profit despite occasional cancellations, while also mitigating costs for disadvantaged students.
 
 **Volunteer, Air Cadets** (*Sept 2017 - Feb 2020*)
-- Participated in community service events and projects with other cadets, positively interacting with the community and supporting other volunteers with their responsibilities.    
+- Participated in community service events and projects with other cadets, positively interacting with the community and enjoying supporting other volunteers with their responsibilities.    
 - Worked within my squadron to deliver on the tasks given, communicating within the team and using initiative to complete essential tasks proactively.
 
 ## Education
@@ -50,17 +50,17 @@
 ## Projects
 
 - **Morning Briefing Generator**: Collates news sources, emails, notifications, and weather; generates a chess puzzle; converts to a custom speech model for natural delivery.
-  *Technologies used: Python, various APIs.*
+  *Technologies used: Python, GitHub, various APIs.*
 - **Dynamic Logbook**: Simplifies logbook creation for university modules; generates a cover, table of contents, references, and detailed weekly reflections.
-  *Technologies used: Python, Lua, Jinja, LaTeX, Markdown.*
+  *Technologies used: Python, GitHub, Lua, Jinja, LaTeX, Markdown.*
 - **Chess Engine**: Built a chess engine from scratch to create an adaptable chess AI that learns from game history.
-  *Technologies used: Python.*
+  *Technologies used: Python, GitHub.*
 - **QR Code Generator**: Developed to learn QR code mechanics; innovated to generate QR codes with patterns matching images.
-  *Technologies used: Python.*
+  *Technologies used: Python, GitHub.*
 - **Note and Flashcard Generator**: Generates complete notes, flashcards, and practice questions for any mathematical topic; expanded for tutoring students.
-  *Technologies used: Python, Jinja, LaTeX, Markdown.*
+  *Technologies used: Python, GitHub, Jinja, LaTeX, Markdown, LLM APIs.*
 - **Digital Garden**: A platform to share notes, projects, and thoughts publicly.
-  *Technologies used: HTML, CSS, TypeScript, Hugo, Markdown.*
+  *Technologies used: GitHub, HTML, CSS, TypeScript, Hugo, Markdown.*
 
 ## Achievements
 
@@ -72,7 +72,7 @@
 
 - Experienced with Microsoft Excel for data modelling and financial management.
 - Proficient in Python with experience in Matlab, Maple, Typescript, Javascript, and Lua, currently learning C++.
-- Proven ability to communicate complex information clearly and effectively.
+- Proven capability to communicate complex information clearly and effectively.
 - Demonstrated success in group projects and high-stress team environments.
 - Ability to identify problems and develop effective solutions.
 - Praised in word of mouth referrals for excellent customer service.

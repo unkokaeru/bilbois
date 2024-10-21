@@ -20,13 +20,17 @@ disableCollapseIcon: true
 
 ---
 
-Review CVs with [CareerSet](https://careerset.com/upload-CV). Find placement opportunities with...
+Review CVs with [CareerSet](https://careerset.com/upload-CV).
+
+After refining my GitHub, add links to the projects on my [[Placement CV]].
+
+Find placement opportunities with...
 
 [Gradcracker](https://www.gradcracker.com/search/all-disciplines/engineering-work-placements-internships) | [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement) | [CareerLinc](https://careers.lincoln.ac.uk/student/)
 
 ---
 
-Update CVs for placement years in the following areas:
+Possible placement years in the following areas:
 
 - Finance
 	- Actuary
