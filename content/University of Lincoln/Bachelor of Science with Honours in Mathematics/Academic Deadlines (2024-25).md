@@ -11,7 +11,7 @@ All work is due at **3pm** on its due date, with each full day afterwards taking
 **MTH2002, Coding Theory**: ~~Week 3~~ -> ~~4~~, feedback on Week 7.
 *Released on Monday, 7th October 2024*.
 
-**MTH2007, Lagrangian/Hamiltonian Mechanics**: Week 4 -> 5, feedback on Week 8.
+**MTH2007, Lagrangian/Hamiltonian Mechanics**: ~~Week 4~~ -> 5, feedback on Week 8.
 *Released on Tuesday, 15th October 2024*.
 
 **MTH2001, Algebraic Structures**: Week 5 -> 6, feedback on Week 9.

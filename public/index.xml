@@ -6,6 +6,24 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Main Quests</title>
+    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
+    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Monday, 21st October 2024. Take notes on the [presentation slides](../Auto-Generated/Attachments/Lonestar Analytics project introduction.pptx).</description>
+    <pubDate>Mon, 21 Oct 2024 08:15:00 GMT</pubDate>
+  </item><item>
+    <title>Anilist API info</title>
+    <link>https://bilbois.me/Unorganised/Anilist-API-info</link>
+    <guid>https://bilbois.me/Unorganised/Anilist-API-info</guid>
+    <description>Constants: client_id = “21811” client_secret = “vJG5Rnf7xQz7yqMxsCoGqtPArK2yad8cNRxJguq7” redirect_uri = “anilist.co/api/v2/oauth/pin” Authorisation URL f”anilist.co/api/v2/oauth/authorize{client_id}&amp;redirect_uri={redirect_uri}&amp;response_type=code” ...</description>
+    <pubDate>Mon, 21 Oct 2024 08:01:25 GMT</pubDate>
+  </item><item>
+    <title>Academic Deadlines (2024-25)</title>
+    <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</link>
+    <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
+    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
+    <pubDate>Mon, 21 Oct 2024 07:35:28 GMT</pubDate>
+  </item><item>
     <title>Part-Time CV</title>
     <link>https://bilbois.me/Organised/Applications/CVs/Part-Time-CV</link>
     <guid>https://bilbois.me/Organised/Applications/CVs/Part-Time-CV</guid>
@@ -23,12 +41,6 @@
     <guid>https://bilbois.me/Main-Vibes/Main-Vibes</guid>
     <description>Welcome to my main hub! Below are my essential to-do lists and notes that I use almost every day. Feel free to explore! id: df0e0be4-1968-4a96-a8dc-99d47f227cb8 folderPath: &quot;&quot; title: &quot;{{folderName}}&quot; showTitle: false depth: 10 style: list includeTypes: - folder - markdown disableFileTag: false sortBy: modified sortByAsc: false showEmptyFolders: true onlyIncludeSubfolders: false storeFolderCondition: false showFolderNotes: true disableCollapseIcon: true My CVs are with my other Applications.</description>
     <pubDate>Sun, 20 Oct 2024 14:38:07 GMT</pubDate>
-  </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Personal Programming I wonder if I could make an unofficial API for the university attendance system? Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export? Abraham Markdown.</description>
-    <pubDate>Sun, 20 Oct 2024 14:31:15 GMT</pubDate>
   </item><item>
     <title>CVs</title>
     <link>https://bilbois.me/Organised/Applications/CVs/CVs</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Unorganised/Ping-Pong-Challenge</guid>
     <description>...</description>
     <pubDate>Sat, 19 Oct 2024 18:59:09 GMT</pubDate>
-  </item><item>
-    <title>Pig Latin Challenge</title>
-    <link>https://bilbois.me/Unorganised/Pig-Latin-Challenge</link>
-    <guid>https://bilbois.me/Unorganised/Pig-Latin-Challenge</guid>
-    <description>...</description>
-    <pubDate>Sat, 19 Oct 2024 18:58:32 GMT</pubDate>
-  </item><item>
-    <title>Lagrangian and Hamiltonian Mechanics Coursework</title>
-    <link>https://bilbois.me/Unorganised/Lagrangian-and-Hamiltonian-Mechanics-Coursework</link>
-    <guid>https://bilbois.me/Unorganised/Lagrangian-and-Hamiltonian-Mechanics-Coursework</guid>
-    <description>Problem 1 (50 total marks) A point particle of mass m is suspended horizontally on two springs of rest length l between two solid walls, a distance of 2l apart ...</description>
-    <pubDate>Fri, 18 Oct 2024 19:55:17 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -5,6 +5,16 @@
 **Related**: [[Side Quests]] and [[Grinding]].
 
 ---
+## Monday, 21st October 2024.
+
+1. Take notes on the [presentation slides](../Auto-Generated/Attachments/Lonestar Analytics project introduction.pptx).
+2. Complete the week 2 reflection for my Scientific Computing Logbook.
+3. Complete the week 3 reflection for my Scientific Computing Logbook.
+4. Extend auto-generation to separate the coursework.
+	- Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
+5. Refine my [[../Organised/Applications/CVs/Part-Time CV|Part-Time CV]] and [[../Organised/Applications/CVs/Placement CV|Placement CV]], including developing a better format (edit the `Pandoc reference.docx`).
+
+---
 ## Personal
 
 ### Programming
@@ -26,7 +36,7 @@
 - [ ] A Normal Rating System.
 	- [ ] Fix how `file_handling.py` handles file encoding - I think `csv_reader` can't read unicode.
 	- [ ] Implement an algorithm to help the user rate a list of items from 1-10 just with direct comparisons, ensuring the output follows a normal distribution.
-	- [ ] Use the [GraphQL AniList API](https://docs.anilist.co/) to export and import based on username etc.
+	- [ ] Use the [GraphQL AniList API](https://docs.anilist.co/) to export and import based on username etc. ([[Anilist API info]])
 - [ ] Chess Doppelganger.
 	- [ ] Implement a simple chess engine.
 	- [ ] Extend with a simple chess AI.
@@ -60,11 +70,19 @@
 *Expected 4 hours a week*.
 
 - [ ] Organise our first meeting.
+- [ ] Update [project log](../Auto-Generated/Attachments/Lincoln Award Employer Projects DEVELOP Experience project log - sem A 2024-25.docx).
+- [ ] **Take notes on the [presentation slides](../Auto-Generated/Attachments/Lonestar Analytics project introduction.pptx).**
 
 ### Main Modules
 *Expected 50 hours a week*
 
-- [ ] Extend auto-generation to separate the coursework.
+#### Assignments
+
+- [ ] Differential Equations Web Assignment (on Blackboard).
+
+#### Other
+
+- [ ] **Extend auto-generation to separate the coursework.**
 	- [ ] Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
 - [ ] Complete the week 2 reflection for my Scientific Computing Logbook.
 - [ ] Complete the week 3 reflection for my Scientific Computing Logbook.
@@ -79,8 +97,8 @@
 ## Work
 *Expected 6 hours a week*.
 
-- [ ] Refine my [[../Organised/Applications/CVs/Part-Time CV|Part-Time CV]] and [[../Organised/Applications/CVs/Placement CV|Placement CV]], including developing a better format (edit the `Pandoc reference.docx`). (*~1 hour*)
-- [ ] Apply to placements for my year in industry: I have some saved with the earliest deadlines in October. (*~2 hours*)
+- [ ] **Refine my [[../Organised/Applications/CVs/Part-Time CV|Part-Time CV]] and [[../Organised/Applications/CVs/Placement CV|Placement CV]], including developing a better format (edit the `Pandoc reference.docx`). (*~1 hour*)**
+- [ ] **Apply to placements for my year in industry: I have some saved with the earliest deadlines in October. (*~2 hours*)**
 - [ ] Make some student diagnosis material as a boilerplate introductory first four sessions, for new students. (*~3 hours*)
 - [ ] Schedule content for the Tutoring With Will social media.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc. (*~3 hours*)
@@ -118,3 +136,6 @@ actions:
     command: python-scripter:run-open_arc.py
 
 ```
+
+>[!NOTE]
+>Tasks in **bold** are important/time-sensitive, tasks in *italics* are easy or quick, and other tasks are ranked in order of importance, normally. Sections that have times associated with them represent the hours required to complete every week, otherwise it's flexible from week to week. Timed tasks are just options for filling those required hours.
