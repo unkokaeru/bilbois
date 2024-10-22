@@ -7,27 +7,25 @@
 ---
 ## Tuesday, 22nd October 2024.
 
-1. **Apply to placements for my year in industry** (_~2 hours_).
-2. **Complete Algebraic Structures Coursework** (_~3 hours_).
+1. Apply to placements for my year in industry.
+2. Complete Algebraic Structures Coursework.
 3. Complete the reflections for my Scientific Computing Logbook.
-4. Extend auto-generation to separate the coursework.
-	- Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
+4. **Extend auto-generation to separate the coursework**.
 5. Refine Scientific Computing code (incl. comments).
-6. Tidy up my LinkedIn (*~1 hour*).
-7. Algebraic Structures Coursework.
+6. Tidy up my LinkedIn.
 
 ---
 ## Personal
 
 ### Programming
 
-- [ ] *I wonder if I could make an unofficial API for the university attendance system*?
 - [ ] Refine main GitHub repos (from [[../Organised/Applications/CVs/Placement CV|Placement CV]]).
-- [ ] **Automate student document generation for summaries and homework + Excalidraw templates within Obsidian for export?**
+- [ ] *I wonder if I can make my CI/CD auto-add an issue if the pipeline fails at any point?*
 - [ ] **Abraham Markdown**.
 	- [ ] Refine [[Abraham Data Dictionaries]].
 	- [ ] Use classes for everything and 4o-mini for content generation.
 	- [ ] Extend to generate GCSE and A-Level content.
+	- [ ] Extend to generate lecture/session recaps with questions, generalised to use for tutoring session recaps, too. Could implement something with Excalidraw templating within Obsidian.
 	- [ ] Convert to a website?
 - [ ] Tamago Time.
 	- [ ] Look into what APIs exist and what other information sources I could use: summarised Atrioc transcripts, FT summaries, placement site APIs, anilist API for new anime, Lichess/Chess.com API.
@@ -85,8 +83,7 @@
 
 #### Other
 
-- [ ] **Extend auto-generation to separate the coursework.**
-	- [ ] Separate script into different modules, re-used by both `generate_logbook.py` and `generate_coursework.py`.
+- [ ] Extend auto-generation to separate the coursework.
 - [ ] Complete the week reflections for my Scientific Computing Logbook.
 - [ ] Create index pages for course and years one and two, including [[../University of Lincoln/Bachelor of Science with Honours in Mathematics/Academic Deadlines (2024-25)|Academic Deadlines (2024-25)]].
 - [ ] Backfill Year 1 module notes.

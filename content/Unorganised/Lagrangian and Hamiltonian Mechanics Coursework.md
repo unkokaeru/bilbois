@@ -29,11 +29,11 @@ From this, we can **find the Lagrangian** using its definition $L=T-U$, where $T
 $$
 \begin{align*}
 L &= T - U\\
-&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\left(\frac{1}{2}k(l+x)^{2} + \frac{1}{2}99k(l-x)^{2}\right)\\
-&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\frac{1}{2}k\left((l^{2}+x^{2}+2xl) + 99(l^{2}+x^{2}-2xl)\right)\\
-&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\frac{1}{2}k\left(100l^{2}+100x^{2}-196xl\right)\\
-&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\left(50kl^{2}+50kx^{2}-98kxl\right)\\
-&= \boxed{\frac{1}{2}m\dot{x}^{2}-50kx^{2}-50kl^{2}+98kxl}
+&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\left(\frac{1}{2}k(l-x)^{2} + \frac{1}{2}99k(l+x)^{2}\right)\\
+&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\frac{1}{2}k\left((l^{2}+x^{2}-2xl) + 99(l^{2}+x^{2}+2xl)\right)\\
+&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\frac{1}{2}k\left(100l^{2}+100x^{2}+196xl\right)\\
+&= \left(\frac{1}{2}m\dot{x}^{2}\right)-\left(50kl^{2}+50kx^{2}+98kxl\right)\\
+&= \boxed{\frac{1}{2}m\dot{x}^{2}-50kx^{2}-50kl^{2}-98kxl}
 \end{align*}
 $$
 
@@ -51,20 +51,20 @@ $$
 \begin{align*}
 &\frac{\partial L}{\partial \dot{x}} = m\dot{x}
 \implies \frac{d}{dt}\left(\frac{\partial L}{\partial \dot{x}}\right)=m\ddot{x}\\
-&\frac{\partial L}{\partial x} = -100kx+98kl\\
+&\frac{\partial L}{\partial x} = -100kx-98kl\\
 \end{align*}
 $$
 
 Then we can substitute them into the aforementioned definition to give the Euler-Lagrange equation:
 
 $$
-\boxed{m\ddot{x}+100kx-98kl=0}
+\boxed{m\ddot{x}+100kx+98kl=0}
 $$
 
 Hence the equation of motion for the system is...
 
 $$
-\boxed{\ddot{x}= -\frac{100kx-98kl}{m}}
+\boxed{\ddot{x}= -\frac{100kx+98kl}{m}}
 $$
 
 ### Part D (*12 marks*)
@@ -91,7 +91,7 @@ $$
 
 ### Part E (*6 marks*)
 
-The first equation, using a $1:99$ spring constant ratio, yielded the equation of motion $\ddot{x}= -\frac{100kx-98kl}{m}$, whilst the second used the ratio $1:1$ and yielded $\ddot{x}=-\frac{100kx}{m}$.
+The first equation, using a $1:99$ spring constant ratio, yielded the equation of motion $\ddot{x}= -\frac{100kx+98kl}{m}$, whilst the second used the ratio $1:1$ and yielded $\ddot{x}=-\frac{100kx}{m}$.
 
 **Comparing** these results, we find that they're almost the exact same, but when the ratio between the two spring's spring constants are $1:1$, then the equation of motion is no longer dependent on $l$, the resting spring length. This is shown by the lack of this variable in the second equation of motion, but presence of the variable in the first.
 
