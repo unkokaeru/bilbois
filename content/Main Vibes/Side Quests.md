@@ -49,13 +49,9 @@
 ## Requires Money
 
 - [ ] Fix the golden touchscreen laptop: replace the charging port? Remember to secure the battery again, too.
-- [ ] Buy some [soap magnets](https://myaccount.smolproducts.com/portal/shop/products/smol-soap-magnets), [new rubber gloves](https://myaccount.smolproducts.com/portal/shop/products/rubber-gloves), a [dish brush](https://myaccount.smolproducts.com/portal/shop/products/smol-plan-dishbrush) and [sponges](https://myaccount.smolproducts.com/portal/shop/products/smol-plan-sponges), as well as [body stuff](https://myaccount.smolproducts.com/portal/shop/products/smol-body-bundle).
+- [ ] Buy some [sponges](https://myaccount.smolproducts.com/portal/shop/products/smol-plan-sponges) and a [dish brush](https://myaccount.smolproducts.com/portal/shop/products/smol-plan-dishbrush).
 - [ ] Send my Fujifilm camera for [repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
 - [ ] Fix my old keyboard: re-solder the cable and remove dust from keys.
 - [ ] Try fixing, repurposing, or selling any other old devices I own.
-- [ ] Buy some [temporary tattoos](https://inkbox.com/custom/new).
-- [ ] Get some Jibbitz.
-- [ ] Raspberry Pi 5 - self-hosting.
-- [ ] Desk fan?
-- [ ] Microphone?
-- [ ] 3D pen?
+
+![[../Unorganised/Things I want to buy but cannot justify (yet)]]

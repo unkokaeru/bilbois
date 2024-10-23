@@ -51,6 +51,7 @@
 
 ### Other Stuff
 
+- [ ] Add things to my birthday list: [[../Unorganised/Things I want to buy but cannot justify (yet)|Things I want to buy but cannot justify (yet)]].
 - [ ] Can I modify the Obsidian presentation view to generate presentations in a similar style to the university? i.e. section header at the top, progress bar and page number at the bottom, colour scheme, fonts, definition (etc.) callout box style.
 - [ ] Quartz Digital Garden.
 	- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
