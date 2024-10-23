@@ -49,6 +49,8 @@
 
 ## Projects
 
+All Python projects have used continuous integration pipelines (with GitHub Actions) that include robust testing, code linting, and documentation generation. If these pass, the projects are then built into installable packages using Poetry. Common libraries used in these and other projects include `numpy`, `matplotlib`, and `pandas`.
+
 - **Morning Briefing Generator**: Collates news sources, emails, notifications, and weather; generates a chess puzzle; converts to a custom speech model for natural delivery.
   *Technologies used: Python, GitHub, various APIs.*
 - **Dynamic Logbook**: Simplifies logbook creation for university modules; generates a cover, table of contents, references, and detailed weekly reflections.
@@ -60,7 +62,7 @@
 - **Note and Flashcard Generator**: Generates complete notes, flashcards, and practice questions for any mathematical topic; expanded for tutoring students.
   *Technologies used: Python, GitHub, Jinja, LaTeX, Markdown, LLM APIs.*
 - **Digital Garden**: A platform to share notes, projects, and thoughts publicly.
-  *Technologies used: GitHub, HTML, CSS, TypeScript, Hugo, Markdown.*
+  *Technologies used: GitHub, HTML, SCSS, TypeScript, Hugo, Markdown.*
 
 ## Achievements
 
@@ -71,7 +73,7 @@
 ## Skills
 
 - Experienced with Microsoft Excel for data modelling and financial management.
-- Proficient in Python with experience in Matlab, Maple, Typescript, Javascript, and Lua, currently learning C++.
+- Proficient in Python (and common libraries) with experience in Matlab, Maple, and Typescript, currently learning C++.
 - Proven capability to communicate complex information clearly and effectively.
 - Demonstrated success in group projects and high-stress team environments.
 - Ability to identify problems and develop effective solutions.

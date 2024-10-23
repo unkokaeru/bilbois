@@ -5,13 +5,13 @@
 **Related**: [[Side Quests]] and [[Grinding]].
 
 ---
-## Tuesday, 22nd October 2024.
+## Wednesday, 22nd October 2024.
 
-1. Apply to placements for my year in industry.
-2. Complete Algebraic Structures Coursework.
+1. **Extend auto-generation to separate the coursework**.
+2. Refine Scientific Computing code (incl. comments).
 3. Complete the reflections for my Scientific Computing Logbook.
-4. **Extend auto-generation to separate the coursework**.
-5. Refine Scientific Computing code (incl. comments).
+4. Complete Algebraic Structures Coursework.
+5. Apply to placements for my year in industry.
 6. Tidy up my LinkedIn.
 
 ---
@@ -20,7 +20,7 @@
 ### Programming
 
 - [ ] Refine main GitHub repos (from [[../Organised/Applications/CVs/Placement CV|Placement CV]]).
-- [ ] *I wonder if I can make my CI/CD auto-add an issue if the pipeline fails at any point?*
+- [ ] *I wonder if I can make my CI auto-add an issue if the pipeline fails at any point?*
 - [ ] **Abraham Markdown**.
 	- [ ] Refine [[Abraham Data Dictionaries]].
 	- [ ] Use classes for everything and 4o-mini for content generation.
@@ -71,7 +71,7 @@
 ### Enterprise Project: [[Enterprise Project Briefing]]
 *Expected 4 hours a week*.
 
-- [ ] Organise our first meeting.
+- [ ] Attend meeting, taking notes, then refine notes.
 - [ ] Update [project log](../Auto-Generated/Attachments/Lincoln Award Employer Projects DEVELOP Experience project log - sem A 2024-25.docx).
 
 ### Main Modules
