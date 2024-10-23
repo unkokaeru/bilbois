@@ -7,7 +7,7 @@
 ---
 ## Wednesday, 22nd October 2024.
 
-1. **Extend auto-generation to separate the coursework**.
+1. **Extend auto-generation to separate the coursework**: [[coursework generation logic]].
 2. *Go through my personal and academic emails*.
 3. *Print all of the practical and additional questions*.
 4. Refine Scientific Computing code (incl. comments).

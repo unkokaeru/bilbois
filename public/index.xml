@@ -6,11 +6,17 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>coursework generation logic</title>
+    <link>https://bilbois.me/Unorganised/coursework-generation-logic</link>
+    <guid>https://bilbois.me/Unorganised/coursework-generation-logic</guid>
+    <description>PROPERLY DOCUMENT BOTH logbookgenerator AND lincoln-logbook!!! COURSEWORK GENERATION LOGIC During normal input parsing, find the coursework directory and return an ordered ...</description>
+    <pubDate>Wed, 23 Oct 2024 08:23:02 GMT</pubDate>
+  </item><item>
     <title>Main Quests</title>
     <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
     <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Wednesday, 22nd October 2024. Extend auto-generation to separate the coursework.</description>
-    <pubDate>Wed, 23 Oct 2024 07:55:59 GMT</pubDate>
+    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Wednesday, 22nd October 2024. Extend auto-generation to separate the coursework: coursework generation logic.</description>
+    <pubDate>Wed, 23 Oct 2024 08:22:59 GMT</pubDate>
   </item><item>
     <title>Side Quests</title>
     <link>https://bilbois.me/Main-Vibes/Side-Quests</link>
@@ -59,12 +65,6 @@
     <guid>https://bilbois.me/Unorganised/Anilist-API-info</guid>
     <description>Constants: client_id = “21811” client_secret = “vJG5Rnf7xQz7yqMxsCoGqtPArK2yad8cNRxJguq7” redirect_uri = “anilist.co/api/v2/oauth/pin” Authorisation URL f”anilist.co/api/v2/oauth/authorize{client_id}&amp;redirect_uri={redirect_uri}&amp;response_type=code” ...</description>
     <pubDate>Mon, 21 Oct 2024 08:01:25 GMT</pubDate>
-  </item><item>
-    <title>Academic Deadlines (2024-25)</title>
-    <link>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</link>
-    <guid>https://bilbois.me/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
-    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
-    <pubDate>Mon, 21 Oct 2024 07:35:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
