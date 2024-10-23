@@ -8,11 +8,13 @@
 ## Wednesday, 22nd October 2024.
 
 1. **Extend auto-generation to separate the coursework**.
-2. Refine Scientific Computing code (incl. comments).
-3. Complete the reflections for my Scientific Computing Logbook.
-4. Complete Algebraic Structures Coursework.
-5. Apply to placements for my year in industry.
-6. Tidy up my LinkedIn.
+2. *Go through my personal and academic emails*.
+3. *Print all of the practical and additional questions*.
+4. Refine Scientific Computing code (incl. comments).
+5. Complete the reflections for my Scientific Computing Logbook.
+6. Complete Algebraic Structures Coursework.
+7. Apply to placements for my year in industry.
+8. Tidy up my LinkedIn.
 
 ---
 ## Personal
