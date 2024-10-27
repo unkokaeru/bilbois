@@ -20,7 +20,7 @@ Here's your selected daily quests for today:
 - [ ] **(*1.5 hours*) Complete BlackRock [pre-interview technical challenges](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-2050225/xf-c3add733a966/spa-1/candidate/application/2606827)**.
 - [ ] **(*1 hour*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/)**.
 - [ ] **(*1 hour*) Complete Sky [pre-interview tests](https://skyearlycareers.groupgti.com/)**.
-- [ ] **(*2 hours*) Algebraic Structures Coursework**.
+- [ ] **(*2 hours*) [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Algebraic Structures/Algebraic Structures Coursework|Algebraic Structures Coursework]]**.
 - [ ] (*1 hour*) Refine Scientific Computing code (incl. comments).
 - [ ] (*1 hour*) Complete the week reflections for my Scientific Computing Logbook.
 - [ ] (*1 hour*) Organise my [[University of Lincoln/University of Lincoln|University of Lincoln]] note (and sub-notes).
@@ -39,7 +39,7 @@ Here's my Quest log! Basically a to-do list levering the [[Zeigarnik effect]], w
 		- [ ] **ASAP**: (*90 mins*) Complete BlackRock [pre-interview technical challenges](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-2050225/xf-c3add733a966/spa-1/candidate/application/2606827).
 		- [ ] **ASAP**: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/).
 		- [ ] **ASAP**: (*60 mins*) Complete Sky [pre-interview tests](https://skyearlycareers.groupgti.com/), after [practising](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsky.preparationplus.com%2F&data=05%7C01%7Cjana.pozsgay%40sky.uk%7Cde7d55b5bab64ea4a74508da91835afe%7C68b865d5cf184b2b82a4a4eddb9c5237%7C0%7C0%7C637982290594727366%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pPU3EWGpgFczzbB8spwU%2F4K4RACmYnyF0Xobi%2Fomi%2F8%3D&reserved=0).
-	- [ ] (*2 hours*) **Algebraic Structures Coursework**.
+	- [ ] (*2 hours*) **[[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Algebraic Structures/Algebraic Structures Coursework|Algebraic Structures Coursework]]**.
 	- [ ] (*1 hour*) Refine Scientific Computing code (incl. comments).
 	- [ ] (*1 hour*) Complete the week reflections for my Scientific Computing Logbook.
 	- [ ] (*1 hour*) Organise my [[University of Lincoln/University of Lincoln|University of Lincoln]] note (and sub-notes).

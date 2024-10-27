@@ -6,17 +6,47 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>FFMS Questline</title>
-    <link>https://bilbois.me/Unorganised/FFMS-Questline</link>
-    <guid>https://bilbois.me/Unorganised/FFMS-Questline</guid>
-    <description>Fayers Food Management System User requirements → Database design → … User requirements User Accounts: Support user creation and login, with each account having a name, food preferences, ...</description>
-    <pubDate>Sun, 27 Oct 2024 18:41:51 GMT</pubDate>
+    <title>Algebraic Structures Coursework</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Algebraic-Structures-Coursework</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Algebraic-Structures-Coursework</guid>
+    <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
+    <pubDate>Sun, 27 Oct 2024 22:34:36 GMT</pubDate>
+  </item><item>
+    <title>Academic Deadlines (2024-25)</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
+    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
+    <pubDate>Sun, 27 Oct 2024 20:11:24 GMT</pubDate>
+  </item><item>
+    <title>Organised</title>
+    <link>https://bilbois.me/Organised/Organised</link>
+    <guid>https://bilbois.me/Organised/Organised</guid>
+    <description>id: c5de76ac-6b81-4d0b-89db-bd5969c3062f folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Sun, 27 Oct 2024 20:06:24 GMT</pubDate>
+  </item><item>
+    <title>Daily Notes</title>
+    <link>https://bilbois.me/Daily-Notes/Daily-Notes</link>
+    <guid>https://bilbois.me/Daily-Notes/Daily-Notes</guid>
+    <description>id: 9fdf2bd2-13ce-43e5-b201-17e9451c6c79 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 style: list includeTypes: - folder ...</description>
+    <pubDate>Sun, 27 Oct 2024 20:06:03 GMT</pubDate>
   </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
     <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
-    <pubDate>Sun, 27 Oct 2024 18:01:19 GMT</pubDate>
+    <pubDate>Sun, 27 Oct 2024 20:05:44 GMT</pubDate>
+  </item><item>
+    <title>UNTITLED CHAT 2024-10-27 20 00 05</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/UNTITLED-CHAT-2024-10-27-20-00-05</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/UNTITLED-CHAT-2024-10-27-20-00-05</guid>
+    <description>user What is the entire structure of my vault? assistant {&quot;hypothetical_1&quot;:&quot;Vault Structure &gt; Main Folder &gt; Overview &gt; Structure Overview: This document ...</description>
+    <pubDate>Sun, 27 Oct 2024 20:04:08 GMT</pubDate>
+  </item><item>
+    <title>FFMS Questline</title>
+    <link>https://bilbois.me/Unorganised/FFMS-Questline</link>
+    <guid>https://bilbois.me/Unorganised/FFMS-Questline</guid>
+    <description>Fayers Food Management System User requirements → Database design → … User requirements User Accounts: Support user creation and login, with each account having a name, food preferences, ...</description>
+    <pubDate>Sun, 27 Oct 2024 18:41:51 GMT</pubDate>
   </item><item>
     <title>Sorting Challenge</title>
     <link>https://bilbois.me/Organised/Programming/Challenges/Sorting-Challenge</link>
@@ -35,36 +65,6 @@
     <guid>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</guid>
     <description>Challenges.</description>
     <pubDate>Sun, 27 Oct 2024 16:52:01 GMT</pubDate>
-  </item><item>
-    <title>Year in Industry</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry</guid>
-    <description>Industry Quests Complete my placement tests (in emails). Apply to placements for my year in industry. Tidy up my LinkedIn. Refine my Boilerplate Application Statements.</description>
-    <pubDate>Sun, 27 Oct 2024 16:31:54 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://bilbois.me/</link>
-    <guid>https://bilbois.me/</guid>
-    <description>indextodo Work in progress!! Quests. My CV. Things I want to buy but cannot justify yet (hint hint). Random Thoughts. Note The code block below is a button I use to sync and build my vault notes with Quartz.</description>
-    <pubDate>Sun, 27 Oct 2024 16:11:34 GMT</pubDate>
-  </item><item>
-    <title>TypeScript Questline</title>
-    <link>https://bilbois.me/Organised/Programming/TypeScript/TypeScript-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/TypeScript/TypeScript-Questline</guid>
-    <description>Transclude of DigitalGarden-Questline TamagoTech-Questline.</description>
-    <pubDate>Sun, 27 Oct 2024 16:10:42 GMT</pubDate>
-  </item><item>
-    <title>Python Questline</title>
-    <link>https://bilbois.me/Organised/Programming/Python/Python-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/Python/Python-Questline</guid>
-    <description>Transclude of AbrahamMD-Questline Transclude of LincolnLogbook-Questline Transclude of TamagoTime-Questline Transclude of QARgen-Questline Transclude of Anormalratingsystem-Questline ...</description>
-    <pubDate>Sun, 27 Oct 2024 16:09:50 GMT</pubDate>
-  </item><item>
-    <title>LincolnLogbook Questline</title>
-    <link>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</guid>
-    <description> Extend auto-generation to separate the coursework: coursework generation logic. Properly document logbookgenerator and lincoln-logbook.</description>
-    <pubDate>Sun, 27 Oct 2024 16:09:33 GMT</pubDate>
   </item>
     </channel>
   </rss>

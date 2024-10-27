@@ -1,14 +1,14 @@
 
 ```folder-overview
-id: 9fdf2bd2-13ce-43e5-b201-17e9451c6c79
+id: c5de76ac-6b81-4d0b-89db-bd5969c3062f
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: false
 depth: 10
-style: list
 includeTypes:
   - folder
   - markdown
+style: list
 disableFileTag: false
 sortBy: name
 sortByAsc: true
