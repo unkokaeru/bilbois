@@ -17,3 +17,4 @@ storeFolderCondition: true
 showFolderNotes: true
 disableCollapseIcon: true
 ```
+

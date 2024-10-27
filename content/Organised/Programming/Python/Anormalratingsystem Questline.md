@@ -1,0 +1,3 @@
+- [ ] Fix how `file_handling.py` handles file encoding - I think `csv_reader` can't read unicode.
+- [ ] Implement an algorithm to help the user rate a list of items from 1-10 just with direct comparisons, ensuring the output follows a normal distribution.
+- [ ] Use the [GraphQL AniList API](https://docs.anilist.co/) to export and import based on username etc. ([[Anilist API info]])

@@ -1,0 +1,3 @@
+- [ ] Implement basic QR code generation.
+- [ ] Extend to create patterns from images by manipulating the underlying mathematics.
+- [ ] Port to a Chrome extension.

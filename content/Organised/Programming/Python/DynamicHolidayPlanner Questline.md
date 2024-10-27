@@ -1,0 +1,2 @@
+- [ ] Decide on a better name.
+- [ ] Dynamically predict the cost of a holiday - designed for my [[Trip to Tokyo, Japan]] with my brother.

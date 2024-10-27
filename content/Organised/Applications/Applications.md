@@ -17,5 +17,3 @@ storeFolderCondition: true
 showFolderNotes: true
 disableCollapseIcon: true
 ```
-
-Refine my [[Boilerplate Application Statements]].

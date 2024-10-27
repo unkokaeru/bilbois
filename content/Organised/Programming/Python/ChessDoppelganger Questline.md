@@ -1,0 +1,3 @@
+- [ ] Implement a simple chess engine.
+- [ ] Extend with a simple chess AI.
+- [ ] Implement the ability for the AI to learn how to mimic how the user plays.

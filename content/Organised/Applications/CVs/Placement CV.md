@@ -49,20 +49,20 @@
 
 ## Projects
 
-All Python projects have used continuous integration pipelines (with GitHub Actions) that include robust testing, code linting, and documentation generation. If these pass, the projects are then built into installable packages using Poetry. Common libraries used in these and other projects include `numpy`, `matplotlib`, and `pandas`.
-
-- **Morning Briefing Generator**: Collates news sources, emails, notifications, and weather; generates a chess puzzle; converts to a custom speech model for natural delivery.
-  *Technologies used: Python, GitHub, various APIs.*
-- **Dynamic Logbook**: Simplifies logbook creation for university modules; generates a cover, table of contents, references, and detailed weekly reflections.
-  *Technologies used: Python, GitHub, Lua, Jinja, LaTeX, Markdown.*
-- **Chess Engine**: Built a chess engine from scratch to create an adaptable chess AI that learns from game history.
-  *Technologies used: Python, GitHub.*
+- **Blankslate**: Starts any Python project with best practices, including a CI pipeline that performs code linting, tests, automatically generates documentation, and builds installable projects with Poetry. Used in all of my projects.
+  *Technologies used: GitHub Actions, [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Python, Bash*
 - **QR Code Generator**: Developed to learn QR code mechanics; innovated to generate QR codes with patterns matching images.
-  *Technologies used: Python, GitHub.*
+  *Technologies used: GitHub, Python.*
 - **Note and Flashcard Generator**: Generates complete notes, flashcards, and practice questions for any mathematical topic; expanded for tutoring students.
-  *Technologies used: Python, GitHub, Jinja, LaTeX, Markdown, LLM APIs.*
+  *Technologies used: GitHub, Python, Jinja, LaTeX, Markdown, LLM APIs.*
 - **Digital Garden**: A platform to share notes, projects, and thoughts publicly.
   *Technologies used: GitHub, HTML, SCSS, TypeScript, Hugo, Markdown.*
+- **Chess Engine**: Built a chess engine from scratch to create an adaptable chess AI that learns from game history.
+  *Technologies used: GitHub, Python ([numpy](https://github.com/numpy/numpy), [matplotlib](https://github.com/matplotlib/matplotlib)).*
+- **Morning Briefing Generator**: Collates news sources, emails, notifications, and weather; generates a chess puzzle; converts to a custom speech model for natural delivery.
+  *Technologies used: GitHub, Python, various APIs.*
+- **Dynamic Logbook**: Simplifies logbook creation for university modules; generates a cover, table of contents, references, and detailed weekly reflections.
+  *Technologies used: GitHub, Python, Lua, Jinja, LaTeX, Markdown.*
 
 ## Achievements
 

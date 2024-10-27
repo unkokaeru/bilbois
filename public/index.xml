@@ -6,65 +6,65 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>coursework generation logic</title>
-    <link>https://bilbois.me/Unorganised/coursework-generation-logic</link>
-    <guid>https://bilbois.me/Unorganised/coursework-generation-logic</guid>
-    <description>PROPERLY DOCUMENT BOTH logbookgenerator AND lincoln-logbook!!! COURSEWORK GENERATION LOGIC During normal input parsing, find the coursework directory and return an ordered ...</description>
-    <pubDate>Wed, 23 Oct 2024 08:23:02 GMT</pubDate>
+    <title>Quests</title>
+    <link>https://bilbois.me/Organised/Quests</link>
+    <guid>https://bilbois.me/Organised/Quests</guid>
+    <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
+    <pubDate>Sun, 27 Oct 2024 16:53:38 GMT</pubDate>
   </item><item>
-    <title>Main Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Main-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Main-Quests</guid>
-    <description>questlog Stuff I want do and need to do :) Related: Side Quests and Grinding. Wednesday, 22nd October 2024. Extend auto-generation to separate the coursework: coursework generation logic.</description>
-    <pubDate>Wed, 23 Oct 2024 08:22:59 GMT</pubDate>
+    <title>Sorting Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/Challenges/Sorting-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/Challenges/Sorting-Challenge</guid>
+    <description>Implement a algorithm, or create a algorithm that is able to sort a array (smallest to largest). [3, 2, 1] -&gt; [1, 2, 3] [5, 7, 6] -&gt; [5, 6, 7] .</description>
+    <pubDate>Sun, 27 Oct 2024 16:52:34 GMT</pubDate>
   </item><item>
-    <title>Side Quests</title>
-    <link>https://bilbois.me/Main-Vibes/Side-Quests</link>
-    <guid>https://bilbois.me/Main-Vibes/Side-Quests</guid>
-    <description>questlog Just stuff I want to do at some point, but don’t need to do right now :) Related: Main Quests and Grinding. Programming Create a programming portfolio on tamago.tech within the unkokaeru repo.</description>
-    <pubDate>Wed, 23 Oct 2024 07:45:46 GMT</pubDate>
+    <title>Challenges</title>
+    <link>https://bilbois.me/Organised/Programming/Challenges/Challenges</link>
+    <guid>https://bilbois.me/Organised/Programming/Challenges/Challenges</guid>
+    <description>id: b79b5e8b-3124-45f6-a8bf-6c37f0d608a2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Sun, 27 Oct 2024 16:52:07 GMT</pubDate>
   </item><item>
-    <title>Things I want to buy but cannot justify (yet)</title>
-    <link>https://bilbois.me/Unorganised/Things-I-want-to-buy-but-cannot-justify-(yet)</link>
-    <guid>https://bilbois.me/Unorganised/Things-I-want-to-buy-but-cannot-justify-(yet)</guid>
-    <description> Temporary tattoos. Jibbitz. Raspberry Pi 5 - self-host everything. Microphone - better audio for tutoring etc. 3D pen - manual 3d printing. E-ink display with microcontroller - home assistant display.</description>
-    <pubDate>Wed, 23 Oct 2024 07:44:37 GMT</pubDate>
+    <title>CPP Questline</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</guid>
+    <description>Challenges.</description>
+    <pubDate>Sun, 27 Oct 2024 16:52:01 GMT</pubDate>
   </item><item>
-    <title>Placement CV</title>
-    <link>https://bilbois.me/Organised/Applications/CVs/Placement-CV</link>
-    <guid>https://bilbois.me/Organised/Applications/CVs/Placement-CV</guid>
-    <description>William Fayers Dedicated and flexible undergraduate student seeking a placement year to apply my academic knowledge and skills in a practical environment ...</description>
-    <pubDate>Tue, 22 Oct 2024 19:41:30 GMT</pubDate>
+    <title>Year in Industry</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry</guid>
+    <description>Industry Quests Complete my placement tests (in emails). Apply to placements for my year in industry. Tidy up my LinkedIn. Refine my Boilerplate Application Statements.</description>
+    <pubDate>Sun, 27 Oct 2024 16:31:54 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://bilbois.me/</link>
+    <guid>https://bilbois.me/</guid>
+    <description>indextodo Work in progress!! Quests. My CV. Things I want to buy but cannot justify yet (hint hint). Random Thoughts. Note The code block below is a button I use to sync and build my vault notes with Quartz.</description>
+    <pubDate>Sun, 27 Oct 2024 16:11:34 GMT</pubDate>
+  </item><item>
+    <title>TypeScript Questline</title>
+    <link>https://bilbois.me/Organised/Programming/TypeScript/TypeScript-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/TypeScript/TypeScript-Questline</guid>
+    <description>Transclude of DigitalGarden-Questline TamagoTech-Questline.</description>
+    <pubDate>Sun, 27 Oct 2024 16:10:42 GMT</pubDate>
+  </item><item>
+    <title>Python Questline</title>
+    <link>https://bilbois.me/Organised/Programming/Python/Python-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/Python/Python-Questline</guid>
+    <description>Transclude of AbrahamMD-Questline Transclude of LincolnLogbook-Questline Transclude of TamagoTime-Questline Transclude of QARgen-Questline Transclude of Anormalratingsystem-Questline ...</description>
+    <pubDate>Sun, 27 Oct 2024 16:09:50 GMT</pubDate>
+  </item><item>
+    <title>LincolnLogbook Questline</title>
+    <link>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</guid>
+    <description> Extend auto-generation to separate the coursework: coursework generation logic. Properly document logbookgenerator and lincoln-logbook.</description>
+    <pubDate>Sun, 27 Oct 2024 16:09:33 GMT</pubDate>
   </item><item>
     <title>Lagrangian and Hamiltonian Mechanics Coursework</title>
-    <link>https://bilbois.me/Unorganised/Lagrangian-and-Hamiltonian-Mechanics-Coursework</link>
-    <guid>https://bilbois.me/Unorganised/Lagrangian-and-Hamiltonian-Mechanics-Coursework</guid>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/Lagrangian-and-Hamiltonian-Mechanics-Coursework</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/Lagrangian-and-Hamiltonian-Mechanics-Coursework</guid>
     <description>Problem 1 (50 total marks) A point particle of mass m is suspended horizontally on two springs of rest length l between two solid walls, a distance of 2l apart ...</description>
-    <pubDate>Tue, 22 Oct 2024 10:27:47 GMT</pubDate>
-  </item><item>
-    <title>CVs</title>
-    <link>https://bilbois.me/Organised/Applications/CVs/CVs</link>
-    <guid>https://bilbois.me/Organised/Applications/CVs/CVs</guid>
-    <description>id: 78f66bbd-8469-48a5-94e6-cc95c0591f4b folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Mon, 21 Oct 2024 17:50:05 GMT</pubDate>
-  </item><item>
-    <title>Part-Time CV</title>
-    <link>https://bilbois.me/Organised/Applications/CVs/Part-Time-CV</link>
-    <guid>https://bilbois.me/Organised/Applications/CVs/Part-Time-CV</guid>
-    <description>William Fayers Dedicated and flexible undergraduate student seeking part-time work to support my studies. Second-Year Student Open to Part-Time Opportunities 07578 127943 / william@fayers.com Experience Research Team Member, University of Lincoln (Oct 2024 - present) Collaborated with a multidisciplinary team of peers to complete a competitor analysis for Lone Star UK.</description>
-    <pubDate>Mon, 21 Oct 2024 17:49:49 GMT</pubDate>
-  </item><item>
-    <title>Enterprise Project Initial Meeting</title>
-    <link>https://bilbois.me/Unorganised/Enterprise-Project-Initial-Meeting</link>
-    <guid>https://bilbois.me/Unorganised/Enterprise-Project-Initial-Meeting</guid>
-    <description>Main problems: Healthcare marketing, website, lack of social media. Identify competitors to find a question to solve - what’s different between them? How have other people solved these problems? Main customer is the US Department of Defence.</description>
-    <pubDate>Mon, 21 Oct 2024 11:51:19 GMT</pubDate>
-  </item><item>
-    <title>Anilist API info</title>
-    <link>https://bilbois.me/Unorganised/Anilist-API-info</link>
-    <guid>https://bilbois.me/Unorganised/Anilist-API-info</guid>
-    <description>Constants: client_id = “21811” client_secret = “vJG5Rnf7xQz7yqMxsCoGqtPArK2yad8cNRxJguq7” redirect_uri = “anilist.co/api/v2/oauth/pin” Authorisation URL f”anilist.co/api/v2/oauth/authorize{client_id}&amp;redirect_uri={redirect_uri}&amp;response_type=code” ...</description>
-    <pubDate>Mon, 21 Oct 2024 08:01:25 GMT</pubDate>
+    <pubDate>Sun, 27 Oct 2024 16:09:26 GMT</pubDate>
   </item>
     </channel>
   </rss>

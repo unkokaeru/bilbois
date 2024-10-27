@@ -1,0 +1,7 @@
+- [ ] Fix documentation for GitHub repo.
+- [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
+- [ ] [[Convert buttons to markdown on render]].
+- [ ] [[Convert folder overview to markdown on render]].
+- [ ] Convert Excalidraw to `.svg` images (using `ExcalidrawAutomate`) on render.
+- [ ] Look into additional components used by [LesleyLai's Digital Garden](https://github.com/LesleyLai/digital-garden).
+- [ ] AFTER: Upgrade my USB to automatically setup Obsidian/Quartz.

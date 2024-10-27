@@ -1,0 +1,5 @@
+- [ ] Make a neural network from scratch, to learn about it all.
+- [ ] Create a mood tracker app utilising notifications to track mood.
+- [ ] Create a bouncing ball physics simulation.
+- [ ] Create a Rubik's cube visualiser that links (via Bluetooth) to my physical smart cube. Future additions to the program could include a scrambler, auto-timer, and [algorithm]([Learn how to solve the Rubik's Cube](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/)) practice.
+- [ ] Create an OSINT Python script that intakes all information you have of someone and then tries to find more - minimal information could simple be a name, maybe an age. Some related videos [here](https://www.youtube.com/watch?v=7PAk1wsy3VI) and [here](https://www.youtube.com/watch?v=HORzekIiZZ0).

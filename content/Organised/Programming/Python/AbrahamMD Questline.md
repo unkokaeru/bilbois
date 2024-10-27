@@ -1,0 +1,5 @@
+- [ ] Refine [[Abraham Data Dictionaries]].
+- [ ] Use classes for everything and 4o-mini for content generation.
+- [ ] Extend to generate GCSE and A-Level content.
+- [ ] Extend to generate lecture/session recaps with questions, generalised to use for tutoring session recaps, too. Could implement something with Excalidraw templating within Obsidian.
+- [ ] Convert to a website?

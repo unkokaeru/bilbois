@@ -1,0 +1,3 @@
+- [ ] Look into what APIs exist and what other information sources I could use: summarised Atrioc transcripts, FT summaries, placement site APIs, anilist API for new anime, Lichess/Chess.com API.
+- [ ] Generate morning briefings: summarise overwhelming information, like jobs, placements, and emails, even social media if I figure out how.
+- [ ] Re-introduce integration with Obsidian Daily Notes.

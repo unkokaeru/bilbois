@@ -1,0 +1,2 @@
+- [ ] Extend auto-generation to separate the coursework: [[coursework generation logic]].
+- [ ] Properly document `logbookgenerator` and `lincoln-logbook`.
