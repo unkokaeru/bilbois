@@ -1,1 +1,1 @@
-![[../Challenges/Challenges|Challenges]]
+![[Challenges/Challenges|Challenges]]

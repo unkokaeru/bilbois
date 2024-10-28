@@ -7,64 +7,64 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Algebraic Structures Coursework</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Algebraic-Structures-Coursework</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Algebraic-Structures-Coursework</guid>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</guid>
     <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
-    <pubDate>Sun, 27 Oct 2024 22:34:36 GMT</pubDate>
+    <pubDate>Mon, 28 Oct 2024 09:52:36 GMT</pubDate>
   </item><item>
-    <title>Academic Deadlines (2024-25)</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
-    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
-    <pubDate>Sun, 27 Oct 2024 20:11:24 GMT</pubDate>
-  </item><item>
-    <title>Organised</title>
-    <link>https://bilbois.me/Organised/Organised</link>
-    <guid>https://bilbois.me/Organised/Organised</guid>
-    <description>id: c5de76ac-6b81-4d0b-89db-bd5969c3062f folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Sun, 27 Oct 2024 20:06:24 GMT</pubDate>
-  </item><item>
-    <title>Daily Notes</title>
-    <link>https://bilbois.me/Daily-Notes/Daily-Notes</link>
-    <guid>https://bilbois.me/Daily-Notes/Daily-Notes</guid>
-    <description>id: 9fdf2bd2-13ce-43e5-b201-17e9451c6c79 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 style: list includeTypes: - folder ...</description>
-    <pubDate>Sun, 27 Oct 2024 20:06:03 GMT</pubDate>
+    <title>Chat-2024_10_28-09_49_14</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_10_28-09_49_14</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_10_28-09_49_14</guid>
+    <description>Understanding the Order of an Element The order of an element \bar{a} in a group is defined as the smallest positive integer n such that n \cdot \bar{a} = \bar{0} in the group ...</description>
+    <pubDate>Mon, 28 Oct 2024 09:49:42 GMT</pubDate>
   </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
     <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
-    <pubDate>Sun, 27 Oct 2024 20:05:44 GMT</pubDate>
+    <pubDate>Mon, 28 Oct 2024 09:41:46 GMT</pubDate>
   </item><item>
-    <title>UNTITLED CHAT 2024-10-27 20 00 05</title>
-    <link>https://bilbois.me/Auto-Generated/AI-Chats/UNTITLED-CHAT-2024-10-27-20-00-05</link>
-    <guid>https://bilbois.me/Auto-Generated/AI-Chats/UNTITLED-CHAT-2024-10-27-20-00-05</guid>
-    <description>user What is the entire structure of my vault? assistant {&quot;hypothetical_1&quot;:&quot;Vault Structure &gt; Main Folder &gt; Overview &gt; Structure Overview: This document ...</description>
-    <pubDate>Sun, 27 Oct 2024 20:04:08 GMT</pubDate>
+    <title>Programming</title>
+    <link>https://bilbois.me/Organised/Programming/Programming</link>
+    <guid>https://bilbois.me/Organised/Programming/Programming</guid>
+    <description>programmingindextodo IN PROGRESS: need to revamp index pages and organise files I have a few main goals with programming: mastering Python for high-level projects, learning C++ ...</description>
+    <pubDate>Mon, 28 Oct 2024 09:41:37 GMT</pubDate>
   </item><item>
-    <title>FFMS Questline</title>
-    <link>https://bilbois.me/Unorganised/FFMS-Questline</link>
-    <guid>https://bilbois.me/Unorganised/FFMS-Questline</guid>
-    <description>Fayers Food Management System User requirements → Database design → … User requirements User Accounts: Support user creation and login, with each account having a name, food preferences, ...</description>
-    <pubDate>Sun, 27 Oct 2024 18:41:51 GMT</pubDate>
+    <title>CPP</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/CPP</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/CPP</guid>
+    <description>id: 15a10b1d-fe8e-4059-82a6-e6e679e6c6fa folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Mon, 28 Oct 2024 09:40:34 GMT</pubDate>
   </item><item>
-    <title>Sorting Challenge</title>
-    <link>https://bilbois.me/Organised/Programming/Challenges/Sorting-Challenge</link>
-    <guid>https://bilbois.me/Organised/Programming/Challenges/Sorting-Challenge</guid>
-    <description>Implement a algorithm, or create a algorithm that is able to sort a array (smallest to largest). [3, 2, 1] -&gt; [1, 2, 3] [5, 7, 6] -&gt; [5, 6, 7] .</description>
-    <pubDate>Sun, 27 Oct 2024 16:52:34 GMT</pubDate>
-  </item><item>
-    <title>Challenges</title>
-    <link>https://bilbois.me/Organised/Programming/Challenges/Challenges</link>
-    <guid>https://bilbois.me/Organised/Programming/Challenges/Challenges</guid>
-    <description>id: b79b5e8b-3124-45f6-a8bf-6c37f0d608a2 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Sun, 27 Oct 2024 16:52:07 GMT</pubDate>
+    <title>TypeScript</title>
+    <link>https://bilbois.me/Organised/Programming/TypeScript/TypeScript</link>
+    <guid>https://bilbois.me/Organised/Programming/TypeScript/TypeScript</guid>
+    <description>id: c0054d7e-ba9e-4b2a-9db6-029d1efc0ae6 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Mon, 28 Oct 2024 09:40:20 GMT</pubDate>
   </item><item>
     <title>CPP Questline</title>
     <link>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</link>
     <guid>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</guid>
     <description>Challenges.</description>
-    <pubDate>Sun, 27 Oct 2024 16:52:01 GMT</pubDate>
+    <pubDate>Mon, 28 Oct 2024 09:39:43 GMT</pubDate>
+  </item><item>
+    <title>DigitalGarden Questline</title>
+    <link>https://bilbois.me/Organised/Programming/TypeScript/DigitalGarden-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/TypeScript/DigitalGarden-Questline</guid>
+    <description> Overhaul GitHub repo - fix commit messaging, apply my templates, fix README, attribute credit to Quartz, etc. Add correct “Created” and “Last Modified” headers to Quartz notes.</description>
+    <pubDate>Mon, 28 Oct 2024 09:35:14 GMT</pubDate>
+  </item><item>
+    <title>University of Lincoln</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/University-of-Lincoln</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/University-of-Lincoln</guid>
+    <description>id: bb973f96-c7a2-4267-aab4-9856e4abc90e folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Mon, 28 Oct 2024 09:12:52 GMT</pubDate>
+  </item><item>
+    <title>Algebraic Structures Week 2</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Lectures/Algebraic-Structures-Week-2</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Lectures/Algebraic-Structures-Week-2</guid>
+    <description>Recap Definition-of-a-Group We can always assume that additive integers and multiplicative integers are a group, and hence are associative, too. Another common examples is \mathbb{Q} and \mathbb{R} over multiplication, which isn’t a group, but \mathbb{Q}^{*} and \mathbb{R}^{*} is (these new sets exclude 0, which causes probably as it’s non-invertible).</description>
+    <pubDate>Mon, 28 Oct 2024 09:12:29 GMT</pubDate>
   </item>
     </channel>
   </rss>

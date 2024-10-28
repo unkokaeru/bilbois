@@ -1,4 +1,4 @@
-- [ ] Fix documentation for GitHub repo.
+- [ ] Overhaul GitHub repo - fix commit messaging, apply my templates, fix README, attribute credit to Quartz, etc.
 - [ ] Add correct "Created" and "Last Modified" headers to Quartz notes.
 - [ ] [[Convert buttons to markdown on render]].
 - [ ] [[Convert folder overview to markdown on render]].

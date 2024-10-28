@@ -8,9 +8,9 @@
 A presentation at the University of Lincoln followed by questions.
 
 >[!HINT]
->Familiarise yourself with Lone Star Analysis (LSA) before the meeting! To do this, create a [[Initial Impressions of Lone Star Analysis]] document.
+>Familiarise yourself with Lone Star Analysis (LSA) before the meeting! To do this, create a [[Research/Initial Impressions of Lone Star Analysis]] document.
 
-Assign roles, discuss timelines, the results of the projects, the methods to reach these results, etc. - all discussed in the [[Enterprise Project Initial Meeting]] notes.
+Assign roles, discuss timelines, the results of the projects, the methods to reach these results, etc. - all discussed in the [[Meetings/Enterprise Project Meeting 0]] notes.
 
 ### **Phase 2:** Identification
 
