@@ -1,1 +1,2 @@
 - [ ] Properly document `logbookgenerator` and `lincoln-logbook`.
+- [ ] Implement flowchart support - if `flowchart-taskname.png` is present, then include in the logbook for that taskname.

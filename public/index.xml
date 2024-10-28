@@ -6,29 +6,41 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Quests</title>
+    <link>https://bilbois.me/Organised/Quests</link>
+    <guid>https://bilbois.me/Organised/Quests</guid>
+    <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
+    <pubDate>Mon, 28 Oct 2024 19:50:34 GMT</pubDate>
+  </item><item>
+    <title>LAB1</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Scientific-Computing/LABS/LAB1</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Scientific-Computing/LABS/LAB1</guid>
+    <description>MTH2008 Scientific Computing LAB1 Objectives Learn the basics of using Microsoft Visual Studio, or Microsoft Visual Studio Code. Compile your first C++ program.</description>
+    <pubDate>Mon, 28 Oct 2024 19:49:00 GMT</pubDate>
+  </item><item>
+    <title>LincolnLogbook Questline</title>
+    <link>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</guid>
+    <description> Properly document logbookgenerator and lincoln-logbook. Implement flowchart support - if flowchart-taskname.png is present, then include in the logbook for that taskname.</description>
+    <pubDate>Mon, 28 Oct 2024 15:22:02 GMT</pubDate>
+  </item><item>
+    <title>SC FLOWCHART ONE.excalidraw</title>
+    <link>https://bilbois.me/Auto-Generated/Excalidraw/SC-FLOWCHART-ONE.excalidraw</link>
+    <guid>https://bilbois.me/Auto-Generated/Excalidraw/SC-FLOWCHART-ONE.excalidraw</guid>
+    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
+    <pubDate>Mon, 28 Oct 2024 15:18:34 GMT</pubDate>
+  </item><item>
     <title>Algebraic Structures Coursework</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</link>
     <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</guid>
     <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
     <pubDate>Mon, 28 Oct 2024 12:13:23 GMT</pubDate>
   </item><item>
-    <title>LincolnLogbook Questline</title>
-    <link>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</guid>
-    <description> Properly document logbookgenerator and lincoln-logbook.</description>
-    <pubDate>Mon, 28 Oct 2024 11:41:19 GMT</pubDate>
-  </item><item>
     <title>Zeigarnik Effect</title>
     <link>https://bilbois.me/Organised/Hobbies/Psychology/Zeigarnik-Effect</link>
     <guid>https://bilbois.me/Organised/Hobbies/Psychology/Zeigarnik-Effect</guid>
     <description>The Zeigarnik Effect refers to the psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones. This effect was first identified by Russian psychologist Bluma Zeigarnik in the 1920s during her research on memory and task completion.</description>
     <pubDate>Mon, 28 Oct 2024 10:19:01 GMT</pubDate>
-  </item><item>
-    <title>Quests</title>
-    <link>https://bilbois.me/Organised/Quests</link>
-    <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
-    <pubDate>Mon, 28 Oct 2024 10:17:23 GMT</pubDate>
   </item><item>
     <title>Student Diagnosis Material (first four sessions)</title>
     <link>https://bilbois.me/Organised/Tutoring/Student-Diagnosis-Material-(first-four-sessions)</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Organised/Tutoring/Students/P5/P5</guid>
     <description>Student P5 ….</description>
     <pubDate>Mon, 28 Oct 2024 10:12:21 GMT</pubDate>
-  </item><item>
-    <title>Students</title>
-    <link>https://bilbois.me/Organised/Tutoring/Students/Students</link>
-    <guid>https://bilbois.me/Organised/Tutoring/Students/Students</guid>
-    <description>id: 9e7a6810-d6d1-4716-b9ff-61bf8f018307 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Mon, 28 Oct 2024 10:11:20 GMT</pubDate>
-  </item><item>
-    <title>Pedagogy</title>
-    <link>https://bilbois.me/Organised/Tutoring/Pedagogy/Pedagogy</link>
-    <guid>https://bilbois.me/Organised/Tutoring/Pedagogy/Pedagogy</guid>
-    <description>Things to add: A new journaling system. Commonplacing. Traveller’s Notebook. How we learn. Develop and integrate a single system, adding to and refining it.</description>
-    <pubDate>Mon, 28 Oct 2024 10:10:40 GMT</pubDate>
   </item>
     </channel>
   </rss>
