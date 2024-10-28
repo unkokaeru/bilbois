@@ -30,7 +30,7 @@ Here's your selected daily quests for today:
 
 ## Quest Log
 
-Here's my Quest log! Basically a to-do list levering the [[Zeigarnik effect]], with quests being selected to fulfil the time requirements in *italics* for my [[#Daily Quests]].
+Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect]], with quests being selected to fulfil the time requirements in *italics* for my [[#Daily Quests]].
 
 - [ ] (*50 hours a week*) Complete my [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Bachelor of Science with Honours in Mathematics]].
 	- [ ] (*4 hours a day*) [[../Organised/University of Lincoln/Maths Notes Questline|Maths Notes Questline]].
@@ -42,15 +42,14 @@ Here's my Quest log! Basically a to-do list levering the [[Zeigarnik effect]], w
 	- [ ] (*1 hour*) Refine Scientific Computing code (incl. comments).
 	- [ ] (*1 hour*) Complete the week reflections for my Scientific Computing Logbook.
 - [ ] Improve my [[Programming/Programming]] skills whilst solving some of my day-to-day problems.
-	- [ ] (*free time*) [[FFMS Questline]], for practising larger projects.
+	- [ ] (*free time*) [[Programming/FFMS/FFMS Questline]], for practising larger projects.
 	- [ ] (*free time*) [[../Organised/Programming/Python/Python Questline|Python Questline]], for high-level projects.
 	- [ ] (*8 hours a week*) [[../Organised/Programming/CPP/CPP Questline|CPP Questline]], for low-level projects.
 	- [ ] (*not a focus*) [[Programming/TypeScript/TypeScript Questline|TypeScript Questline]], for web projects.
 	- [ ] (*in the future*) [[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]].
 - [ ] Build my [[../Tutoring/Tutoring|Tutoring]] business for a consistent income stream whilst helping others.
 	- [ ] (*6 hours a week*) [[../Organised/Tutoring/Content Scheduling Questline|Content Scheduling Questline]].
-	- [ ] (*2 hours*) Make some student diagnosis material as a boilerplate introductory first four sessions, for new students.
-	- [ ] (*1 hour*) Organise my [[Tutoring/Tutoring|Tutoring]] note (and sub-notes).
+	- [ ] (*2 hours*) Create some [[Tutoring/Student Diagnosis Material (first four sessions)|Student Diagnosis Material (first four sessions)]].
 - [ ] Miscellaneous Quests.
 	- [ ] (*a few minutes*) How do I use my Lunalite light meter?
 	- [ ] (*a long time*) Fix/re-purpose all of my random old devices.

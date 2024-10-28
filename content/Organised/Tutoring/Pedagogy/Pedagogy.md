@@ -1,4 +1,4 @@
-[A new journaling system](https://www.youtube.com/watch?v=3B9Ojm_rhOk). [Commonplacing](https://www.youtube.com/watch?v=IuaI_XOIgzE). [Traveller's Notebook](https://www.youtube.com/watch?v=6DRFndboJL8). [How we learn](https://www.youtube.com/watch?v=4xjrCn4jdPo). Develop and integrate a [[single system]], adding to and refining it.
+**Things to add**: [A new journaling system](https://www.youtube.com/watch?v=3B9Ojm_rhOk). [Commonplacing](https://www.youtube.com/watch?v=IuaI_XOIgzE). [Traveller's Notebook](https://www.youtube.com/watch?v=6DRFndboJL8). [How we learn](https://www.youtube.com/watch?v=4xjrCn4jdPo). Develop and integrate a [[single system]], adding to and refining it. Learning by filling the gaps of solutions/questions.
 
 #pedagogy #index #todo
 # Pedagogy: The Art and Science of Learning

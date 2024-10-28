@@ -6,65 +6,65 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Algebraic Structures Coursework</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</guid>
-    <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:52:36 GMT</pubDate>
-  </item><item>
-    <title>Chat-2024_10_28-09_49_14</title>
-    <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_10_28-09_49_14</link>
-    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_10_28-09_49_14</guid>
-    <description>Understanding the Order of an Element The order of an element \bar{a} in a group is defined as the smallest positive integer n such that n \cdot \bar{a} = \bar{0} in the group ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:49:42 GMT</pubDate>
+    <title>Zeigarnik Effect</title>
+    <link>https://bilbois.me/Organised/Hobbies/Psychology/Zeigarnik-Effect</link>
+    <guid>https://bilbois.me/Organised/Hobbies/Psychology/Zeigarnik-Effect</guid>
+    <description>The Zeigarnik Effect refers to the psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones. This effect was first identified by Russian psychologist Bluma Zeigarnik in the 1920s during her research on memory and task completion.</description>
+    <pubDate>Mon, 28 Oct 2024 10:19:01 GMT</pubDate>
   </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
     <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:41:46 GMT</pubDate>
+    <pubDate>Mon, 28 Oct 2024 10:17:23 GMT</pubDate>
+  </item><item>
+    <title>Student Diagnosis Material (first four sessions)</title>
+    <link>https://bilbois.me/Organised/Tutoring/Student-Diagnosis-Material-(first-four-sessions)</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Student-Diagnosis-Material-(first-four-sessions)</guid>
+    <description> WORK IN PROGRESS Session 1 … Session 2 … Session 3 … Session 4 ….</description>
+    <pubDate>Mon, 28 Oct 2024 10:15:14 GMT</pubDate>
+  </item><item>
+    <title>Tutoring</title>
+    <link>https://bilbois.me/Organised/Tutoring/Tutoring</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Tutoring</guid>
+    <description>Based on my researched Pedagogy and my AbrahamMD Questline, I’ve developed material to tutor with as well as give questions and summaries. To start any student’s tutoring though, I use the following: Student Diagnosis Material (first four sessions).</description>
+    <pubDate>Mon, 28 Oct 2024 10:14:33 GMT</pubDate>
+  </item><item>
+    <title>I6</title>
+    <link>https://bilbois.me/Organised/Tutoring/Students/I6/I6</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Students/I6/I6</guid>
+    <description>Student I6 ….</description>
+    <pubDate>Mon, 28 Oct 2024 10:12:55 GMT</pubDate>
+  </item><item>
+    <title>P5</title>
+    <link>https://bilbois.me/Organised/Tutoring/Students/P5/P5</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Students/P5/P5</guid>
+    <description>Student P5 ….</description>
+    <pubDate>Mon, 28 Oct 2024 10:12:21 GMT</pubDate>
+  </item><item>
+    <title>Students</title>
+    <link>https://bilbois.me/Organised/Tutoring/Students/Students</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Students/Students</guid>
+    <description>id: 9e7a6810-d6d1-4716-b9ff-61bf8f018307 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
+    <pubDate>Mon, 28 Oct 2024 10:11:20 GMT</pubDate>
+  </item><item>
+    <title>Pedagogy</title>
+    <link>https://bilbois.me/Organised/Tutoring/Pedagogy/Pedagogy</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Pedagogy/Pedagogy</guid>
+    <description>Things to add: A new journaling system. Commonplacing. Traveller’s Notebook. How we learn. Develop and integrate a single system, adding to and refining it.</description>
+    <pubDate>Mon, 28 Oct 2024 10:10:40 GMT</pubDate>
   </item><item>
     <title>Programming</title>
     <link>https://bilbois.me/Organised/Programming/Programming</link>
     <guid>https://bilbois.me/Organised/Programming/Programming</guid>
     <description>programmingindextodo IN PROGRESS: need to revamp index pages and organise files I have a few main goals with programming: mastering Python for high-level projects, learning C++ ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:41:37 GMT</pubDate>
+    <pubDate>Mon, 28 Oct 2024 10:09:38 GMT</pubDate>
   </item><item>
-    <title>CPP</title>
-    <link>https://bilbois.me/Organised/Programming/CPP/CPP</link>
-    <guid>https://bilbois.me/Organised/Programming/CPP/CPP</guid>
-    <description>id: 15a10b1d-fe8e-4059-82a6-e6e679e6c6fa folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:40:34 GMT</pubDate>
-  </item><item>
-    <title>TypeScript</title>
-    <link>https://bilbois.me/Organised/Programming/TypeScript/TypeScript</link>
-    <guid>https://bilbois.me/Organised/Programming/TypeScript/TypeScript</guid>
-    <description>id: c0054d7e-ba9e-4b2a-9db6-029d1efc0ae6 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:40:20 GMT</pubDate>
-  </item><item>
-    <title>CPP Questline</title>
-    <link>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</guid>
-    <description>Challenges.</description>
-    <pubDate>Mon, 28 Oct 2024 09:39:43 GMT</pubDate>
-  </item><item>
-    <title>DigitalGarden Questline</title>
-    <link>https://bilbois.me/Organised/Programming/TypeScript/DigitalGarden-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/TypeScript/DigitalGarden-Questline</guid>
-    <description> Overhaul GitHub repo - fix commit messaging, apply my templates, fix README, attribute credit to Quartz, etc. Add correct “Created” and “Last Modified” headers to Quartz notes.</description>
-    <pubDate>Mon, 28 Oct 2024 09:35:14 GMT</pubDate>
-  </item><item>
-    <title>University of Lincoln</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/University-of-Lincoln</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/University-of-Lincoln</guid>
-    <description>id: bb973f96-c7a2-4267-aab4-9856e4abc90e folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:12:52 GMT</pubDate>
-  </item><item>
-    <title>Algebraic Structures Week 2</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Lectures/Algebraic-Structures-Week-2</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Lectures/Algebraic-Structures-Week-2</guid>
-    <description>Recap Definition-of-a-Group We can always assume that additive integers and multiplicative integers are a group, and hence are associative, too. Another common examples is \mathbb{Q} and \mathbb{R} over multiplication, which isn’t a group, but \mathbb{Q}^{*} and \mathbb{R}^{*} is (these new sets exclude 0, which causes probably as it’s non-invertible).</description>
-    <pubDate>Mon, 28 Oct 2024 09:12:29 GMT</pubDate>
+    <title>Algebraic Structures Coursework</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</guid>
+    <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
+    <pubDate>Mon, 28 Oct 2024 09:52:36 GMT</pubDate>
   </item>
     </channel>
   </rss>

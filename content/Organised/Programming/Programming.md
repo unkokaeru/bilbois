@@ -14,4 +14,4 @@ As as side note to these main goals, I'm practising working on a larger project 
 - [[TypeScript/TypeScript|TypeScript]].
 	- [[TypeScript/TypeScript Questline|TypeScript Questline]].
 - [[Rust Questline]].
-- [[FFMS Questline]].
+- [[FFMS/FFMS Questline]].
