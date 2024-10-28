@@ -6,6 +6,18 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Algebraic Structures Coursework</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</guid>
+    <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
+    <pubDate>Mon, 28 Oct 2024 12:13:23 GMT</pubDate>
+  </item><item>
+    <title>LincolnLogbook Questline</title>
+    <link>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/Python/LincolnLogbook-Questline</guid>
+    <description> Properly document logbookgenerator and lincoln-logbook.</description>
+    <pubDate>Mon, 28 Oct 2024 11:41:19 GMT</pubDate>
+  </item><item>
     <title>Zeigarnik Effect</title>
     <link>https://bilbois.me/Organised/Hobbies/Psychology/Zeigarnik-Effect</link>
     <guid>https://bilbois.me/Organised/Hobbies/Psychology/Zeigarnik-Effect</guid>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Organised/Tutoring/Pedagogy/Pedagogy</guid>
     <description>Things to add: A new journaling system. Commonplacing. Traveller’s Notebook. How we learn. Develop and integrate a single system, adding to and refining it.</description>
     <pubDate>Mon, 28 Oct 2024 10:10:40 GMT</pubDate>
-  </item><item>
-    <title>Programming</title>
-    <link>https://bilbois.me/Organised/Programming/Programming</link>
-    <guid>https://bilbois.me/Organised/Programming/Programming</guid>
-    <description>programmingindextodo IN PROGRESS: need to revamp index pages and organise files I have a few main goals with programming: mastering Python for high-level projects, learning C++ ...</description>
-    <pubDate>Mon, 28 Oct 2024 10:09:38 GMT</pubDate>
-  </item><item>
-    <title>Algebraic Structures Coursework</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Algebraic-Structures/Coursework/Algebraic-Structures-Coursework</guid>
-    <description>Question C1.1 (55 total marks) Considering the multiplicative group GL(2,\mathbb{R}) and its subset H, such that… GL(2,\mathbb{R})=\left\{\begin{bmatrix}a &amp; b \\ c &amp; ...</description>
-    <pubDate>Mon, 28 Oct 2024 09:52:36 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -85,7 +85,8 @@ $$
 \begin{align*}
 AB=BA&\implies \begin{bmatrix} a_1 a_2 & a_1 b_2 + b_1 d_1 \\ 0 & d_1 d_2 \end{bmatrix} = \begin{bmatrix} a_2 a_1 & a_2 b_1 + b_2 d_2 \\ 0 & d_2 d_1\end{bmatrix}\\
 &\implies a_1 b_2 + b_1 d_1=a_2 b_1 + b_2 d_2\\
-&\iff a_{1}=a_{2},b_{1}=b_{2},d_{1}=d_{2}\therefore A=B
+&\iff a_{1}=a_{2},b_{1}=b_{2},d_{1}=d_{2}\\
+&\therefore \text{only commutative if }A=B \text{, hence not generally abelian.}
 \end{align*}
 $$
 
