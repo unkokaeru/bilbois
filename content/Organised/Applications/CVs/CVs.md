@@ -26,7 +26,7 @@ After refining my GitHub, add links to the projects on my [[Placement CV]].
 
 Find placement opportunities with...
 
-[Gradcracker](https://www.gradcracker.com/search/all-disciplines/engineering-work-placements-internships) | [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement) | [CareerLinc](https://careers.lincoln.ac.uk/student/) | [TargetJobs](https://targetjobs.co.uk/internships)
+[Gradcracker](https://www.gradcracker.com/search/maths-business/work-placements-internships?order=deadlines&duration=Year-long) | [RateMyPlacement](https://www.ratemyplacement.co.uk/search-jobs/placement?sort=deadline-asc&relevant_for=2nd-year) | [CareerLinc](https://careers.lincoln.ac.uk/student/savedJobs.html?pagingPagejobResults=1&execution=e1s1&pagingNumberPerjobResults=50&sortColumnjobResults=expiryDate&sortDirectionjobResults=1&) | [TargetJobs](https://targetjobs.co.uk/internships)
 
 ---
 
