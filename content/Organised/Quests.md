@@ -13,38 +13,40 @@ actions:
 
 ```
 
-## Daily Quests:  `BUTTON[select-daily-quests]`
+---
+## **Daily Quests**, Saturday:  `BUTTON[select-daily-quests]`
 
-Here's your checklist of daily quests for today:
+Here's your selection of daily quests for today:
 
-- [ ] **(*1 hour*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/).**
-- [ ] **(*1 hour*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/).**
-- [ ] **(*4 hours*) Complete the Scientific Computing logbook**: Labs 1-5, refine code, incl. comments, and complete reflections, then make any manual changes. Hand in the logbook on Blackboard with the relevant form. [[Do this with my SC logbook, too]] and make sure my [[../Auto-Generated/Attachments/set 4 coursework.pdf|set 4 coursework]] is complete.
-- [ ] (*0.5 hours*) [[University of Lincoln/Year in Industry/Year in Industry#Industry Quests|Year in Industry Questline]].
-- [ ] (*0.5 hours*) Shortlist birthday gifts for mother :)
-- [ ] (*2 hours*) Work on my [[Programming/Lua Questline|Lua Questline]] for CC: Tweaked.
+- [ ] **(*4 hours*) Complete the Scientific Computing logbook: Labs 1-5, refine code, incl. comments, and complete reflections, then make any manual changes. Hand in the logbook on Blackboard with the relevant form. [[Do this with my SC logbook, too]] and make sure my [[../Auto-Generated/Attachments/set 4 coursework.pdf|set 4 coursework]] is complete**.
+- [ ] **(*1 hour*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/)**.
+- [ ] **(*1 hour*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
+- [ ] (*0.5 hours*) Shortlist birthday gifts for mother :).
+- [ ] (*2 hours*) Refine the [[Hobbies]] section of my Obsidian vault.
+- [ ] **(*free time*) [[Programming/Lua Questline|Lua Questline]], for CC: Tweaked**.
 
-**Total time**: 9 hours.
+**Total time**: 8.5 hours.
 
+---
 ## Quest Log
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]], with quests being selected to fulfil the time requirements in *italics* for my [[#Daily Quests]].
 
 - [ ] (*50 hours a week*) Complete my [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Bachelor of Science with Honours in Mathematics]].
 	- [ ] (*4 hours a day*) [[../Organised/University of Lincoln/Maths Notes Questline|Maths Notes Questline]].
-	- [ ] (*4 hours a week*) [[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|Enterprise Project Questline]] <- Look into and add to the research document!
-	- [ ] (*0.5 hours a day*) [[University of Lincoln/Year in Industry/Year in Industry#Industry Quests|Year in Industry Questline]].
-		- [ ] **ASAP**: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/).
-		- [ ] **ASAP**: (*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/).
-	- [ ] (*4 hours*) **Complete the Scientific Computing logbook**: Labs 1-5, refine code, incl. comments, and complete reflections, then make any manual changes. Hand in the logbook on Blackboard with the relevant form. [[Do this with my SC logbook, too]] and make sure my [[../Auto-Generated/Attachments/set 4 coursework.pdf|set 4 coursework]] is complete.
-- [ ] Improve my [[Programming/Programming|Programming]] skills whilst solving some of my day-to-day problems.
+	- [ ] (*4 hours a week*) [[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|Enterprise Project Questline]].
+	- [ ] (*1 hour a day*) [[University of Lincoln/Year in Industry/Year in Industry#Industry Quests|Year in Industry Questline]].
+		- [ ] **ASAP: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/)**.
+		- [ ] **ASAP: (*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
+	- [ ] **(*4 hours*) Complete the Scientific Computing logbook: Labs 1-5, refine code, incl. comments, and complete reflections, then make any manual changes. Hand in the logbook on Blackboard with the relevant form. [[Do this with my SC logbook, too]] and make sure my [[../Auto-Generated/Attachments/set 4 coursework.pdf|set 4 coursework]] is complete**.
+- [ ] (*at least 10 hours a week*) Improve my [[Programming/Programming|Programming]] skills whilst solving some of my day-to-day problems.
 	- [ ] (*free time*) [[Programming/FFMS/FFMS Questline|FFMS Questline]], for practising larger projects.
 	- [ ] (*free time*) [[../Organised/Programming/Python/Python Questline|Python Questline]], for high-level projects.
-	- [ ] (*8 hours a week*) [[../Organised/Programming/CPP/CPP Questline|CPP Questline]], for low-level projects.
-	- [ ] (*not a focus*) [[Programming/TypeScript/TypeScript Questline|TypeScript Questline]], for web projects.
-	- [ ] (*free time*) [[Programming/Lua Questline|Lua Questline]], for CC: Tweaked.
-	- [ ] (*in the future*) [[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]].
-- [ ] Build my [[../Tutoring/Tutoring|Tutoring]] business for a consistent income stream whilst helping others.
+	- [ ] (*free time*) [[../Organised/Programming/CPP/CPP Questline|CPP Questline]], for low-level projects.
+	- [ ] (*free time*) [[Programming/TypeScript/TypeScript Questline|TypeScript Questline]], for web projects.
+	- [ ] **(*free time*) [[Programming/Lua Questline|Lua Questline]], for CC: Tweaked**.
+	- [ ] (*free time*) [[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]].
+- [ ] (*10 hours a week*) Build my [[../Tutoring/Tutoring|Tutoring]] business for a consistent income stream whilst helping others.
 	- [ ] (*6 hours a week*) [[../Organised/Tutoring/Content Scheduling Questline|Content Scheduling Questline]].
 	- [ ] (*2 hours*) Create some [[Tutoring/Student Diagnosis Material (first four sessions)|Student Diagnosis Material (first four sessions)]].
 - [ ] Miscellaneous Quests.
@@ -52,3 +54,30 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 	- [ ] (*requires money*) Send my Fujifilm camera for [repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
 	- [ ] (*2 hours*) Refine the [[Hobbies]] section of my Obsidian vault.
 	- [ ] (*1 hour*) Refine the [[Recipes/Recipes|Recipes]] section of my Obsidian vault.
+
+---
+## Quest Time Tracking
+
+**Total weekly hours**: at least 70 hours.
+
+### **[[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Bachelor of Science with Honours in Mathematics]]**: 50 hours/week
+
+[[../Organised/University of Lincoln/Maths Notes Questline|Maths Notes Questline]]: 28 hours/week (4 hours/day).
+[[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|Enterprise Project Questline]]: 5 hours/week (1 hour/weekday).
+[[University of Lincoln/Year in Industry/Year in Industry#Industry Quests|Year in Industry Questline]]: 7 hours/week (1 hour/day).
+*plus 10 hours/week of exam practice*.
+
+**Actual**: ...
+
+### **[[Programming/Programming|Programming]]**: at least 10 hours/week
+
+[[Programming/CPP/CPP Questline|CPP Questline]]: 8 hours/week (1 hour/day).
+
+**Actual**: ...
+
+### **[[../Tutoring/Tutoring|Tutoring]]**: 10 hours/week
+
+[[../Organised/Tutoring/Content Scheduling Questline|Content Scheduling Questline]]: 6 hours/week.
+*plus 4 hours/week of tutoring and prep*.
+
+**Actual**: ...

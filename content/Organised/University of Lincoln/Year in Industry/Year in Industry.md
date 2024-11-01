@@ -1,14 +1,14 @@
 ## Industry Quests
 
-- [ ] **ASAP**: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/).
+- [ ] **ASAP: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/)**.
+- [ ] **ASAP: (*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
+- [ ] **Complete two applications a day from [[#Possible Employers (32 total unique)]]**.
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 
 ## Possible Employers (32 total unique)
 
 ***Applied to***: Sky, DWS Group, Lockheed Martin, ...
-
-Complete applications at a rate of *two a day*.
 
 - [x] [Data Science Placement](https://www.applybe.com/haysapply/forms/candidate/157814358/2949), by Amgen (Cambridge), **3rd November**.
 - [ ] [2025 Spring into Software Engineering](https://targetjobs.co.uk/jobs/2025-spring-software-engineering-jpmorganchase-london-145600), by J.P. Morgan (London), **3rd November**.
