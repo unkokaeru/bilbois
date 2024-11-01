@@ -18,7 +18,7 @@ Lone Star Analysis (LSA) will provide an initial list of example competitors, as
 
 1. Problems they compete to solve.
 2. Solutions they compete to provide.
-3. Employee-types they compete to hire.
+3. Employees they compete to hire.
 4. Brands they compete to build.
 5. Locations they compete to work within.
 

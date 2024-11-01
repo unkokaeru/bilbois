@@ -1,39 +1,60 @@
 ## Industry Quests
 
-- [ ] **COMPLETE BY HALLOWEEN**: (*90 mins*) Complete BlackRock [pre-interview technical challenges](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-2050225/xf-c3add733a966/spa-1/candidate/application/2606827).
-- [ ] **COMPLETE BY NOVEMBER**: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/).
-- [ ] **COMPLETE BY NOVEMBER**: (*60 mins*) Complete Sky [pre-interview tests](https://skyearlycareers.groupgti.com/), after [practising](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsky.preparationplus.com%2F&data=05%7C01%7Cjana.pozsgay%40sky.uk%7Cde7d55b5bab64ea4a74508da91835afe%7C68b865d5cf184b2b82a4a4eddb9c5237%7C0%7C0%7C637982290594727366%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pPU3EWGpgFczzbB8spwU%2F4K4RACmYnyF0Xobi%2Fomi%2F8%3D&reserved=0).
-- [ ] **Apply to placements for my year in industry**.
-- [ ] Respond to Lockheed Martin with relevant cover sheet information, found in my emails.
-- [ ] List all of my shortlisted placements with deadlines.
+- [ ] **ASAP**: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/).
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 
-## Possible Employers
+## Possible Employers (32 total unique)
 
-**Include these too**: https://targetjobs.co.uk/dashboard/applications.
+***Applied to***: Sky, DWS Group, Lockheed Martin, ...
 
-- [Data & Analytics Internship](https://www.ratemyplacement.co.uk/jobs/29294/natwest-group/data-analytics-internship), by NatWest Group (London), **31st October**.
-- [Finance Placement Assistant (13 Month Fixed Term Contract)](https://www.ratemyplacement.co.uk/jobs/28716/savills-investment-management/finance-placement-assistant-13-month-fixed-term-contract), by Savills Investment Management (London), **31st October**.
-- [Actuarial Industrial Placement](https://www.ratemyplacement.co.uk/jobs/28135/deloitte/actuarial-industrial-placement), by Deloitte (Nationwide), **31st October**.
-- [STEM Placements](https://www.ratemyplacement.co.uk/jobs/28671/amgen/stem-placements), by Amgen (Uxbridge or Cambridge), **3rd November**.
-- [Finance Placement](https://www.ratemyplacement.co.uk/jobs/29230/porsche-cars-great-britain/finance-placement), by Porsche Cars Great Britain (Reading), **4th November**.
-- [Technology Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67104), by Capital One, **4th November**.
-- [Technology Internship](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67114), by Capital One, **4th November**.
-- [2025 Junior Data Scientist - London](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68846), by Frontier Economics, **8th November**.
-- [2025 Software Developer Internship - Cambridge](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68858), by WTW, **8th November**.
-- [2025 London Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986), by Lazard, **14th November**.
-- [Year In Industry - Systems Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68988), by National Highways, **15th November**.
-- [Year In Industry – Finance](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68992), by National Highways, **15th November**.
-- [Year In Industry - Civil Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68994), by National Highways, **15th November**.
-- [Finance Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68452), by Unilever, **19th November**.
-- [Data Science Analytics Intern - June 2025 - London](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67950), by Expedia Group, **20th November**.
-- [Finance - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68334), by Lockheed Martin UK, **28th November**.
-- [Software Engineer - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68336), by Lockheed Martin UK, **28th November**.
-- [Industrial Placement Software Engineer](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=65864), by BAE Systems, **30th November**.
-- [Industrial Placement Aerospace Integration Engineer](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=65910), by BAE Systems, **30th November**.
-- [Industrial Placement Actuarial & Consulting - 2025](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=66584), by Isio, **30th November**.
-- [Aon Industrial Placement Programme - Actuarial Consulting - Pensions 2025](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=69084), by Aon, **2nd December**.
-- [Accounting and Finance Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=66796), by The Walt Disney Company, **14th December**.
-- [Finance Year In Industry](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68946), by Network Rail, **20th December**.
-- [Continuous Improvement Engineer Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=65416), by ProAmpac Grimsby Limited, **10th July**.
+Complete applications at a rate of *two a day*.
+
+- [x] [Data Science Placement](https://www.applybe.com/haysapply/forms/candidate/157814358/2949), by Amgen (Cambridge), **3rd November**.
+- [ ] [2025 Spring into Software Engineering](https://targetjobs.co.uk/jobs/2025-spring-software-engineering-jpmorganchase-london-145600), by J.P. Morgan (London), **3rd November**.
+- [ ] [Finance Placement](https://www.ratemyplacement.co.uk/jobs/29230/porsche-cars-great-britain/finance-placement), by Porsche Cars Great Britain (Reading), **4th November**.
+- [ ] [Technology Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67104), by Capital One (East Midlands), **4th November**.
+- [ ] [Technology Internship](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67114), by Capital One (Nottingham), **4th November**.
+- [ ] [Tax Placement (12 months)](https://targetjobs.co.uk/jobs/tax-placement-12-months-guildford-august-2025-158612), by Azets (Guildford), **4th November**.
+- [ ] [Junior Data Scientist](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68846), by Frontier Economics (London), **8th November**.
+- [ ] [Software Developer Internship](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68858), by WTW (Cambridge), **8th November**.
+- [ ] [Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986), by Lazard (London), **14th November**.
+- [ ] [Year In Industry - Systems Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68988), by National Highways (South West), **15th November**.
+- [ ] [Year In Industry – Finance](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68992), by National Highways (South West), **15th November**.
+- [ ] [Year In Industry - Civil Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68994), by National Highways (Nationwide), **15th November**.
+- [ ] [Student Placement Software Engineer - 3GPP 5G Protocol Conformance Development](https://targetjobs.co.uk/jobs/student-placement-software-engineer-3gpp-5g-protocol-conformance-development-156430), by Rohde & Schwartz (Fleet), **18th November**.
+- [ ] [Finance Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68452), by Unilever (Greater London), **19th November**.
+- [ ] [Data Science Analytics Intern](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67950), by Expedia Group (London), **20th November**.
+- [ ] [Placement Student - Finance](https://targetjobs.co.uk/jobs/placement-student-finance-darlington-158360), by Cummins Inc (Darlington), **21st November**.
+- [ ] [Engineering & Technology Year Long Internship](https://targetjobs.co.uk/jobs/engineering-technology-year-long-internship-159134), by Rolls Royce (Bristol), **22nd November**.
+- [ ] [Finance - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68334), by Lockheed Martin UK (South East), **28th November**.
+- [x] [Software Engineer - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68336), by Lockheed Martin UK (South East), **28th November**.
+- [ ] [Financial Services Tax 12 Month Placement Programme](https://targetjobs.co.uk/jobs/financial-services-tax-12-month-placement-programme-summer-2025-152332), by Grant Thornton UK (London), **30th November**.
+- [ ] [Corporate Tax 12 Month Placement Programme](https://targetjobs.co.uk/jobs/corporate-tax-12-month-placement-programme-summer-2025-152334), By Grant Thornton UK (London), **30th November**.
+- [ ] [Accounting Services 12 Month Placement Programme](https://targetjobs.co.uk/jobs/accounting-services-12-month-placement-programme-summer-2025-152336), by Grant Thornton UK (Reading), **30th November**.
+- [ ] [Real Estate Tax 12 Month Placement Programme](https://targetjobs.co.uk/jobs/real-estate-tax-12-month-placement-programme-summer-2025-152318), by Grant Thornton UK (London), **30th November**.
+- [ ] [Data & Analytics Internship](https://www.ratemyplacement.co.uk/jobs/29294/natwest-group/data-analytics-internship), by NatWest Group (London), **30th November**.
+- [ ] [Actuarial Industrial Placement](https://www.ratemyplacement.co.uk/jobs/28135/deloitte/actuarial-industrial-placement), by Deloitte (Nationwide), **30th November**.
+- [ ] [Business & Financial Advisory Industrial Placement](https://targetjobs.co.uk/jobs/business-financial-advisory-industrial-placement-155616), by Deloitte (London), **30th November**.
+- [ ] [Risk Advisory Industrial Placement](https://targetjobs.co.uk/jobs/risk-advisory-industrial-placement-155648), by Deloitte (London), **30th November**.
+- [ ] [Industrial Placement Software Engineer](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=65864), by BAE Systems (Nationwide), **30th November**.
+- [ ] [Industrial Placement Aerospace Integration Engineer](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=65910), by BAE Systems (North West), **30th November**.
+- [ ] [Industrial Placement Actuarial & Consulting](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=66584), by Isio (London), **30th November**.
+- [ ] [Actuarial Analyst - 1 year Placement](https://targetjobs.co.uk/jobs/actuarial-analyst-1-year-placement-158936), by Allianz (London), **30th November**.
+- [ ] [Tax Assistant - Placement](https://targetjobs.co.uk/jobs/tax-assistant-placement-cambridge-144990), by RSM (Cambridge), **30th November**.
+- [ ] [Software Engineering Undergraduate Placement](https://targetjobs.co.uk/jobs/software-engineering-undergraduate-placement-159590), by ASMPT (Weymouth), **1st December**.
+- [ ] [Aon Industrial Placement Programme - Actuarial Consulting - Pensions](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=69084), by Aon (Nationwide), **2nd December**.
+- [ ] [Systems Engineering Placement](https://targetjobs.co.uk/jobs/systems-engineering-placement-scheme-2025-159042), by AtkinsRéalis (Bristol), **5th December**.
+- [ ] [Accounting and Finance Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=66796), by The Walt Disney Company (Greater London), **14th December**.
+- [ ] [Technology and IT Placement](https://targetjobs.co.uk/jobs/technology-and-it-placement-153660), by The Walt Disney Company (Greater London), **14th December**.
+- [ ] [Technology Engineering Industrial Placement Scheme](https://targetjobs.co.uk/jobs/technology-engineering-industrial-placement-scheme-156290), by Lloyds Banking Group (Bristol), **15th December**.
+- [ ] [Data and Analytics Industrial Placement Scheme](https://targetjobs.co.uk/jobs/data-and-analytics-industrial-placement-scheme-156292), by Lloyds Banking Group (Bristol), **15th December**.
+- [ ] [Risk Industrial Placement Scheme](https://targetjobs.co.uk/jobs/risk-industrial-placement-scheme-156294), by Lloyds Banking Group (Bristol), **15th December**.
+- [ ] [Finance Year In Industry](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68946), by Network Rail (Nationwide), **20th December**.
+- [ ] [Continuous Improvement Engineer Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=65416), by ProAmpac Grimsby Limited (Lincolnshire), **10th July**.
+
+Related:
+- https://www.undergraduateoftheyear.com/awards/celebrating-resilience.
+- https://www.undergraduateoftheyear.com/awards/software-engineering.
+- https://targetjobs.co.uk/organisations/atkinsrealis/events/hackafuture.
+- https://www.nanodtc.cam.ac.uk/apply/.
