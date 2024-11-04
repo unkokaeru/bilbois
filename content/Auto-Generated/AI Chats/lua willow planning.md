@@ -2,7 +2,7 @@
 
 **ai**: Yes, CC: Tweaked is a popular mod for Minecraft that enhances the ComputerCraft mod by adding new features and improvements. It allows players to use programmable computers and turtles within the game, enabling them to automate tasks, create complex systems, and even develop games using the Lua programming language. CC: Tweaked expands on the original ComputerCraft by introducing new blocks, items, and functionalities, making it a favorite among players who enjoy coding and automation in Minecraft. If you have specific questions or need information about certain features, feel free to ask!
 
-**user**: I want to make a Lua library for it, which will include packages for logging and a command line interface. However, this is my first Lua project (I've done python before, here's my [[CONTRIBUTING]] file for that). What is a good project structure for this library? Can you also think of a clever name for it? My brother called his Lexicon because his name is Lexy. My name is Will/William/Bilbo.
+**user**: I want to make a Lua library for it, which will include packages for logging and a command line interface. However, this is my first Lua project (I've done python before, here's my [[../../Organised/Programming/Python/CONTRIBUTING]] file for that). What is a good project structure for this library? Can you also think of a clever name for it? My brother called his Lexicon because his name is Lexy. My name is Will/William/Bilbo.
 
 Here's my standard Python project structure, so you know what I'm used to:
 

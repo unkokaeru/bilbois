@@ -1,21 +1,16 @@
 ## Industry Quests
 
-- [ ] **ASAP: (*60 mins*) Complete DWS [pre-interview reasoning tests](https://dws.groupgti.com/), after the two practice tests for [numerical reasoning](https://www.testpartnership.com/free/numerical/1/) and [inductive reasoning](https://www.testpartnership.com/free/inductive/1/)**.
-- [ ] **ASAP: (*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
-- [ ] **Complete two applications a day from [[#Possible Employers (32 total unique)]]**.
+- [ ] **(*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
+- [ ] Complete two applications a day from [[#Possible Employers (32 total unique)]].
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 
-## Possible Employers (32 total unique)
+## Possible Employers (5/29 total unique)
 
 ***Applied to***: Sky, DWS Group, Lockheed Martin, ...
 
 - [x] [Data Science Placement](https://www.applybe.com/haysapply/forms/candidate/157814358/2949), by Amgen (Cambridge), **3rd November**.
-- [ ] [2025 Spring into Software Engineering](https://targetjobs.co.uk/jobs/2025-spring-software-engineering-jpmorganchase-london-145600), by J.P. Morgan (London), **3rd November**.
-- [ ] [Finance Placement](https://www.ratemyplacement.co.uk/jobs/29230/porsche-cars-great-britain/finance-placement), by Porsche Cars Great Britain (Reading), **4th November**.
-- [ ] [Technology Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67104), by Capital One (East Midlands), **4th November**.
-- [ ] [Technology Internship](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67114), by Capital One (Nottingham), **4th November**.
-- [ ] [Tax Placement (12 months)](https://targetjobs.co.uk/jobs/tax-placement-12-months-guildford-august-2025-158612), by Azets (Guildford), **4th November**.
+- [x] [2025 Spring into Software Engineering](https://targetjobs.co.uk/jobs/2025-spring-software-engineering-jpmorganchase-london-145600), by J.P. Morgan (London), **3rd November**.
 - [ ] [Junior Data Scientist](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68846), by Frontier Economics (London), **8th November**.
 - [ ] [Software Developer Internship](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68858), by WTW (Cambridge), **8th November**.
 - [ ] [Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986), by Lazard (London), **14th November**.
