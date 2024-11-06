@@ -2,7 +2,7 @@
 - [ ] Design note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining.
 - [ ] Design a question answer template.
 - [ ] Design a definition template.
-- [ ] Design a cheat sheet template.
+- [ ] **Design a cheat sheet template.**
 - [ ] Design a flashcard slideshow template.
 - [ ] Apply templates to year 1 notes for testing.
 - [ ] Apply templates to year 2 for completion.

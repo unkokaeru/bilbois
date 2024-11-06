@@ -10,19 +10,31 @@
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
     <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
-    <pubDate>Mon, 04 Nov 2024 21:06:59 GMT</pubDate>
+    <pubDate>Wed, 06 Nov 2024 14:25:14 GMT</pubDate>
+  </item><item>
+    <title>Year in Industry</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
+    <description>Industry Quests (60 mins) Complete Sky video interview. (60 mins) Complete DWS video interview. Complete two applications a day from Possible Employers.</description>
+    <pubDate>Wed, 06 Nov 2024 14:23:03 GMT</pubDate>
+  </item><item>
+    <title>Pasting Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Pasting-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Pasting-Challenge</guid>
+    <description>...</description>
+    <pubDate>Wed, 06 Nov 2024 12:07:34 GMT</pubDate>
+  </item><item>
+    <title>Maths Notes Questline</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
+    <description> Design a module index template. Design note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining. Design a question answer template.</description>
+    <pubDate>Tue, 05 Nov 2024 17:34:29 GMT</pubDate>
   </item><item>
     <title>Lua Questline</title>
     <link>https://bilbois.me/Organised/Programming/Lua/Lua-Questline</link>
     <guid>https://bilbois.me/Organised/Programming/Lua/Lua-Questline</guid>
     <description> Build this questline.</description>
     <pubDate>Mon, 04 Nov 2024 21:05:13 GMT</pubDate>
-  </item><item>
-    <title>Year in Industry</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
-    <description>Industry Quests (60 mins) Complete Sky video interview. Complete two applications a day from Possible Employers (32 total unique). Tidy up my LinkedIn. Refine my Boilerplate Application Statements.</description>
-    <pubDate>Mon, 04 Nov 2024 21:04:10 GMT</pubDate>
   </item><item>
     <title>UNTITLED CHAT 2024-11-02 18 12 23</title>
     <link>https://bilbois.me/Auto-Generated/AI-Chats/UNTITLED-CHAT-2024-11-02-18-12-23</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Organised/Hobbies/Hobbies</guid>
     <description>id: 67101559-7431-455d-bbca-97b1ef5b3503 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
     <pubDate>Sat, 02 Nov 2024 16:33:03 GMT</pubDate>
-  </item><item>
-    <title>Enterprise Project</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</guid>
-    <description>Initial Briefing: Enterprise Project Briefing. Enterprise Project To-Do List Should take about four hours a week, logged in the Lincoln Award Employer Project - Project Log.</description>
-    <pubDate>Fri, 01 Nov 2024 18:14:30 GMT</pubDate>
-  </item><item>
-    <title>Academic Deadlines (2024-25)</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
-    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
-    <pubDate>Fri, 01 Nov 2024 17:49:25 GMT</pubDate>
   </item>
     </channel>
   </rss>

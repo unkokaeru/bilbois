@@ -1,18 +1,17 @@
 ## Industry Quests
 
 - [ ] **(*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
-- [ ] Complete two applications a day from [[#Possible Employers (32 total unique)]].
+- [ ] **(*60 mins*) Complete DWS [video interview](https://mailgun.shortlister.com/c/eJxE0MFq9CAUBeCn0V3keu81xoWLnx9m1XW3xahDnGaiJHZK3r7MUOj2cDgcvtDaWmLopW4fJXmDPKKVsd5b2M5noo0mmTyGFCaS2WtLYJ2eaJSLhzlSQCAHaY5uRgOIlLKL16Q5uijLX58NKCJltBsNsENwmjQ6TaNg0DhlzhMN1vI0cIwwBGd5wOk6snEJA8-q7Y-u0rlVtXe15L1-fqlY7_JW5-dTtGBIrn7pvR2C_gm8CLwcy6qOLvDCt_e3RnL332VdS7gLhms48368Nrr_ldi6wP9le5T-QpEPjz8BAAD__2qaVnM)**.
+- [ ] Complete two applications a day from [[#Possible Employers (5/29 total unique)|Possible Employers]].
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 
-## Possible Employers (5/29 total unique)
+## Possible Employers (5/28 total unique)
 
 ***Applied to***: Sky, DWS Group, Lockheed Martin, ...
 
 - [x] [Data Science Placement](https://www.applybe.com/haysapply/forms/candidate/157814358/2949), by Amgen (Cambridge), **3rd November**.
 - [x] [2025 Spring into Software Engineering](https://targetjobs.co.uk/jobs/2025-spring-software-engineering-jpmorganchase-london-145600), by J.P. Morgan (London), **3rd November**.
-- [ ] [Junior Data Scientist](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68846), by Frontier Economics (London), **8th November**.
-- [ ] [Software Developer Internship](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68858), by WTW (Cambridge), **8th November**.
 - [ ] [Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986), by Lazard (London), **14th November**.
 - [ ] [Year In Industry - Systems Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68988), by National Highways (South West), **15th November**.
 - [ ] [Year In Industry – Finance](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68992), by National Highways (South West), **15th November**.
@@ -22,6 +21,7 @@
 - [ ] [Data Science Analytics Intern](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67950), by Expedia Group (London), **20th November**.
 - [ ] [Placement Student - Finance](https://targetjobs.co.uk/jobs/placement-student-finance-darlington-158360), by Cummins Inc (Darlington), **21st November**.
 - [ ] [Engineering & Technology Year Long Internship](https://targetjobs.co.uk/jobs/engineering-technology-year-long-internship-159134), by Rolls Royce (Bristol), **22nd November**.
+- [ ] [Junior Software Developer](https://targetjobs.co.uk/jobs/junior-software-developer-industrial-placement-manchester-160756), by bet365 (Manchester), **27th November**.
 - [ ] [Finance - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68334), by Lockheed Martin UK (South East), **28th November**.
 - [x] [Software Engineer - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68336), by Lockheed Martin UK (South East), **28th November**.
 - [ ] [Financial Services Tax 12 Month Placement Programme](https://targetjobs.co.uk/jobs/financial-services-tax-12-month-placement-programme-summer-2025-152332), by Grant Thornton UK (London), **30th November**.
