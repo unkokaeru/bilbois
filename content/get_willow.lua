@@ -28,7 +28,7 @@ local WILLOW_FILE_STRUCTURE = {
         "package_manager"
     }},
     utilities = {name = "utilities", files = {
-        "print_utilities",
+        "file_utilities",
         "network_utilities",
         "print_utilities",
         "string_utilities"
