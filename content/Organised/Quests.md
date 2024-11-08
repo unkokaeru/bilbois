@@ -14,7 +14,7 @@ actions:
 ```
 
 ---
-## **Daily Quests**, Thursday:  `BUTTON[select-daily-quests]`
+## **Daily Quests**, Friday:  `BUTTON[select-daily-quests]`
 
 - [ ] Design a cheat sheet template.
 - [ ] Complete the Scientific Computing logbook: Labs 1-5, refine code, incl. comments, and complete reflections, then make any manual changes. Hand in the logbook on Blackboard with the relevant form. [[Do this with my SC logbook, too]] and make sure my [[../Auto-Generated/Attachments/set 4 coursework.pdf|set 4 coursework]] is complete.

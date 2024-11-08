@@ -2,7 +2,7 @@
 
 - [ ] **(*60 mins*) Complete Sky [video interview](https://skyearlycareers.groupgti.com/)**.
 - [ ] **(*60 mins*) Complete DWS [video interview](https://mailgun.shortlister.com/c/eJxE0MFq9CAUBeCn0V3keu81xoWLnx9m1XW3xahDnGaiJHZK3r7MUOj2cDgcvtDaWmLopW4fJXmDPKKVsd5b2M5noo0mmTyGFCaS2WtLYJ2eaJSLhzlSQCAHaY5uRgOIlLKL16Q5uijLX58NKCJltBsNsENwmjQ6TaNg0DhlzhMN1vI0cIwwBGd5wOk6snEJA8-q7Y-u0rlVtXe15L1-fqlY7_JW5-dTtGBIrn7pvR2C_gm8CLwcy6qOLvDCt_e3RnL332VdS7gLhms48368Nrr_ldi6wP9le5T-QpEPjz8BAAD__2qaVnM)**.
-- [ ] Complete two applications a day from [[#Possible Employers (5/29 total unique)|Possible Employers]].
+- [ ] Complete two applications a day from [[#Possible Employers (5/28 total unique)|Possible Employers]].
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 
