@@ -1,0 +1,5 @@
+
+- A **meeting with Lone Star Analysis** (LSA) should be planned for this week via a WhatsApp poll and then checking with LSA's availability.
+	- During this meeting, we'll explain our progress (**a long-list of competitors with initial research** and a **long-list of possible research questions** that we could answer with the final report/presentation) as per the [[../Enterprise Project Briefing|Enterprise Project Briefing]].
+- Group meetings should be at least once a week with as many people as possible, but *subgroups don't have to meet* - they just serve to focus member research.
+- **Organise the [research document](https://universityoflincoln.sharepoint.com/:w:/r/sites/LonestarAnalysisproject/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1bd75ae7-a90e-46e6-b382-8efa9ea7c4be%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1729869405752&web=1)** to be in a concise readable manner such that it can be explained during the LSA meeting.

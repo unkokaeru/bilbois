@@ -6,35 +6,53 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Year in Industry</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
-    <description>Industry Quests (60 mins) Complete Sky video interview. (60 mins) Complete DWS video interview. Complete two applications a day from Possible Employers.</description>
-    <pubDate>Fri, 08 Nov 2024 13:16:17 GMT</pubDate>
+    <title>Enterprise Project</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</guid>
+    <description>Initial Briefing: Enterprise Project Briefing. Enterprise Project To-Do List Should take about four hours a week, logged in the Lincoln Award Employer Project - Project Log.</description>
+    <pubDate>Sun, 10 Nov 2024 14:57:25 GMT</pubDate>
+  </item><item>
+    <title>Enterprise Project Meeting 3</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Meetings/Enterprise-Project-Meeting-3</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Meetings/Enterprise-Project-Meeting-3</guid>
+    <description> A meeting with Lone Star Analysis (LSA) should be planned for this week via a WhatsApp poll and then checking with LSA’s availability. During this meeting, we’ll explain our progress (a long-list of competitors with initial research and a long-list of possible research questions that we could answer with the final report/presentation) as per the Enterprise Project Briefing.</description>
+    <pubDate>Sun, 10 Nov 2024 14:56:19 GMT</pubDate>
   </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex label: Select Daily Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-daily-quests&quot; style: default actions: ...</description>
-    <pubDate>Fri, 08 Nov 2024 13:15:46 GMT</pubDate>
+    <description>questlogindex label: Select Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-quests&quot; style: default actions: - type: ...</description>
+    <pubDate>Sun, 10 Nov 2024 13:41:27 GMT</pubDate>
+  </item><item>
+    <title>Maths Notes Questline</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
+    <description> Design a module index template. Design note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining. Design a question answer template.</description>
+    <pubDate>Sun, 10 Nov 2024 12:57:40 GMT</pubDate>
+  </item><item>
+    <title>Year in Industry</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
+    <description>Industry Quests Complete two applications a day from Possible Employers. Tidy up my LinkedIn. Refine my Boilerplate Application Statements. Possible Employers (5/28 total unique) Applied to: Sky, DWS Group, Lockheed Martin, … ==Data Science Placement, by Amgen (Cambridge), 3rd November.== 2025 Spring into Software Engineering, by J.P.</description>
+    <pubDate>Sun, 10 Nov 2024 12:57:33 GMT</pubDate>
+  </item><item>
+    <title>Academic Deadlines (2024-25)</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
+    <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
+    <pubDate>Sun, 10 Nov 2024 12:50:43 GMT</pubDate>
   </item><item>
     <title>Lua Questline</title>
     <link>https://bilbois.me/Organised/Programming/Lua/Lua-Questline</link>
     <guid>https://bilbois.me/Organised/Programming/Lua/Lua-Questline</guid>
-    <description> Fix GitHub Issues. Make a storage management system. Make a quarry.</description>
-    <pubDate>Thu, 07 Nov 2024 19:21:37 GMT</pubDate>
+    <description> Fix bugs with the package manager “Willow”. Fix GitHub Issues. Make a storage management system. Make a quarry.</description>
+    <pubDate>Fri, 08 Nov 2024 18:21:56 GMT</pubDate>
   </item><item>
     <title>Pasting Challenge</title>
     <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Pasting-Challenge</link>
     <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Pasting-Challenge</guid>
     <description>...</description>
     <pubDate>Wed, 06 Nov 2024 12:07:34 GMT</pubDate>
-  </item><item>
-    <title>Maths Notes Questline</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
-    <description> Design a module index template. Design note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining. Design a question answer template.</description>
-    <pubDate>Tue, 05 Nov 2024 17:34:29 GMT</pubDate>
   </item><item>
     <title>UNTITLED CHAT 2024-11-02 18 12 23</title>
     <link>https://bilbois.me/Auto-Generated/AI-Chats/UNTITLED-CHAT-2024-11-02-18-12-23</link>
@@ -47,24 +65,6 @@
     <guid>https://bilbois.me/Auto-Generated/AI-Chats/lua-willow-planning</guid>
     <description>user: Do you know about CC: Tweaked, the Minecraft mod? ai: Yes, CC: Tweaked is a popular mod for Minecraft that enhances the ComputerCraft mod by adding new features and improvements ...</description>
     <pubDate>Sat, 02 Nov 2024 17:09:29 GMT</pubDate>
-  </item><item>
-    <title>Applications</title>
-    <link>https://bilbois.me/Organised/Applications/Applications</link>
-    <guid>https://bilbois.me/Organised/Applications/Applications</guid>
-    <description>id: 07d9ff00-51a9-42de-89ff-b62fa0dbe8bf folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Sat, 02 Nov 2024 17:08:09 GMT</pubDate>
-  </item><item>
-    <title>Organised</title>
-    <link>https://bilbois.me/Organised/Organised</link>
-    <guid>https://bilbois.me/Organised/Organised</guid>
-    <description>id: c5de76ac-6b81-4d0b-89db-bd5969c3062f folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Sat, 02 Nov 2024 16:58:32 GMT</pubDate>
-  </item><item>
-    <title>Hobbies</title>
-    <link>https://bilbois.me/Organised/Hobbies/Hobbies</link>
-    <guid>https://bilbois.me/Organised/Hobbies/Hobbies</guid>
-    <description>id: 67101559-7431-455d-bbca-97b1ef5b3503 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: false depth: 10 includeTypes: - folder - markdown ...</description>
-    <pubDate>Sat, 02 Nov 2024 16:33:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
