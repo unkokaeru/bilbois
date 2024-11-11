@@ -16,11 +16,13 @@ actions:
 ---
 ## **Weekly Quests**, Week 8:  `BUTTON[select-quests]`
 
-- [ ] Complete Sky [video interview](https://skyearlycareers.groupgti.com/) **BEFORE MONDAY**.
-- [ ] Test and complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet DRAFT TWO|MTH2002 Coding Theory Cheat Sheet DRAFT TWO]] **BEFORE TUESDAY**.
+- [ ] Complete Sky [video interview](https://skyearlycareers.groupgti.com/) **ASAP!!!!**.
 - [ ] Complete DWS [video interview](https://mailgun.shortlister.com/c/eJxE0MFq9CAUBeCn0V3keu81xoWLnx9m1XW3xahDnGaiJHZK3r7MUOj2cDgcvtDaWmLopW4fJXmDPKKVsd5b2M5noo0mmTyGFCaS2WtLYJ2eaJSLhzlSQCAHaY5uRgOIlLKL16Q5uijLX58NKCJltBsNsENwmjQ6TaNg0DhlzhMN1vI0cIwwBGd5wOk6snEJA8-q7Y-u0rlVtXe15L1-fqlY7_JW5-dTtGBIrn7pvR2C_gm8CLwcy6qOLvDCt_e3RnL332VdS7gLhms48368Nrr_ldi6wP9le5T-QpEPjz8BAAD__2qaVnM) **BEFORE WEDNESDAY**.
-- [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]] **BEFORE SATURDAY**.
-- [ ] Complete two applications a day from [[#Possible Employers (5/28 total unique)|Possible Employers]].
+- [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]] **BEFORE SATURDAY** - look over the projects my brother sent me, starting with [sds](C:/Users/wills/Documents/Programs%20by%20my%20brother/sds/) before looking at [acm_2](C:/Users/wills/Documents/Programs%20by%20my%20brother/acm_2/).
+- [ ] Complete two applications a day from [[University of Lincoln/Year in Industry/Year in Industry#Possible Employers (5/28 total unique)|Possible Employers]].
+- [ ] Share meeting slideshow (on behavioural psychology) with Maicey - it was super interesting!
+- [ ] Prototype a Pokemon-like game to explore best practices for OOP in C++.
+- [ ] Check student is okay for tutoring for **on Tuesday**.
 
 ---
 ## Quest Log
