@@ -3,5 +3,6 @@
 - [ ] Design a question answer template.
 - [ ] Design a definition template.
 - [ ] Design a flashcard slideshow template.
+- [ ] Design a cheat sheet template.
 - [ ] Apply templates to year 1 notes for testing.
 - [ ] Apply templates to year 2 for completion.

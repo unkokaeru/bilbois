@@ -16,13 +16,11 @@ actions:
 ---
 ## **Weekly Quests**, Week 8:  `BUTTON[select-quests]`
 
-- [ ] Complete the [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Scientific Computing/Scientific Computing|Scientific Computing]] logbook **BEFORE MONDAY**: Labs 1-5, refine code, incl. comments, and complete reflections, then make any manual changes. Hand in the logbook on Blackboard with the relevant form. Check against [[../Auto-Generated/Attachments/Scientific Computing ALL QUESTIONS.pdf|this document]].
 - [ ] Complete Sky [video interview](https://skyearlycareers.groupgti.com/) **BEFORE MONDAY**.
-- [ ] Design a [[cheat sheet template]] **BEFORE TUESDAY**, or just create a cheat sheet for [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/Coding Theory|Coding Theory]] from scratch.
+- [ ] Test and complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet DRAFT TWO|MTH2002 Coding Theory Cheat Sheet DRAFT TWO]] **BEFORE TUESDAY**.
 - [ ] Complete DWS [video interview](https://mailgun.shortlister.com/c/eJxE0MFq9CAUBeCn0V3keu81xoWLnx9m1XW3xahDnGaiJHZK3r7MUOj2cDgcvtDaWmLopW4fJXmDPKKVsd5b2M5noo0mmTyGFCaS2WtLYJ2eaJSLhzlSQCAHaY5uRgOIlLKL16Q5uijLX58NKCJltBsNsENwmjQ6TaNg0DhlzhMN1vI0cIwwBGd5wOk6snEJA8-q7Y-u0rlVtXe15L1-fqlY7_JW5-dTtGBIrn7pvR2C_gm8CLwcy6qOLvDCt_e3RnL332VdS7gLhms48368Nrr_ldi6wP9le5T-QpEPjz8BAAD__2qaVnM) **BEFORE WEDNESDAY**.
 - [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]] **BEFORE SATURDAY**.
 - [ ] Complete two applications a day from [[#Possible Employers (5/28 total unique)|Possible Employers]].
-- [ ] Time block between items in my [[#Quest Log]] and [[Hobbies/Hobbies|Hobbies]].
 
 ---
 ## Quest Log
