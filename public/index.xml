@@ -10,13 +10,31 @@
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
     <description>questlogindex label: Select Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-quests&quot; style: default actions: - type: ...</description>
-    <pubDate>Mon, 11 Nov 2024 22:42:30 GMT</pubDate>
+    <pubDate>Thu, 14 Nov 2024 18:34:00 GMT</pubDate>
+  </item><item>
+    <title>Enterprise Project</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</guid>
+    <description>Initial Briefing: Enterprise Project Briefing. Enterprise Project To-Do List Should take about four hours a week, logged in the Lincoln Award Employer Project - Project Log.</description>
+    <pubDate>Wed, 13 Nov 2024 15:56:52 GMT</pubDate>
+  </item><item>
+    <title>coopemon implementation</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/coopemon-implementation</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/coopemon-implementation</guid>
+    <description>user: Read cpp style guide and let me know when you’re ready to format some code. ai: I’m ready to help you format some code according to the Google C++ Style Guide you’ve provided.</description>
+    <pubDate>Tue, 12 Nov 2024 22:35:46 GMT</pubDate>
+  </item><item>
+    <title>cpp style guide</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/cpp-style-guide</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/cpp-style-guide</guid>
+    <description>Google Style Guide. Note that I use tab indents (four spaces) instead. Background ---------- C++ is one of the main development languages used by many of Google&#039;s open-source projects.</description>
+    <pubDate>Tue, 12 Nov 2024 16:29:35 GMT</pubDate>
   </item><item>
     <title>MTH2002 Coding Theory Cheat Sheet</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/MTH2002-Coding-Theory-Cheat-Sheet</link>
     <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/MTH2002-Coding-Theory-Cheat-Sheet</guid>
     <description>MTH2002 Coding Theory - Cheat Sheet Made by William Fayers :) Make sure to read this before the exam - I recommend completing a practice test with it so you learn where everything is and ...</description>
-    <pubDate>Mon, 11 Nov 2024 22:34:15 GMT</pubDate>
+    <pubDate>Tue, 12 Nov 2024 13:02:37 GMT</pubDate>
   </item><item>
     <title>Maths Notes Questline</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
@@ -47,24 +65,6 @@
     <guid>https://bilbois.me/Auto-Generated/Excalidraw/Drawing-2024-11-10-18.07.35.excalidraw</guid>
     <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
     <pubDate>Sun, 10 Nov 2024 18:08:04 GMT</pubDate>
-  </item><item>
-    <title>Enterprise Project</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</guid>
-    <description>Initial Briefing: Enterprise Project Briefing. Enterprise Project To-Do List Should take about four hours a week, logged in the Lincoln Award Employer Project - Project Log.</description>
-    <pubDate>Sun, 10 Nov 2024 14:57:25 GMT</pubDate>
-  </item><item>
-    <title>Enterprise Project Meeting 3</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Meetings/Enterprise-Project-Meeting-3</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Meetings/Enterprise-Project-Meeting-3</guid>
-    <description> A meeting with Lone Star Analysis (LSA) should be planned for this week via a WhatsApp poll and then checking with LSA’s availability. During this meeting, we’ll explain our progress (a long-list of competitors with initial research and a long-list of possible research questions that we could answer with the final report/presentation) as per the Enterprise Project Briefing.</description>
-    <pubDate>Sun, 10 Nov 2024 14:56:19 GMT</pubDate>
-  </item><item>
-    <title>Year in Industry</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
-    <description>Industry Quests Complete two applications a day from Possible Employers. Tidy up my LinkedIn. Refine my Boilerplate Application Statements. Possible Employers (5/28 total unique) Applied to: Sky, DWS Group, Lockheed Martin, … ==Data Science Placement, by Amgen (Cambridge), 3rd November.== 2025 Spring into Software Engineering, by J.P.</description>
-    <pubDate>Sun, 10 Nov 2024 12:57:33 GMT</pubDate>
   </item>
     </channel>
   </rss>

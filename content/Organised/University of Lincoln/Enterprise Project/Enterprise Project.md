@@ -3,10 +3,7 @@
 ## Enterprise Project To-Do List
 *Should take about **four hours a week**, logged in the [[../../../Auto-Generated/Attachments/Lincoln Award Employer Project - Project Log.docx|Lincoln Award Employer Project - Project Log]]*.
 
-- [ ] Plan a meeting with LSA.
-- [ ] Long-list competitors with initial research.
-- [ ] Long-list possible research questions to answer with the final report/presentation.
-- [ ] Organise the [research document](https://universityoflincoln.sharepoint.com/:w:/r/sites/LonestarAnalysisproject/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1bd75ae7-a90e-46e6-b382-8efa9ea7c4be%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1729869405752&web=1) to be more concise and readable.
+- [ ] REVAMP the [research document](https://universityoflincoln.sharepoint.com/:w:/r/sites/LonestarAnalysisproject/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1bd75ae7-a90e-46e6-b382-8efa9ea7c4be%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1729869405752&web=1) to be more concise and readable. We want to focus on the competitors do, who with, etc., so that we can then come up with messages and underlying reasoning to inform adjustments to LSA's online presence.
 
 ## Meeting Notes
 

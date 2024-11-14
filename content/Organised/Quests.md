@@ -16,13 +16,17 @@ actions:
 ---
 ## **Weekly Quests**, Week 8:  `BUTTON[select-quests]`
 
-- [ ] Complete Sky [video interview](https://skyearlycareers.groupgti.com/) **ASAP!!!!**.
-- [ ] Complete DWS [video interview](https://mailgun.shortlister.com/c/eJxE0MFq9CAUBeCn0V3keu81xoWLnx9m1XW3xahDnGaiJHZK3r7MUOj2cDgcvtDaWmLopW4fJXmDPKKVsd5b2M5noo0mmTyGFCaS2WtLYJ2eaJSLhzlSQCAHaY5uRgOIlLKL16Q5uijLX58NKCJltBsNsENwmjQ6TaNg0DhlzhMN1vI0cIwwBGd5wOk6snEJA8-q7Y-u0rlVtXe15L1-fqlY7_JW5-dTtGBIrn7pvR2C_gm8CLwcy6qOLvDCt_e3RnL332VdS7gLhms48368Nrr_ldi6wP9le5T-QpEPjz8BAAD__2qaVnM) **BEFORE WEDNESDAY**.
-- [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]] **BEFORE SATURDAY** - look over the projects my brother sent me, starting with [sds](C:/Users/wills/Documents/Programs%20by%20my%20brother/sds/) before looking at [acm_2](C:/Users/wills/Documents/Programs%20by%20my%20brother/acm_2/).
-- [ ] Complete two applications a day from [[University of Lincoln/Year in Industry/Year in Industry#Possible Employers (5/28 total unique)|Possible Employers]].
-- [ ] Share meeting slideshow (on behavioural psychology) with Maicey - it was super interesting!
-- [ ] Prototype a Pokemon-like game to explore best practices for OOP in C++.
-- [ ] Check student is okay for tutoring for **on Tuesday**.
+- [ ] GO THROUGH EMAILS!!
+- [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]] - look over the projects my brother sent me, starting with [sds](C:/Users/wills/Documents/Programs%20by%20my%20brother/sds/) before looking at [acm_2](C:/Users/wills/Documents/Programs%20by%20my%20brother/acm_2/).
+- [ ] REVAMP the [research document](https://universityoflincoln.sharepoint.com/:w:/r/sites/LonestarAnalysisproject/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1bd75ae7-a90e-46e6-b382-8efa9ea7c4be%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1729869405752&web=1) to be more concise and readable. We want to focus on the competitors do, who with, etc., so that we can then come up with messages and underlying reasoning to inform adjustments to LSA's online presence.
+- [ ] Cheat sheet for differential equations, similar to [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
+- [ ] Apply to placements.
+	- [ ] Apply to [Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986).
+	- [ ] Apply to [Year In Industry - Systems Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68988).
+	- [ ] Apply to [Year In Industry – Finance](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68992).
+	- [ ] Apply to [Year In Industry - Civil Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68994).
+	- [ ] Apply to [Student Placement Software Engineer](https://targetjobs.co.uk/jobs/student-placement-software-engineer-3gpp-5g-protocol-conformance-development-156430).
+	- [ ] Apply to [Finance Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68452).
 
 ---
 ## Quest Log
@@ -43,7 +47,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 	- [ ] (*free time*) [[Programming/TypeScript/TypeScript Questline|TypeScript Questline]], for web projects.
 	- [ ] (*free time*) [[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]].
 - [ ] Miscellaneous Quests.
-	- [ ] (*a long time*) Fix/re-purpose all of my random old devices.
+	- [ ] (*a long time*) Fix/re-purpose/sell all of my random old devices.
 	- [ ] (*requires money*) Send my Fujifilm camera for [repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
 
 ---
@@ -59,16 +63,19 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 *plus 10 hours/week of exam practice*.
 
 **Actual**:
-- ...
+- Maths notes: 8 hours Monday, 4 hours Tuesday, 1 hour Wednesday
+- Enterprise project: 2 hours Monday, 2 hours Wednesday
+- Year in industry: 2 hours Wednesday
 
 ### **[[../Tutoring/Tutoring|Tutoring]]**: 10 hours/week
 
 [[../Organised/Tutoring/Content Scheduling Questline|Content Scheduling Questline]]: 6 hours/week.
 *plus 4 hours/week of tutoring and prep*.
 
-**Actual**: ...
+**Actual**:
+- 2 hours Wednesday
 
 ### **[[Programming/Programming|Programming]]**: free time
 
 **Actual**:
-- ...
+- CPP: 12 hours Tuesday
