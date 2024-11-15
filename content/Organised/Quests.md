@@ -16,15 +16,10 @@ actions:
 ---
 ## **Weekly Quests**, Week 8:  `BUTTON[select-quests]`
 
-- [ ] GO THROUGH EMAILS!!
 - [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]] - look over the projects my brother sent me, starting with [sds](C:/Users/wills/Documents/Programs%20by%20my%20brother/sds/) before looking at [acm_2](C:/Users/wills/Documents/Programs%20by%20my%20brother/acm_2/).
-- [ ] REVAMP the [research document](https://universityoflincoln.sharepoint.com/:w:/r/sites/LonestarAnalysisproject/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1bd75ae7-a90e-46e6-b382-8efa9ea7c4be%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1729869405752&web=1) to be more concise and readable. We want to focus on the competitors do, who with, etc., so that we can then come up with messages and underlying reasoning to inform adjustments to LSA's online presence.
-- [ ] Cheat sheet for differential equations, similar to [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
-- [ ] Apply to placements.
-	- [ ] Apply to [Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986).
-	- [ ] Apply to [Year In Industry - Systems Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68988).
-	- [ ] Apply to [Year In Industry – Finance](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68992).
-	- [ ] Apply to [Year In Industry - Civil Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68994).
+- [ ] Cheat sheet for differential equations, similar to [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]], based on practice tests on BlackBoard.
+- [ ] Apply to [[University of Lincoln/Year in Industry/Year in Industry#Possible Employers (5/28 total unique)|placements]].
+	- [ ] Apply to [Software Engineering Internship](https://vhr-orbis.wd3.myworkdayjobs.com/en-US/Orbis_Careers/job/London-Dorset-Square/Software-Engineering-Internship---Placement_JR324/apply/applyManually).
 	- [ ] Apply to [Student Placement Software Engineer](https://targetjobs.co.uk/jobs/student-placement-software-engineer-3gpp-5g-protocol-conformance-development-156430).
 	- [ ] Apply to [Finance Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68452).
 

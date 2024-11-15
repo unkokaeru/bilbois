@@ -4,22 +4,19 @@
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 
-## Possible Employers (5/28 total unique)
+## Possible Employers
 
-***Applied to***: Sky, DWS Group, Lockheed Martin, ...
+***Applied to***: Sky, DWS Group, Lockheed Martin, Amgen, J.P. Morgan...
 
 - [x] ==**[Data Science Placement](https://www.applybe.com/haysapply/forms/candidate/157814358/2949), by Amgen (Cambridge), 3rd November**.==
 - [x] [2025 Spring into Software Engineering](https://targetjobs.co.uk/jobs/2025-spring-software-engineering-jpmorganchase-london-145600), by J.P. Morgan (London), **3rd November**.
-- [ ] [Financial Advisory Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68986), by Lazard (London), **14th November**.
-- [ ] [Year In Industry - Systems Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68988), by National Highways (South West), **15th November**.
-- [ ] [Year In Industry – Finance](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68992), by National Highways (South West), **15th November**.
-- [ ] [Year In Industry - Civil Engineering](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68994), by National Highways (Nationwide), **15th November**.
 - [ ] [Student Placement Software Engineer - 3GPP 5G Protocol Conformance Development](https://targetjobs.co.uk/jobs/student-placement-software-engineer-3gpp-5g-protocol-conformance-development-156430), by Rohde & Schwartz (Fleet), **18th November**.
 - [ ] [Finance Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68452), by Unilever (Greater London), **19th November**.
 - [ ] [Data Science Analytics Intern](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=67950), by Expedia Group (London), **20th November**.
 - [ ] [Placement Student - Finance](https://targetjobs.co.uk/jobs/placement-student-finance-darlington-158360), by Cummins Inc (Darlington), **21st November**.
 - [ ] [Engineering & Technology Year Long Internship](https://targetjobs.co.uk/jobs/engineering-technology-year-long-internship-159134), by Rolls Royce (Bristol), **22nd November**.
 - [ ] [Junior Software Developer](https://targetjobs.co.uk/jobs/junior-software-developer-industrial-placement-manchester-160756), by bet365 (Manchester), **27th November**.
+- [ ] [Actuarial Internship](https://careers.lincoln.ac.uk/student/app/jobs/view/MG2O3), by NFU Mutual (Stratford-Upon-Avon), **27th November**.
 - [ ] [Finance - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68334), by Lockheed Martin UK (South East), **28th November**.
 - [x] [Software Engineer - 12 Month Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68336), by Lockheed Martin UK (South East), **28th November**.
 - [ ] [Financial Services Tax 12 Month Placement Programme](https://targetjobs.co.uk/jobs/financial-services-tax-12-month-placement-programme-summer-2025-152332), by Grant Thornton UK (London), **30th November**.
