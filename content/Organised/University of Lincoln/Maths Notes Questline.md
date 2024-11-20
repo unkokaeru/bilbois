@@ -1,8 +1,45 @@
-- [ ] Design a module index template.
-- [ ] Design note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining.
-- [ ] Design a question answer template.
-- [ ] Design a definition template.
-- [ ] Design a flashcard slideshow template.
-- [ ] Design a cheat sheet template.
-- [ ] Apply templates to year 1 notes for testing.
-- [ ] Apply templates to year 2 for completion.
+- [ ] Make a cheat sheet for algebraic structures, similar to [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]] and [[Bachelor of Science with Honours in Mathematics/Year 2/Differential Equations/MTH2004 Differential Equations Cheat Sheet|MTH2004 Differential Equations Cheat Sheet]].
+- [ ] Design...
+	- [ ] ... a module index template.
+	- [ ] ... note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining.
+	- [ ] ... a question answer template.
+	- [ ] ... a definition template.
+	- [ ] ... a flashcard slideshow template.
+	- [ ] ... a cheat sheet template.
+- [ ] Apply templates to... 
+	- [ ] ... year 1 notes for testing.
+	- [ ] ... year 2 for completion.
+- [ ] Estimate total grade so far:
+	- [ ] Algebraic Structures **0%**
+		- [ ] Portfolio (40%)
+			- [ ] Coursework 1 (7.5%)
+			- [ ] Coursework 2 (7.5%)
+			- [ ] Test (25%)
+		- [ ] Final Test (60%)
+	- [ ] Coding Theory **15%**
+		- [ ] Portfolio (40%)
+			- [x] Coursework (15%)
+			- [ ] Test (25%)
+		- [ ] Final Test (60%)
+	- [ ] Differential Equations **7%**
+		- [ ] Portfolio (40%)
+			- [x] Weekly Assignment 1 (2.14%)
+			- [x] Weekly Assignment 2 (2.14%)
+			- [x] Weekly Assignment 3 (2.14%)
+			- [x] Weekly Assignment 4 (2.14%)
+			- [ ] Weekly Assignment 5 (2.14%)
+			- [ ] Weekly Assignment 6 (2.14%)
+			- [ ] Weekly Assignment 7 (2.14%)
+			- [ ] Test (25%)
+		- [ ] Final Test (60%)
+	- [ ] Lagrangian and Hamiltonian Mechanics **14%**
+		- [ ] Portfolio (40%)
+			- [x] Coursework (15%)
+			- [ ] Test (25%)
+		- [ ] Final Test (60%)
+	- [ ] Scientific Computing **10%**
+		- [ ] Semester A
+			- [ ] Coursework (20%)
+			- [ ] Test (20%)
+			- [x] Logbook (10%)
+		- [ ] Semester B (50%)

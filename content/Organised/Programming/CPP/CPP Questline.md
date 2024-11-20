@@ -11,3 +11,8 @@
 - [ ] Learn new moves.
 - [ ] Evolve Coopemon at certain levels.
 - [ ] Catch other Coopemon.
+
+Look into:
+- https://github.com/idea4good/GuiLite.
+- https://github.com/bombela/backward-cpp.
+- https://github.com/gabime/spdlog.

@@ -6,11 +6,53 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>TCT Questline</title>
+    <link>https://bilbois.me/Organised/Programming/TCT/TCT-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/TCT/TCT-Questline</guid>
+    <description> Complete Phase One. Explore the existing database. Combine relevant tables together. Model relationships between tables. Fill out the attributes of each table, including contraints.</description>
+    <pubDate>Wed, 20 Nov 2024 15:26:17 GMT</pubDate>
+  </item><item>
+    <title>Comment Validator Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Comment-Validator-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Comment-Validator-Challenge</guid>
+    <description> Valid JavaScript CommentsIn JavaScript, there are two types of comments:1. Single-line comments start with // 2. Multi-line or inline comments start with /* and end with */The input will be a sequence of //, /* and */.</description>
+    <pubDate>Wed, 20 Nov 2024 14:02:24 GMT</pubDate>
+  </item><item>
+    <title>Maths Notes Questline</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
+    <description> Make a cheat sheet for algebraic structures, similar to MTH2002 Coding Theory Cheat Sheet and MTH2004 Differential Equations Cheat Sheet. Design… … a module index template.</description>
+    <pubDate>Wed, 20 Nov 2024 13:48:43 GMT</pubDate>
+  </item><item>
+    <title>FFMS Questline</title>
+    <link>https://bilbois.me/Organised/Programming/FFMS/FFMS-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/FFMS/FFMS-Questline</guid>
+    <description>Fayers Food Management System User requirements → Database design → … User requirements User Accounts: Support user creation and login, with each account having a name, food preferences, ...</description>
+    <pubDate>Wed, 20 Nov 2024 13:07:31 GMT</pubDate>
+  </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex label: Select Quests icon: &quot;&quot; hidden: true class: &quot;&quot; tooltip: &quot;&quot; id: &quot;select-quests&quot; style: default actions: - type: ...</description>
-    <pubDate>Tue, 19 Nov 2024 22:49:02 GMT</pubDate>
+    <description>questlogindex Quest Log Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. (15 hours a week) Work on TCT Questline. (50 hours a week) Complete my Bachelor of Science with Honours in Mathematics.</description>
+    <pubDate>Wed, 20 Nov 2024 13:07:24 GMT</pubDate>
+  </item><item>
+    <title>MTH2004 Differential Equations Cheat Sheet</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Differential-Equations/MTH2004-Differential-Equations-Cheat-Sheet</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Differential-Equations/MTH2004-Differential-Equations-Cheat-Sheet</guid>
+    <description>MTH2004 Differential Equations - Cheat Sheet Made by William Fayers :) Make sure to read this before the exam - I recommend completing a practice test with it so you learn where everything ...</description>
+    <pubDate>Wed, 20 Nov 2024 12:55:06 GMT</pubDate>
+  </item><item>
+    <title>Year in Industry</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
+    <description>Industry Quests Complete applications. Tidy up my LinkedIn. Refine my Boilerplate Application Statements. Possible Employers Applied to: Sky, DWS Group, Lockheed Martin, Amgen, J.P.</description>
+    <pubDate>Wed, 20 Nov 2024 12:51:45 GMT</pubDate>
+  </item><item>
+    <title>CPP Questline</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</guid>
+    <description>Challenges Coopemon Choose a starter Coopemon. Battle against random trainers. Save and load Coopemon data using JSON. Coopemon types affect each other with mutlipliers (matrix??).</description>
+    <pubDate>Tue, 19 Nov 2024 22:59:24 GMT</pubDate>
   </item><item>
     <title>Chat-2024_11_19-21_38_32</title>
     <link>https://bilbois.me/Auto-Generated/AI-Chats/Chat-2024_11_19-21_38_32</link>
@@ -23,48 +65,6 @@
     <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Academic-Deadlines-(2024-25)</guid>
     <description>All work is due at 3pm on its due date, with each full day afterwards taking away 10% of the mark, including weekends. Coursework MTH2008, Scientific Computing: Week 1 → Week 8, feedback on Week 11.</description>
     <pubDate>Tue, 19 Nov 2024 22:48:09 GMT</pubDate>
-  </item><item>
-    <title>MTH2004 Differential Equations Cheat Sheet</title>
-    <link>https://bilbois.me/Unorganised/MTH2004-Differential-Equations-Cheat-Sheet</link>
-    <guid>https://bilbois.me/Unorganised/MTH2004-Differential-Equations-Cheat-Sheet</guid>
-    <description>MTH2004 Differential Equations - Cheat Sheet Made by William Fayers :) Make sure to read this before the exam - I recommend completing a practice test with it so you learn where everything ...</description>
-    <pubDate>Tue, 19 Nov 2024 22:35:40 GMT</pubDate>
-  </item><item>
-    <title>TCT Questline</title>
-    <link>https://bilbois.me/Organised/Programming/TCT/TCT-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/TCT/TCT-Questline</guid>
-    <description> Get the insurance referenced in my contract. Explore existing database, modelling its structure (relationships → table → attributes). Review TCT Notes.</description>
-    <pubDate>Tue, 19 Nov 2024 21:35:11 GMT</pubDate>
-  </item><item>
-    <title>Drawing 2024-11-19 16.05.21.excalidraw</title>
-    <link>https://bilbois.me/Auto-Generated/Excalidraw/Drawing-2024-11-19-16.05.21.excalidraw</link>
-    <guid>https://bilbois.me/Auto-Generated/Excalidraw/Drawing-2024-11-19-16.05.21.excalidraw</guid>
-    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
-    <pubDate>Tue, 19 Nov 2024 16:09:27 GMT</pubDate>
-  </item><item>
-    <title>Tutorial Practice</title>
-    <link>https://bilbois.me/Unorganised/Tutorial-Practice</link>
-    <guid>https://bilbois.me/Unorganised/Tutorial-Practice</guid>
-    <description>y^{\prime\prime}+11y^\prime+24y=0 k^{2}+11k+24=0=(k+3)(k+8):k=-8,-3 \text{ (real distinct roots)} y=C_{1}e^{-8x}+C_{2}e^{-3x} \text{ by the principle of superposition} ...</description>
-    <pubDate>Tue, 19 Nov 2024 11:44:36 GMT</pubDate>
-  </item><item>
-    <title>Untitled 1</title>
-    <link>https://bilbois.me/Unorganised/Untitled-1</link>
-    <guid>https://bilbois.me/Unorganised/Untitled-1</guid>
-    <description>y\ln x \frac{dx}{dy}=\left(\frac{y+1}{x}\right)^{2}.</description>
-    <pubDate>Tue, 19 Nov 2024 10:50:45 GMT</pubDate>
-  </item><item>
-    <title>CPP Questline</title>
-    <link>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/CPP/CPP-Questline</guid>
-    <description>Challenges Coopemon Choose a starter Coopemon. Battle against random trainers. Save and load Coopemon data using JSON. Coopemon types affect each other with mutlipliers (matrix??).</description>
-    <pubDate>Mon, 18 Nov 2024 11:43:57 GMT</pubDate>
-  </item><item>
-    <title>Enterprise Project</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</guid>
-    <description>Initial Briefing: Enterprise Project Briefing. Enterprise Project To-Do List Should take about four hours a week, logged in the Lincoln Award Employer Project - Project Log.</description>
-    <pubDate>Mon, 18 Nov 2024 11:41:04 GMT</pubDate>
   </item>
     </channel>
   </rss>

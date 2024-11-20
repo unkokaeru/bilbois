@@ -16,6 +16,8 @@
 
 ...
 
+Look over the projects my brother sent me, starting with [sds](C:/Users/wills/Documents/Programs%20by%20my%20brother/sds/) before looking at [acm_2](C:/Users/wills/Documents/Programs%20by%20my%20brother/acm_2/).
+
 ---
 ## Tech stack
 

@@ -48,7 +48,7 @@ $$
 		1. Divide the $xy$-plane into regions separated by the critical points, e.g. for $\frac{dy}{dx}=y(a-bx)$ then three regions: $(-\infty,0)$, $(0,\frac{a}{b})$, and $(\frac{a}{b},\infty)$.
 		2. Declare each region as increasing or decreasing, i.e. $\frac{dy}{dx}<0$ is decreasing and $\frac{dy}{dx}>0$ is increasing.
 		3. The phase diagram then represents this graphically: arbitrary curves going up or down in each region. These are *asymptotic towards the critical points* (since the critical points are neither increasing or decreasing by definition).
-		   ![[../Auto-Generated/Attachments/Pasted image 20241119161040.png]]
+		   ![[../../../../../Auto-Generated/Attachments/Pasted image 20241119161040.png]]
 
 #### 3. Solving Differential Equations
 

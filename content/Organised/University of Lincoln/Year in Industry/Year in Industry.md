@@ -1,6 +1,6 @@
 ## Industry Quests
 
-- [ ] Complete two applications a day from [[#Possible Employers (5/28 total unique)|Possible Employers]].
+- [ ] Complete applications.
 - [ ] Tidy up my LinkedIn.
 - [ ] Refine my [[Boilerplate Application Statements]].
 

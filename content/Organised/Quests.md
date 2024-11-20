@@ -1,49 +1,24 @@
 #questlog #index 
-```meta-bind-button
-label: Select Quests
-icon: ""
-hidden: true
-class: ""
-tooltip: ""
-id: "select-quests"
-style: default
-actions:
-  - type: command
-    command: copilot:apply-custom-prompt
-
-```
-
----
-## **Weekly Quests**, Week 9:  `BUTTON[select-quests]`
-
-- [ ] [[Programming/TCT/TCT Questline|TCT Questline]] - model the MySQL dump.
-- [ ] [[University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|LSA Questline]] - complete my document.
-- [ ] Make a cheat sheet for algebraic structures, similar to [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]] and [[../Unorganised/MTH2004 Differential Equations Cheat Sheet|MTH2004 Differential Equations Cheat Sheet]].
-- [ ] Apply to [[University of Lincoln/Year in Industry/Year in Industry#Possible Employers (5/28 total unique)|placements]].
-	- [ ] Apply to [Student Placement Software Engineer](https://targetjobs.co.uk/jobs/student-placement-software-engineer-3gpp-5g-protocol-conformance-development-156430).
-	- [ ] Apply to [Finance Industrial Placement](https://careers.lincoln.ac.uk/student/savedJobs.html?execution=e1s1&_eventId=job&id=68452).
-
----
 ## Quest Log
 
-Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]], with quests being selected to fulfil the time requirements in *italics* for my [[#Daily Quests]].
+Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-- [ ] (*50 hours a week*) Complete my [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Bachelor of Science with Honours in Mathematics]].
-	- [ ] (*4 hours per day*) [[../Organised/University of Lincoln/Maths Notes Questline|Maths Notes Questline]].
-	- [ ] (*1 hour per day*) [[University of Lincoln/Year in Industry/Year in Industry#Industry Quests|Year in Industry Questline]].
-	- [ ] (*1 hour per weekday*) [[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|Enterprise Project Questline]].
 - [ ] (*15 hours a week*) Work on [[Programming/TCT/TCT Questline|TCT Questline]].
-- [ ] (*4 hours a week*) Build my [[../Tutoring/Tutoring|Tutoring]] business for a consistent income stream whilst helping others.
-	- [ ] (*2 hours per week*) [[../Organised/Tutoring/Content Scheduling Questline|Content Scheduling Questline]].
-	- [ ] (*2 hours*) Create some [[Tutoring/Student Diagnosis Material (first four sessions)|Student Diagnosis Material (first four sessions)]].
-- [ ] Improve my [[Programming/Programming|Programming]] skills whilst solving some of my day-to-day problems.
-	- [ ] (*free time*) [[Programming/Lua/Lua Questline|Lua Questline]], for CC: Tweaked.
-	- [ ] (*free time*) [[../Organised/Programming/Python/Python Questline|Python Questline]], for high-level projects.
-	- [ ] (*free time*) [[Programming/FFMS/FFMS Questline|FFMS Questline]], for big projects.
-		- [ ] (*free time*) Look over the projects my brother sent me, starting with [sds](C:/Users/wills/Documents/Programs%20by%20my%20brother/sds/) before looking at [acm_2](C:/Users/wills/Documents/Programs%20by%20my%20brother/acm_2/).
-	- [ ] (*free time*) [[../Organised/Programming/CPP/CPP Questline|CPP Questline]], for low-level projects.
-	- [ ] (*free time*) [[Programming/TypeScript/TypeScript Questline|TypeScript Questline]], for web projects.
-	- [ ] (*free time*) [[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]].
+- [ ] (*50 hours a week*) Complete my [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Bachelor of Science with Honours in Mathematics]].
+	- [ ] [[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|Enterprise Project Questline]].
+	- [ ] [[University of Lincoln/Year in Industry/Year in Industry|Year in Industry Questline]].
+	- [ ] [[../Organised/University of Lincoln/Maths Notes Questline|Maths Notes Questline]].
+- [ ] (*5 hours a week*) Build my [[../Tutoring/Tutoring|Tutoring]] business for a consistent income stream whilst helping others.
+	- [ ] Create some [[Tutoring/Student Diagnosis Material (first four sessions)|Student Diagnosis Material (first four sessions)]].
+	- [ ] [[../Organised/Tutoring/Content Scheduling Questline|Content Scheduling Questline]].
+- [ ] (*free time*) Improve my [[Programming/Programming|Programming]] skills whilst solving some of my day-to-day problems.
+	- [ ] [[Programming/Lua/Lua Questline|Lua Questline]], for CC: Tweaked.
+	- [ ] [[../Organised/Programming/Python/Python Questline|Python Questline]], for high-level projects.
+	- [ ] [[Programming/FFMS/FFMS Questline|FFMS Questline]], for big projects.
+	- [ ] [[../Organised/Programming/CPP/CPP Questline|CPP Questline]], for low-level projects.
+	- [ ] [[Programming/TypeScript/TypeScript Questline|TypeScript Questline]], for web projects.
+	- [ ] [[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]].
 - [ ] Miscellaneous Quests.
-	- [ ] (*a long time*) Fix/re-purpose/sell all of my random old devices.
-	- [ ] (*requires money*) Send my Fujifilm camera for [repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
+	- [ ] Fix/re-purpose/sell all of my random old devices.
+	- [ ] Send my Fujifilm camera for [repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
+	- [ ] Vacuum my room.
