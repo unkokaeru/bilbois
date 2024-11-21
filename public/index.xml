@@ -6,21 +6,27 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Quests</title>
+    <link>https://bilbois.me/Organised/Quests</link>
+    <guid>https://bilbois.me/Organised/Quests</guid>
+    <description>questlogindex Quest Log Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. (15 hours a week) Work on TCT Questline. (50 hours a week) Complete my Bachelor of Science with Honours in Mathematics.</description>
+    <pubDate>Thu, 21 Nov 2024 14:46:09 GMT</pubDate>
+  </item><item>
     <title>TCT Questline</title>
-    <link>https://bilbois.me/Organised/Programming/TCT/TCT-Questline</link>
-    <guid>https://bilbois.me/Organised/Programming/TCT/TCT-Questline</guid>
+    <link>https://bilbois.me/Private/TCT/TCT-Questline</link>
+    <guid>https://bilbois.me/Private/TCT/TCT-Questline</guid>
     <description> Complete Phase One. Explore the existing database. Make sure the new database comprehensively replaces the legacy database, emailing with TCT to check anything I’m unsure of.</description>
-    <pubDate>Thu, 21 Nov 2024 14:27:22 GMT</pubDate>
+    <pubDate>Thu, 21 Nov 2024 14:45:43 GMT</pubDate>
   </item><item>
     <title>Database Schema Documentation</title>
-    <link>https://bilbois.me/Unorganised/Database-Schema-Documentation</link>
-    <guid>https://bilbois.me/Unorganised/Database-Schema-Documentation</guid>
+    <link>https://bilbois.me/Private/TCT/Database-Schema-Documentation</link>
+    <guid>https://bilbois.me/Private/TCT/Database-Schema-Documentation</guid>
     <description>Inherited Tables Tables that are inherited by others to reduce redundancy. Auditing Common auditing fields inherited by other entities. id (primary key, converted to UUID for security in ORM).</description>
     <pubDate>Thu, 21 Nov 2024 14:00:42 GMT</pubDate>
   </item><item>
     <title>Database Schema 1</title>
-    <link>https://bilbois.me/Unorganised/Database-Schema-1</link>
-    <guid>https://bilbois.me/Unorganised/Database-Schema-1</guid>
+    <link>https://bilbois.me/Private/TCT/Database-Schema-1</link>
+    <guid>https://bilbois.me/Private/TCT/Database-Schema-1</guid>
     <description>Note: clients are parents or organisations, service users are those in receipt of services provided. Note: not normalised yet. Note: no archiving. Note: things that are highlighted are things require attention, like separation, adding, etc.</description>
     <pubDate>Thu, 21 Nov 2024 12:58:13 GMT</pubDate>
   </item><item>
@@ -31,8 +37,8 @@
     <pubDate>Thu, 21 Nov 2024 00:03:01 GMT</pubDate>
   </item><item>
     <title>Legacy Database Schema Documentation</title>
-    <link>https://bilbois.me/Unorganised/Legacy-Database-Schema-Documentation</link>
-    <guid>https://bilbois.me/Unorganised/Legacy-Database-Schema-Documentation</guid>
+    <link>https://bilbois.me/Private/TCT/Legacy-Database-Schema-Documentation</link>
+    <guid>https://bilbois.me/Private/TCT/Legacy-Database-Schema-Documentation</guid>
     <description>...</description>
     <pubDate>Wed, 20 Nov 2024 19:49:57 GMT</pubDate>
   </item><item>
@@ -47,12 +53,6 @@
     <guid>https://bilbois.me/Organised/Programming/FFMS/FFMS-Questline</guid>
     <description>Fayers Food Management System User requirements → Database design → … User requirements User Accounts: Support user creation and login, with each account having a name, food preferences, ...</description>
     <pubDate>Wed, 20 Nov 2024 13:07:31 GMT</pubDate>
-  </item><item>
-    <title>Quests</title>
-    <link>https://bilbois.me/Organised/Quests</link>
-    <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Quest Log Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. (15 hours a week) Work on TCT Questline. (50 hours a week) Complete my Bachelor of Science with Honours in Mathematics.</description>
-    <pubDate>Wed, 20 Nov 2024 13:07:24 GMT</pubDate>
   </item><item>
     <title>MTH2004 Differential Equations Cheat Sheet</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Differential-Equations/MTH2004-Differential-Equations-Cheat-Sheet</link>

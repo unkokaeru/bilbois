@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: null, // No analytics included
     locale: "en-GB",
     baseUrl: "bilbois.me",
-    ignorePatterns: [".obsidian", "Templates", "desktop.ini"],
+    ignorePatterns: [".obsidian", "Templates", "desktop.ini", "**/private"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

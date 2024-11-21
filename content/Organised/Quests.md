@@ -3,7 +3,7 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-- [ ] (*15 hours a week*) Work on [[Programming/TCT/TCT Questline|TCT Questline]].
+- [ ] (*15 hours a week*) Work on [[../Private/TCT/TCT Questline|TCT Questline]].
 - [ ] (*50 hours a week*) Complete my [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Bachelor of Science with Honours in Mathematics]].
 	- [ ] [[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#Enterprise Project To-Do List|Enterprise Project Questline]].
 	- [ ] [[University of Lincoln/Year in Industry/Year in Industry|Year in Industry Questline]].
