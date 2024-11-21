@@ -10,9 +10,9 @@
 	- [ ] ... year 1 notes for testing.
 	- [ ] ... year 2 for completion.
 - [ ] Estimate total grade so far:
-	- [ ] Algebraic Structures **0%**
+	- [ ] Algebraic Structures **7%**
 		- [ ] Portfolio (40%)
-			- [ ] Coursework 1 (7.5%)
+			- [x] Coursework 1 (7.5%)
 			- [ ] Coursework 2 (7.5%)
 			- [ ] Test (25%)
 		- [ ] Final Test (60%)

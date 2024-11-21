@@ -1,14 +1,16 @@
 
 - [ ] Complete Phase One.
 	- [ ] Explore the existing database..
-		- [ ] Combine relevant tables together.
-		- [ ] Model relationships between tables.
-		- [ ] Fill out the attributes of each table, including contraints.
-		- [ ] Normalise to Boyes-Codd Normal Form.
+		- [ ] Make sure the new database comprehensively replaces the legacy database, emailing with TCT to check anything I'm unsure of.
+		- [ ] Ensure Boyes-Codd Normal Form.
 	- [ ] Define user requirements and improve existing solutions.
 		- [ ] Look through the spreadsheets, requesting access to relevant sheets, noting possible improvements.
 		- [ ] Look into employer feedback.
 		- [ ] Collate and refine [[TCT Notes]].
+
+### Original database
+
+[[../../../Unorganised/Legacy Database Schema Documentation|Legacy Database Schema Documentation]] -> [[../../../Unorganised/Database Schema Documentation|Database Schema Documentation]].
 
 ### Hours completed
 
@@ -20,4 +22,5 @@
 
 #### Invoice 1001
 
-- Wednesday **2024-11-20**: ...
+- Wednesday **2024-11-20**: 6 hours
+- Thursday **2024-11-21**: 2 hours
