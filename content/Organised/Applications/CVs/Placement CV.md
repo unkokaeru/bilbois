@@ -9,6 +9,9 @@
 
 ## Experience
 
+**Software Developer, Two Can Talk** (*Nov 2024 - present*)
+- ...
+
 **Research Team Member, University of Lincoln** (*Oct 2024 - present*)
 - Collaborated with a multidisciplinary team of peers to complete a competitor analysis for Lone Star UK.
 - Used analytical tools and methodologies to assess key competitors, engaging in regular team meetings to share insights and develop recommendations, enhancing communication and teamwork skills.
