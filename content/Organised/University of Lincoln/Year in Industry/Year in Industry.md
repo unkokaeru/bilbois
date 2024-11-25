@@ -1,11 +1,15 @@
 ## Industry Quests
 
-- [ ] Update [[../../Applications/CVs/Placement CV|Placement CV]] with Software Development job.
 - [ ] Complete applications.
 - [ ] Tidy up my LinkedIn.
-- [ ] Refine my [[Boilerplate Application Statements]].
+- [ ] Tidy up my GitHub -> Link projects within my CV.
 
 ^todo-list-id
+
+## Application Resources
+
+- [[Boilerplate Application Statements]].
+- [[../../Applications/CVs/Placement CV|Placement CV]].
 
 ## Possible Employers
 

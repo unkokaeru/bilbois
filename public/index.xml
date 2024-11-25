@@ -6,6 +6,36 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>MTH2004 BB Working</title>
+    <link>https://bilbois.me/Unorganised/MTH2004-BB-Working</link>
+    <guid>https://bilbois.me/Unorganised/MTH2004-BB-Working</guid>
+    <description>FINAL ANSWERS: B ABC AB C y^{\prime\prime}+4y=7\sin(2x) k^{2}+4=0:k=\pm2i\implies \boxed{y_{c}=c_{1}\cos(2x)+c_{2}\sin(2x)} \begin{align*} y&amp;= Ax\sin(2x)+Bx\cos(2x)\\ ...</description>
+    <pubDate>Mon, 25 Nov 2024 10:20:54 GMT</pubDate>
+  </item><item>
+    <title>QR Art Stuff</title>
+    <link>https://bilbois.me/Private/QR-Art-Stuff</link>
+    <guid>https://bilbois.me/Private/QR-Art-Stuff</guid>
+    <description>research.swtch.com/qart.</description>
+    <pubDate>Mon, 25 Nov 2024 08:44:42 GMT</pubDate>
+  </item><item>
+    <title>Year in Industry</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
+    <description>Industry Quests Complete applications. Tidy up my LinkedIn. Tidy up my GitHub → Link projects within my CV. Application Resources Boilerplate Application Statements.</description>
+    <pubDate>Mon, 25 Nov 2024 08:38:42 GMT</pubDate>
+  </item><item>
+    <title>Quests</title>
+    <link>https://bilbois.me/Organised/Quests</link>
+    <guid>https://bilbois.me/Organised/Quests</guid>
+    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. TCT Questline (0/15 hours a week) Main goal right now is to complete the database design, as well as email the TCT team about what I’ve done so far and request access (Tuesday) to the rest of the Google Sheets.</description>
+    <pubDate>Mon, 25 Nov 2024 08:37:21 GMT</pubDate>
+  </item><item>
+    <title>Placement CV</title>
+    <link>https://bilbois.me/Organised/Applications/CVs/Placement-CV</link>
+    <guid>https://bilbois.me/Organised/Applications/CVs/Placement-CV</guid>
+    <description>William Fayers Dedicated and flexible undergraduate student seeking a placement year to apply my academic knowledge and skills in a practical environment ...</description>
+    <pubDate>Mon, 25 Nov 2024 08:35:40 GMT</pubDate>
+  </item><item>
     <title>TCT Questline</title>
     <link>https://bilbois.me/Private/TCT/TCT-Questline</link>
     <guid>https://bilbois.me/Private/TCT/TCT-Questline</guid>
@@ -30,41 +60,11 @@
     <description>erDiagram Main Entity Tables EMPLOYEE { UUID id PK Timestamp creation_date Timestamp last_update_date String username String password_hash UUID permission_level_id FK UUID ...</description>
     <pubDate>Sun, 24 Nov 2024 23:42:34 GMT</pubDate>
   </item><item>
-    <title>Quests</title>
-    <link>https://bilbois.me/Organised/Quests</link>
-    <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. TCT Questline (0/15 hours a week) Main goal right now is to complete the database design, as well as email the TCT team about what I’ve done so far and request access to the rest of the Google Sheets.</description>
-    <pubDate>Sun, 24 Nov 2024 22:41:07 GMT</pubDate>
-  </item><item>
     <title>Database Schema Documentation v3</title>
     <link>https://bilbois.me/Private/TCT/Database-Schema-Documentation-v3</link>
     <guid>https://bilbois.me/Private/TCT/Database-Schema-Documentation-v3</guid>
     <description>Table of Contents Inherited Tables. Auditing. Constant. Person. Noted. Attached. Scheduled. SpecificScheduled. TentativeScheduled. Main Entity Tables. Employee.</description>
     <pubDate>Sun, 24 Nov 2024 21:06:28 GMT</pubDate>
-  </item><item>
-    <title>Placement CV</title>
-    <link>https://bilbois.me/Organised/Applications/CVs/Placement-CV</link>
-    <guid>https://bilbois.me/Organised/Applications/CVs/Placement-CV</guid>
-    <description>William Fayers Dedicated and flexible undergraduate student seeking a placement year to apply my academic knowledge and skills in a practical environment ...</description>
-    <pubDate>Sun, 24 Nov 2024 20:51:07 GMT</pubDate>
-  </item><item>
-    <title>Tutoring</title>
-    <link>https://bilbois.me/Organised/Tutoring/Tutoring</link>
-    <guid>https://bilbois.me/Organised/Tutoring/Tutoring</guid>
-    <description>Based on my researched Pedagogy and my AbrahamMD Questline, I’ve developed material to tutor with as well as give questions and summaries. To start any student’s tutoring though, I use the following: Student Diagnosis Material (first four sessions).</description>
-    <pubDate>Sun, 24 Nov 2024 20:19:35 GMT</pubDate>
-  </item><item>
-    <title>Maths Notes Questline</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
-    <description> Make a cheat sheet for algebraic structures, similar to MTH2002 Coding Theory Cheat Sheet and MTH2004 Differential Equations Cheat Sheet. Design… … a module index template.</description>
-    <pubDate>Sun, 24 Nov 2024 20:14:59 GMT</pubDate>
-  </item><item>
-    <title>Year in Industry</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
-    <description>Industry Quests Update Placement CV with Software Development job. Complete applications. Tidy up my LinkedIn. Refine my Boilerplate Application Statements.</description>
-    <pubDate>Sun, 24 Nov 2024 20:14:46 GMT</pubDate>
   </item>
     </channel>
   </rss>

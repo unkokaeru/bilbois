@@ -10,7 +10,12 @@
 ## Experience
 
 **Software Developer, Two Can Talk** (*Nov 2024 - present*)
-- ...
+- Sole developer collaborating directly with company directors to design and implement a bespoke database and web application tailored to manage all aspects of the business operations.
+- Developed a comprehensive appointment management system, enabling efficient scheduling and resource allocation.
+- Created a user-friendly frontend interface that facilitates note-taking, employee management, and stock/resource management, enhancing overall operational efficiency.
+- Integrated analytics tools to provide insights into company data, allowing for informed decision-making and strategic planning.
+- Utilised modern web technologies and frameworks to ensure a responsive and intuitive user experience, contributing to increased user satisfaction and engagement.
+- Engaged in regular feedback sessions with stakeholders to refine features and improve functionality, demonstrating strong communication and adaptability skills.
 
 **Research Team Member, University of Lincoln** (*Oct 2024 - present*)
 - Collaborated with a multidisciplinary team of peers to complete a competitor analysis for Lone Star UK.
@@ -76,11 +81,11 @@
 ## Skills
 
 - Experienced with Microsoft Excel for data modelling and financial management.
-- Proficient in Python (and common libraries) with experience in Matlab, Maple, and Typescript, currently learning C++.
+- Proficient in Python (and common libraries) and C++, with experience in MATLAB, Maple, Typescript, Lua, and MySQL.
 - Proven capability to communicate complex information clearly and effectively.
 - Demonstrated success in group projects and high-stress team environments.
 - Ability to identify problems and develop effective solutions.
-- Praised in word of mouth referrals for excellent customer service.
+- Praised in word-of-mouth referrals for excellent customer service.
 - Demonstrated time management and self-motivation supporting academic progress.
 
 ## Interests

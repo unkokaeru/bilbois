@@ -1,9 +1,9 @@
 #questlog #index 
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
-	
+
 > [!TODO]+ [[../Private/TCT/TCT Questline|TCT Questline]] (0/15 hours a week)
-> Main goal right now is to complete the **database design**, as well as email the TCT team about what I've done so far and **request access** to the rest of the Google Sheets.
+> Main goal right now is to complete the **database design**, as well as email the TCT team about what I've done so far and **request access** (Tuesday) to the rest of the Google Sheets.
 > > [!TODO]- Extended to-do list
 > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 
@@ -13,8 +13,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > [!TODO]- Extended to-do list
 > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
 > 
-> > [!TODO]+ [[University of Lincoln/Year in Industry/Year in Industry|Year in Industry]] (0/5 hours a week)
-> > Main goal right now is to **update my CV** and **finish applications**.
+> > [!TODO]+ [[University of Lincoln/Year in Industry/Year in Industry|Year in Industry]] (1/5 hours a week)
+> > Main goal right now is to **finish applications**.
 > > > [!TODO]- Extended to-do list
 > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > 
