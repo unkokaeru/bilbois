@@ -7,8 +7,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > [!TODO]- Extended to-do list
 > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 
-> [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|BSc (Hons) Mathematics]] (0/50 hours a week)
-> > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Enterprise Project]] (0/5 hours a week)
+> [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|BSc (Hons) Mathematics]] (4/50 hours a week)
+> > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Enterprise Project]] (3/5 hours a week)
 > > Main goal right now is to finish the **research document**.
 > > > [!TODO]- Extended to-do list
 > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]

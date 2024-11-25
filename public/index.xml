@@ -6,6 +6,12 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Quests</title>
+    <link>https://bilbois.me/Organised/Quests</link>
+    <guid>https://bilbois.me/Organised/Quests</guid>
+    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. TCT Questline (0/15 hours a week) Main goal right now is to complete the database design, as well as email the TCT team about what I’ve done so far and request access (Tuesday) to the rest of the Google Sheets.</description>
+    <pubDate>Mon, 25 Nov 2024 21:04:40 GMT</pubDate>
+  </item><item>
     <title>MTH2004 BB Working</title>
     <link>https://bilbois.me/Unorganised/MTH2004-BB-Working</link>
     <guid>https://bilbois.me/Unorganised/MTH2004-BB-Working</guid>
@@ -23,12 +29,6 @@
     <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
     <description>Industry Quests Complete applications. Tidy up my LinkedIn. Tidy up my GitHub → Link projects within my CV. Application Resources Boilerplate Application Statements.</description>
     <pubDate>Mon, 25 Nov 2024 08:38:42 GMT</pubDate>
-  </item><item>
-    <title>Quests</title>
-    <link>https://bilbois.me/Organised/Quests</link>
-    <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. TCT Questline (0/15 hours a week) Main goal right now is to complete the database design, as well as email the TCT team about what I’ve done so far and request access (Tuesday) to the rest of the Google Sheets.</description>
-    <pubDate>Mon, 25 Nov 2024 08:37:21 GMT</pubDate>
   </item><item>
     <title>Placement CV</title>
     <link>https://bilbois.me/Organised/Applications/CVs/Placement-CV</link>
