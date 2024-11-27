@@ -9,62 +9,62 @@
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. TCT Questline (0/15 hours a week) Main goal right now is to complete the database design, as well as email the TCT team about what I’ve done so far and request access (Tuesday) to the rest of the Google Sheets.</description>
-    <pubDate>Mon, 25 Nov 2024 21:04:40 GMT</pubDate>
+    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. To-do today: TCT communication, start cheat sheet creation, do some applications.</description>
+    <pubDate>Wed, 27 Nov 2024 16:43:59 GMT</pubDate>
   </item><item>
-    <title>MTH2004 BB Working</title>
-    <link>https://bilbois.me/Unorganised/MTH2004-BB-Working</link>
-    <guid>https://bilbois.me/Unorganised/MTH2004-BB-Working</guid>
-    <description>FINAL ANSWERS: B ABC AB C y^{\prime\prime}+4y=7\sin(2x) k^{2}+4=0:k=\pm2i\implies \boxed{y_{c}=c_{1}\cos(2x)+c_{2}\sin(2x)} \begin{align*} y&amp;= Ax\sin(2x)+Bx\cos(2x)\\ ...</description>
-    <pubDate>Mon, 25 Nov 2024 10:20:54 GMT</pubDate>
-  </item><item>
-    <title>QR Art Stuff</title>
-    <link>https://bilbois.me/Private/QR-Art-Stuff</link>
-    <guid>https://bilbois.me/Private/QR-Art-Stuff</guid>
-    <description>research.swtch.com/qart.</description>
-    <pubDate>Mon, 25 Nov 2024 08:44:42 GMT</pubDate>
-  </item><item>
-    <title>Year in Industry</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</guid>
-    <description>Industry Quests Complete applications. Tidy up my LinkedIn. Tidy up my GitHub → Link projects within my CV. Application Resources Boilerplate Application Statements.</description>
-    <pubDate>Mon, 25 Nov 2024 08:38:42 GMT</pubDate>
-  </item><item>
-    <title>Placement CV</title>
-    <link>https://bilbois.me/Organised/Applications/CVs/Placement-CV</link>
-    <guid>https://bilbois.me/Organised/Applications/CVs/Placement-CV</guid>
-    <description>William Fayers Dedicated and flexible undergraduate student seeking a placement year to apply my academic knowledge and skills in a practical environment ...</description>
-    <pubDate>Mon, 25 Nov 2024 08:35:40 GMT</pubDate>
+    <title>Maths Notes Questline</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
+    <description> Catch up with Scientific Computing LAB8. Make a cheat sheet for algebraic structures, similar to MTH2002 Coding Theory Cheat Sheet and MTH2004 Differential Equations Cheat Sheet.</description>
+    <pubDate>Wed, 27 Nov 2024 16:42:41 GMT</pubDate>
   </item><item>
     <title>TCT Questline</title>
     <link>https://bilbois.me/Private/TCT/TCT-Questline</link>
     <guid>https://bilbois.me/Private/TCT/TCT-Questline</guid>
-    <description> Complete Phase One. Explore the existing database. Make sure the new database comprehensively replaces the legacy database, emailing with TCT to check anything I’m unsure of.</description>
-    <pubDate>Sun, 24 Nov 2024 23:54:28 GMT</pubDate>
+    <description> Complete Phase One. Refine the new database. Design a database diagram. Make sure the new database comprehensively replaces the legacy database, emailing with TCT to check anything I’m unsure of.</description>
+    <pubDate>Wed, 27 Nov 2024 15:56:01 GMT</pubDate>
   </item><item>
-    <title>Tenga CD Mermaid Code</title>
-    <link>https://bilbois.me/Private/TCT/Tenga-CD-Mermaid-Code</link>
-    <guid>https://bilbois.me/Private/TCT/Tenga-CD-Mermaid-Code</guid>
-    <description>classDiagram Main Entity Classes class Employee { String username String password_hash UUID permission_level_id UUID status_id Date status_change_date UUID role_id UUID job_title_id ...</description>
-    <pubDate>Sun, 24 Nov 2024 23:44:08 GMT</pubDate>
+    <title>Enterprise Project</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</guid>
+    <description>Initial Briefing: Enterprise Project Briefing. Enterprise Project To-Do List Should take about four hours a week, logged in the Lincoln Award Employer Project - Project Log.</description>
+    <pubDate>Wed, 27 Nov 2024 15:54:18 GMT</pubDate>
   </item><item>
-    <title>Database Schema Documentation v4</title>
-    <link>https://bilbois.me/Private/TCT/Database-Schema-Documentation-v4</link>
-    <guid>https://bilbois.me/Private/TCT/Database-Schema-Documentation-v4</guid>
-    <description>Tengu Table of Contents Inherited Tables Auditing Constant Person Noted Attached Scheduled SpecificScheduled TentativeScheduled Main Entity Tables Employee BankHoliday EmployeeQualification ...</description>
-    <pubDate>Sun, 24 Nov 2024 23:43:40 GMT</pubDate>
+    <title>Number Splitting Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Number-Splitting-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Number-Splitting-Challenge</guid>
+    <description> Splitting Up NumbersCreate a function that takes a number num and returns each place value in the number. Examples&lt;br&gt;num_split(39)&lt;br&gt;output =[30, 9]&lt;br&gt;&lt;br&gt;num_split(-434)&lt;br&gt;output = [-400, -30, -4]&lt;br&gt;&lt;br&gt;num_split(100)&lt;br&gt;output =[100, 0, 0]&lt;br&gt;.</description>
+    <pubDate>Wed, 27 Nov 2024 15:23:37 GMT</pubDate>
   </item><item>
-    <title>Tenga ERD Mermaid Code</title>
-    <link>https://bilbois.me/Private/TCT/Tenga-ERD-Mermaid-Code</link>
-    <guid>https://bilbois.me/Private/TCT/Tenga-ERD-Mermaid-Code</guid>
-    <description>erDiagram Main Entity Tables EMPLOYEE { UUID id PK Timestamp creation_date Timestamp last_update_date String username String password_hash UUID permission_level_id FK UUID ...</description>
-    <pubDate>Sun, 24 Nov 2024 23:42:34 GMT</pubDate>
+    <title>Summarise_in_a_single_concise_paragraph_for_the_intro_Faculty@20241127_115257</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Summarise_in_a_single_concise_paragraph_for_the_intro_Faculty@20241127_115257</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Summarise_in_a_single_concise_paragraph_for_the_intro_Faculty@20241127_115257</guid>
+    <description>user: Summarise in a single concise paragraph for the intro: Faculty AI: An analysis of their customers, business model, and brand messaging. … Table of Contents ​​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​​ Customers An explanation of Faculty AI’s existing customers and the customers they aim to reach.</description>
+    <pubDate>Wed, 27 Nov 2024 11:54:25 GMT</pubDate>
   </item><item>
-    <title>Database Schema Documentation v3</title>
-    <link>https://bilbois.me/Private/TCT/Database-Schema-Documentation-v3</link>
-    <guid>https://bilbois.me/Private/TCT/Database-Schema-Documentation-v3</guid>
-    <description>Table of Contents Inherited Tables. Auditing. Constant. Person. Noted. Attached. Scheduled. SpecificScheduled. TentativeScheduled. Main Entity Tables. Employee.</description>
-    <pubDate>Sun, 24 Nov 2024 21:06:28 GMT</pubDate>
+    <title>Brand Canvas.excalidraw</title>
+    <link>https://bilbois.me/Auto-Generated/Excalidraw/Brand-Canvas.excalidraw</link>
+    <guid>https://bilbois.me/Auto-Generated/Excalidraw/Brand-Canvas.excalidraw</guid>
+    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
+    <pubDate>Wed, 27 Nov 2024 10:56:11 GMT</pubDate>
+  </item><item>
+    <title>Rotation_matrix_for_a_2d_cartesian_around_a_point@20241126_164017</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Rotation_matrix_for_a_2d_cartesian_around_a_point@20241126_164017</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Rotation_matrix_for_a_2d_cartesian_around_a_point@20241126_164017</guid>
+    <description>user: Rotation matrix for a 2d cartesian around a point [Timestamp: 2024/11/26 16:40:17] ai: To create a rotation matrix for a 2D Cartesian coordinate system around a specific point ...</description>
+    <pubDate>Tue, 26 Nov 2024 17:36:40 GMT</pubDate>
+  </item><item>
+    <title>What_is_a_3x3_rotation_matrix_that_rotates_clockwise@20241126_160501</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/What_is_a_3x3_rotation_matrix_that_rotates_clockwise@20241126_160501</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/What_is_a_3x3_rotation_matrix_that_rotates_clockwise@20241126_160501</guid>
+    <description>user: What is a 3x3 rotation matrix that rotates clockwise [Timestamp: 2024/11/26 16:05:01] ai: A 3x3 rotation matrix that rotates a vector in 3D space can be defined around one of ...</description>
+    <pubDate>Tue, 26 Nov 2024 16:40:06 GMT</pubDate>
+  </item><item>
+    <title>Can_you_help_me_figure_out_Faculty_AI&#039;s_revenue_streams@20241126_101858</title>
+    <link>https://bilbois.me/Auto-Generated/AI-Chats/Can_you_help_me_figure_out_Faculty_AI's_revenue_streams@20241126_101858</link>
+    <guid>https://bilbois.me/Auto-Generated/AI-Chats/Can_you_help_me_figure_out_Faculty_AI's_revenue_streams@20241126_101858</guid>
+    <description>user: Can you help me figure out “Faculty AI“‘s revenue streams and how much they charge for products/services? Feel free to ask as much as you want [Timestamp: 2024/11/26 10:18:58] ...</description>
+    <pubDate>Tue, 26 Nov 2024 16:04:20 GMT</pubDate>
   </item>
     </channel>
   </rss>

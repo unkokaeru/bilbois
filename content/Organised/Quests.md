@@ -2,14 +2,15 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-> [!TODO]+ [[../Private/TCT/TCT Questline|TCT Questline]] (0/15 hours a week)
-> Main goal right now is to complete the **database design**, as well as email the TCT team about what I've done so far and **request access** (Tuesday) to the rest of the Google Sheets.
+**To-do today**: TCT communication, start cheat sheet creation, do some applications.
+
+> [!TODO]+ [[../Private/TCT/TCT Questline|TCT Questline]] (3/15 hours a week)
+> Make sure to respond to emails and look into implementing the "Contact Us" form. Email scanned DBS check.
 > > [!TODO]- Extended to-do list
 > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 
 > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|BSc (Hons) Mathematics]] (4/50 hours a week)
-> > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Enterprise Project]] (3/5 hours a week)
-> > Main goal right now is to finish the **research document**.
+> > [!TODO]- [[University of Lincoln/Enterprise Project/Enterprise Project|Enterprise Project]] (5/5 hours a week)
 > > > [!TODO]- Extended to-do list
 > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
 > 
@@ -23,7 +24,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > [!TODO]- Extended to-do list
 > > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
 
-> [!TODO]- [[Tutoring/Tutoring|Tutoring]] (0/5 hours a week)
+> [!TODO]- [[Tutoring/Tutoring|Tutoring]] (3/5 hours a week)
 > > [!TODO]- Extended to-do list
 > > ![[Tutoring/Tutoring#^todo-list-id]]
 

@@ -1,3 +1,4 @@
+- [ ] Catch up with Scientific Computing LAB8.
 - [ ] Make a cheat sheet for algebraic structures, similar to [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]] and [[Bachelor of Science with Honours in Mathematics/Year 2/Differential Equations/MTH2004 Differential Equations Cheat Sheet|MTH2004 Differential Equations Cheat Sheet]].
 - [ ] Design...
 	- [ ] ... a module index template.
