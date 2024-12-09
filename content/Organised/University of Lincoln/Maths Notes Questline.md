@@ -1,5 +1,4 @@
-- [ ] Catch up with Scientific Computing LAB8.
-- [ ] Make a cheat sheet for Lagrangian and Hamiltonian Mechanics.
+
 - [ ] Design...
 	- [ ] ... a module index template.
 	- [ ] ... note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining.
@@ -13,37 +12,37 @@
 
 ^todo-list-id
 
-- [ ] Estimate total grade so far:
+- [ ] Estimate total grade so far: **23.2%** average
 	- [ ] Algebraic Structures **7%**
 		- [ ] Portfolio (40%)
 			- [x] Coursework 1 (7.5%)
 			- [ ] Coursework 2 (7.5%)
 			- [ ] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Coding Theory **15%**
-		- [ ] Portfolio (40%)
+	- [ ] Coding Theory **35%**
+		- [x] Portfolio (40%)
 			- [x] Coursework (15%)
-			- [ ] Test (25%)
+			- [x] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Differential Equations **7%**
-		- [ ] Portfolio (40%)
+	- [ ] Differential Equations **35%**
+		- [x] Portfolio (40%)
 			- [x] Weekly Assignment 1 (2.14%)
 			- [x] Weekly Assignment 2 (2.14%)
 			- [x] Weekly Assignment 3 (2.14%)
 			- [x] Weekly Assignment 4 (2.14%)
-			- [ ] Weekly Assignment 5 (2.14%)
-			- [ ] Weekly Assignment 6 (2.14%)
-			- [ ] Weekly Assignment 7 (2.14%)
-			- [ ] Test (25%)
+			- [x] Weekly Assignment 5 (2.14%)
+			- [x] Weekly Assignment 6 (2.14%)
+			- [x] Weekly Assignment 7 (2.14%)
+			- [x] Test (25%)
 		- [ ] Final Test (60%)
 	- [ ] Lagrangian and Hamiltonian Mechanics **14%**
 		- [ ] Portfolio (40%)
 			- [x] Coursework (15%)
 			- [ ] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Scientific Computing **10%**
+	- [ ] Scientific Computing **29%**
 		- [ ] Semester A
-			- [ ] Coursework (20%)
+			- [x] Coursework (20%)
 			- [ ] Test (20%)
 			- [x] Logbook (10%)
 		- [ ] Semester B (50%)

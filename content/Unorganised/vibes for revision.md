@@ -1,0 +1,10 @@
+- Complete lecture notes.
+- Complete problem sheets.
+- Collect mock papers.
+- Prime notes.
+- Condense notes: all definitions/theorems, important examples/proofs.
+- Write questions (about 50-100).
+- Micro-test based on summarised notes and questions.
+- Complete all problem sheets without notes, marked with model solutions.
+- Complete a timed mock paper.
+- Repeat steps for weak areas -> sit another mock paper -> repeat until all mock papers are complete.

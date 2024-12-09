@@ -1,0 +1,1 @@
+Write a table of contents for {activeNote} using a nested markdown bullet-point list and hyperlinks in the form [[#header-one]].

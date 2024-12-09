@@ -8,6 +8,5 @@
 ## Bigger bits
 
 - [ ] Raspberry Pi 5 - self-host photos/cloud storage.
-- [ ] E-ink display with microcontroller - home assistant display.
 - [ ] Phillips Hue Bridge + more lights (lamp??).
 - [ ] Smart plugs.

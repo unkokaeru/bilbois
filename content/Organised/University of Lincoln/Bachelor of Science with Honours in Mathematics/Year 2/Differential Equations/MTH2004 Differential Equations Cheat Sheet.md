@@ -15,6 +15,21 @@ $$
 $$
 \int (u) dv=uv-\int (v) du\quad\text{(integration by parts)}
 $$
+$$
+\begin{align*}
+\text{Existence and Uniqueness Theorem: }f(x,y),\frac{\partial f}{\partial y}\text{ are continuous in a region}\\
+\implies \text{unique solution throughout that region, subject to initial conditions.}
+\end{align*}
+$$
+$$
+\begin{align*}
+&\text{odd functions: }f(-x)=-f(x)\quad \text{(rotational symmetry)}\\
+&\text{even functions: }f(-x)=f(x)\quad \text{(reflective symmetry)}
+\end{align*}
+$$
+$$
+\text{a point of discontinuity is modelled as the average of its left/right limits}
+$$
 
 #### 1. Classification of Differential Equations
 
@@ -23,8 +38,9 @@ $$
 2. **Linearity**:
 	1. **Linear**: Can be expressed in the form $a_n(x)y^{(n)} + a_{n-1}(x)y^{(n-1)} + \ldots + a_1(x)y' + a_0(x)y = g(x)$.
 	2. **Non-linear**: Contains products (or powers) of the function, or its derivatives.
-3. **Constant Coefficients**: Coefficients of the derivatives are constants.
-	1. Example: $y'' + 5y' + 6y = 0$.
+3. **Constant vs. Non-Constant Coefficients**:
+	1. **Constant**: Coefficients of the DE are constants, e.g. $y^{\prime\prime}+3y^{\prime}+4y=0$.
+	2. **Cauchy-Euler**: Coefficients of the DE aren't constant and are in the form $ax^{2}y^{\prime\prime}+bxy^{\prime}+cy=0$.
 4. **Ordinary vs. Partial**:
 	1. **Ordinary Differential Equations (ODEs)**: Involves functions of a single variable and their derivatives.
 	2. **Partial Differential Equations (PDEs)**: Involves functions of multiple variables and their partial derivatives.
@@ -66,49 +82,36 @@ $$
 	2. If separable...
 		1. Rearrange to isolate each variable, i.e. $\frac{1}{g(y)}dy = f(x)dx$ which is equivalent to $\int\frac{1}{g(y)}dy = \int f(x)dx$.
 4. **Second-Order Solutions**:
-	1. If constant coefficients, then the solution is given by the sum of the complimentary and particular functions.
-		1. Complimentary function, $y_{c}$, focuses on the left-side of the equation...
-			1. By assuming $y=e^{kx}$, find **characteristic equation** by substituting into original equation $y$: $y^{\prime}=ke^{kx}$ and $y^{\prime\prime}=k^{2}e^{kx}$.
-			2. After simplifying, left with a quadratic in $k$: solve.
-			3. Final **complimentary function** $y_{c}$ is the sum of solutions using the **principle of superposition**:
-				1. **Repeated** values of $k$: multiply one solution by $x$, i.e. $y_{c}=y_{1}+xy_{1}$.
-				2. **Distinct** values of $k$: sum two solutions, i.e. $y_{c}=y_{1}+y_{2}$.
-				3. If **complex** conjugates such that $k=R\pm iQ$ then $y_{c}=e^{Rx}(c_{1}\cos(Qx)+c_{2}\sin(Qx))$, a simplification of distinct values.
-		2. Particular function, $y_{p}$, focuses on the right-side of the equation...
-			1. Form of solution is the same as the equation given, i.e.
-				1. **Polynomial**: $\text{RHS}=a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{1}x+a_{0}$ gives $y_{p}=Ax^{n}+Bx^{n-1}+\ldots+Cx+D$.
-				2. **Exponential**: $\text{RHS}=e^{kx}$ gives $y_{p}=Ae^{kx}$.
-				3. **Sine and Cosine**: $\text{RHS}=a_{1}\sin(kx)+a_{2}\cos(kx)$ gives $y_{p}=A\sin(kx)+B\cos(kx)$.
-				4. **Other Functions**: $\text{RHS}=f(x)$ gives $y_{p}=Af(x)$, considering the domain, or just use **variation of parameters**.
-				5. **Combination**: Sum of all cases present.
-				6. ==**IMPORTANT NOTE**: If similar terms on both sides of original equation $y$, then multiply by factors of $x$ until distinct to ensure linear independence==.
-			2. Differentiate the assumed $y_{p}$ to give $y^{\prime}$ and $y^{\prime\prime}$ and substitute into original $y$.
-			3. Compare coefficients of powers of $x$ between substituted equation and assumed $y_{p}$ to form simultaneous equations, solved with Gauss-Jordan elimination.
-		3. Find, simplifying if possible, $y=y_{c}+y_{p}$ as the final solution.
-	2. If non-constant coefficients, then the solution can only be found with **variation of parameters**...
-		1. Complimentary function, $y_{c}$, focuses on the left-side of the equation...
-			1. Solutions should be given, unless in the form $ax^{2} \frac{d^{2}x}{dy^{2}}+bx \frac{dy}{dx}+cy=\ldots$, a **Cauchy-Euler equation**.
-			2. By assuming $y=x^{m}$, find **characteristic equation** by substituting into original equation $y$: $y^{\prime}=mx^{m-1}$ and $y^{\prime\prime}=m(m-1)x^{m-2}$.
-			2. After simplifying, left with a quadratic in $m$: solve.
-			3. Final **complimentary function** $y_{c}$ is the sum of solutions using the **principle of superposition**:
-				1. **Repeated** values of $m$: multiply one solution by $\ln x$, i.e. $y_{c}=y_{1}+y_{1}\ln x$.
-				2. **Distinct** values of $m$: sum two solutions, i.e. $y_{c}=y_{1}+y_{2}$.
-				3. If **complex** conjugates such that $m=R\pm iQ$ then $y_{c}=x^{R}(c_{1}\cos(Q\ln x)+c_{2}\sin(Q\ln x))$, a simplification of distinct values.
-		2. Particular function, $y_{p}$, focuses on the right-side of the equation...
-			1. Ensure equation in standard form $f(x)=\text{RHS}$, if Cauchy-Euler then $f(x)=\frac{\text{RHS}}{x^{2}}$.
-			2. First find the **Wronskian** $W=W(y_{1},y_{2})=y_{1}y_{2}^{\prime} - y_{2}y_{1}^{\prime}$ using $y_{1}$, $y_{2}$ from finding $y_{c}$.
-			3. Then find the variable parameters $u_{1}=-\int\frac{y_{2}f(x)}{W}$ and $u_{2}=\int\frac{y_{1}f(x)}{W}$.
-			4. Thus particular solution $y_{p}=u_{1}y_{1}+u_{2}y_{2}$. *Note: this can be used instead of undetermined coefficients, too, i.e. if a confusing function*.
-		3. Find, simplifying if possible, $y=y_{c}+y_{p}$ as the final solution.
+	1. Given the form $a(x)\frac{d^{2}x}{dy^{2}}+b(x)\frac{dy}{dx}+c(x)y=f(x)$, then the solution $y=y_{c}+y_{p}$ (the sum of the complementary function and particular function).
+		1. The complimentary function, $y_{c}$, focuses on the left side of the equation...
+			1. By assuming a solution for $y$ and substituting into the original equation, we find the **characteristic equation**.
+				1. For $a(x)=a$, $b(x)=b$, and $c(x)=c$, assume $y=e^{kx}:y^{\prime}=ke^{kx}, y^{\prime\prime}=k^{2}e^{kx}$.
+				2. For $a(x)=ax^{2}$, $b(x)=bx$, and $c(x)=c$, assume $y=x^{m}:y^{\prime}=mx^{m-1}, y^{\prime\prime}=m(m-1)x^{m-2}$.
+			2. After simplifying, given that $e^{kx}$ and $x^{m}$ cannot be $0$, solve the resulting quadratic for $x$ or $m$.
+				1. If there's a repeated solution, we can use **reduction of order** to find $y_{2}$. In short, $y_{2}=y_{1} \int \frac{e^{-\int \frac{b(x)}{a(x)} dx}}{y_{1}^{2}}dx$, i.e...
+					1. ... if $y_{1}=e^{kx}$, then $y_{2}=xe^{kx}$.
+					2. ... if $y_{1}=x^{m}$, then $y_{2}=x^{m}\ln x$.
+				2. If there are complex conjugate solutions, we can use **Euler's formula** to simplify the solutions: $$\begin{align*}e^{kx}&= e^{(\alpha+i\beta)x}\\&= e^{\alpha x}e^{i\beta x}:e^{i\beta x}=\cos (\beta x)+i\sin (\beta x)\quad\text{(Euler's formula)}\\&= e^{\alpha x}(\cos (\beta x)+i\sin (\beta x))\end{align*}$$
+			3. Using the **principle of superposition** (the sum of solutions is another solution), find $y_{c}=y_{1}+y_{2}$.
+		2. The particular solution, $y_{p}$, focuses on the right side of the equation, such that $y^{\prime\prime}$ has a coefficient of $1$ (standard form)...
+			1. **Trivial**: If $\text{RHS}=0$, $y_{p}=0$.
+			2. **Simple**: If $\text{RHS}$ is in the form of a polynomial ($Ax^{n}+Bx^{n-1}+\ldots+Cx+D$), exponential ($Ae^{kx}$), sine/cosine ($A\sin(kx)+B\cos(kx)$), or a combination of these, use **undetermined coefficients**...
+				1. Assume $y_{p}$ to have the same generic form. Multiply terms by $x$ if they're multiples of terms in the original equation, to ensure linear independence.
+				2. Differentiate the assumed $y_{p}$ to give $y^{\prime}$ and $y^{\prime\prime}$ to substitute into $\text{LHS}$.
+				3. Compare against the assumed $y_{p}$, equating coefficients to make a system of equations.
+				5. Solve the system using **Gauss-Jordan elimination**, or another method.
+			3. **Non-Periodic**: If $\text{RHS}$ is in a more complicated form and non-periodic, use **variation of parameters**...
+				1. Find the **Wronskian** $W=W(y_{1},y_{2})=y_{1}y_{2}^{\prime} - y_{2}y_{1}^{\prime}$, where $y_{1},y_{2}$ are from the complementary function.
+				2. Find the variable parameters, $u_{1}=-\int\frac{y_{2}f(x)}{W}$ and $u_{2}=\int\frac{y_{1}f(x)}{W}$, given that $f(x)=\text{RHS}$.
+				3. Find the linear combination of variable parameters and complementary solutions, $y_{p}=u_{1}y_{1}+u_{2}y_{2}$.
+			4. **Periodic**: If $\text{RHS}$ is in a more complicated form and periodic, use a **Fourier series**:
+				1. For $f(x)=\text{RHS}$ defined on $[-L,L]$, $\text{RHS}$ can be transformed into periodic functions depending on its symmetry:
+					1. **Even function**: $f(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty}a_{n}\cos \frac{n\pi x}{L}$, where $a_{n}= \frac{2}{p}\int_{0}^{L}f(x)\cos \frac{n\pi x}{L}dx$.
+					2. **Odd function**: $f(x) = \sum\limits_{n=1}^{\infty}b_{n}\sin \frac{n\pi x}{L}$, where $a_{n}= \frac{2}{p}\int_{0}^{L}f(x)\sin \frac{n\pi x}{L}dx$.
+					3. **Neither**: Sum as if it is even and odd, modifying the integrals to evaluate $[-L,L]$, *rather than doubling $[0,L]$*, since there's no symmetry.
+				2. Find the solution as with a "simple sine/cosine" with **undetermined coefficients**.
+			5. ...
 
-#### 4. Validity of Solutions
-
-1. **Existence and Uniqueness Theorem**:
-	1. If $f(x, y)$ and $\frac{\partial f}{\partial y}$ are continuous in a region, then there exists a unique solution through any point in that region.
-2. **Interval of Validity**:
-	1. The solution is valid in an interval where the coefficients of the DE are continuous and the initial conditions are satisfied.
-3. **Singular Points**:
-	1. Points where the DE or its coefficients are not defined can limit the validity of solutions.
 
 ## Simple Sudoku
 

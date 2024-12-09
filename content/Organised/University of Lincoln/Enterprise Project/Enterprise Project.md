@@ -3,7 +3,6 @@
 ## Enterprise Project To-Do List
 *Should take about **four hours a week**, logged in the [[../../../Auto-Generated/Attachments/Lincoln Award Employer Project - Project Log.docx|Lincoln Award Employer Project - Project Log]]*.
 
-- [ ] Plan a meeting to define next steps.
 - [ ] Plan the report (containing actionable advice for improvement, i.e. content, messaging, explanation, and backed by data).
 - [ ] Design the slideshow and plan dates.
 
