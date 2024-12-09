@@ -2,10 +2,6 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-**Note**: I should extend this quest log with "Languages, chess, and calisthenics? Craft? Painting? Writing? Rubik's Cube? Sudoku? Minesweeper? Minecraft?".
-
----
-
 > [!TODO]+ Quests (5/40 scheduled hours a week)
 > > [!TODO]- [[../Private/TCT/TCT Questline|TCT Questline]] (0/15 hours a week)
 > > Currently, I should work on prototype a contact form on a demo WordPress site to integrate with a custom database with the same structure as the SQL dump I was given, **asap**.
