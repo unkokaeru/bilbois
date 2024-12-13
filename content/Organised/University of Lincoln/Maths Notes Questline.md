@@ -12,12 +12,12 @@
 
 ^todo-list-id
 
-- [ ] Estimate total grade so far: **23.2%** average
-	- [ ] Algebraic Structures **7%**
+- [ ] Estimate total grade so far: **28.2%** average
+	- [ ] Algebraic Structures **32%**
 		- [ ] Portfolio (40%)
 			- [x] Coursework 1 (7.5%)
 			- [ ] Coursework 2 (7.5%)
-			- [ ] Test (25%)
+			- [x] Test (25%)
 		- [ ] Final Test (60%)
 	- [ ] Coding Theory **35%**
 		- [x] Portfolio (40%)

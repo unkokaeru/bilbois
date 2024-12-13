@@ -2,14 +2,14 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-> [!TODO]+ Quests (5/40 scheduled hours a week)
+> [!TODO]+ Quests (0/40 scheduled hours a week)
 > > [!TODO]- [[../Private/TCT/TCT Questline|TCT Questline]] (0/15 hours a week)
 > > Currently, I should work on prototype a contact form on a demo WordPress site to integrate with a custom database with the same structure as the SQL dump I was given, **asap**.
 > > I should also work on the database design diagram.
 > > > [!TODO]- Extended to-do list
 > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > 
-> > [!TODO]- [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|BSc (Hons) Mathematics]] (5/20 hours a week)
+> > [!TODO]- [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|BSc (Hons) Mathematics]] (0/20 hours a week)
 > > > [!TODO]- [[University of Lincoln/Enterprise Project/Enterprise Project|Enterprise Project]] (0/5 hours a week)
 > > > Refine/complete the report and finish designing the slideshow!
 > > > > [!TODO]- Extended to-do list
@@ -20,7 +20,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > > 
-> > > [!TODO]- [[University of Lincoln/Maths Notes Questline]] (5/10 hours a week)
+> > > [!TODO]- [[University of Lincoln/Maths Notes Questline]] (0/10 hours a week)
 > > > **Note**: Reduced total hours from 40 to 10 over the holiday period; [[vibes for revision]].
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
@@ -74,3 +74,23 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > >
 > > > [!TODO]- Minecraft (free time)
 
+---
+
+> [!Note]
+> The code block below is a button I use to sync and build my vault notes with Quartz. It may look like random code here, but it helps keep everything updated in my workspace.
+
+```meta-bind-button
+label: Sync Quartz
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: command
+    command: python-scripter:run-sync_quartz.py
+
+```
+
+---
