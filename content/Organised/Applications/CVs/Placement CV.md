@@ -18,7 +18,7 @@
 - Engaged in regular feedback sessions with stakeholders to refine features and improve functionality, demonstrating strong communication and adaptability skills.
 
 **Research Team Member, University of Lincoln** (*Oct 2024 - present*)
-- Collaborated with a multidisciplinary team of peers to complete a competitor analysis for Lone Star UK.
+- Managed and collaborated with a multidisciplinary team of peers to complete a competitor analysis for **Lone Star UK**.
 - Used analytical tools and methodologies to assess key competitors, engaging in regular team meetings to share insights and develop recommendations, enhancing communication and teamwork skills.
 - Presented findings to stakeholders, demonstrating public speaking and presentation abilities while receiving feedback for continuous improvement.
 
@@ -58,7 +58,7 @@
 ## Projects
 
 - **Blankslate**: Starts any Python project with best practices, including a CI pipeline that performs code linting, tests, automatically generates documentation, and builds installable projects with Poetry. Used in all of my projects.
-  *Technologies used: GitHub Actions, [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Python, Bash*
+  *Technologies used: GitHub Actions, [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Python, Bash*.
 - **QR Code Generator**: Developed to learn QR code mechanics; innovated to generate QR codes with patterns matching images.
   *Technologies used: GitHub, Python.*
 - **Note and Flashcard Generator**: Generates complete notes, flashcards, and practice questions for any mathematical topic; expanded for tutoring students.
@@ -81,7 +81,7 @@
 ## Skills
 
 - Experienced with Microsoft Excel for data modelling and financial management.
-- Proficient in Python (and common libraries) and C++, with experience in MATLAB, Maple, Typescript, Lua, and MySQL.
+- Proficient in Python (and common libraries) and C++, with experience in MATLAB, Maple, Typescript, Lua, PHP, and MySQL.
 - Proven capability to communicate complex information clearly and effectively.
 - Demonstrated success in group projects and high-stress team environments.
 - Ability to identify problems and develop effective solutions.

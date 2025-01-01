@@ -12,19 +12,19 @@
 
 ^todo-list-id
 
-- [ ] Estimate total grade so far: **28.2%** average
-	- [ ] Algebraic Structures **32%**
+- [ ] Estimate total grade so far: **32.2%** average (*93.4% predicted*)
+	- [ ] Algebraic Structures **32%** (*99% predicted*)
 		- [ ] Portfolio (40%)
 			- [x] Coursework 1 (7.5%)
 			- [ ] Coursework 2 (7.5%)
 			- [x] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Coding Theory **35%**
+	- [ ] Coding Theory **35%** (*88% predicted*)
 		- [x] Portfolio (40%)
 			- [x] Coursework (15%)
 			- [x] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Differential Equations **35%**
+	- [ ] Differential Equations **35%** (*88% predicted*)
 		- [x] Portfolio (40%)
 			- [x] Weekly Assignment 1 (2.14%)
 			- [x] Weekly Assignment 2 (2.14%)
@@ -35,14 +35,14 @@
 			- [x] Weekly Assignment 7 (2.14%)
 			- [x] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Lagrangian and Hamiltonian Mechanics **14%**
+	- [ ] Lagrangian and Hamiltonian Mechanics **14%** (*94% predicted*)
 		- [ ] Portfolio (40%)
 			- [x] Coursework (15%)
 			- [ ] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Scientific Computing **29%**
-		- [ ] Semester A
+	- [ ] Scientific Computing **49%** (*98% predicted*)
+		- [x] Semester A
 			- [x] Coursework (20%)
-			- [ ] Test (20%)
+			- [x] Test (20%)
 			- [x] Logbook (10%)
 		- [ ] Semester B (50%)
