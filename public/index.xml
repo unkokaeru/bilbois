@@ -9,20 +9,32 @@
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. Quests (0/70 hours) Professional (0/30 hours) Professional Identity (0/5 hours) Extended to-do list Year-in-Industry#^todo-list-id Full-Stack Software Development (0/15 hours) Develop/integrate contact form(s), design management system(s).</description>
-    <pubDate>Wed, 01 Jan 2025 20:07:32 GMT</pubDate>
+    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. Suggested Active Quests: Complete presentation design/structure.</description>
+    <pubDate>Thu, 02 Jan 2025 17:36:57 GMT</pubDate>
+  </item><item>
+    <title>Maths Notes Questline</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
+    <description> Modify templates to use #card and :: syntax for automatic Anki flashcard generation under headers/inline. Design… … a module index template. … note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining.</description>
+    <pubDate>Thu, 02 Jan 2025 16:52:13 GMT</pubDate>
+  </item><item>
+    <title>Format Checker Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Format-Checker-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Format-Checker-Challenge</guid>
+    <description>...</description>
+    <pubDate>Wed, 01 Jan 2025 20:12:01 GMT</pubDate>
+  </item><item>
+    <title>Colour Inversion Challenge</title>
+    <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Colour-Inversion-Challenge</link>
+    <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Colour-Inversion-Challenge</guid>
+    <description>...</description>
+    <pubDate>Wed, 01 Jan 2025 20:11:11 GMT</pubDate>
   </item><item>
     <title>TCT Questline</title>
     <link>https://bilbois.me/Private/TCT/TCT-Questline</link>
     <guid>https://bilbois.me/Private/TCT/TCT-Questline</guid>
     <description>To-do Do contact form stuff: Wordpress AND Squarespace?? Do spreadsheet stuff. Do organisation stuff. Do database stuff. Design a database diagram (in Excalidraw).</description>
     <pubDate>Wed, 01 Jan 2025 19:39:49 GMT</pubDate>
-  </item><item>
-    <title>Maths Notes Questline</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
-    <description> Design… … a module index template. … note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining. … a question answer template. … a definition template.</description>
-    <pubDate>Fri, 20 Dec 2024 16:55:53 GMT</pubDate>
   </item><item>
     <title>Enterprise Project</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Enterprise-Project/Enterprise-Project</link>
@@ -53,18 +65,6 @@
     <guid>https://bilbois.me/Unorganised/vibes-for-revision</guid>
     <description> Complete lecture notes. Complete problem sheets. Collect mock papers. Prime notes. Condense notes: all definitions/theorems, important examples/proofs. Write questions (about 50-100).</description>
     <pubDate>Mon, 09 Dec 2024 20:35:20 GMT</pubDate>
-  </item><item>
-    <title>2024-12-09</title>
-    <link>https://bilbois.me/Daily-Notes/2024-12-09</link>
-    <guid>https://bilbois.me/Daily-Notes/2024-12-09</guid>
-    <description>Day Planner 07:00 Wake up, get ready 08:00 - 11:00 Prep for MTH2008 Portfolio test Completed Tasks ….</description>
-    <pubDate>Mon, 09 Dec 2024 20:13:47 GMT</pubDate>
-  </item><item>
-    <title>MTH2007 Lagrangian Mechanics Cheat Sheet</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet</guid>
-    <description>MTH2007 Lagrangian Mechanics - Cheat Sheet Made by William Fayers :) This all makes a lot more sense if you read and use it before the exam (it’s organised fairly logically though) - ...</description>
-    <pubDate>Fri, 06 Dec 2024 08:51:24 GMT</pubDate>
   </item>
     </channel>
   </rss>

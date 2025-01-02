@@ -1,4 +1,5 @@
 
+- [ ] Modify templates to use `#card` and `::` syntax for automatic Anki flashcard generation under headers/inline.
 - [ ] Design...
 	- [ ] ... a module index template.
 	- [ ] ... note templates: pre-lecture/priming, lecture/questioning, post-lecture/refining.

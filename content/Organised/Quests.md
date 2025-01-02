@@ -2,6 +2,14 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
+**Suggested Active Quests**:
+- Complete presentation design/structure.
+- Create contact forms within existing plugin.
+- Update LinkedIn profile.
+- Write a to-do list of GitHub repo updates to make.
+- Complete outstanding award tasks.
+- Finish/re-create AbrahamMD.
+
 > [!TODO]+ Quests (0/70 hours)
 > > [!TODO]+ Professional (0/30 hours)
 > > > [!TODO]+ Professional Identity (0/5 hours)
@@ -15,7 +23,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
 > > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (0/5 hours)
-> > > Complete final presentation and award tasks.
+> > > Complete final presentation (with me, Ahmad, Andrea, Chi, Cameron, Ethan, Georgina, and Jack) and outstanding award tasks (project log and reflection).
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
 > >
