@@ -10,6 +10,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 - Complete outstanding award tasks.
 - Finish/re-create AbrahamMD.
 
+
 > [!TODO]+ Quests (0/70 hours)
 > > [!TODO]+ Professional (0/30 hours)
 > > > [!TODO]+ Professional Identity (0/5 hours)
@@ -18,12 +19,12 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
 > > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (0/15 hours)
-> > > Develop/integrate contact form(s), design management system(s).
+> > > Develop/integrate contact form(s), design management system(s). ALSO, ensure my WP plugin works distinctly for different forms.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
 > > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (0/5 hours)
-> > > Complete final presentation (with me, Ahmad, Andrea, Chi, Cameron, Ethan, Georgina, and Jack) and outstanding award tasks (project log and reflection).
+> > > Complete my presentation slide(s)/script and outstanding award tasks (project log and reflection).
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
 > >

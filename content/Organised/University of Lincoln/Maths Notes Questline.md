@@ -13,7 +13,7 @@
 
 ^todo-list-id
 
-- [ ] Estimate total grade so far: **32.2%** average (*93.4% predicted*)
+- [ ] Estimate total grade so far: **35.2%** average (*91.4% predicted*)
 	- [ ] Algebraic Structures **32%** (*99% predicted*)
 		- [ ] Portfolio (40%)
 			- [x] Coursework 1 (7.5%)
@@ -36,10 +36,10 @@
 			- [x] Weekly Assignment 7 (2.14%)
 			- [x] Test (25%)
 		- [ ] Final Test (60%)
-	- [ ] Lagrangian and Hamiltonian Mechanics **14%** (*94% predicted*)
-		- [ ] Portfolio (40%)
+	- [ ] Lagrangian and Hamiltonian Mechanics **33%** (*83% predicted*)
+		- [x] Portfolio (40%)
 			- [x] Coursework (15%)
-			- [ ] Test (25%)
+			- [x] Test (25%)
 		- [ ] Final Test (60%)
 	- [ ] Scientific Computing **49%** (*98% predicted*)
 		- [x] Semester A
