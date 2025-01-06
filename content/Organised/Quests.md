@@ -3,18 +3,17 @@
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
 **Suggested Active Quests**:
-- Complete presentation design/structure.
-- Create contact forms within existing plugin.
-- Update LinkedIn profile.
+- Finish contact forms ([[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]]) within existing plugin: configure in `wp-config` and make it work with OpenVPN.
+- Revise for Coding Theory by completing [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/Coding Theory Mock 1|Coding Theory Mock 1]] and updating [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
 - Write a to-do list of GitHub repo updates to make.
-- Complete outstanding award tasks.
+- Update LinkedIn profile.
 - Finish/re-create AbrahamMD.
 
 
-> [!TODO]+ Quests (0/70 hours)
+> [!TODO]+ Quests (2/70 hours)
 > > [!TODO]+ Professional (0/30 hours)
 > > > [!TODO]+ Professional Identity (0/5 hours)
-> > > Tidy up LinkedIn profile and GitHub repositories.
+> > > Tidy up LinkedIn profile and GitHub repositories. Organise my taxes, too.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
@@ -23,8 +22,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
-> > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (0/5 hours)
-> > > Complete my presentation slide(s)/script and outstanding award tasks (project log and reflection).
+> > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (1/5 hours)
+> > > Complete the presentation with my group.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
 > >
@@ -33,8 +32,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
-> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (0/40 hours)
-> > Psst, these are my [[vibes for revision]]. Also, split this section into each active module?
+> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (1/40 hours)
+> > Psst, these are my [[vibes for revision]].
 > > > [!TODO]- Extended to-do list
 > > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
 >
