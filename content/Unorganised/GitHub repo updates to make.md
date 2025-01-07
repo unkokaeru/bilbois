@@ -1,0 +1,31 @@
+> [!TODO] To-do Flow
+> Rename repositories -> Combine repositories -> Standardise repository structure -> Test repositories -> Create issues for repositories for bugs and missing features.
+
+- Note taking within Obsidian
+	- Publishing
+		- [ ] `bilbois` - my digital garden.
+		- [ ] `lincoln-logbook` - my logbook for university C++ modules, *rename to **kion*** and combine with .`lincoln-labs` (my first year of labs).
+	- Writing
+		- [ ] `morning-briefing-generation` - *rename to **izanagi***.
+		- Abraham Project
+			- [ ] `logbookgenerator` - generates university logbooks from C++ code and minimal config, *rename to **onso***.
+			- [ ] `abrahammarkdown` - generates university module resources, *rename to **kirokusha*** and combine with `abraham-md`.
+	- Plugins
+		- [ ] `obsidian-formatter` - converts clipboard to KaTeX, *rename to **henku***.
+		- [ ] `pgn2json` - converts Chess.com PGNs to Obsidian plugin JSONs, **add its functionality into a fork of the plugin it's for**.
+- Project starting
+	- Blankslate Project
+		- [ ] `pythonblankslate` - a Python project starter, combine with `blankslate` and `unimdgen`, *rename to **hakushi***.
+		- [ ] `blankslate-extension-pack` - a VS Code extension pack, *rename to **hitsugu***.
+- Games (or related)
+	- [ ] `coopemon` - a Pokemon-like game built with C++ for Object-Oriented Programming practice.
+	- [ ] `minesweeper` - a recreation of Minesweeper, *rename to **tanrai***.
+	- [ ] `dailies` - a collection of daily games, inspired by NYT Games, *rename to **yuugibako***.
+	- [ ] `sudoku-test` - a sudoku engine, *rename to **sudokuki***.
+	- [ ] `chess-mini-me` - a chess engine, *rename to **chesuki***
+	- [ ] `willow` - a Lua library for CC: Tweaked, *rename to **yanagi***.
+- Utility projects
+	- [ ] `anormalratingsystem` - rate a set of data with a normal distribution based with binary comparisons.
+	- [ ] `thejourneyplanner` - plan car journeys, *rename back to **journeyplanner***.
+- Challenges
+	- [ ] `challenges` - a collection of challenges, *rename to **shiren*** and combine with `ascii-generator` and `project-euler-solutions`.

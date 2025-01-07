@@ -3,32 +3,29 @@
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
 **Suggested Active Quests**:
-- Finish contact forms ([[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]]) within existing plugin: configure in `wp-config` and make it work with OpenVPN.
+- Finish contact forms ([[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]]) within existing plugin: configure in `wp-config` and make it work with the existing database ([[../Private/TCT/contact form stuff|contact form stuff]] - VPN, API, SSH????).
 - Revise for Coding Theory by completing [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/Coding Theory Mock 1|Coding Theory Mock 1]] and updating [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
-- Write a to-do list of GitHub repo updates to make.
-- Update LinkedIn profile.
-- Finish/re-create AbrahamMD.
+- Complete [[GitHub repo updates to make]].
+- Complete [[LinkedIn profile updates to make]].
 
-
-> [!TODO]+ Quests (2/70 hours)
-> > [!TODO]+ Professional (0/30 hours)
-> > > [!TODO]+ Professional Identity (0/5 hours)
+> [!TODO]+ Quests (7/70 hours)
+> > [!TODO]+ Professional (6/30 hours)
+> > > [!TODO]+ Professional Identity (2/5 hours)
 > > > Tidy up LinkedIn profile and GitHub repositories. Organise my taxes, too.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
-> > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (0/15 hours)
-> > > Develop/integrate contact form(s), design management system(s). ALSO, ensure my WP plugin works distinctly for different forms.
+> > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (1/15 hours)
+> > > Develop/integrate contact form(s), design management system(s).
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
-> > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (1/5 hours)
-> > > Complete the presentation with my group.
+> > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (3/5 hours)
+> > > Complete presentation slides.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
 > >
-> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (0/5 hours)
-> > > Make some student diagnosis material.
+> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (1/5 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
