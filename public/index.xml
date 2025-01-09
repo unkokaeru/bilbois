@@ -9,8 +9,26 @@
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. Suggested Active Quests: Finish contact forms (TCT Form Breakdowns) within existing plugin: configure in wp-config and make it work with the existing database (contact form stuff - VPN, API, SSH????).</description>
-    <pubDate>Tue, 07 Jan 2025 17:01:41 GMT</pubDate>
+    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. Quests (30/70 hours) Professional (17/25 hours) Professional Identity (2/5 hours) GitHub repo updates to make and LinkedIn profile updates to make.</description>
+    <pubDate>Thu, 09 Jan 2025 00:11:29 GMT</pubDate>
+  </item><item>
+    <title>2024-12-02</title>
+    <link>https://bilbois.me/Daily-Notes/2024-12-02</link>
+    <guid>https://bilbois.me/Daily-Notes/2024-12-02</guid>
+    <description>Last day with Maicey D: (she’s not dead, she’s just going home again - 12 days until I see her again!) Also, Edinburgh train booking?? Day Planner 08:00 - 09:00 Enterprise Project - COMPLETED ...</description>
+    <pubDate>Thu, 09 Jan 2025 00:05:17 GMT</pubDate>
+  </item><item>
+    <title>Coding Theory Mock 1</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/Coding-Theory-Mock-1</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/Coding-Theory-Mock-1</guid>
+    <description>Question 1 Let C be binary linear code with the following generator matrix… G=\begin{bmatrix}1 &amp; 1 &amp; 1 &amp; 1 &amp; 0 \\ 1 &amp; 0 &amp; 1 &amp; 0 &amp; 1\end{bmatrix} Question ...</description>
+    <pubDate>Thu, 09 Jan 2025 00:03:37 GMT</pubDate>
+  </item><item>
+    <title>MTH2002 Coding Theory Cheat Sheet</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/MTH2002-Coding-Theory-Cheat-Sheet</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/MTH2002-Coding-Theory-Cheat-Sheet</guid>
+    <description>MTH2002 Coding Theory - Cheat Sheet Made by William Fayers :) Make sure to read this before the exam - I recommend completing a practice test with it so you learn where everything is and ...</description>
+    <pubDate>Thu, 09 Jan 2025 00:01:05 GMT</pubDate>
   </item><item>
     <title>LinkedIn profile updates to make</title>
     <link>https://bilbois.me/Unorganised/LinkedIn-profile-updates-to-make</link>
@@ -30,18 +48,6 @@
     <description>SECTION ONE: Reflection on Project Experience My group met the objectives well, following the structured phase approach. We familiarised ourselves with LSA during the kick-off phase before identifying some competitors to focus our research on: we wanted to document competitors (and LSA) comprehensively so that we could easily compare the documents and see what LSA is missing from the market standard, as well as how to stand out.</description>
     <pubDate>Mon, 06 Jan 2025 22:05:25 GMT</pubDate>
   </item><item>
-    <title>MTH2002 Coding Theory Cheat Sheet</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/MTH2002-Coding-Theory-Cheat-Sheet</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/MTH2002-Coding-Theory-Cheat-Sheet</guid>
-    <description>MTH2002 Coding Theory - Cheat Sheet Made by William Fayers :) Make sure to read this before the exam - I recommend completing a practice test with it so you learn where everything is and ...</description>
-    <pubDate>Mon, 06 Jan 2025 21:44:29 GMT</pubDate>
-  </item><item>
-    <title>Coding Theory Mock 1</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/Coding-Theory-Mock-1</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Coding-Theory/Coding-Theory-Mock-1</guid>
-    <description>Question 1 Let C be binary linear code with the following generator matrix… G=\begin{bmatrix}1 &amp; 1 &amp; 1 &amp; 1 &amp; 0 \\ 1 &amp; 0 &amp; 1 &amp; 0 &amp; 1\end{bmatrix} Question ...</description>
-    <pubDate>Mon, 06 Jan 2025 09:58:10 GMT</pubDate>
-  </item><item>
     <title>Maths Notes Questline</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</link>
     <guid>https://bilbois.me/Organised/University-of-Lincoln/Maths-Notes-Questline</guid>
@@ -59,12 +65,6 @@
     <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Format-Checker-Challenge</guid>
     <description>...</description>
     <pubDate>Wed, 01 Jan 2025 20:12:01 GMT</pubDate>
-  </item><item>
-    <title>Colour Inversion Challenge</title>
-    <link>https://bilbois.me/Organised/Programming/CPP/Challenges/Colour-Inversion-Challenge</link>
-    <guid>https://bilbois.me/Organised/Programming/CPP/Challenges/Colour-Inversion-Challenge</guid>
-    <description>...</description>
-    <pubDate>Wed, 01 Jan 2025 20:11:11 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -2,35 +2,26 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-**Suggested Active Quests**:
-- Finish contact forms ([[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]]) within existing plugin: configure in `wp-config` and make it work with the existing database ([[../Private/TCT/contact form stuff|contact form stuff]] - VPN, API, SSH????).
-- Revise for Coding Theory by completing [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/Coding Theory Mock 1|Coding Theory Mock 1]] and updating [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
-- Complete [[GitHub repo updates to make]].
-- Complete [[LinkedIn profile updates to make]].
-
-> [!TODO]+ Quests (7/70 hours)
-> > [!TODO]+ Professional (6/30 hours)
-> > > [!TODO]+ Professional Identity (2/5 hours)
-> > > Tidy up LinkedIn profile and GitHub repositories. Organise my taxes, too.
+> [!TODO]+ Quests (30/70 hours)
+> > [!TODO]+ Professional (17/25 hours)
+> > > [!TODO]- Professional Identity (2/5 hours)
+> > > Complete [[../Unorganised/GitHub repo updates to make|GitHub repo updates to make]] and [[../Unorganised/LinkedIn profile updates to make|LinkedIn profile updates to make]]. Organise my taxes, too.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
-> > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (1/15 hours)
-> > > Develop/integrate contact form(s), design management system(s).
+> > > [!TODO]- [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (10/15 hours)
+> > > Develop/integrate contact form(s) - [[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]] and [[../Private/TCT/contact form stuff|contact form stuff]] (maybe SSH to configure VPN?) -, design management system(s).
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
-> > > [!TODO]+ [[University of Lincoln/Enterprise Project/Enterprise Project|Research Project]] (3/5 hours)
-> > > Complete presentation slides.
-> > > > [!TODO]- Extended to-do list
-> > > > ![[../Organised/University of Lincoln/Enterprise Project/Enterprise Project#^todo-list-id]]
-> >
-> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (1/5 hours)
+> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (5/5 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
-> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (1/40 hours)
+> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (18/45 hours)
 > > Psst, these are my [[vibes for revision]].
+> > Revise for Coding Theory by completing [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/Coding Theory Mock 1|Coding Theory Mock 1]] and updating [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
+> > **Note**: research project included in hours for this week, hence temporarily 45 instead of 40 hours.
 > > > [!TODO]- Extended to-do list
 > > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
 >

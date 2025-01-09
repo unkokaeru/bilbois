@@ -94,6 +94,9 @@
      1. $n$: Length of codewords, found as the number of columns in $G$.
      2. $k$: Dimension of the code, found with $k=\log_{q}(M)$ (or the following Quick Subspace Theorem).
      3. $d$: Minimum distance of the code, found by generating and processing.
+	     1. Write all possible message words (length $n$ using the alphabet given).
+	     2. Multiply them with $G$ (*original, not row-echelon!*) to find all codewords.
+	     3. Calculate the Hamming distance between all combinations, then find the minimum.
    2. The dimension $k$ can be found using the **Quick Subspace Theorem**:
      1. If $G$ is in row-echelon form, the number of non-zero rows gives $k$ (the dimension).
      2. This corresponds to the **rank** of the matrix.
@@ -114,6 +117,7 @@
    1. Used to detect single-bit errors and sometimes correct them.
    2. Found using the relationship: $G \cdot H^{T} = 0$.
    3. If the generator matrix $G$ is in the **standard form**: $G = \begin{bmatrix} I_{k} | P \end{bmatrix}$, then the parity-check matrix $H$ can be quickly found as: $H = \begin{bmatrix} -P^{T} | I_{n-k} \end{bmatrix}$.
+	   1. Note: $P^{T}$ is the transpose, basically swapping elements along the leading diagonal. If not square, then $a\times b\rightarrow b\times a$.
    4. In binary codes, the negative sign can be omitted, because of the modular arithmetic.
 
 ## Simple Sudoku
