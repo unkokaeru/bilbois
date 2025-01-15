@@ -31,3 +31,6 @@ $$
 P(\text{undetected error})=\sum\limits_{i=1}^{n}A_{i}p^{i}(1-p)^{n-i}
 $$
 
+$$
+p^{5}-3p^{4}+2p^{3}
+$$

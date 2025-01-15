@@ -19,3 +19,11 @@ Most people think of a cold showers as a test of endurance similar to that of an
 ---
 
 **Cool child names**: Otto, Evelyn, Tio.
+
+---
+
+"What some call peace could hurt others" type vibe.
+
+---
+
+**Cool dog names**: Bailey (hey bales), Max, Peanut (Mr. Peanut Butter), Beef.

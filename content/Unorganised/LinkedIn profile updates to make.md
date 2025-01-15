@@ -1,9 +1,9 @@
 
-- [ ] Update skills
-- [ ] Update education
-- [ ] Update experience
-- [ ] Update about
-- [ ] Update one-liner
-- [ ] Update profile photo
-- [ ] Verify account
-- [ ] Make connections
+- [x] Update skills
+- [x] Update education
+- [x] Update experience
+- [x] Update about
+- [x] Update one-liner
+- [x] Update profile photo
+- [x] Verify account
+- [x] Make connections

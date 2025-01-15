@@ -17,7 +17,7 @@
 - Utilised modern web technologies and frameworks to ensure a responsive and intuitive user experience, contributing to increased user satisfaction and engagement.
 - Engaged in regular feedback sessions with stakeholders to refine features and improve functionality, demonstrating strong communication and adaptability skills.
 
-**Research Team Member, University of Lincoln** (*Oct 2024 - present*)
+**Research Team Member, University of Lincoln** (*Oct 2024 - Jan 2025*)
 - Managed and collaborated with a multidisciplinary team of peers to complete a competitor analysis for **Lone Star UK**.
 - Used analytical tools and methodologies to assess key competitors, engaging in regular team meetings to share insights and develop recommendations, enhancing communication and teamwork skills.
 - Presented findings to stakeholders, demonstrating public speaking and presentation abilities while receiving feedback for continuous improvement.

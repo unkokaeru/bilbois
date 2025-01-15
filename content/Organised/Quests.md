@@ -2,26 +2,24 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-> [!TODO]+ Quests (30/70 hours)
-> > [!TODO]+ Professional (17/25 hours)
-> > > [!TODO]- Professional Identity (2/5 hours)
-> > > Complete [[../Unorganised/GitHub repo updates to make|GitHub repo updates to make]] and [[../Unorganised/LinkedIn profile updates to make|LinkedIn profile updates to make]]. Organise my taxes, too.
+> [!TODO]+ Quests (0/70 hours)
+> > [!TODO]+ Professional (0/25 hours)
+> > > [!TODO]+ Professional Identity (0/5 hours)
+> > > Complete [[../Unorganised/GitHub repo updates to make|GitHub repo updates to make]]. Organise my taxes, too.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
-> > > [!TODO]- [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (10/15 hours)
+> > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (0/15 hours)
 > > > Develop/integrate contact form(s) - [[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]] and [[../Private/TCT/contact form stuff|contact form stuff]] (maybe SSH to configure VPN?) -, design management system(s).
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
-> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (5/5 hours)
+> > > [!TODO]+ [[Tutoring/Tutoring|Tutoring]] (0/5 hours)
+> > > Make pages for each of my students.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
-> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (18/45 hours)
-> > Psst, these are my [[vibes for revision]].
-> > Revise for Coding Theory by completing [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/Coding Theory Mock 1|Coding Theory Mock 1]] and updating [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Coding Theory/MTH2002 Coding Theory Cheat Sheet|MTH2002 Coding Theory Cheat Sheet]].
-> > **Note**: research project included in hours for this week, hence temporarily 45 instead of 40 hours.
+> > [!TODO]- [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (0/40 hours)
 > > > [!TODO]- Extended to-do list
 > > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
 >
@@ -52,10 +50,10 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > > [!TODO]- Extended to-do list
 > > > > > ![[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]]
 > >
-> > > [!TODO]- Language
+> > > [!TODO]+ Language
 > > > WaniKani???
 > >
-> > > [!TODO]- [[Hobbies/Chess/Chess|Chess]]
+> > > [!TODO]+ [[Hobbies/Chess/Chess|Chess]]
 > > > Practice [[Hobbies/Chess/Chess Games/Chess Games|Chess Games]], learn [[Hobbies/Chess/Chess Openings/Chess Openings|Chess Openings]], etc.
 > >
 > > > [!TODO]+ Other
@@ -63,6 +61,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > - Learn some sudoku techniques.
 > > > - Hack my brother's ComputerCraft door.
 > > > - Send film off to Analogue Wonderland.
+> > > - Make an aesthetic schedule sheet to print off (minoxidil, BOJ, berries, etc.)
+> > > - Make some document/slideshow templates, focusing on the Helvetica font.
 
 ---
 
