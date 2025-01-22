@@ -2,7 +2,7 @@
 
 - [ ] Complete applications.
 - [ ] Tidy up my LinkedIn.
-- [ ] Tidy up my GitHub -> Link projects within my CV.
+- [ ] Tidy up my GitHub ([[../../../Unorganised/GitHub repo updates to make|GitHub repo updates to make]]) -> Link projects within my CV.
 
 ^todo-list-id
 

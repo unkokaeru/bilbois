@@ -1,3 +1,15 @@
+
+```
+Go over answers for the mechanics midterm Q2a/b
+
+Hamiltonians
+Oscillations: Frequencies, period of motion, eigenfrequencies, etc.
+Poisson bracket of angular momentum
+
+
+(Weeks 10-12)
+```
+
 ## **MTH2007** Lagrangian Mechanics - Cheat Sheet
 
 > [!TIP] Made by William Fayers :)

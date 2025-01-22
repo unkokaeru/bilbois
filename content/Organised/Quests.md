@@ -2,20 +2,27 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
+**Under Development**: [[Morning Routine]].
+
+**RE-WRITE TCT NOTES AND PLAN/DESIGN EVERYTHING NICELY**!!!!
+
+**WRITE THE [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Lagrangian and Hamiltonian Mechanics/MTH2007 Lagrangian Mechanics Cheat Sheet|MECHANICS CHEAT SHEET]]**!!!!!
+
+**DO MY QUESTS**!!!!!!!!!!!!!! E.g. complete complex analysis week 1 work.
+
 > [!TODO]+ Quests (0/70 hours)
 > > [!TODO]+ Professional (0/25 hours)
 > > > [!TODO]+ Professional Identity (0/5 hours)
-> > > Complete [[../Unorganised/GitHub repo updates to make|GitHub repo updates to make]]. Organise my taxes, too.
+> > > Taxes???
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
-> > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (0/15 hours)
-> > > Develop/integrate contact form(s) - [[../Private/TCT/TCT Form Breakdowns|TCT Form Breakdowns]] and [[../Private/TCT/contact form stuff|contact form stuff]] (maybe SSH to configure VPN?) -, design management system(s).
+> > > [!TODO]- [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (0/15 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
 > > > [!TODO]+ [[Tutoring/Tutoring|Tutoring]] (0/5 hours)
-> > > Make pages for each of my students.
+> > > Make pages for each of my students??
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
@@ -50,10 +57,9 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > > [!TODO]- Extended to-do list
 > > > > > ![[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]]
 > >
-> > > [!TODO]+ Language
-> > > WaniKani???
+> > > [!TODO]- Language
 > >
-> > > [!TODO]+ [[Hobbies/Chess/Chess|Chess]]
+> > > [!TODO]- [[Hobbies/Chess/Chess|Chess]]
 > > > Practice [[Hobbies/Chess/Chess Games/Chess Games|Chess Games]], learn [[Hobbies/Chess/Chess Openings/Chess Openings|Chess Openings]], etc.
 > >
 > > > [!TODO]+ Other
@@ -61,7 +67,6 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > - Learn some sudoku techniques.
 > > > - Hack my brother's ComputerCraft door.
 > > > - Send film off to Analogue Wonderland.
-> > > - Make an aesthetic schedule sheet to print off (minoxidil, BOJ, berries, etc.)
 > > > - Make some document/slideshow templates, focusing on the Helvetica font.
 
 ---
