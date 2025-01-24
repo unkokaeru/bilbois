@@ -1,14 +1,8 @@
+## To add...
 
-```
-Go over answers for the mechanics midterm Q2a/b
-
-Hamiltonians
-Oscillations: Frequencies, period of motion, eigenfrequencies, etc.
-Poisson bracket of angular momentum
-
-
-(Weeks 10-12)
-```
+- Hamiltonians
+- Oscillations: Frequencies, period of motion, eigenfrequencies, etc.
+- Poisson brackets (of angular momentum)
 
 ## **MTH2007** Lagrangian Mechanics - Cheat Sheet
 
@@ -29,7 +23,7 @@ Poisson bracket of angular momentum
 	- $\cos a + \cos b = 2\cos\left(\frac{a + b}{2}\right)\cos\left(\frac{a - b}{2}\right)$,
 	- $\sin\theta \approx \theta:\theta \ll 1$,
 	- $\cos\theta \approx 1 - \frac{\theta^2}{2}:\theta\ll1$.
-- A **Matrix Transpose**, $M^{T}$, is defined as flipping the elements of a matrix over its diagonal: $(M^{T})_{ij} = M_{ji}$.
+- A **Matrix Transpose**, $M^{T}$, is defined as flipping the elements of a matrix over its diagonal: $(M^{T})_{ij} = M_{ji}$, i.e. rows become columns.
 
 ### The Harder Bits
 
@@ -208,7 +202,3 @@ Combining these leads to the **radial dynamics** $\ddot{r} = \frac{L^2}{\mu^2 r^
 Solve for **orbits** by **substituting** $u= \frac{1}{r}$ to get $\frac{d^2u}{d\theta^2} + u = \frac{F(1/u)}{L^2 \mu^2 u^2}$, basically **converting** the radial equation to a form solvable for $\theta$.
 
 An example is an orbit with **gravitational potential** (a Keplerian Orbit): $\frac{d^2u}{d\theta^2} + u = \frac{G(m_1 + m_2)}{L^2}$ with solution $u(\theta) = \frac{G M}{L^2} \left[ 1 + e \cos(\theta - \theta_0) \right]$ such that the orbit is elliptical if $e < 1$, parabolic if $e=1$, and $e\gt1$ hyperbolic. Circular if $e=0$.
-
-### Sudoku
-
-![[../../../../../Auto-Generated/Attachments/Sudokus/Sudoku Ui7YMsLvyAQ3AfMa5bCFt.png]]

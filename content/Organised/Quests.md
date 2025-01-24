@@ -2,13 +2,11 @@
 
 Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Zeigarnik Effect|Zeigarnik Effect]].
 
-**Under Development**: [[Morning Routine]].
+**Under Development**: [[../Unorganised/Routines]].
 
 **RE-WRITE TCT NOTES AND PLAN/DESIGN EVERYTHING NICELY**!!!!
 
-**WRITE THE [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Lagrangian and Hamiltonian Mechanics/MTH2007 Lagrangian Mechanics Cheat Sheet|MECHANICS CHEAT SHEET]]**!!!!!
-
-**DO MY QUESTS**!!!!!!!!!!!!!! E.g. complete complex analysis week 1 work.
+**DO MY QUESTS**!!!!!!!!!!!!!! E.g. complete complex analysis week 1 work.  
 
 > [!TODO]+ Quests (0/70 hours)
 > > [!TODO]+ Professional (0/25 hours)
@@ -64,9 +62,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > >
 > > > [!TODO]+ Other
 > > > - Rubik's Cube time under one minute.
-> > > - Learn some sudoku techniques.
 > > > - Hack my brother's ComputerCraft door.
-> > > - Send film off to Analogue Wonderland.
+> > > - Send film off to Analogue Wonderland or look at the new film shop.
 > > > - Make some document/slideshow templates, focusing on the Helvetica font.
 
 ---

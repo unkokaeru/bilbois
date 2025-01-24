@@ -372,7 +372,7 @@
     <lastmod>2024-10-28T09:40:20.032Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/Quests</loc>
-    <lastmod>2025-01-22T12:08:51.900Z</lastmod>
+    <lastmod>2025-01-23T23:32:49.299Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/Random-Thoughts</loc>
     <lastmod>2025-01-15T19:00:29.311Z</lastmod>
@@ -587,8 +587,11 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/Lectures/Lagrangian-and-Hamiltonian-Mechanics-Week-1</loc>
     <lastmod>2024-10-09T08:10:24.916Z</lastmod>
   </url><url>
-    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet</loc>
-    <lastmod>2025-01-21T23:01:18.589Z</lastmod>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet-DRAFT-ONE</loc>
+    <lastmod>2025-01-22T12:32:43.823Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet-DRAFT-TWO</loc>
+    <lastmod>2025-01-23T12:58:51.409Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Scientific-Computing/LABS/LAB1</loc>
     <lastmod>2024-10-28T19:49:00.813Z</lastmod>
@@ -722,14 +725,242 @@
     <loc>https://bilbois.me/Unorganised/GitHub-repo-updates-to-make</loc>
     <lastmod>2025-01-07T16:53:23.835Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Dot-Product,-Angle,-Length</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Examples-of-Matrix-Elimination-to-Solve-a-System</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Gauss-Jordan-Elimination</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Gaussian-Elimination</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/MTH1004-Linear-Algebra</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-1</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-2</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-3</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-4</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-5</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-6</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-7</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Practical-Class-8</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Tutorial-Class-1</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Tutorial-Class-2</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Tutorial-Class-3</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Tutorial-Class-4</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Tutorial-Class-5</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/classes/MTH1004-Linear-Algebra-Tutorial-Class-6</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Angle-between-Vectors</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Basis-Vectors</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Change-of-Basis-Matrix</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Dot-Product</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Eigenspaces</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Eigenvalue-Equation</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Gaussian-Elimination</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Inverse-Matrix</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Linear-Maps</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Magnitude-and-Direction</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Matrix-Addition-and-Subtraction</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Matrix-Form</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Matrix-Multiplication</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Orthogonal-Bases</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Properties-of-Orthogonal-Matrices</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Quadratic-Forms</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Rank-of-a-Matrix</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Space-Dimension</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Systems-of-Equations</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Vector-Length</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Vector-Operations</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Vector-Representation</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/notes/Vector-Space-Properties</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/revision/MTH1004-Linear-Algebra-Flashcards</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/revision/MTH1004-Linear-Algebra-Question-Based-Revision</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/summaries/MTH1004-Linear-Algebra-Practice-Tests</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/summaries/MTH1004-Linear-Algebra-Summary-Notes</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Generated-Linear-Algebra/summaries/MTH1004-Linear-Algebra-Summary-Questions</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Higher-Dimension-Vector-Span-(Example)</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Cheat-Sheet-(AI-GENERATED)</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Cheat-Sheet</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Mid-Term-Prediction-(Cheat-Sheet)</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Mid-Term-Prediction-(Solutions)</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Mid-Term-Prediction-2</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Mid-Term-Prediction</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Practical-Class,-Week-19</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Practical-Class,-Week-20</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Practical-Class,-Week-21</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Practical-Class,-Week-22</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Practical-Class,-Week-23</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Question-Based-Revision</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Summary-Notes</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Summary-Questions</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Topics-Patterns</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Tutorial-Class,-Week-20</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Tutorial-Class,-Week-21</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Tutorial-Class,-Week-22</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra-Tutorial-Class,-Week-23</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Linear-Algebra</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Methods-and-Applications</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Midterm-Problem-Example-(Linear-Algebra)</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Operations-and-Rank-in-Matrices</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Vector-Span-in-Higher-Dimensions</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/Vectors-in-Two-Dimensions</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/linearly-dependent</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/linearly-independent</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Linear-Algebra/standard-formula</loc>
+    <lastmod>2024-05-04T18:43:57.000Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Unorganised/LinkedIn-profile-updates-to-make</loc>
     <lastmod>2025-01-10T11:23:26.166Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Unorganised/MTH2004-BB-Working</loc>
     <lastmod>2024-11-25T10:20:54.222Z</lastmod>
   </url><url>
-    <loc>https://bilbois.me/Unorganised/Morning-Routine</loc>
-    <lastmod>2025-01-20T22:59:00.830Z</lastmod>
+    <loc>https://bilbois.me/Unorganised/Routines</loc>
+    <lastmod>2025-01-23T23:32:46.583Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Unorganised/Tutorial-Practice</loc>
     <lastmod>2024-11-19T11:44:36.804Z</lastmod>
@@ -742,6 +973,9 @@
   </url><url>
     <loc>https://bilbois.me/Unorganised/Untitled</loc>
     <lastmod>2024-11-11T16:10:08.571Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Unorganised/Zac-Linear-Algebra</loc>
+    <lastmod>2025-01-24T20:42:23.727Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Unorganised/vibes-for-revision</loc>
     <lastmod>2024-12-09T20:35:20.756Z</lastmod>

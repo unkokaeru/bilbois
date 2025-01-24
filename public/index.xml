@@ -6,11 +6,35 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Zac Linear Algebra</title>
+    <link>https://bilbois.me/Unorganised/Zac-Linear-Algebra</link>
+    <guid>https://bilbois.me/Unorganised/Zac-Linear-Algebra</guid>
+    <description>Heyo, I revived this from my old notes system last year, so will just live links below to all the different bits: MTH1004 Linear Algebra.</description>
+    <pubDate>Fri, 24 Jan 2025 20:42:23 GMT</pubDate>
+  </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
-    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. Under Development: Morning Routine. RE-WRITE TCT NOTES AND PLAN/DESIGN EVERYTHING NICELY!!!! WRITE THE MECHANICS CHEAT SHEET!!!!! DO MY QUESTS!!!!!!!!!!!!!! E.g.</description>
-    <pubDate>Wed, 22 Jan 2025 12:08:51 GMT</pubDate>
+    <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. Under Development: Routines. RE-WRITE TCT NOTES AND PLAN/DESIGN EVERYTHING NICELY!!!! DO MY QUESTS!!!!!!!!!!!!!! E.g.</description>
+    <pubDate>Thu, 23 Jan 2025 23:32:49 GMT</pubDate>
+  </item><item>
+    <title>Routines</title>
+    <link>https://bilbois.me/Unorganised/Routines</link>
+    <guid>https://bilbois.me/Unorganised/Routines</guid>
+    <description>Morning Routine Approx. 60-90 mins. 1. Scalp Care Massage minoxidil into scalp (let absorb 30+ mins pre-shower). 2. Hydration Drink a glass of water. 3. Movement &amp; Mindfulness 15-20 min yoga, ending in savasana (focus on breathwork).</description>
+    <pubDate>Thu, 23 Jan 2025 23:32:46 GMT</pubDate>
+  </item><item>
+    <title>MTH2007 Lagrangian Mechanics Cheat Sheet DRAFT TWO</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet-DRAFT-TWO</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet-DRAFT-TWO</guid>
+    <description>MTH2007 Lagrangian Mechanics - Cheat Sheet Made by William Fayers :) Make sure to read this before the exam - I recommend completing a practice test with it so you learn where everything ...</description>
+    <pubDate>Thu, 23 Jan 2025 12:58:51 GMT</pubDate>
+  </item><item>
+    <title>MTH2007 Lagrangian Mechanics Cheat Sheet DRAFT ONE</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet-DRAFT-ONE</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Lagrangian-and-Hamiltonian-Mechanics/MTH2007-Lagrangian-Mechanics-Cheat-Sheet-DRAFT-ONE</guid>
+    <description>To add… Hamiltonians Oscillations: Frequencies, period of motion, eigenfrequencies, etc. Poisson brackets (of angular momentum) MTH2007 Lagrangian Mechanics - Cheat Sheet Made by William Fayers :) This all makes a lot more sense if you read and use it before the exam (it’s organised fairly logically though) - practise with it! It assumes knowledge from Differential Equations and Linear Algebra, so revise those too.</description>
+    <pubDate>Wed, 22 Jan 2025 12:32:43 GMT</pubDate>
   </item><item>
     <title>TCT Questline</title>
     <link>https://bilbois.me/Private/TCT/TCT-Questline</link>
@@ -41,30 +65,6 @@
     <guid>https://bilbois.me/Private/TCT/EHCP-Assessment-Form</guid>
     <description>EHC/P Assessment Form: Tbl_Enq_Type_4 Note: Confirm the EHC/P Assessment meaning and intended options etc. Recipient First Name: First_Name Recipient Last Name: Last_Name Recipient Date of Birth: DOB EHCP or EHCP Assessment: EHCP_Assesment, replaced yes/no with the string version.</description>
     <pubDate>Tue, 21 Jan 2025 23:43:36 GMT</pubDate>
-  </item><item>
-    <title>Training Form</title>
-    <link>https://bilbois.me/Private/TCT/Training-Form</link>
-    <guid>https://bilbois.me/Private/TCT/Training-Form</guid>
-    <description>Training Form: Tbl_Enq_Type_3 Training Type (1+): TrainingType_Other, replaced lookup method, instead using validated strings hence ignores main field and just fills the bespoke ...</description>
-    <pubDate>Tue, 21 Jan 2025 23:42:57 GMT</pubDate>
-  </item><item>
-    <title>Job Opportunity Form</title>
-    <link>https://bilbois.me/Private/TCT/Job-Opportunity-Form</link>
-    <guid>https://bilbois.me/Private/TCT/Job-Opportunity-Form</guid>
-    <description>Job Opportunity Form: Tbl_Enq_Type_2 Job Type: WorkType, replaced lookup method, instead using validated strings. Contract Type: ContractType, CONFIRM THE KEY.</description>
-    <pubDate>Tue, 21 Jan 2025 23:42:45 GMT</pubDate>
-  </item><item>
-    <title>Therapy Form</title>
-    <link>https://bilbois.me/Private/TCT/Therapy-Form</link>
-    <guid>https://bilbois.me/Private/TCT/Therapy-Form</guid>
-    <description>Therapy Form: Tbl_Enq_Type_1 Therapy Recipient: therapyWhoFor, CONFIRM THE KEY. You, Your child, Your student, An adult you represent, Other. Do you want this to be a free text option? Their Details Preferred Name: Pref_Name, Date of Birth: DOB, Post Code: PostCode.</description>
-    <pubDate>Tue, 21 Jan 2025 23:42:30 GMT</pubDate>
-  </item><item>
-    <title>General Form</title>
-    <link>https://bilbois.me/Private/TCT/General-Form</link>
-    <guid>https://bilbois.me/Private/TCT/General-Form</guid>
-    <description>General Form: tbl_Enquiery NOTE: Table has a spelling error and fields have inconsistent names. During demonstration, use William Fayers as the name to trigger a conditional text section! Your Title Contact_Title: Replaced lookup method, instead using validated strings.</description>
-    <pubDate>Tue, 21 Jan 2025 23:42:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
