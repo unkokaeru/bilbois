@@ -44,7 +44,7 @@ To do ASAP...
 > > > > Prep for first week!
 > > > 
 > > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing|MTH2008 Scientific Computing]]
-> > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing Lecture 1|MTH2008 Scientific Computing Lecture 1]].
+> > > > Re-work logbook generator for Semester B, then write my week 1 reflection.
 > > > 
 > > 
 >
