@@ -6,11 +6,47 @@
       <description>Last 10 notes on bilbois</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>MTH2001 Algebraic Structures Flashcards</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Flashcards</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Flashcards</guid>
+    <description>Front: What is a ring? Back: A set R equipped with two binary operations (addition and multiplication) such that ((R, +)) is an abelian group, multiplication is associative, and multiplication ...</description>
+    <pubDate>Mon, 27 Jan 2025 15:23:33 GMT</pubDate>
+  </item><item>
+    <title>MTH2001 Algebraic Structures Lecture 1</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Lecture-1</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Lecture-1</guid>
+    <description> Previous Lecture: n/a. Pre-Lecture: MTH2001 Algebraic Structures Pre-Lecture 1. Flashcards: MTH2001 Algebraic Structures Flashcards. Next Lecture: MTH2001 Algebraic Structures Lecture 2.</description>
+    <pubDate>Mon, 27 Jan 2025 15:21:45 GMT</pubDate>
+  </item><item>
     <title>Quests</title>
     <link>https://bilbois.me/Organised/Quests</link>
     <guid>https://bilbois.me/Organised/Quests</guid>
     <description>questlogindex Here’s my Quest log! Basically a to-do list levering the Zeigarnik Effect. To do ASAP… Re-write TCT notes, plan/design everything (including predicted timelines) in a comprehensive manner.</description>
-    <pubDate>Mon, 27 Jan 2025 11:35:38 GMT</pubDate>
+    <pubDate>Mon, 27 Jan 2025 15:15:10 GMT</pubDate>
+  </item><item>
+    <title>Tutoring Summary (20250123OF)</title>
+    <link>https://bilbois.me/Organised/Tutoring/Tutoring-Summary-(20250123OF)</link>
+    <guid>https://bilbois.me/Organised/Tutoring/Tutoring-Summary-(20250123OF)</guid>
+    <description>Tutoring Summary (2025-01-23) Overview Graphs: ★★★★☆ Trigonometry: ★★★☆☆ Naming sides/properties of a triangle. Finding sides/angles with “SOH CAH TOA”.</description>
+    <pubDate>Mon, 27 Jan 2025 15:12:47 GMT</pubDate>
+  </item><item>
+    <title>MTH2001 Algebraic Structures Practical 1</title>
+    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-1</link>
+    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-1</guid>
+    <description> Question 6.1 Given the set of \mathbb{Z} / 4\mathbb{Z}=\left\{ 0,1,2,3 \right\}… 2\cdot2=0. Hence the zero divisor is \boxed{2}. Given the set of \mathbb{Z} / 12\mathbb{Z}=\left\{ 0,1,2,3,4,5,6,7,8,9,10,11 \right\}… 3\cdot4=4\cdot3=0.</description>
+    <pubDate>Mon, 27 Jan 2025 15:06:29 GMT</pubDate>
+  </item><item>
+    <title>Definition of an Integral Domain</title>
+    <link>https://bilbois.me/Unorganised/Definition-of-an-Integral-Domain</link>
+    <guid>https://bilbois.me/Unorganised/Definition-of-an-Integral-Domain</guid>
+    <description>If we have a commutative ring with unity R, then R is an integral domain if it has no zero divisors (e.g. \mathbb{Z}, \mathbb{Q}, \mathbb{R}, and \mathbb{C}): Commutative, Unity is 1, a \cdot b=0\iff a=0\text{ or }b=0.</description>
+    <pubDate>Mon, 27 Jan 2025 14:19:50 GMT</pubDate>
+  </item><item>
+    <title>2025-01-27</title>
+    <link>https://bilbois.me/Daily-Notes/2025-01-27</link>
+    <guid>https://bilbois.me/Daily-Notes/2025-01-27</guid>
+    <description>Schedule my day… Monday. Tuesday. Wednesday. Thursday. Friday. Saturday. Sunday. Day Planner 06:00 - 10:00 … .</description>
+    <pubDate>Mon, 27 Jan 2025 12:47:22 GMT</pubDate>
   </item><item>
     <title>MTH2008 Scientific Computing Flashcards</title>
     <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Flashcards</link>
@@ -24,47 +60,11 @@
     <description> Previous Lecture: n/a. Pre-Lecture: MTH2008 Scientific Computing Pre-Lecture 1. Flashcards: MTH2008 Scientific Computing Flashcards. Next Lecture: MTH2008 Scientific Computing Lecture 2.</description>
     <pubDate>Mon, 27 Jan 2025 11:31:42 GMT</pubDate>
   </item><item>
-    <title>Tutoring Summary (20250123OF)</title>
-    <link>https://bilbois.me/Organised/Tutoring/Tutoring-Summary-(20250123OF)</link>
-    <guid>https://bilbois.me/Organised/Tutoring/Tutoring-Summary-(20250123OF)</guid>
-    <description>Tutoring Summary (2025-01-23) Overview Graphs: ★★★★☆ Trigonometry: ★★★☆☆ Naming sides/properties of a triangle. Finding sides/angles with “SOH CAH TOA”.</description>
-    <pubDate>Mon, 27 Jan 2025 01:15:19 GMT</pubDate>
-  </item><item>
     <title>Drawing 2025-01-27 00.46.04.excalidraw</title>
     <link>https://bilbois.me/Auto-Generated/Excalidraw/Drawing-2025-01-27-00.46.04.excalidraw</link>
     <guid>https://bilbois.me/Auto-Generated/Excalidraw/Drawing-2025-01-27-00.46.04.excalidraw</guid>
     <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
     <pubDate>Mon, 27 Jan 2025 00:46:37 GMT</pubDate>
-  </item><item>
-    <title>MTH2001 Algebraic Structures Practical 1</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-1</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-1</guid>
-    <description> Question 6.1 … Question 6.2 … Question 6.3 … Question 6.4 … Question 6.5 … Question 6.6 … Question 6.7 … Question 6.8 ….</description>
-    <pubDate>Sun, 26 Jan 2025 23:47:12 GMT</pubDate>
-  </item><item>
-    <title>MTH2001 Algebraic Structures Pre-Lecture 1</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Pre-Lecture-1</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Pre-Lecture-1</guid>
-    <description> Lecture Notes. Lecture Notes (Detailed). Lecture: MTH2001 Algebraic Structures Lecture 1. Practical (MTH2001 Algebraic Structures Practical 1). Flashcards: definitions, test questions.</description>
-    <pubDate>Sun, 26 Jan 2025 23:45:53 GMT</pubDate>
-  </item><item>
-    <title>MTH2001 Algebraic Structures</title>
-    <link>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures</link>
-    <guid>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures</guid>
-    <description>Module Coordinator: Dr Paula Lins (pmacedolinsdearaujo@lincoln.ac.uk). Course Components Coursework 1 (7.5%) Achieved 93%, did not provide enough explanation.</description>
-    <pubDate>Sun, 26 Jan 2025 23:45:24 GMT</pubDate>
-  </item><item>
-    <title>Definition of Cancellation Laws</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-Cancellation-Laws</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-Cancellation-Laws</guid>
-    <description>Let D be an integral domain with a,b,c\in D. If a\ne0, then ab=ac\implies b=c. Similarly, ba=ca\implies b=c.</description>
-    <pubDate>Sun, 26 Jan 2025 23:39:24 GMT</pubDate>
-  </item><item>
-    <title>Definition of an Integral Domain</title>
-    <link>https://bilbois.me/Unorganised/Definition-of-an-Integral-Domain</link>
-    <guid>https://bilbois.me/Unorganised/Definition-of-an-Integral-Domain</guid>
-    <description>If we have a commutative ring with unity R, then R is an integral domain if it has no zero divisors (e.g. \mathbb{Z}, \mathbb{Q}, \mathbb{R}, and \mathbb{C}): Commutative, Unity is 1, a \cdot b=0\iff a=0\text{ or }b=0.</description>
-    <pubDate>Sun, 26 Jan 2025 23:38:08 GMT</pubDate>
   </item>
     </channel>
   </rss>

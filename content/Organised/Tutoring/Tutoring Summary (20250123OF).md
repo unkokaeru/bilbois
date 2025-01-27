@@ -1,6 +1,10 @@
 ## Tutoring Summary (*2025-01-23*)
 
+---
+
 ![[../../Auto-Generated/Attachments/THUSDAY TUTORING.png]]
+
+---
 
 ### Overview
 

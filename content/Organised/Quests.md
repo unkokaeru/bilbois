@@ -6,8 +6,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 
 To do ASAP...
 - **Re-write TCT notes**, plan/design everything (including predicted timelines) in a comprehensive manner.
-- **Refine [[Tutoring/Tutoring Summary (20250123OF)|Tutoring Summary (20250123OF)]]** (and send it), then make pages for each student (for tracking and summaries).
-- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures Practical 1|MTH2001 Algebraic Structures Practical 1]] and [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Pre-Lecture 1|MTH2003 Complex Analysis Pre-Lecture 1]].
+- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Pre-Lecture 1|MTH2003 Complex Analysis Pre-Lecture 1]].
 
 ---
 
@@ -22,6 +21,7 @@ To do ASAP...
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
 > > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (0/5 hours)
+> > > Make pages for each student?
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
@@ -38,10 +38,10 @@ To do ASAP...
 > > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Pre-Lecture 1|MTH2003 Complex Analysis Pre-Lecture 1]], [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Lecture 1|MTH2003 Complex Analysis Lecture 1]], [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Pre-Lecture 2|MTH2003 Complex Analysis Pre-Lecture 2]], and [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Lecture 2|MTH2003 Complex Analysis Lecture 2]] (including practical).
 > > > 
 > > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2005 Group Project/MTH2005 Group Project|MTH2005 Group Project]]
-> > > > Select group project preferences!
+> > > > ...
 > > > 
 > > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/MTH2006 Industrial and Financial Mathematics|MTH2006 Industrial and Financial Mathematics]]
-> > > > Prep for first week!
+> > > > ...
 > > > 
 > > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing|MTH2008 Scientific Computing]]
 > > > > Re-work logbook generator for Semester B, then write my week 1 reflection.
