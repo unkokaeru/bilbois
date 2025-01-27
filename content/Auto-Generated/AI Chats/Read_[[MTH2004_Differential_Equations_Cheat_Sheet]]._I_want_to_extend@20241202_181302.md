@@ -5,7 +5,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Read [[MTH2004 Differential Equations Cheat Sheet]].
+**user**: Read [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Differential Equations/MTH2004 Differential Equations Cheat Sheet]].
 
 I want to extend this with Fourier series and Fourier integrals. Here's a few questions it should be able to help solve:
 
@@ -435,10 +435,10 @@ Feel free to integrate this into your cheat sheet!
      $$
 
 
-to align more with [[MTH2001 Algebraic Structures Cheat Sheet]]'s style?
+to align more with [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Algebraic Structures/MTH2001 Algebraic Structures Cheat Sheet]]'s style?
 [Timestamp: 2024/12/02 18:32:55]
 
-**ai**: Here’s a re-written version of the Fourier series section to align with the style of the [[MTH2001 Algebraic Structures Cheat Sheet]]:
+**ai**: Here’s a re-written version of the Fourier series section to align with the style of the [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Algebraic Structures/MTH2001 Algebraic Structures Cheat Sheet]]:
 
 ---
 

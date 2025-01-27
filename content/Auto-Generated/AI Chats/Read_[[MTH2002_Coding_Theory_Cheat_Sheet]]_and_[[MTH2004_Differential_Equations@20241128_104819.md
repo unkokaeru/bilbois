@@ -5,7 +5,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Read [[MTH2002 Coding Theory Cheat Sheet]] and [[MTH2004 Differential Equations Cheat Sheet]]. Those are two examples of cheat sheets for a module mid-term.
+**user**: Read [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet]] and [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Differential Equations/MTH2004 Differential Equations Cheat Sheet]]. Those are two examples of cheat sheets for a module mid-term.
 
 I have another module mid-term coming up for MTH2001 Algebraic Structures. Could you write this for me? Below are the rough topics it should cover:
 

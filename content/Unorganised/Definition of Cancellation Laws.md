@@ -1,0 +1,1 @@
+Let $D$ be an integral domain with $a,b,c\in D$. If $a\ne0$, then $ab=ac\implies b=c$. Similarly, $ba=ca\implies b=c$.

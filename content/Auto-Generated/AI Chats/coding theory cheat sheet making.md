@@ -1,4 +1,4 @@
-**user**: I want to complete [[MTH2002 Coding Theory Cheat Sheet]]. It should discuss how to solve questions involving the following topics (organise everything into natural sections):
+**user**: I want to complete [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet]]. It should discuss how to solve questions involving the following topics (organise everything into natural sections):
 
 Reminder of Cartesian products, Field notation, and Gauss-Jordan elimination to find a basis (incl. vector subspaces)
 
@@ -263,7 +263,7 @@ Feel free to expand on any of the sections or add examples and illustrations as 
 This section provides a comprehensive overview of the key topics in coding theory, with clear definitions and examples to aid understanding. Feel free to modify or expand upon any of the explanations as needed!
 
 **user**: Read the following notes to make sure that's all correct and verbose enough:
- [[Definition of a Solid Sphere]] [[Definition of Error Detection]] [[Definition of Hamming Distance]] [[Definition of Error Correction]] [[Definition of Distance Theorem]] [[Definition of Parameters of a Code]] [[Definition of Minimum Code Distance]] [[Definition of a Code in Coding Theory]] [[Definition of an Alphabet in Coding Theory]] [[Definition of a Perfect Code in Coding Theory]] [[Definition of Metric Spaces and Distance Functions]] [[Definition of a Cartesian Product in Coding Theory]] [[Definition of the Volume of a Solid Hamming Distance Sphere]]
+ [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of a Solid Sphere]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Error Detection]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Hamming Distance]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Error Correction]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Distance Theorem]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Parameters of a Code]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Minimum Code Distance]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of a Code in Coding Theory]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of an Alphabet in Coding Theory]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of a Perfect Code in Coding Theory]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of Metric Spaces and Distance Functions]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of a Cartesian Product in Coding Theory]] [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Definitions/Definition of the Volume of a Solid Hamming Distance Sphere]]
 
 
 Also add the sphere-packing bound theorem
@@ -1008,7 +1008,7 @@ For a linear code with parameters \([7, 4, 3]\):
 
 This notation succinctly captures the essential characteristics of a linear code, making it easier to analyze and compare different codes.
 
-**user**: Okay I re-wrote what you did in [[MTH2002 Coding Theory Cheat Sheet]]. Help me complete the incomplete bits shown by ... (something I want to expand on??)
+**user**: Okay I re-wrote what you did in [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet]]. Help me complete the incomplete bits shown by ... (something I want to expand on??)
 
 **ai**: Here’s a detailed expansion of the incomplete sections in your cheat sheet, providing clarity and additional information for each topic.
 
@@ -1384,7 +1384,7 @@ Given that $G$ is in the form $\begin{bmatrix}I_{k}|P\end{bmatrix}$ (where $I_{k
 
 This completed version provides a comprehensive overview of Linear Codes, Dual Codes, and Parity-Check Codes, ensuring clarity and depth in each section. Feel free to adjust any part as needed!
 
-**user**: Now read [[MTH2002 Coding Theory Cheat Sheet]], my first draft. Feedback?
+**user**: Now read [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet]], my first draft. Feedback?
 
 **ai**: Your draft for the **MTH2002 Coding Theory Cheat Sheet** is well-structured and covers a wide range of important topics in coding theory. Here’s some feedback on various aspects of your document, along with suggestions for improvement:
 
@@ -1440,7 +1440,7 @@ This completed version provides a comprehensive overview of Linear Codes, Dual C
 ### Conclusion
 Overall, your cheat sheet is comprehensive and well-organized, covering essential topics in coding theory. By incorporating the suggestions above, you can enhance clarity, provide additional context, and ensure that the document serves as a valuable study resource. Great job, and good luck with your studies!
 
-**user**: Read [[MTH2002 Coding Theory Cheat Sheet DRAFT ONE]]. Help me now write draft two by simplifying the text into more readable chunks, preferably bullet-pointed with minimal filler words. Go section by section and wait for me to say next after each one, since I might want to do edits! Thanks :) - add bits that I've requested, too.
+**user**: Read [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet DRAFT ONE]]. Help me now write draft two by simplifying the text into more readable chunks, preferably bullet-pointed with minimal filler words. Go section by section and wait for me to say next after each one, since I might want to do edits! Thanks :) - add bits that I've requested, too.
 
 **ai**: Here’s a simplified and more readable version of your cheat sheet, section by section. I’ll start with the first section, and you can let me know when to proceed to the next one.
 
@@ -1581,7 +1581,7 @@ Let me know if you’d like to make any edits or if I should proceed to the next
 
 Let me know if you’d like to make any edits or if I should proceed to the next section!
 
-**user**: Write about how it can be found like mentioned in [[Coding Theory Coursework]]
+**user**: Write about how it can be found like mentioned in [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/Coursework/Coding Theory Coursework]]
 
 **ai**: Here’s the second draft of your cheat sheet, simplified into more readable chunks with bullet points and ordered lists. I’ll start with the first section and wait for your confirmation to proceed to the next one.
 

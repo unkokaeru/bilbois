@@ -5,7 +5,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Just as I created [[MTH2002 Coding Theory Cheat Sheet]], [[MTH2001 Algebraic Structures Cheat Sheet]], and [[MTH2004 Differential Equations Cheat Sheet]], can you help me design MTH2007 Lagrangian and Hamiltonian Mechanics Cheat Sheet?
+**user**: Just as I created [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet]], [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Algebraic Structures/MTH2001 Algebraic Structures Cheat Sheet]], and [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Differential Equations/MTH2004 Differential Equations Cheat Sheet]], can you help me design MTH2007 Lagrangian and Hamiltonian Mechanics Cheat Sheet?
 
 It should cover at least:
 Motion in a central field
@@ -345,7 +345,7 @@ Please ensure that the final output adheres closely to this style and structure 
 Feel free to use this prompt as is!
 [Timestamp: 2024/12/03 21:16:12]
 
-**user**: Read [[MTH2002 Coding Theory Cheat Sheet]] and [[MTH2001 Algebraic Structures Cheat Sheet]] and [[MTH2004 Differential Equations Cheat Sheet]] again. I want you to follow THOSE STRUCTURES EXACTLY.
+**user**: Read [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Coding Theory/MTH2002 Coding Theory Cheat Sheet]] and [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Algebraic Structures/MTH2001 Algebraic Structures Cheat Sheet]] and [[../../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester One/Differential Equations/MTH2004 Differential Equations Cheat Sheet]] again. I want you to follow THOSE STRUCTURES EXACTLY.
 [Timestamp: 2024/12/03 21:16:54]
 
 **ai**: Here’s the cheat sheet for **MTH2007 Lagrangian and Hamiltonian Mechanics**, structured exactly like the examples you provided:

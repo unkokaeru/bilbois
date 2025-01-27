@@ -1,0 +1,1 @@
+Let $R$ be a commutative ring. We say that an element $r\in R$ is a **zero divisor** if $a \cdot b=0$ for some element $b\ne0$ of $R$.
