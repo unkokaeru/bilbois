@@ -12,9 +12,10 @@ Hey queen, could you please make a spreadsheet for our girls holiday. including 
 **Requirements**:
 1. Total price.
 2. Location (country and city).
-3. Accommodation type (villa, hotel, etc.).
-4. Bed count per type (double, single, pull out, etc.).
-5. Amenities (pool, hotel restaurant, breakfast included).
-6. Local attractions (distance to beach, shops/activities, etc.).
+3. Airport transport (e.g. shuttle bus).
+4. Accommodation type (villa, hotel, etc.).
+5. Bed count per type (double, single, pull out, etc.).
+6. Amenities (pool, hotel restaurant, breakfast included).
+7. Local attractions (distance to beach, shops/activities, etc.).
 
 *Note: include sources (i.e. website links)*.
