@@ -1,5 +1,8 @@
 Conduct research -> report & presentation (sectioned per member)
 
+- [[../../../../../../Auto-Generated/Attachments/Example Minutes.pdf|Example Minutes]].
+- [[../../../../../../Auto-Generated/Attachments/Example Agenda.pdf|Example Agenda]].
+
 ### Members
 
 | Role                     | Name                          |

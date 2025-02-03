@@ -26,6 +26,10 @@
 ---
 ## Notes
 
+### Tutorials (*as and when*)
+
+- [[MTH2001 Algebraic Structures Tutorial 1]].
+
 ### Priming (*before lecture*)
 
 - [[MTH2001 Algebraic Structures Pre-Lecture 1]]: Rings Subrings, Quick Subring Theorem, Zero divisors, and Integral Domains.

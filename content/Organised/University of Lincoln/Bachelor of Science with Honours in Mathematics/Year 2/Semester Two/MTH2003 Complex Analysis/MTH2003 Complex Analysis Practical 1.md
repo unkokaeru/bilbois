@@ -40,6 +40,8 @@ $$
 \end{align*}
 $$
 
+*Note: should keep arguments positive, e.g. $-\frac{\pi}{3}\to \frac{5\pi}{3}$*.
+
 ## Question 2
 
 The complex numbers $e^{2 + i \frac{\pi}{2}}$, $\frac{1}{i}$, $\frac{1}{1+i}$, $(1+i)^{3}$, and $|3+4i|$ have corresponding rectangular forms...
@@ -78,8 +80,6 @@ $$
 $$
 |3+4i|=\boxed{5}
 $$
-
-*unsure on what the question means for the last one, so I assumed modulus*.
 
 ## Question 3
 

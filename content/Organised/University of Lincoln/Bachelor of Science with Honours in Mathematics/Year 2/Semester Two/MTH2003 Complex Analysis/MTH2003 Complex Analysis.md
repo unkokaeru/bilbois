@@ -29,6 +29,10 @@
 ---
 ## Notes
 
+### Tutorials (*as and when*)
+
+- [[MTH2003 Complex Analysis Tutorial 1]].
+
 ### Priming (*before lecture*)
 
 - [[MTH2003 Complex Analysis Pre-Lecture 1]]: Complex Numbers and Functions.

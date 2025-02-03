@@ -6,18 +6,8 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 
 ---
 
-**MAIN GOALS FOR MONDAY, FEBRUARY 3RD 2025**:
-
-- [ ] Complete MTH2001, MTH2003, and MTH2008 work.
-- [x] Comprehensively begin [[MTH2005 Group Project]].
-- [ ] Complete note writing infrastructure, i.e. flashcards embedded in notes and converted to an active Anki deck.
-- [x] Make starting up my setup even simpler (Obsidian, VS Code, API keys).
-- [ ] Surface-level plan TCT work.
-
----
-
-> [!TODO]+ Quests (0/70 hours)
-> > [!TODO]+ Professional (0/25 hours)
+> [!TODO]+ Quests (10/70 hours)
+> > [!TODO]+ Professional (2/25 hours)
 > > > [!TODO]- Professional Identity (0/5 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
@@ -27,28 +17,27 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
-> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (0/5 hours)
+> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (2/5 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
-> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (0/40 hours)
+> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (8/40 hours)
 > > When writing notes, make sure to use inline flashcard notation (three colons) and header flashcard notation (appending `#card` to headers)! Re-work existing notes to follow this, too. **Also**, approx. 25% of the time should be priming, 50% in lecture, and 25% refining.
 > > > [!TODO]- Extended to-do list
 > > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
 > > 
 > > > [!TODO]+ Modules (Semester B)
-> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures|MTH2001 Algebraic Structures]]
-> > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures Pre-Lecture 2|MTH2001 Algebraic Structures Pre-Lecture 2]], [[MTH2001 Algebraic Structures Pre-Lecture 3]], [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures Lecture 2|MTH2001 Algebraic Structures Lecture 2]], and [[MTH2001 Algebraic Structures Lecture 3]], including any practical(s).
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures|MTH2001 Algebraic Structures]] (3/8 hours)
+> > > > Complete [[MTH2001 Algebraic Structures Pre-Lecture 3]], [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures Lecture 2|MTH2001 Algebraic Structures Lecture 2]], and [[MTH2001 Algebraic Structures Lecture 3]], including any practical(s).
 > > > 
-> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis|MTH2003 Complex Analysis]]
-> > > > Mark [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis Practical 1|MTH2003 Complex Analysis Practical 1]].
+> > > > [!TODO]- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis|MTH2003 Complex Analysis]] (0/8 hours)
 > > > 
-> > > > [!TODO]- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2005 Group Project/MTH2005 Group Project|MTH2005 Group Project]]
+> > > > [!TODO]- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2005 Group Project/MTH2005 Group Project|MTH2005 Group Project]] (2/8 hours)
 > > > 
 > > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/MTH2006 Industrial and Financial Mathematics|MTH2006 Industrial and Financial Mathematics]]
 > > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/QR Codes Reimagined|QR Codes Reimagined]].
 > > > 
-> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing|MTH2008 Scientific Computing]]
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing|MTH2008 Scientific Computing]] (3/8 hours)
 > > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing Lecture 2|MTH2008 Scientific Computing Lecture 2]]. Re-work logbook generator for Semester B, then write my week 1 and 2 reflections. 
 > > > 
 > > 
@@ -93,7 +82,7 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > - Make some document/slideshow templates, focusing on the Helvetica font.
 > > > - Buy some new clothes, maybe [Uniqlo](https://www.uniqlo.com/uk/en/)?
 > > > - Plan [[Trip to Tokyo, Japan]] with my brother.
-> > > - Plan [[stuff for kt]].
+> > > - Plan [[../Private/stuff for kt]].
 
 ---
 

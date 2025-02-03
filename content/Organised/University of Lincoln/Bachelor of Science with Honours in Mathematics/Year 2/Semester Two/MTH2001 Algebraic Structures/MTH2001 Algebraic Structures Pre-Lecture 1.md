@@ -5,6 +5,8 @@
 
 KEY DIFFERENCE BETWEEN GROUPS AND RINGS: Rings have two operations, rather than one!
 
+Integral domains then just extend rings with unity and commutativity!
+
 ![[Definition of a Ring]]
 
 There are many examples of rings, such as $(\mathbb{Z},+,\cdot)$, $(\mathbb{Q},+,\cdot)$, $(\mathbb{R},+,\cdot)$, $(\mathbb{C},+,\cdot)$, and even **polynomial rings**:
