@@ -14,8 +14,9 @@ Hey queen, could you please make a spreadsheet for our girls holiday. including 
 2. Location (country and city).
 3. Airport transport (e.g. shuttle bus).
 4. Accommodation type (villa, hotel, etc.).
-5. Bed count per type (double, single, pull out, etc.).
-6. Amenities (pool, hotel restaurant, breakfast included).
-7. Local attractions (distance to beach, shops/activities, etc.).
+5. Bathroom count (ensuite rooms, shared, etc.).
+6. Bed count per type (double, single, pull out, etc.).
+7. Amenities (pool, hotel restaurant, breakfast included).
+8. Local attractions (distance to beach, shops/activities, etc.).
 
 *Note: include sources (i.e. website links)*.
