@@ -3,8 +3,6 @@
 - Lecture: [[MTH2001 Algebraic Structures Lecture 1]].
 - [[../../../../../../Auto-Generated/Attachments/MTH2001 Algebraic Structures Practical 1.pdf|Practical]] ([[MTH2001 Algebraic Structures Practical 1]]).
 
-*Flashcards: definitions, test questions.*
-
 KEY DIFFERENCE BETWEEN GROUPS AND RINGS: Rings have two operations, rather than one!
 
 ![[Definition of a Ring]]

@@ -15,3 +15,8 @@
 - [ ] Phillips Hue Bridge + more lights (lamp??).
 - [ ] Smart plugs.
 - [ ] Running shoes.
+- [ ] [[../Unorganised/Buying a cordless vacuum cleaner|Buying a cordless vacuum cleaner]]?
+- [ ] New laptop.
+- [ ] Maicey's iPad.
+- [ ] Remarkable Tablet.
+- [ ] Nintendo Switch.

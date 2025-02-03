@@ -28,14 +28,18 @@
 ---
 ## Notes
 
+**VS Code Profile**: https://gist.github.com/unkokaeru/c68822e2ed8ec09d150c4c747bc6c7fd.
+
 ### Priming (*before lecture*)
 
 - [[MTH2008 Scientific Computing Pre-Lecture 1]]: Random Generators.
+- [[MTH2008 Scientific Computing Pre-Lecture 2]]: Sorting Algorithms.
 
 ---
 ### Questioning (*during lecture*)
 
 - [[MTH2008 Scientific Computing Lecture 1]]: Random Generators.
+- [[MTH2008 Scientific Computing Lecture 2]]: Sorting Algorithms.
 
 ---
 ### Refining (*after lecture*)

@@ -24,6 +24,8 @@
 - [[MTH2006 Industrial and Financial Mathematics Flashcards]]
 
 ---
-## Planning
+## Notes
 
-...
+- [[Briefing]].
+- [[Guest Lectures]].
+- [[QR Codes Reimagined]].
