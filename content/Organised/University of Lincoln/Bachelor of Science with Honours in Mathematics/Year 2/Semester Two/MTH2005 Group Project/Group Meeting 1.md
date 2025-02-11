@@ -11,7 +11,7 @@
 - [x] Alex Rushworth (**27554937**)
 - [ ] Hayden Loyseau (**27635146**)
 
-[[Initial Impressions|Last Meeting]] | [[Group Meeting 2|Next Meeting]] (planned Tuesday 14:00, 11th February 2025)
+[[Initial Impressions|Last Meeting]] | [[Supervisor Meeting 1|Next Meeting]] (planned Tuesday 12:00, 4th February 2025)
 
 ---
 
@@ -29,4 +29,5 @@
 
 > [!NOTE] Useful sources
 > [1] H. Jeffreys and B. Swirles, Methods of Mathematical Physics, Cambridge Univ. Press, 1956.
-> [2] M. Abramowitz and I. Stegun, Handbook of Mathematical Functions, Martino Fine Books, 2014 3. https://en.wikipedia.org/wiki/Bessel_function
+> [2] M. Abramowitz and I. Stegun, Handbook of Mathematical Functions, Martino Fine Books, 2014
+> [3] https://en.wikipedia.org/wiki/Bessel_function

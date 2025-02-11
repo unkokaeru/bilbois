@@ -21,7 +21,7 @@ Conduct research -> report & presentation (sectioned per member)
 - Include **worked examples** where possible.
 - The report should form a **coherent whole**.
 - Focus on the **mathematical/scientific** content of your project area.
-- Short abstract, 2-3 pages of introduction, main body of text, a 1-3- page summary/conclusion, bibliography and appendices.
+- Short abstract, 2-3 pages of introduction, main body of text, a 1-3 page summary/conclusion, bibliography and appendices.
 - Communal sections should be written as a group.
 - Each chapter should show evidence of **research** and **critical thinking** and include **references (IEEE style)**.
 - **Include meeting minutes as an appendix**.

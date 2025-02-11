@@ -33,13 +33,15 @@
 ### Priming (*before lecture*)
 
 - [[MTH2008 Scientific Computing Pre-Lecture 1]]: Random Generators.
-- [[MTH2008 Scientific Computing Pre-Lecture 2]]: Sorting Algorithms.
+- [[MTH2008 Scientific Computing Pre-Lecture 2]]: Sorting and Monte Carlo.
+- [[MTH2008 Scientific Computing Pre-Lecture 3]]: File Input/Output and Dynamical Arrays.
 
 ---
 ### Questioning (*during lecture*)
 
 - [[MTH2008 Scientific Computing Lecture 1]]: Random Generators.
-- [[MTH2008 Scientific Computing Lecture 2]]: Sorting Algorithms.
+- [[MTH2008 Scientific Computing Lecture 2]]: Sorting and Monte Carlo.
+- [[MTH2008 Scientific Computing Lecture 3]]: File Input/Output and Dynamical Arrays.
 
 ---
 ### Refining (*after lecture*)

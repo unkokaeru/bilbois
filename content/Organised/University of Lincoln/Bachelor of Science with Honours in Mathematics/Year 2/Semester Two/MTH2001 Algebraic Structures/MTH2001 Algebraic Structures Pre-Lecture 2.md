@@ -20,7 +20,7 @@ We can test and prove everything formally, but often another QST is used (quick 
 
 ![[Definition of Quick Subfield Theorem]]
 
-This can be used to show that, for example, Gaussian Integers are not a subfield of $\mathbb{C}$, but Gaussian Rationals are. We cal also show that every **finite** integral domain is a field, which makes testing even easier (and can demonstrate other properties that fields have).
+This can be used to show that, for example, Gaussian Integers are not a subfield of $\mathbb{C}$, but Gaussian Rationals are. We can also show that every **finite** integral domain is a field, which makes testing even easier (and can demonstrate other properties that fields have).
 
 We can also show that things like integers modulo $n$ are fields if and only if $n$ is prime (as it makes the integral domain finite).
 

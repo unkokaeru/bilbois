@@ -18,3 +18,5 @@ storeFolderCondition: true
 showFolderNotes: true
 disableCollapseIcon: true
 ```
+
+[[../../Estimated Grade|Estimated Grade]].

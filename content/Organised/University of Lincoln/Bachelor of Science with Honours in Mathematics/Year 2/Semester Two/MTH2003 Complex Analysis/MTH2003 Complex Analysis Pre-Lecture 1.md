@@ -1,5 +1,5 @@
 - [Recording](https://uol.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=151cf141-3ee7-4cd0-acdb-acaf0109a79e).
-- [[../../../../../../Auto-Generated/Attachments/MTH2003 Complex Analysis Pre-Lecture 1 NOTES.pdf|Lecture Notes]].
+- [[../../../../../../Auto-Generated/Attachments/MTH2003 Complex Analysis Pre-Lecture Week 1 NOTES.pdf|Lecture Notes]].
 - Lecture: [[MTH2003 Complex Analysis Lecture 1]].
 
 **Complex numbers** are defined as: $z = x + iy$, where $x, y \in \mathbb{R}$, $i^2 = -1$. These are often separated into **real/Imaginary Parts** $\text{Re}(z) = x$, $\text{Im}(z) = y$.

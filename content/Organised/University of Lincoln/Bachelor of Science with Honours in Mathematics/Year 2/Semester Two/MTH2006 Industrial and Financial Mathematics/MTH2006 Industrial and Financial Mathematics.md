@@ -5,7 +5,7 @@
 
 - Portfolio **Poster** (49%).
 - Portfolio **Poster Presentation** (14%).
-- Portfolio **Attendance** (7%).
+- Portfolio **Attendance** (1/7%).
 - Final **Test** (30%).
 
 ---

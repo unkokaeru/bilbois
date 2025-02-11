@@ -6,50 +6,48 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 
 ---
 
-> [!TODO]+ Quests (10/70 hours)
-> > [!TODO]+ Professional (2/25 hours)
+> [!TODO]+ Quests (0/70 hours)
+> > [!TODO]+ Professional (0/25 hours)
 > > > [!TODO]- Professional Identity (0/5 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[University of Lincoln/Year in Industry/Year in Industry#^todo-list-id]]
 > >
 > > > [!TODO]+ [[../Private/TCT/TCT Questline|Full-Stack Software Development]] (0/15 hours)
-> > > **Re-write TCT notes**, plan/design everything (including predicted timelines) in a comprehensive manner.
+> > > **Re-write TCT notes**, plan/design everything (including predicted timelines) in a comprehensive manner; list inputs/outputs, then plan between bits.
 > > > > [!TODO]- Extended to-do list
 > > > > ![[../Private/TCT/TCT Questline#^todo-list-id]]
 > >
-> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (2/5 hours)
+> > > [!TODO]- [[Tutoring/Tutoring|Tutoring]] (0/5 hours)
 > > > > [!TODO]- Extended to-do list
 > > > > ![[Tutoring/Tutoring#^todo-list-id]]
 >
-> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (8/40 hours)
-> > When writing notes, make sure to use inline flashcard notation (three colons) and header flashcard notation (appending `#card` to headers)! Re-work existing notes to follow this, too. **Also**, approx. 25% of the time should be priming, 50% in lecture, and 25% refining.
-> > > [!TODO]- Extended to-do list
-> > > ![[University of Lincoln/Maths Notes Questline#^todo-list-id]]
-> > 
+> > [!TODO]+ [[../Organised/University of Lincoln/Bachelor of Science with Honours in Mathematics/Bachelor of Science with Honours in Mathematics|Academic]] (0/40 hours)
 > > > [!TODO]+ Modules (Semester B)
-> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures|MTH2001 Algebraic Structures]] (3/8 hours)
-> > > > Complete [[MTH2001 Algebraic Structures Pre-Lecture 3]], [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures Lecture 2|MTH2001 Algebraic Structures Lecture 2]], and [[MTH2001 Algebraic Structures Lecture 3]], including any practical(s).
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2001 Algebraic Structures/MTH2001 Algebraic Structures|MTH2001 Algebraic Structures]] (0/8 hours)
+> > > > Re-write and extend the [[MTH2001 Algebraic Structures Cheat Sheet]].
 > > > 
-> > > > [!TODO]- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis|MTH2003 Complex Analysis]] (0/8 hours)
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2003 Complex Analysis/MTH2003 Complex Analysis|MTH2003 Complex Analysis]] (0/8 hours)
+> > > > Start the [[MTH2003 Complex Analysis Cheat Sheet]].
 > > > 
-> > > > [!TODO]- [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2005 Group Project/MTH2005 Group Project|MTH2005 Group Project]] (2/8 hours)
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2005 Group Project/MTH2005 Group Project|MTH2005 Group Project]] (0/8 hours)
+> > > > Look into derivation stuff and outline my section of the report. Prototype some related Manimations.
 > > > 
-> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/MTH2006 Industrial and Financial Mathematics|MTH2006 Industrial and Financial Mathematics]]
-> > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/QR Codes Reimagined|QR Codes Reimagined]].
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/MTH2006 Industrial and Financial Mathematics|MTH2006 Industrial and Financial Mathematics]] (0/8 hours)
+> > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2006 Industrial and Financial Mathematics/QR Codes Reimagined|QR Codes Reimagined]] - breakdown tasks.
 > > > 
-> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing|MTH2008 Scientific Computing]] (3/8 hours)
-> > > > Complete [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing Lecture 2|MTH2008 Scientific Computing Lecture 2]]. Re-work logbook generator for Semester B, then write my week 1 and 2 reflections. 
+> > > > [!TODO]+ [[University of Lincoln/Bachelor of Science with Honours in Mathematics/Year 2/Semester Two/MTH2008 Scientific Computing/MTH2008 Scientific Computing|MTH2008 Scientific Computing]] (0/8 hours)
+> > > > Re-work logbook generator (to work with multiple semesters and to fix bugs), then add missing reflections/references, etc.
 > > > 
 > > 
 >
 > > [!TODO]+ Personal (free time)
-> > > [!TODO]+ [[Programming/Programming|Programming]]
+> > > [!TODO]- [[Programming/Programming|Programming]]
 > > > > [!TODO]- [[../Organised/Programming/Lua/Lua Questline|Lua Questline]] (for CC: Tweaked)
 > > > > > [!TODO]- Extended to-do list
 > > > > > ![[../Organised/Programming/Lua/Lua Questline|Lua Questline]]
 > > > 
-> > > > [!TODO]+ [[../Organised/Programming/Python/Python Questline|Python Questline]] (for high-level projects)
-> > > > Do some work on personal projects in any spare time! Maybe the AbrahamMD project and the sudoku generator.
+> > > > [!TODO]- [[../Organised/Programming/Python/Python Questline|Python Questline]] (for high-level projects)
+> > > > Do some work on personal projects in any spare time! Maybe the AbrahamMD project and the sudoku generator. Email parsing for news, morning briefing type beat?
 > > > > > [!TODO]- Extended to-do list
 > > > > > ![[../Organised/Programming/Python/Python Questline|Python Questline]]
 > > > 
@@ -69,20 +67,17 @@ Here's my Quest log! Basically a to-do list levering the [[Hobbies/Psychology/Ze
 > > > > > [!TODO]- Extended to-do list
 > > > > > ![[../Organised/Programming/Miscellaneous Programming Projects|Miscellaneous Programming Projects]]
 > >
-> > > [!TODO]+ Language
-> > > Test [Kana](https://kana-quiz.tofugu.com/).
+> > > [!TODO]- Language
+> > > Complete this [kana quiz](https://kana-quiz.tofugu.com/). Complete [daily kanji practice](https://www.wanikani.com/).
 > >
-> > > [!TODO]+ [[Hobbies/Chess/Chess|Chess]]
+> > > [!TODO]- [[Hobbies/Chess/Chess|Chess]]
 > > > Practice [[Hobbies/Chess/Chess Games/Chess Games|Chess Games]], learn [[Hobbies/Chess/Chess Openings/Chess Openings|Chess Openings]], etc.
 > >
 > > > [!TODO]+ Other
-> > > - Rubik's Cube time under one minute.
-> > > - Hack my brother's [ComputerCraft](https://aternos.org/server/) door.
 > > > - Send film off to Analogue Wonderland or look at the new film shop.
-> > > - Make some document/slideshow templates, focusing on the Helvetica font.
-> > > - Buy some new clothes, maybe [Uniqlo](https://www.uniqlo.com/uk/en/)?
 > > > - Plan [[Trip to Tokyo, Japan]] with my brother.
-> > > - Plan [[../Private/stuff for kt]].
+> > > - Hack my brother's [ComputerCraft](https://aternos.org/server/) door.
+> > > - Move Quartz onto a remote server and then make its markdown content the thing that is available locally everywhere.
 
 ---
 

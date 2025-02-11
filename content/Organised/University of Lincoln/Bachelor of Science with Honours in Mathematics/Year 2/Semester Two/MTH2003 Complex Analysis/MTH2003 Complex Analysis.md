@@ -44,7 +44,19 @@
 	- Functions of a Complex Variable.
 	- Multi-valued Functions: The Logarithm.
 - [[MTH2003 Complex Analysis Pre-Lecture 3]]: Limits, Continuity, and Differentiability.
+	- Definition of the Limit.
+	- Uniqueness Lemma.
+	- Properties of Limits.
+	- Definition of Continuity.
+	- Lemmas.
 - [[MTH2003 Complex Analysis Pre-Lecture 4]]: Limits, Continuity, and Differentiability.
+	- Paths (Adding Paths, Opposite Paths, Closed Paths).
+	- Path-Connected Sets.
+	- Differentiability.
+	- Analytic Functions.
+	- Properties of Differentiation.
+	- Partial Derivatives.
+	- Cauchy-Riemann Theorem.
 - [[MTH2003 Complex Analysis Pre-Lecture 5]]: Contour Integral, Green's Theroem.
 - [[MTH2003 Complex Analysis Pre-Lecture 6]]: Contour Integral, Green's Theroem.
 - [[MTH2003 Complex Analysis Pre-Lecture 7]]: Cauchy's Theorem, Cauchy's Integral Formulae.

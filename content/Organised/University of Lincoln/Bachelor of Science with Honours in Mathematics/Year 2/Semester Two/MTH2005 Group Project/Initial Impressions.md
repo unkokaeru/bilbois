@@ -133,10 +133,10 @@ Bessel functions are computed using:
 
 ### 8. Research Directions
 
-4. **Numerical Methods:** Comparing approximation techniques (e.g., Chebyshev vs. asymptotic expansions).
-5. **Quantum Applications:** Bessel functions in 3D Schrödinger equations.
-6. **Acoustic Radiation:** Modeling loudspeaker diaphragms.
-7. **Historical Analysis:** Evolution of Bessel functions in 19th-century mathematical physics.
+1. **Numerical Methods:** Comparing approximation techniques (e.g., Chebyshev vs. asymptotic expansions).
+2. **Quantum Applications:** Bessel functions in 3D Schrödinger equations.
+3. **Acoustic Radiation:** Modeling loudspeaker diaphragms.
+4. **Historical Analysis:** Evolution of Bessel functions in 19th-century mathematical physics.
 
 ---
 

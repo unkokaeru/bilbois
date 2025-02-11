@@ -21,7 +21,6 @@
 
 - [[MTH2001 Algebraic Structures Cheat Sheets]]
 - [[MTH2001 Algebraic Structures Practice Tests]]
-- [[MTH2001 Algebraic Structures Flashcards]]
 
 ---
 ## Notes
