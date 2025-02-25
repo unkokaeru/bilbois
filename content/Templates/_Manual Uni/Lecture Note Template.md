@@ -1,17 +1,20 @@
 <%*
-lectureNumber = await tp.system.prompt("What number lecture is this?", "1")
 moduleName = tp.file.folder()
 
+lectureNumber = await tp.system.prompt("What number lecture is this?", "1")
 previousLectureName = moduleName + " Lecture " + (Number(lectureNumber) - 1)
-preLectureName = moduleName + " Pre-Lecture " + lectureNumber
+thisLectureName = moduleName + " Lecture " + lectureNumber
 nextLectureName = moduleName + " Lecture " + (Number(lectureNumber) + 1)
+practicalName = moduleName + " Practical " + lectureNumber
 
-await tp.file.rename(fileName)
+await tp.file.rename(thisLectureName)
 -%>
 
 - Previous Lecture: [[<% previousLectureName %>]].
-- Pre-Lecture: [[<% preLectureName %>]] ([[../../../../../../Auto-Generated/Attachments/<% preLectureName %> NOTES.pdf|Provided Notes]]).
+- Practical: [[<% practicalName %>]] ([[../../../../../../Auto-Generated/Attachments/<% practicalName %>.pdf|Practical Sheet]]).
 - Next Lecture: [[<% nextLectureName %>]].
+
+![[../../../../../../Auto-Generated/Attachments/<% thisLectureName %> Notes.pdf]]
 
 ## What is blah blah blah? #card
 This is a short summarising definition.

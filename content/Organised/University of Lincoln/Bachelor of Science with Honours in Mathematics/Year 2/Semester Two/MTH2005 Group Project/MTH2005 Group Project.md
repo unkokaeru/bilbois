@@ -1,34 +1,25 @@
-**Module Coordinator**: Dr Martin Greenall (*[mgreenall@lincoln.ac.uk](mailto:mgreenall@lincoln.ac.uk)*).
+# **MTH2005** Group Project
 
----
-## Course Components
+>[!IMPORTANT]- Module Coordinator
+>Dr Martin Greenall: [mgreenall@lincoln.ac.uk](mailto:mgreenall@lincoln.ac.uk)
 
-- Composite **Portfolio** (100%)
-	- Planning and Conducting (10% peer assessment),
-	- Reporting (70% scored by contribution),
-	- and Video Presenting (20% scored by contribution).
+>[!TIP]- Course Components
+>>[!TIP]+ Composite Portfolio (100%)
+>>>[!TIP]- Planning and Conducting (10%)
+>>>Scored by peer assessment.
+>>
+>>>[!TIP]- Reporting (70%)
+>>>Scored by contribution.
+>>
+>>>[!TIP]- Video Presenting (20%)
+>>>Scored by contribution.
 
----
-## Learning Outcomes
+>[!HINT]- Cheat Sheet
+>[[MTH2005 Group Project Cheat Sheet]]
 
-- [ ] **LO1** Work effectively as a member of a team.
-- [ ] **LO2** Utilise effective and appropriate support tools and employ effective project management skills.
-- [ ] **LO3** Present work consistently in both written and verbal forms
-- [ ] **LO4** Deliver development or/and research targets relevant to the programme of study within a set timeframe and role distribution.
-
----
-## Meetings
-
-- [[Group Meeting 1]]: Initial thoughts and decide focus points.
-- [[Supervisor Meeting 1]]: Introduction to topic and approving outline.
-- [[Supervisor Meeting 2]]: ...
-- [[Supervisor Meeting 3]]: ...
-- [[Supervisor Meeting 4]]: ...
-- [[Supervisor Meeting 5]]: ...
-
----
-## Planning
-
-- [[Making my group decision]].
-- [[../../../../../../Auto-Generated/Attachments/MTH2005 Group Project INTRODUCTORY SLIDES.pdf|Introductory Slides]] ([[Introductory Notes]]).
-- [[Initial Impressions]].
+>[!NOTE]+ Notes
+>My initial group decision was informed with [[Making my group decision|this]], which then led to our [[Introductory Notes|introduction]]. With a group structure implemented, we wrote our [[Initial Impressions]] of the subject and planned a [[Potential Outline]]. All further work is detailed in the following meeting notes!
+>- [[Group Meeting 1]]: Initial thoughts and decide focus points.
+>- [[Group Meeting 2]]: Introduction to topic and approving outline; *with supervisor*.
+>- [[Group Meeting 3]]: Discuss outlines, new structure, and plan next steps.
+>- [[Group Meeting 4]]: General check-in; *with supervisor*.

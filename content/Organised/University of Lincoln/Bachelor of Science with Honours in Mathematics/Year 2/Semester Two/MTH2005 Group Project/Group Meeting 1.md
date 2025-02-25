@@ -11,7 +11,7 @@
 - [x] Alex Rushworth (**27554937**)
 - [ ] Hayden Loyseau (**27635146**)
 
-[[Initial Impressions|Last Meeting]] | [[Supervisor Meeting 1|Next Meeting]] (planned Tuesday 12:00, 4th February 2025)
+[[Initial Impressions|Last Meeting]] | [[Group Meeting 2|Next Meeting]] (planned Tuesday 12:00, 4th February 2025)
 
 ---
 

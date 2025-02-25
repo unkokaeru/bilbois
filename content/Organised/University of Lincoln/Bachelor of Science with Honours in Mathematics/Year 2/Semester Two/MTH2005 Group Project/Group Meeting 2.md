@@ -9,7 +9,7 @@
 - [x] Tom Ward (**26479576**)
 - [x] Daniel Morris (**26700885**)
 - [x] Alex Rushworth (**27554937**)
-- [x] Hayden Loyseau (**27635146**) - *9 mins late*
+- [x] Hayden Loyseau (**27635146**) - *9 mins late*.
 - [x] Andrei Z...
 
 [[Group Meeting 1|Last Meeting]] | [[Group Meeting 2|Next Meeting]] (planned Tuesday 14:00, 11th February 2025)

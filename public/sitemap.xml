@@ -281,6 +281,9 @@
     <loc>https://bilbois.me/Organised/Programming/CPP/Challenges/Pasting-Challenge</loc>
     <lastmod>2024-11-06T12:07:34.729Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/Programming/CPP/Challenges/Phone-Number-Challenge</loc>
+    <lastmod>2025-02-21T18:23:43.957Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/Programming/CPP/Challenges/Pig-Latin-Challenge</loc>
     <lastmod>2024-10-27T16:06:49.159Z</lastmod>
   </url><url>
@@ -304,6 +307,9 @@
   </url><url>
     <loc>https://bilbois.me/Organised/Programming/CPP/Challenges/Video-Length-Conversion-Challenge</loc>
     <lastmod>2024-10-01T07:35:07.541Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/Programming/CPP/Challenges/Virus-Challenge</loc>
+    <lastmod>2025-02-14T16:10:31.293Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/Programming/CPP/cpp-style-guide</loc>
     <lastmod>2024-11-12T16:29:35.958Z</lastmod>
@@ -387,7 +393,7 @@
     <lastmod>2024-10-28T09:40:20.032Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/Quests</loc>
-    <lastmod>2025-02-09T23:41:25.983Z</lastmod>
+    <lastmod>2025-02-25T14:28:35.335Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/Random-Thoughts</loc>
     <lastmod>2025-01-15T19:00:29.311Z</lastmod>
@@ -686,11 +692,20 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Lecture-3</loc>
     <lastmod>2025-02-03T11:15:45.099Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Lecture-4</loc>
+    <lastmod>2025-02-24T11:37:31.266Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Lecture-5</loc>
+    <lastmod>2025-02-24T11:38:45.013Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-1</loc>
     <lastmod>2025-01-29T23:23:26.412Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-2</loc>
     <lastmod>2025-02-09T23:40:41.711Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Practical-4</loc>
+    <lastmod>2025-02-17T10:26:13.844Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Pre-Lecture-1</loc>
     <lastmod>2025-02-03T14:39:58.597Z</lastmod>
@@ -701,11 +716,14 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Pre-Lecture-3</loc>
     <lastmod>2025-02-09T18:51:43.488Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Pre-Lecture-4</loc>
+    <lastmod>2025-02-24T10:37:12.251Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures-Tutorial-1</loc>
     <lastmod>2025-02-03T21:45:22.671Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2001-Algebraic-Structures/MTH2001-Algebraic-Structures</loc>
-    <lastmod>2025-02-09T23:09:06.025Z</lastmod>
+    <lastmod>2025-02-24T11:36:01.722Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/Definition-of-Complex-Differentiation</loc>
     <lastmod>2025-02-07T11:08:34.033Z</lastmod>
@@ -716,11 +734,17 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/General-Solution-for-a-Complex-Root-Formula</loc>
     <lastmod>2025-01-31T22:16:38.084Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Cheat-Sheet</loc>
+    <lastmod>2025-02-11T13:45:36.499Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Flashcards</loc>
     <lastmod>2025-01-31T13:20:20.199Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-1</loc>
     <lastmod>2025-01-29T21:24:57.554Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-10</loc>
+    <lastmod>2025-02-24T11:31:16.744Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-2</loc>
     <lastmod>2025-01-31T13:04:31.745Z</lastmod>
@@ -731,11 +755,26 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-4</loc>
     <lastmod>2025-02-09T15:44:24.579Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-7</loc>
+    <lastmod>2025-02-24T11:30:11.411Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-8</loc>
+    <lastmod>2025-02-24T11:30:33.565Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Lecture-9</loc>
+    <lastmod>2025-02-24T11:30:48.888Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Practical-1</loc>
     <lastmod>2025-02-03T15:02:50.626Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Practical-2</loc>
     <lastmod>2025-02-07T12:42:57.250Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Practical-3</loc>
+    <lastmod>2025-02-11T13:41:29.924Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Practical-4</loc>
+    <lastmod>2025-02-17T10:26:38.052Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Pre-Lecture-1</loc>
     <lastmod>2025-02-04T15:15:39.209Z</lastmod>
@@ -749,32 +788,50 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Pre-Lecture-4</loc>
     <lastmod>2025-02-07T11:42:18.211Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Pre-Lecture-5</loc>
+    <lastmod>2025-02-11T13:22:38.905Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Pre-Lecture-6</loc>
+    <lastmod>2025-02-11T13:40:19.659Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Pre-Lecture-7</loc>
+    <lastmod>2025-02-17T09:22:54.019Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Pre-Lecture-8</loc>
+    <lastmod>2025-02-17T09:24:00.872Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis-Tutorial-1</loc>
     <lastmod>2025-02-04T10:48:12.686Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2003-Complex-Analysis/MTH2003-Complex-Analysis</loc>
-    <lastmod>2025-02-04T15:11:19.289Z</lastmod>
+    <lastmod>2025-02-24T11:27:23.959Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Group-Meeting-1</loc>
-    <lastmod>2025-02-04T12:29:05.995Z</lastmod>
+    <lastmod>2025-02-11T12:13:53.135Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Group-Meeting-2</loc>
+    <lastmod>2025-02-11T22:41:25.193Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Group-Meeting-3</loc>
+    <lastmod>2025-02-11T23:17:58.910Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Group-Meeting-4</loc>
+    <lastmod>2025-02-24T10:34:48.449Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Initial-Impressions</loc>
     <lastmod>2025-02-07T20:26:02.998Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Introductory-Notes</loc>
-    <lastmod>2025-02-04T12:23:56.054Z</lastmod>
+    <lastmod>2025-02-11T23:21:32.124Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/MTH2005-Group-Project</loc>
-    <lastmod>2025-02-04T12:28:40.331Z</lastmod>
+    <lastmod>2025-02-24T10:32:26.428Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Making-my-group-decision</loc>
     <lastmod>2025-01-31T13:30:08.257Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Potential-Outline</loc>
-    <lastmod>2025-02-03T13:31:22.734Z</lastmod>
-  </url><url>
-    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2005-Group-Project/Supervisor-Meeting-1</loc>
-    <lastmod>2025-02-04T12:44:36.293Z</lastmod>
+    <lastmod>2025-02-11T23:49:47.420Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2006-Industrial-and-Financial-Mathematics/Briefing</loc>
     <lastmod>2025-01-29T22:50:06.469Z</lastmod>
@@ -786,7 +843,7 @@
     <lastmod>2025-01-29T22:50:29.874Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2006-Industrial-and-Financial-Mathematics/MTH2006-Industrial-and-Financial-Mathematics</loc>
-    <lastmod>2025-02-04T11:04:54.666Z</lastmod>
+    <lastmod>2025-02-24T10:16:29.822Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2006-Industrial-and-Financial-Mathematics/QR-Codes-Reimagined</loc>
     <lastmod>2025-01-29T23:00:52.810Z</lastmod>
@@ -801,7 +858,13 @@
     <lastmod>2025-02-10T10:35:48.517Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Lecture-3</loc>
-    <lastmod>2025-02-10T11:13:59.745Z</lastmod>
+    <lastmod>2025-02-24T11:43:32.474Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Lecture-4</loc>
+    <lastmod>2025-02-24T11:45:30.189Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Lecture-5</loc>
+    <lastmod>2025-02-24T11:45:41.620Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Pre-Lecture-1</loc>
     <lastmod>2025-01-26T23:28:15.463Z</lastmod>
@@ -812,8 +875,14 @@
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Pre-Lecture-3</loc>
     <lastmod>2025-02-10T10:35:48.799Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Pre-Lecture-4</loc>
+    <lastmod>2025-02-24T11:43:32.483Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing-Pre-Lecture-5</loc>
+    <lastmod>2025-02-21T18:18:33.975Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Semester-Two/MTH2008-Scientific-Computing/MTH2008-Scientific-Computing</loc>
-    <lastmod>2025-02-10T10:35:48.687Z</lastmod>
+    <lastmod>2025-02-24T11:44:31.657Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Bachelor-of-Science-with-Honours-in-Mathematics/Year-2/Year-2</loc>
     <lastmod>2025-02-09T18:26:33.379Z</lastmod>
@@ -855,13 +924,16 @@
     <lastmod>2024-10-28T08:52:07.038Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Estimated-Grade</loc>
-    <lastmod>2025-02-10T17:51:58.721Z</lastmod>
+    <lastmod>2025-02-21T18:09:40.090Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/University-of-Lincoln</loc>
     <lastmod>2024-10-28T09:12:52.115Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Organised/University-of-Lincoln/Year-in-Industry/Year-in-Industry</loc>
     <lastmod>2025-01-20T22:48:48.338Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Private/Brother-Dev-Day-Material</loc>
+    <lastmod>2025-02-11T21:03:30.147Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Private/QR-Art-Stuff</loc>
     <lastmod>2024-11-25T08:44:42.108Z</lastmod>
@@ -896,8 +968,14 @@
     <loc>https://bilbois.me/Private/TCT/Legacy-Database-Differences-and-Recommendations</loc>
     <lastmod>2024-11-21T15:18:37.817Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Private/TCT/Meeting-Notes---New-System</loc>
+    <lastmod>2025-02-21T13:18:58.906Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Private/TCT/Online-Membership-Form</loc>
     <lastmod>2025-01-21T23:43:48.594Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Private/TCT/Preliminary-TCT-Notes</loc>
+    <lastmod>2025-02-11T10:46:16.843Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Private/TCT/TCT-Form-Breakdowns</loc>
     <lastmod>2025-01-21T23:44:11.427Z</lastmod>
@@ -906,7 +984,7 @@
     <lastmod>2024-11-17T14:14:44.375Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Private/TCT/TCT-Questline</loc>
-    <lastmod>2025-01-22T11:06:13.400Z</lastmod>
+    <lastmod>2025-02-24T21:32:57.076Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Private/TCT/Tenga-CD-Mermaid-Code</loc>
     <lastmod>2024-11-24T23:44:08.783Z</lastmod>
@@ -929,11 +1007,20 @@
     <loc>https://bilbois.me/Private/TCT/flamingo-message-class</loc>
     <lastmod>2025-01-21T23:35:09.350Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Private/TCT/latest-notes</loc>
+    <lastmod>2025-02-24T21:33:00.077Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Private/TCT/wp-config-file</loc>
     <lastmod>2025-01-21T22:55:58.532Z</lastmod>
   </url><url>
+    <loc>https://bilbois.me/Private/async</loc>
+    <lastmod>2025-02-11T21:01:08.069Z</lastmod>
+  </url><url>
     <loc>https://bilbois.me/Private/stuff-for-kt</loc>
     <lastmod>2025-02-03T23:07:56.553Z</lastmod>
+  </url><url>
+    <loc>https://bilbois.me/Private/types</loc>
+    <lastmod>2025-02-11T21:01:08.112Z</lastmod>
   </url><url>
     <loc>https://bilbois.me/Unorganised/Archive/Do-this-with-my-SC-logbook,-too</loc>
     <lastmod>2024-11-01T12:35:22.614Z</lastmod>

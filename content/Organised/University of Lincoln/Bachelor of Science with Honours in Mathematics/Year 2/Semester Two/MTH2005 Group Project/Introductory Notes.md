@@ -9,7 +9,7 @@ Conduct research -> report & presentation (sectioned per member)
 | ------------------------ | ----------------------------- |
 | Chair                    | Katie Arnold (**27620935**)   |
 | Secretary                | William Fayers (**27378661**) |
-| Report Coordinator       | Torin (**26424071**)          |
+| Report Coordinator       | Torin Anderson (**26424071**) |
 | Presentation Coordinator | Tom Ward (**26479576**)       |
 | Research Coordinator     | Daniel Morris (**26700885**)  |
 | IT Coordinator           | Alex Rushworth (**27554937**) |
